@@ -4,7 +4,10 @@
   "kanji": "話中",
   "kana": "はなしちゅう",
   "display": "話中",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "正在通話",
+    "線路正忙"
+  ],
   "meanings_en": [
     "while talking",
     "the line is busy"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

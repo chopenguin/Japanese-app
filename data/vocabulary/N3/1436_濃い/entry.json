@@ -4,7 +4,11 @@
   "kanji": "濃い",
   "kana": "こい",
   "display": "濃い",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "厚的",
+    "密集的",
+    "強的"
+  ],
   "meanings_en": [
     "thick (as of color",
     "liquid)",
@@ -27,7 +31,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,9 @@
   "kanji": "百科辞典",
   "kana": "ひゃっかじてん",
   "display": "百科辞典",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "百科全書"
+  ],
   "meanings_en": [
     "encyclopedia"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

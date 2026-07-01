@@ -4,7 +4,11 @@
   "kanji": "",
   "kana": "こだわる",
   "display": "こだわる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "大驚小怪",
+    "特別關心",
+    "擔心"
+  ],
   "meanings_en": [
     "to fuss over",
     "to be particular about",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

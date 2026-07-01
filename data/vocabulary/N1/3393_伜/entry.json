@@ -4,7 +4,10 @@
   "kanji": "伜",
   "kana": "せがれ",
   "display": "伜",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "兒子",
+    "我的兒子"
+  ],
   "meanings_en": [
     "son",
     "my son"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

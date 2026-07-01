@@ -4,7 +4,10 @@
   "kanji": "見積り",
   "kana": "みつもり",
   "display": "見積り",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "估計",
+    "報價"
+  ],
   "meanings_en": [
     "estimation",
     "quotation"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

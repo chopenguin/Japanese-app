@@ -4,7 +4,12 @@
   "kanji": "",
   "kana": "ぼろ",
   "display": "ぼろ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "抹布",
+    "廢料",
+    "破衣服",
+    "故障"
+  ],
   "meanings_en": [
     "rag",
     "scrap",
@@ -27,7 +32,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

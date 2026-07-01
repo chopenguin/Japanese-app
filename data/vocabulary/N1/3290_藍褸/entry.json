@@ -4,7 +4,14 @@
   "kanji": "藍褸",
   "kana": "ぼろ",
   "display": "藍褸",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "破布",
+    "碎片",
+    "破衣服",
+    "破綻",
+    "缺陷",
+    "破舊"
+  ],
   "meanings_en": [
     "rag",
     "scrap",
@@ -20,7 +27,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

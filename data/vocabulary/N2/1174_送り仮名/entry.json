@@ -4,7 +4,9 @@
   "kanji": "送り仮名",
   "kana": "おくりがな",
   "display": "送り仮名",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "用假名寫的單詞的一部分"
+  ],
   "meanings_en": [
     "part of word written in kana"
   ],
@@ -20,7 +22,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

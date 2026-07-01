@@ -4,7 +4,11 @@
   "kanji": "雅致",
   "kana": "がち",
   "display": "雅致",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "藝術性",
+    "好品味",
+    "優雅"
+  ],
   "meanings_en": [
     "artistry",
     "good taste",
@@ -18,7 +22,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

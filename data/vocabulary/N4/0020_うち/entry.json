@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "うち",
   "display": "うち",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "之中"
+  ],
   "meanings_en": [
     "within"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

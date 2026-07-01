@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "つまり",
   "display": "つまり",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "簡單地說[簡單地說]"
+  ],
   "meanings_en": [
     "in short",
     "in brief",
@@ -26,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

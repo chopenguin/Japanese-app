@@ -4,7 +4,11 @@
   "kanji": "校",
   "kana": "こう",
   "display": "校",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "校",
+    "校樣",
+    "證明"
+  ],
   "meanings_en": [
     "-school",
     "proof"
@@ -25,7 +29,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

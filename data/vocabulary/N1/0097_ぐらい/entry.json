@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "ぐらい",
   "display": "ぐらい",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "大約"
+  ],
   "meanings_en": [
     "approximately"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

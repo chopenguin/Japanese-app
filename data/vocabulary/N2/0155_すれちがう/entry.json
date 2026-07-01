@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "すれちがう",
   "display": "すれちがう",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "彼此擦肩而過",
+    "意見分歧"
+  ],
   "meanings_en": [
     "to pass by one another",
     "to disagree"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

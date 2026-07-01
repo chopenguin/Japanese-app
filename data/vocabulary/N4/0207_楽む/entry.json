@@ -4,7 +4,9 @@
   "kanji": "楽む",
   "kana": "たのしむ",
   "display": "楽む",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "享受自己"
+  ],
   "meanings_en": [
     "to enjoy oneself"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

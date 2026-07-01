@@ -4,7 +4,10 @@
   "kanji": "引越し",
   "kana": "ひっこし",
   "display": "引越し",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "移動",
+    "變更住所"
+  ],
   "meanings_en": [
     "moving (dwelling etc.)",
     "changing residence"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

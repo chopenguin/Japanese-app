@@ -4,7 +4,13 @@
   "kanji": "顔付き",
   "kana": "かおつき",
   "display": "顔付き",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "外表",
+    "特徵",
+    "面部",
+    "面容",
+    "表情"
+  ],
   "meanings_en": [
     "(outward) looks",
     "features",
@@ -24,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,11 @@
   "kanji": "救い",
   "kana": "すくい",
   "display": "救い",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "救助",
+    "救濟",
+    "幫助"
+  ],
   "meanings_en": [
     "help",
     "aid",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

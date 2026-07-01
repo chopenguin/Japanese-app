@@ -4,7 +4,12 @@
   "kanji": "",
   "kana": "ばったり",
   "display": "ばったり",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "碰撞",
+    "砰的一聲",
+    "豐滿",
+    "翻倒"
+  ],
   "meanings_en": [
     "with a clash (thud)",
     "with a bang",
@@ -27,7 +32,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,12 @@
   "kanji": "膨脹",
   "kana": "ぼうちょう",
   "display": "膨脹",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "膨脹",
+    "腫脹",
+    "增加",
+    "成長"
+  ],
   "meanings_en": [
     "expansion",
     "swelling",
@@ -18,7 +23,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

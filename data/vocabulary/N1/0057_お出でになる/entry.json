@@ -4,7 +4,9 @@
   "kanji": "お出でになる",
   "kana": "おいでになる",
   "display": "お出でになる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "成為"
+  ],
   "meanings_en": [
     "to be"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,9 @@
   "kanji": "引分け",
   "kana": "ひきわけ",
   "display": "引分け",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "平局"
+  ],
   "meanings_en": [
     "a draw (in competition)",
     "tie game"
@@ -16,7 +18,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

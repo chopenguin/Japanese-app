@@ -4,7 +4,10 @@
   "kanji": "捻子",
   "kana": "ねじ",
   "display": "捻子",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "螺絲",
+    "螺旋"
+  ],
   "meanings_en": [
     "screw",
     "helix",
@@ -17,7 +20,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

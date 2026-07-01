@@ -4,7 +4,10 @@
   "kanji": "御覧なさい",
   "kana": "ごらんなさい",
   "display": "御覧なさい",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "看",
+    "嘗試"
+  ],
   "meanings_en": [
     "(please) look",
     "(please) try to do"
@@ -21,7 +24,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

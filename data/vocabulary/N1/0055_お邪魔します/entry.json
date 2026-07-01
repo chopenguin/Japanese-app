@@ -4,7 +4,9 @@
   "kanji": "お邪魔します",
   "kana": "おじゃまします",
   "display": "お邪魔します",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "不好意思打擾了"
+  ],
   "meanings_en": [
     "Excuse me for disturbing (interrupting) you"
   ],
@@ -20,7 +22,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

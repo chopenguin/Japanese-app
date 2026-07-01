@@ -4,7 +4,10 @@
   "kanji": "依って",
   "kana": "よって",
   "display": "依って",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "因此",
+    "因為"
+  ],
   "meanings_en": [
     "therefore",
     "consequently",
@@ -18,7 +21,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,9 @@
   "kanji": "年生",
   "kana": "ねんせい",
   "display": "年生",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "某年級學生"
+  ],
   "meanings_en": [
     "pupil in .... year",
     "student in .... year"
@@ -25,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "じっくり",
   "display": "じっくり",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "故意",
+    "小心翼翼地"
+  ],
   "meanings_en": [
     "deliberately",
     "carefully"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

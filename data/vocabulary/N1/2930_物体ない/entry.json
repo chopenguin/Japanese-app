@@ -4,7 +4,13 @@
   "kanji": "物体ない",
   "kana": "もったいない",
   "display": "物体ない",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "太好",
+    "不止一個人應得的",
+    "浪費的",
+    "褻瀆的",
+    "不值得的"
+  ],
   "meanings_en": [
     "too good",
     "more than one deserves",
@@ -19,7 +25,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

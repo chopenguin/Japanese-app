@@ -4,7 +4,9 @@
   "kanji": "お菓子",
   "kana": "おかし",
   "display": "お菓子",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "糖果"
+  ],
   "meanings_en": [
     "sweets",
     "candy"
@@ -25,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

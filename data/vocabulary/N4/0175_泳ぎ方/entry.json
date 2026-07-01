@@ -4,7 +4,9 @@
   "kanji": "泳ぎ方",
   "kana": "およぎかた",
   "display": "泳ぎ方",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "遊泳方式"
+  ],
   "meanings_en": [
     "way of swimming"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

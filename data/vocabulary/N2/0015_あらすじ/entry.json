@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "あらすじ",
   "display": "あらすじ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "大綱",
+    "摘要"
+  ],
   "meanings_en": [
     "outline",
     "summary"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

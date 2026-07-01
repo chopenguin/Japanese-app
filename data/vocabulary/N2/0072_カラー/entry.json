@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "カラー",
   "display": "カラー",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "衣領",
+    "顏色"
+  ],
   "meanings_en": [
     "collar",
     "color",
@@ -26,7 +29,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

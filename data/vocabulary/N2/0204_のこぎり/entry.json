@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "のこぎり",
   "display": "のこぎり",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "鋸子"
+  ],
   "meanings_en": [
     "saw"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

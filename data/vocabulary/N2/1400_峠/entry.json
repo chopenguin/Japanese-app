@@ -4,7 +4,11 @@
   "kanji": "峠",
   "kana": "とうげ",
   "display": "峠",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "脊",
+    "通過",
+    "困難部分"
+  ],
   "meanings_en": [
     "ridge",
     "(mountain) pass",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

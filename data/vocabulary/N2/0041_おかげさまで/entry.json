@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "おかげさまで",
   "display": "おかげさまで",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "感謝上帝",
+    "感謝你"
+  ],
   "meanings_en": [
     "Thanks to god",
     "thanks to you"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,13 @@
   "kanji": "",
   "kana": "やや",
   "display": "やや",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "一點",
+    "部分地",
+    "有點",
+    "短暫地",
+    "一段時間"
+  ],
   "meanings_en": [
     "a little",
     "partially",
@@ -28,7 +34,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

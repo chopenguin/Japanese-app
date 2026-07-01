@@ -4,7 +4,9 @@
   "kanji": "画期",
   "kana": "かっき",
   "display": "画期",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "劃時代的"
+  ],
   "meanings_en": [
     "epoch-making"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,10 @@
   "kanji": "次々",
   "kana": "つぎつぎ",
   "display": "次々",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "依次",
+    "逐一"
+  ],
   "meanings_en": [
     "in succession",
     "one by one"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

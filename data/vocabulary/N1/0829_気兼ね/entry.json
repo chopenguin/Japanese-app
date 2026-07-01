@@ -4,7 +4,13 @@
   "kanji": "気兼ね",
   "kana": "きがね",
   "display": "気兼ね",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "猶豫",
+    "缺乏自信",
+    "感到受限",
+    "害怕打擾某人",
+    "對做某事有顧忌"
+  ],
   "meanings_en": [
     "hesitance",
     "diffidence",
@@ -28,7 +34,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,9 @@
   "kanji": "賭け",
   "kana": "かけ",
   "display": "賭け",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "賭博"
+  ],
   "meanings_en": [
     "betting",
     "gambling",
@@ -26,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

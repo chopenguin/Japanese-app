@@ -4,7 +4,11 @@
   "kanji": "厭々",
   "kana": "いやいや",
   "display": "厭々",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "不情願地",
+    "勉強地",
+    "搖頭拒絕"
+  ],
   "meanings_en": [
     "unwillingly",
     "grudgingly",
@@ -17,7 +21,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

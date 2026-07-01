@@ -4,7 +4,12 @@
   "kanji": "押える",
   "kana": "おさえる",
   "display": "押える",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "停下來",
+    "剋制",
+    "抓住",
+    "壓制"
+  ],
   "meanings_en": [
     "to stop",
     "to restrain",
@@ -20,7 +25,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

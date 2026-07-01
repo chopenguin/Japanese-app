@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "いくつ",
   "display": "いくつ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "多少？",
+    "多大了？"
+  ],
   "meanings_en": [
     "how many?",
     "how old?"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

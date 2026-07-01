@@ -4,7 +4,9 @@
   "kanji": "傑",
   "kana": "けつ",
   "display": "傑",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "卓越"
+  ],
   "meanings_en": [
     "excellence"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,11 @@
   "kanji": "対して",
   "kana": "たいして",
   "display": "対して",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "對於",
+    "關於",
+    "每"
+  ],
   "meanings_en": [
     "for",
     "in regard to",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

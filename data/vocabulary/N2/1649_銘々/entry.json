@@ -4,7 +4,10 @@
   "kanji": "銘々",
   "kana": "めいめい",
   "display": "銘々",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "每個",
+    "個別"
+  ],
   "meanings_en": [
     "each",
     "individual"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

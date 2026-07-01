@@ -4,7 +4,11 @@
   "kanji": "遡る",
   "kana": "さかのぼる",
   "display": "遡る",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "往回走",
+    "往上遊走",
+    "追溯"
+  ],
   "meanings_en": [
     "to go back",
     "to go upstream",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,11 @@
   "kanji": "遣り通す",
   "kana": "やりとおす",
   "display": "遣り通す",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "貫徹",
+    "實現",
+    "完成"
+  ],
   "meanings_en": [
     "to carry through",
     "to achieve",
@@ -17,7 +21,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

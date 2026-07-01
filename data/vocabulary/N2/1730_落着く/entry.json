@@ -4,7 +4,10 @@
   "kanji": "落着く",
   "kana": "おちつく",
   "display": "落着く",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "冷靜下來",
+    "安頓下來"
+  ],
   "meanings_en": [
     "to calm down",
     "to settle down"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

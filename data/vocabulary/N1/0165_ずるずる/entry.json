@@ -4,7 +4,12 @@
   "kanji": "",
   "kana": "ずるずる",
   "display": "ずるずる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "拖曳的聲音或行為",
+    "鬆散",
+    "不確定但不必要的情況",
+    "拖延"
+  ],
   "meanings_en": [
     "sound or act of dragging",
     "loose",
@@ -27,7 +32,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

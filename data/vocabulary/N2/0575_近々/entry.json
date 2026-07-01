@@ -4,7 +4,9 @@
   "kanji": "近々",
   "kana": "ちかぢか",
   "display": "近々",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "近距離[近距離]"
+  ],
   "meanings_en": [
     "nearness",
     "before long"
@@ -25,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

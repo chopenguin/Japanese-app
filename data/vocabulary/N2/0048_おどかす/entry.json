@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "おどかす",
   "display": "おどかす",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "威脅",
+    "強迫"
+  ],
   "meanings_en": [
     "to threaten",
     "to coerce"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

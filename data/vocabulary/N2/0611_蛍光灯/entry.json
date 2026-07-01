@@ -4,7 +4,10 @@
   "kanji": "蛍光灯",
   "kana": "けいこうとう",
   "display": "蛍光灯",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "螢光燈",
+    "反應緩慢的人"
+  ],
   "meanings_en": [
     "fluorescent lamp",
     "person who is slow to react"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

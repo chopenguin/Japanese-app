@@ -4,7 +4,9 @@
   "kanji": "取り替え",
   "kana": "とりかえ",
   "display": "取り替え",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "交換"
+  ],
   "meanings_en": [
     "swap",
     "exchange"
@@ -25,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

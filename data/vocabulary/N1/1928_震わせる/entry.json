@@ -4,7 +4,9 @@
   "kanji": "震わせる",
   "kana": "ふるわせる",
   "display": "震わせる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "顫抖"
+  ],
   "meanings_en": [
     "to be shaking",
     "to be trembling"
@@ -16,7 +18,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "あかんぼう",
   "display": "あかんぼう",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "嬰兒"
+  ],
   "meanings_en": [
     "baby"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

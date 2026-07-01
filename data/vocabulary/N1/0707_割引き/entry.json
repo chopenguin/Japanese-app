@@ -4,7 +4,11 @@
   "kanji": "割引き",
   "kana": "わりびき",
   "display": "割引き",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "折扣",
+    "返利",
+    "十分之一折扣"
+  ],
   "meanings_en": [
     "discount",
     "reduction",
@@ -27,7 +31,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

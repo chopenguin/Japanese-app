@@ -4,7 +4,10 @@
   "kanji": "魅力",
   "kana": "みりょく",
   "display": "魅力",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "魅力",
+    "迷人"
+  ],
   "meanings_en": [
     "charm",
     "fascination",
@@ -26,7 +29,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

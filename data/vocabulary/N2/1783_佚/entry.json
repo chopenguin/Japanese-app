@@ -4,7 +4,14 @@
   "kanji": "佚",
   "kana": "いつ",
   "display": "佚",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "佚失",
+    "安逸",
+    "隱藏",
+    "錯誤",
+    "美好",
+    "輪流"
+  ],
   "meanings_en": [
     "be lost",
     "peace",
@@ -20,7 +27,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

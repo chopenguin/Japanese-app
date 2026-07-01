@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "コート",
   "display": "コート",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "外套",
+    "網球場"
+  ],
   "meanings_en": [
     "coat",
     "tennis court"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

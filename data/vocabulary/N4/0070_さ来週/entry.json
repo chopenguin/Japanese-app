@@ -4,7 +4,9 @@
   "kanji": "さ来週",
   "kana": "さらいしゅう",
   "display": "さ来週",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "下一週後的一週"
+  ],
   "meanings_en": [
     "the week after next"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "かわいらしい",
   "display": "かわいらしい",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "可愛",
+    "甜蜜"
+  ],
   "meanings_en": [
     "lovely",
     "sweet"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

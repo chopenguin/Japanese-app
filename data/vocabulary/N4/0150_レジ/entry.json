@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "レジ",
   "display": "レジ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "登錄"
+  ],
   "meanings_en": [
     "register"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,10 @@
   "kanji": "粉々",
   "kana": "こなごな",
   "display": "粉々",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "粉碎",
+    "碎成小片"
+  ],
   "meanings_en": [
     "in very small pieces"
   ],
@@ -24,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

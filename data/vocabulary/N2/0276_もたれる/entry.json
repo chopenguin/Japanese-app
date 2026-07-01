@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "もたれる",
   "display": "もたれる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "靠在身上",
+    "沉重地躺著"
+  ],
   "meanings_en": [
     "to lean against",
     "to lean on",
@@ -27,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,10 @@
   "kanji": "擽ぐったい",
   "kana": "くすぐったい",
   "display": "擽ぐったい",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "怕癢",
+    "令人發癢"
+  ],
   "meanings_en": [
     "ticklish"
   ],
@@ -15,7 +18,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

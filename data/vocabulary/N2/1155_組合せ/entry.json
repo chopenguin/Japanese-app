@@ -4,7 +4,9 @@
   "kanji": "組合せ",
   "kana": "くみあわせ",
   "display": "組合せ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "組合"
+  ],
   "meanings_en": [
     "combination"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

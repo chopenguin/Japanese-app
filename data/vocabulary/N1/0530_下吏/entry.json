@@ -4,7 +4,9 @@
   "kanji": "下吏",
   "kana": "かり",
   "display": "下吏",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "下級官員"
+  ],
   "meanings_en": [
     "lower official"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

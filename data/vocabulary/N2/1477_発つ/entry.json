@@ -4,7 +4,9 @@
   "kanji": "発つ",
   "kana": "たつ",
   "display": "発つ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "出發"
+  ],
   "meanings_en": [
     "to depart (on a plane",
     "train",
@@ -26,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

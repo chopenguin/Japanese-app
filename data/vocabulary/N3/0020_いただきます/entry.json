@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "いただきます",
   "display": "いただきます",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "在用餐前表達感激之情"
+  ],
   "meanings_en": [
     "expression of gratitude before meals"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,15 @@
   "kanji": "果ない",
   "kana": "はかない",
   "display": "果ない",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "轉瞬即逝",
+    "短暫的",
+    "瞬間的",
+    "虛榮的",
+    "變幻無常的",
+    "悲慘的",
+    "空的"
+  ],
   "meanings_en": [
     "fleeting",
     "transient",
@@ -23,7 +31,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

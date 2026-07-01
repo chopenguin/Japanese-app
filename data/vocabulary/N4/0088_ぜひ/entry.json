@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "ぜひ",
   "display": "ぜひ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "務必/一定/總是"
+  ],
   "meanings_en": [
     "without fail"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

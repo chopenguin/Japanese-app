@@ -4,7 +4,9 @@
   "kanji": "堅/硬/固い",
   "kana": "かたい",
   "display": "堅/硬/固い",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "硬"
+  ],
   "meanings_en": [
     "hard"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

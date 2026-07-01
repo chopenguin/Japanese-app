@@ -4,7 +4,9 @@
   "kanji": "広々",
   "kana": "ひろびろ",
   "display": "広々",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "寬敞[寬敞]"
+  ],
   "meanings_en": [
     "extensive",
     "spacious"
@@ -25,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

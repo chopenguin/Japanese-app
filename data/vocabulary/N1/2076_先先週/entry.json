@@ -4,7 +4,9 @@
   "kanji": "先先週",
   "kana": "せんせんしゅう",
   "display": "先先週",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "前周"
+  ],
   "meanings_en": [
     "week before last"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

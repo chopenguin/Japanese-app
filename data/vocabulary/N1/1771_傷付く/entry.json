@@ -4,7 +4,9 @@
   "kanji": "傷付く",
   "kana": "きずつく",
   "display": "傷付く",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "受傷"
+  ],
   "meanings_en": [
     "to be hurt",
     "to be wounded",
@@ -17,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

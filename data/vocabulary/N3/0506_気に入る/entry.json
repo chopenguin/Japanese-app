@@ -4,7 +4,10 @@
   "kanji": "気に入る",
   "kana": "きにいる",
   "display": "気に入る",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "取悅",
+    "適合"
+  ],
   "meanings_en": [
     "to be pleased with",
     "to suit"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

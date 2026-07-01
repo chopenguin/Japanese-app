@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "アイデア/アイディア",
   "display": "アイデア/アイディア",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "思考中"
+  ],
   "meanings_en": [
     "idea"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

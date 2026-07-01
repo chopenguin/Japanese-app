@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "あてはまる",
   "display": "あてはまる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "適用[適用]"
+  ],
   "meanings_en": [
     "to be applicable",
     "to come under (a category)",
@@ -17,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

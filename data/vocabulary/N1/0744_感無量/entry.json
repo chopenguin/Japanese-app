@@ -4,7 +4,11 @@
   "kanji": "感無量",
   "kana": "かんむりょう",
   "display": "感無量",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "深刻的感覺",
+    "無法表達的感覺",
+    "充滿情感"
+  ],
   "meanings_en": [
     "deep feeling",
     "inexpressible feeling",
@@ -17,7 +21,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

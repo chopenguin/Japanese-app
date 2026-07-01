@@ -4,7 +4,9 @@
   "kanji": "高校生",
   "kana": "こうこうせい",
   "display": "高校生",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "高中生"
+  ],
   "meanings_en": [
     "high school student"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

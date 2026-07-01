@@ -4,7 +4,10 @@
   "kanji": "籤引",
   "kana": "くじびき",
   "display": "籤引",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "抽籤",
+    "籤"
+  ],
   "meanings_en": [
     "lottery",
     "drawn lot"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

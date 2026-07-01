@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "ラジカセ / ラジオカセット",
   "display": "ラジカセ / ラジオカセット",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "收音機卡式錄音機"
+  ],
   "meanings_en": [
     "radio cassette player"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

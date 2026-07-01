@@ -4,7 +4,9 @@
   "kanji": "売行き",
   "kana": "うれゆき",
   "display": "売行き",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "銷售"
+  ],
   "meanings_en": [
     "sales"
   ],
@@ -20,7 +22,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

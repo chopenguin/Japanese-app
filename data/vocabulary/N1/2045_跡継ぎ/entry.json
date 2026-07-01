@@ -4,7 +4,9 @@
   "kanji": "跡継ぎ",
   "kana": "あとつぎ",
   "display": "跡継ぎ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "繼承人"
+  ],
   "meanings_en": [
     "heir",
     "successor"
@@ -16,7 +18,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

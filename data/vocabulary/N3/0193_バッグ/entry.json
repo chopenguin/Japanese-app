@@ -4,7 +4,12 @@
   "kanji": "",
   "kana": "バッグ",
   "display": "バッグ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "包包",
+    "袋子",
+    "蟲子",
+    "錯誤"
+  ],
   "meanings_en": [
     "bag",
     "bug"
@@ -25,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

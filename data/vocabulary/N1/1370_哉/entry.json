@@ -4,7 +4,10 @@
   "kanji": "哉",
   "kana": "や",
   "display": "哉",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "疑問助詞",
+    "疑問符"
+  ],
   "meanings_en": [
     "question mark"
   ],
@@ -15,7 +18,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

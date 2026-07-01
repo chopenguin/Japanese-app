@@ -4,7 +4,9 @@
   "kanji": "何で",
   "kana": "なんで",
   "display": "何で",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "為甚麼？為甚麼？"
+  ],
   "meanings_en": [
     "Why?",
     "What for?"
@@ -25,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

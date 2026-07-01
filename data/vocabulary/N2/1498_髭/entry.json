@@ -4,7 +4,11 @@
   "kanji": "髭",
   "kana": "ひげ",
   "display": "髭",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "鬍子",
+    "鬍子",
+    "鬍鬚"
+  ],
   "meanings_en": [
     "moustache",
     "beard",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

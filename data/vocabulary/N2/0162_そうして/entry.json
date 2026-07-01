@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "そうして",
   "display": "そうして",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "然後",
+    "那樣"
+  ],
   "meanings_en": [
     "and",
     "like that"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

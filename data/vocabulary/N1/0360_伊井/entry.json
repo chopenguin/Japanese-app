@@ -4,7 +4,10 @@
   "kanji": "伊井",
   "kana": "いい",
   "display": "伊井",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "那個",
+    "義大利"
+  ],
   "meanings_en": [
     "that one",
     "Italy"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

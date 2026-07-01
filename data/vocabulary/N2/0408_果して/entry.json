@@ -4,7 +4,10 @@
   "kanji": "果して",
   "kana": "はたして",
   "display": "果して",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "正如所料",
+    "真的"
+  ],
   "meanings_en": [
     "as was expected",
     "really"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

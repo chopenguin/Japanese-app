@@ -4,7 +4,11 @@
   "kanji": "飽きる",
   "kana": "あきる",
   "display": "飽きる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "厭倦",
+    "失去興趣",
+    "有足夠的"
+  ],
   "meanings_en": [
     "to get tired of",
     "to lose interest in",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

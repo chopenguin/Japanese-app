@@ -4,7 +4,11 @@
   "kanji": "建前",
   "kana": "たてまえ",
   "display": "建前",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "面子",
+    "官方立場",
+    "公開立場或態度"
+  ],
   "meanings_en": [
     "face",
     "official stance",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

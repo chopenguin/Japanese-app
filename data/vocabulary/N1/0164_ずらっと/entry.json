@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "ずらっと",
   "display": "ずらっと",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "在一行中"
+  ],
   "meanings_en": [
     "in a line",
     "in a row"
@@ -16,7 +18,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,13 @@
   "kanji": "型",
   "kana": "かた",
   "display": "型",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "模具",
+    "模型",
+    "樣式",
+    "形狀",
+    "資料類型"
+  ],
   "meanings_en": [
     "mold",
     "model",
@@ -28,7 +34,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

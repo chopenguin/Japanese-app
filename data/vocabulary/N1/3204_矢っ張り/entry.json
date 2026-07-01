@@ -4,7 +4,13 @@
   "kanji": "矢っ張り",
   "kana": "やっぱり",
   "display": "矢っ張り",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "也",
+    "果然",
+    "仍然",
+    "儘管如此",
+    "絕對"
+  ],
   "meanings_en": [
     "also",
     "as I thought",
@@ -19,7 +25,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

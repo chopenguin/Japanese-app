@@ -4,7 +4,10 @@
   "kanji": "片寄る",
   "kana": "かたよる",
   "display": "片寄る",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "片面",
+    "偏袒"
+  ],
   "meanings_en": [
     "to be one-sided",
     "to incline",
@@ -17,7 +20,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

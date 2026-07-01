@@ -4,7 +4,10 @@
   "kanji": "逸らす",
   "kana": "そらす",
   "display": "逸らす",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "轉身離開",
+    "避開"
+  ],
   "meanings_en": [
     "to turn away",
     "to avert"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

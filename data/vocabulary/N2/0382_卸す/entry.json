@@ -4,7 +4,10 @@
   "kanji": "卸す",
   "kana": "おろす",
   "display": "卸す",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "批發銷售",
+    "磨碎"
+  ],
   "meanings_en": [
     "to sell wholesale",
     "grated (vegetables)"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

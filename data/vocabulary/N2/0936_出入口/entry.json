@@ -4,7 +4,9 @@
   "kanji": "出入口",
   "kana": "でいりぐち",
   "display": "出入口",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "出口和入口"
+  ],
   "meanings_en": [
     "exit and entrance"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

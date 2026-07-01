@@ -4,7 +4,11 @@
   "kanji": "倣",
   "kana": "ほう",
   "display": "倣",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "模仿",
+    "仿效",
+    "效法"
+  ],
   "meanings_en": [
     "imitate",
     "follow",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

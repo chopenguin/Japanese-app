@@ -4,7 +4,9 @@
   "kanji": "箇箇",
   "kana": "ここ",
   "display": "箇箇",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "分開[分開]"
+  ],
   "meanings_en": [
     "individual",
     "separate"
@@ -16,7 +18,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

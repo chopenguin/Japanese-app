@@ -4,7 +4,9 @@
   "kanji": "外方",
   "kana": "そっぽ",
   "display": "外方",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "往另一邊看"
+  ],
   "meanings_en": [
     "look (or turn) the other way"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

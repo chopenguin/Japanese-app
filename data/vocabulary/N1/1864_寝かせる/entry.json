@@ -4,7 +4,11 @@
   "kanji": "寝かせる",
   "kana": "ねかせる",
   "display": "寝かせる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "上床睡覺",
+    "躺下",
+    "發酵"
+  ],
   "meanings_en": [
     "to put to bed",
     "to lay down",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

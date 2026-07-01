@@ -4,7 +4,11 @@
   "kanji": "明き",
   "kana": "あき",
   "display": "明き",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "房間",
+    "空閒時間",
+    "空虛"
+  ],
   "meanings_en": [
     "room",
     "time to spare",
@@ -17,7 +21,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

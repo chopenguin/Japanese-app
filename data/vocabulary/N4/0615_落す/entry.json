@@ -4,7 +4,9 @@
   "kanji": "落す",
   "kana": "おとす",
   "display": "落す",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "放下"
+  ],
   "meanings_en": [
     "to drop"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

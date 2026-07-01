@@ -4,7 +4,11 @@
   "kanji": "乃至",
   "kana": "ないし",
   "display": "乃至",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "從……到……",
+    "在……與……之間",
+    "或"
+  ],
   "meanings_en": [
     "from...to",
     "between...and",
@@ -17,7 +21,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

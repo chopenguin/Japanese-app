@@ -4,7 +4,10 @@
   "kanji": "向う",
   "kana": "むかう",
   "display": "向う",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "面對",
+    "走向"
+  ],
   "meanings_en": [
     "(v5u) to face",
     "to go towards"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

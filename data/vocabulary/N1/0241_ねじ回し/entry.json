@@ -4,7 +4,10 @@
   "kanji": "ねじ回し",
   "kana": "ねじまわし",
   "display": "ねじ回し",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "螺絲批 普:螺絲刀",
+    "改錐"
+  ],
   "meanings_en": [
     "screwdriver"
   ],
@@ -15,7 +18,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

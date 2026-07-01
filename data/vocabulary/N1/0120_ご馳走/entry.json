@@ -4,7 +4,10 @@
   "kanji": "ご馳走",
   "kana": "ごちそう",
   "display": "ご馳走",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "盛宴",
+    "款待"
+  ],
   "meanings_en": [
     "feast",
     "treating (someone)"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

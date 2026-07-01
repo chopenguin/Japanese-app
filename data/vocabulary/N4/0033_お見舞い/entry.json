@@ -4,7 +4,10 @@
   "kanji": "お見舞い",
   "kana": "おみまい",
   "display": "お見舞い",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "打電話給生病的人",
+    "詢問"
+  ],
   "meanings_en": [
     "calling on someone who is ill",
     "enquiry"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

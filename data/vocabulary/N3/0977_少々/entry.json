@@ -4,7 +4,10 @@
   "kanji": "少々",
   "kana": "しょうしょう",
   "display": "少々",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "只需一分鐘",
+    "少量"
+  ],
   "meanings_en": [
     "just a minute",
     "small quantity"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,9 @@
   "kanji": "新入生",
   "kana": "しんにゅうせい",
   "display": "新入生",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "一年級學生"
+  ],
   "meanings_en": [
     "freshman",
     "first-year student"
@@ -25,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "ごめんください",
   "display": "ごめんください",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "我可以進來嗎？"
+  ],
   "meanings_en": [
     "May I come in?"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

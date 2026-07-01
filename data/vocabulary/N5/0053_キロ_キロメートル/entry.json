@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "キロ/キロメートル",
   "display": "キロ/キロメートル",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "公里"
+  ],
   "meanings_en": [
     "kilometre"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

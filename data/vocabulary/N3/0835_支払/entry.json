@@ -4,7 +4,9 @@
   "kanji": "支払",
   "kana": "しはらい",
   "display": "支払",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "視情形使用「付款」或「款項」"
+  ],
   "meanings_en": [
     "payment"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

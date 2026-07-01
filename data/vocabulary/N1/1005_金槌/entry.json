@@ -4,7 +4,10 @@
   "kanji": "金槌",
   "kana": "かなづち",
   "display": "金槌",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "1.錘子",
+    "2.懲罰"
+  ],
   "meanings_en": [
     "1.  (iron) hammer",
     "2.  punishment"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

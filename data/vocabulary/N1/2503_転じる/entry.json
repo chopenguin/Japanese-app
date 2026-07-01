@@ -4,7 +4,12 @@
   "kanji": "転じる",
   "kana": "てんじる",
   "display": "転じる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "轉向",
+    "轉移",
+    "改變",
+    "分散注意力"
+  ],
   "meanings_en": [
     "to turn",
     "to shift",
@@ -23,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

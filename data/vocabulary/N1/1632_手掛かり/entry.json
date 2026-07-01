@@ -4,7 +4,15 @@
   "kanji": "手掛かり",
   "kana": "てがかり",
   "display": "手掛かり",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "接觸",
+    "痕跡",
+    "氣味",
+    "手頭",
+    "手握",
+    "線索",
+    "鑰匙"
+  ],
   "meanings_en": [
     "contact",
     "trail",
@@ -30,7 +38,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

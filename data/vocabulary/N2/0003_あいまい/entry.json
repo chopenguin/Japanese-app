@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "あいまい",
   "display": "あいまい",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "模糊[模糊]"
+  ],
   "meanings_en": [
     "vague",
     "ambiguous"
@@ -25,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

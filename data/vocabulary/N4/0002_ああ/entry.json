@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "ああ",
   "display": "ああ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "比如說那個"
+  ],
   "meanings_en": [
     "like that"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

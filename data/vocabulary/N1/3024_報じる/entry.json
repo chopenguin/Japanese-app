@@ -4,7 +4,10 @@
   "kanji": "報じる",
   "kana": "ほうじる",
   "display": "報じる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "通知",
+    "報告"
+  ],
   "meanings_en": [
     "to inform",
     "to report"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

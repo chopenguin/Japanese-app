@@ -4,7 +4,10 @@
   "kanji": "受身",
   "kana": "うけみ",
   "display": "受身",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "被動",
+    "被動語態"
+  ],
   "meanings_en": [
     "passive",
     "passive voice"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

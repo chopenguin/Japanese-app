@@ -4,7 +4,9 @@
   "kanji": "湯飲み",
   "kana": "ゆのみ",
   "display": "湯飲み",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "茶杯"
+  ],
   "meanings_en": [
     "teacup"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

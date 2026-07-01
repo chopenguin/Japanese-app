@@ -4,7 +4,11 @@
   "kanji": "素っ気ない",
   "kana": "そっけない",
   "display": "素っ気ない",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "冷",
+    "短",
+    "鈍"
+  ],
   "meanings_en": [
     "cold",
     "short",
@@ -23,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

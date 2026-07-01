@@ -4,7 +4,9 @@
   "kanji": "騒々しい",
   "kana": "そうぞうしい",
   "display": "騒々しい",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "吵鬧的"
+  ],
   "meanings_en": [
     "noisy",
     "boisterous"
@@ -25,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

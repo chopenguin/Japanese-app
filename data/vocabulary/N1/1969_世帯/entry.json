@@ -4,7 +4,9 @@
   "kanji": "世帯",
   "kana": "せたい",
   "display": "世帯",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "家居客戶"
+  ],
   "meanings_en": [
     "household"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

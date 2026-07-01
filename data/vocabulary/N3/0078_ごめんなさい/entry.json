@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "ごめんなさい",
   "display": "ごめんなさい",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "對不起"
+  ],
   "meanings_en": [
     "I beg your pardon",
     "excuse me"
@@ -25,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

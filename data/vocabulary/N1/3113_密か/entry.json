@@ -4,7 +4,11 @@
   "kanji": "密か",
   "kana": "ひそか",
   "display": "密か",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "秘密",
+    "私下",
+    "暗中"
+  ],
   "meanings_en": [
     "secret",
     "private",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

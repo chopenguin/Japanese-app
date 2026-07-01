@@ -4,7 +4,13 @@
   "kanji": "締切",
   "kana": "しめきり",
   "display": "締切",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "關閉",
+    "截止",
+    "結束",
+    "截止日期",
+    "無入口"
+  ],
   "meanings_en": [
     "closing",
     "cut-off",
@@ -29,7 +35,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

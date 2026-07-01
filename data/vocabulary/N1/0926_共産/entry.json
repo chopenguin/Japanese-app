@@ -4,7 +4,9 @@
   "kanji": "共産",
   "kana": "きょうさん",
   "display": "共産",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "共產主義"
+  ],
   "meanings_en": [
     "communism"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

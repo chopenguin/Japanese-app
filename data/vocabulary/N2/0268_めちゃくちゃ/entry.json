@@ -4,7 +4,14 @@
   "kanji": "",
   "kana": "めちゃくちゃ",
   "display": "めちゃくちゃ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "荒謬的",
+    "不合理的",
+    "過度的",
+    "混亂的",
+    "被寵壞的",
+    "破壞的"
+  ],
   "meanings_en": [
     "absurd",
     "unreasonable",
@@ -29,7 +36,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

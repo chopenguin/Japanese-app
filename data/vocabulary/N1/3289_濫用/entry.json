@@ -4,7 +4,12 @@
   "kanji": "濫用",
   "kana": "らんよう",
   "display": "濫用",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "濫用",
+    "誤用",
+    "挪用",
+    "過度使用"
+  ],
   "meanings_en": [
     "abuse",
     "misuse",
@@ -23,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

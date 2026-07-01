@@ -4,7 +4,12 @@
   "kanji": "",
   "kana": "いつも",
   "display": "いつも",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "總是",
+    "通常",
+    "每次",
+    "從不"
+  ],
   "meanings_en": [
     "always",
     "usually",
@@ -27,7 +32,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

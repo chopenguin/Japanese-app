@@ -4,7 +4,11 @@
   "kanji": "お八",
   "kana": "おやつ",
   "display": "お八",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "1.餐間小吃",
+    "下午茶",
+    "2.午間小吃"
+  ],
   "meanings_en": [
     "1.  (uk) between meal snack",
     "afternoon refreshment",
@@ -18,7 +22,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

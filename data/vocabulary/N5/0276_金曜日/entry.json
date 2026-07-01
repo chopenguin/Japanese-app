@@ -4,7 +4,9 @@
   "kanji": "金曜日",
   "kana": "きんようび",
   "display": "金曜日",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "週五"
+  ],
   "meanings_en": [
     "Friday"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

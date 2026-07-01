@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "やむをえない",
   "display": "やむをえない",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "情不自禁",
+    "不可避免"
+  ],
   "meanings_en": [
     "cannot be helped",
     "unavoidable"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

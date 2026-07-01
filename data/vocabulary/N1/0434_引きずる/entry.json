@@ -4,7 +4,12 @@
   "kanji": "引きずる",
   "kana": "ひきずる",
   "display": "引きずる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "引誘",
+    "拖曳",
+    "拉長",
+    "支撐"
+  ],
   "meanings_en": [
     "to seduce",
     "to drag along",
@@ -28,7 +33,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

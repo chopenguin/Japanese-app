@@ -4,7 +4,11 @@
   "kanji": "附属",
   "kana": "ふぞく",
   "display": "附属",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "附加",
+    "歸屬",
+    "附屬"
+  ],
   "meanings_en": [
     "attached",
     "belonging",
@@ -17,7 +21,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

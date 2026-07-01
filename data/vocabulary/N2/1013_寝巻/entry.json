@@ -4,7 +4,9 @@
   "kanji": "寝巻",
   "kana": "ねまき",
   "display": "寝巻",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "睡衣"
+  ],
   "meanings_en": [
     "sleep-wear",
     "nightclothes",
@@ -28,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,11 @@
   "kanji": "青春",
   "kana": "せいしゅん",
   "display": "青春",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "青春",
+    "生命的春天",
+    "青少年"
+  ],
   "meanings_en": [
     "youth",
     "springtime of life",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

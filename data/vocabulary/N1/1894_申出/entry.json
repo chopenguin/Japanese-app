@@ -4,7 +4,13 @@
   "kanji": "申出",
   "kana": "もうしで",
   "display": "申出",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "提案",
+    "請求",
+    "索賠",
+    "報告",
+    "通知"
+  ],
   "meanings_en": [
     "proposal",
     "request",
@@ -19,7 +25,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

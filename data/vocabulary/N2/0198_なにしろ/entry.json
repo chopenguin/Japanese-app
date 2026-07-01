@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "なにしろ",
   "display": "なにしろ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "無論如何"
+  ],
   "meanings_en": [
     "at any rate",
     "anyhow",
@@ -23,7 +25,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,9 @@
   "kanji": "ご座います",
   "kana": "ございます",
   "display": "ご座います",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "存在[存在]"
+  ],
   "meanings_en": [
     "to be (polite)",
     "to exist"
@@ -21,7 +23,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

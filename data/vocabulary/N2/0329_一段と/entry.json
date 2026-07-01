@@ -4,7 +4,11 @@
   "kanji": "一段と",
   "kana": "いちだんと",
   "display": "一段と",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "更大",
+    "更多",
+    "更進一步"
+  ],
   "meanings_en": [
     "greater",
     "more",
@@ -27,7 +31,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

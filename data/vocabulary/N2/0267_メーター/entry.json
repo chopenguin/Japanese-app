@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "メーター",
   "display": "メーター",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "計量"
+  ],
   "meanings_en": [
     "meter (clock)"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

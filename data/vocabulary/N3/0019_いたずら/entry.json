@@ -4,7 +4,11 @@
   "kanji": "",
   "kana": "いたずら",
   "display": "いたずら",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "戲弄",
+    "惡作劇",
+    "把戲"
+  ],
   "meanings_en": [
     "tease",
     "prank",
@@ -27,7 +31,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

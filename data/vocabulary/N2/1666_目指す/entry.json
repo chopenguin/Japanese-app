@@ -4,7 +4,9 @@
   "kanji": "目指す",
   "kana": "めざす",
   "display": "目指す",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "瞄準[瞄準]"
+  ],
   "meanings_en": [
     "to aim at",
     "to have an eye on"
@@ -25,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

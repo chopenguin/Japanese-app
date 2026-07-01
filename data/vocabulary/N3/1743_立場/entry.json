@@ -4,7 +4,11 @@
   "kanji": "立場",
   "kana": "たちば",
   "display": "立場",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "立場",
+    "位置",
+    "情境"
+  ],
   "meanings_en": [
     "standpoint",
     "position",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

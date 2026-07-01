@@ -4,7 +4,9 @@
   "kanji": "謙る",
   "kana": "へりくだる",
   "display": "謙る",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "棄用自己並讚揚聽眾"
+  ],
   "meanings_en": [
     "to deprecate oneself and praise the listener"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

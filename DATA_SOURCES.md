@@ -13,7 +13,7 @@ OpenJLPT itself attributes JLPT level assignments to Jonathan Waller's community
 resources and dictionary fields to EDRDG/JMdict data. JLPT vocabulary lists are unofficial:
 the JLPT organization does not publish official N5-N1 word lists.
 
-## Chinese gloss seed data
+## Traditional Chinese glosses
 
 - Source: NihongDict
 - URL: https://github.com/carlcc/NihongDict
@@ -22,8 +22,21 @@ the JLPT organization does not publish official N5-N1 word lists.
   was available.
 
 Because the NihongDict repository does not provide a clear license, treat
-`meanings_zh` as a development seed that should be reviewed or replaced with a clearly
+`meanings_zh` as development seed data that should be reviewed or replaced with a clearly
 licensed Japanese-Chinese dictionary before public redistribution as product data.
+
+The source glosses are simplified Chinese. The build script converts them to Taiwan
+traditional Chinese with OpenCC (`opencc-js`).
+
+## Missing Chinese gloss overrides
+
+- File: `data/vocabulary/translation-overrides.zh-TW.json`
+- Used for: entries that had no exact NihongDict match.
+
+These overrides were generated from the OpenJLPT English glosses using a public translation
+endpoint and manual corrections for obvious source errors such as `せっけん` ("soap").
+They are meant to make the app dataset complete for development, but should still be
+reviewed before production release.
 
 ## Generated structure
 

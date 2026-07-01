@@ -4,7 +4,10 @@
   "kanji": "欧米",
   "kana": "おうべい",
   "display": "欧米",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "歐洲和美洲",
+    "西方"
+  ],
   "meanings_en": [
     "Europe and America",
     "the West"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "そば",
   "display": "そば",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "靠近",
+    "旁"
+  ],
   "meanings_en": [
     "near",
     "beside"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,9 @@
   "kanji": "剥す",
   "kana": "はがす",
   "display": "剥す",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "撕掉"
+  ],
   "meanings_en": [
     "(v5s) to tear off",
     "to peel off",
@@ -17,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

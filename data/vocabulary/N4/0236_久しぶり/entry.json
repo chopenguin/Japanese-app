@@ -4,7 +4,9 @@
   "kanji": "久しぶり",
   "kana": "ひさしぶり",
   "display": "久しぶり",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "久而久之"
+  ],
   "meanings_en": [
     "after a long time"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

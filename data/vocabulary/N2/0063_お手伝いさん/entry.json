@@ -4,7 +4,9 @@
   "kanji": "お手伝いさん",
   "kana": "おてつだいさん",
   "display": "お手伝いさん",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "女傭"
+  ],
   "meanings_en": [
     "maid"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

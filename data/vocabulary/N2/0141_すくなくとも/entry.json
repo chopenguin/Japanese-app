@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "すくなくとも",
   "display": "すくなくとも",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "%s 需要至少 %s 的可用記憶體"
+  ],
   "meanings_en": [
     "at least"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,10 @@
   "kanji": "拐う",
   "kana": "さらう",
   "display": "拐う",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "帶走",
+    "綁架"
+  ],
   "meanings_en": [
     "to carry off",
     "to run away with",
@@ -18,7 +21,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

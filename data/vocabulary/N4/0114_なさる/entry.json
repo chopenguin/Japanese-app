@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "なさる",
   "display": "なさる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "To Do"
+  ],
   "meanings_en": [
     "(respectful) to do"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

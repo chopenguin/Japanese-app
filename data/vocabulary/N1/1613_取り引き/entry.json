@@ -4,7 +4,10 @@
   "kanji": "取り引き",
   "kana": "とりひき",
   "display": "取り引き",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "交易",
+    "業務"
+  ],
   "meanings_en": [
     "transactions",
     "dealings",
@@ -26,7 +29,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

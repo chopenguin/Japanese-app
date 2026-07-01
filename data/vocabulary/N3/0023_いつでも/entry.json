@@ -4,7 +4,12 @@
   "kanji": "",
   "kana": "いつでも",
   "display": "いつでも",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "任何時候",
+    "永遠",
+    "在任何時候",
+    "從不"
+  ],
   "meanings_en": [
     "(at) any time",
     "always",
@@ -27,7 +32,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

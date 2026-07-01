@@ -4,7 +4,12 @@
   "kanji": "篭る",
   "kana": "こもる",
   "display": "篭る",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "閉門不出",
+    "被困在裡面",
+    "包含",
+    "悶熱"
+  ],
   "meanings_en": [
     "to seclude oneself",
     "to be confined in",
@@ -18,7 +23,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

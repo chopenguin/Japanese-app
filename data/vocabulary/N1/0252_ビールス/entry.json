@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "ビールス",
   "display": "ビールス",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "病毒"
+  ],
   "meanings_en": [
     "virus"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

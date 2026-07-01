@@ -4,7 +4,10 @@
   "kanji": "間々",
   "kana": "まま",
   "display": "間々",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "偶爾",
+    "常常"
+  ],
   "meanings_en": [
     "occasionally",
     "frequently"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

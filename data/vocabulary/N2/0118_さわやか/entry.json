@@ -4,7 +4,11 @@
   "kanji": "",
   "kana": "さわやか",
   "display": "さわやか",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "清新",
+    "提神",
+    "使人精神振奮"
+  ],
   "meanings_en": [
     "fresh",
     "refreshing",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

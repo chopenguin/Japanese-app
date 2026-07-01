@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "たばこ",
   "display": "たばこ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "煙草",
+    "香煙"
+  ],
   "meanings_en": [
     "tobacco",
     "cigarettes"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

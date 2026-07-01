@@ -4,7 +4,10 @@
   "kanji": "始めまして",
   "kana": "はじめまして",
   "display": "始めまして",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "你好嗎？",
+    "很高興見到您"
+  ],
   "meanings_en": [
     "How do you do?",
     "I am glad to meet you"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

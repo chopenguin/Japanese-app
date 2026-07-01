@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "どきどき",
   "display": "どきどき",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "悸動",
+    "搏動"
+  ],
   "meanings_en": [
     "throb",
     "beat (fast)"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

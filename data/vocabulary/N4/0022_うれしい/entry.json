@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "うれしい",
   "display": "うれしい",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "高興"
+  ],
   "meanings_en": [
     "glad"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

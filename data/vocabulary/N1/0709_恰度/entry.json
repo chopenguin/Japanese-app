@@ -4,7 +4,11 @@
   "kanji": "恰度",
   "kana": "ちょうど",
   "display": "恰度",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "正好",
+    "剛好",
+    "恰好"
+  ],
   "meanings_en": [
     "just",
     "right",
@@ -17,7 +21,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

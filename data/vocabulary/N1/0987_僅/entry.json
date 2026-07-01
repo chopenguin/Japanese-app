@@ -4,7 +4,9 @@
   "kanji": "僅",
   "kana": "きん",
   "display": "僅",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "少量"
+  ],
   "meanings_en": [
     "a little",
     "small quantity"
@@ -25,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

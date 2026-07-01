@@ -4,7 +4,11 @@
   "kanji": "",
   "kana": "（副）",
   "display": "だいいち",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "第一",
+    "最先",
+    "首要"
+  ],
   "meanings_en": [
     "first",
     "foremost",
@@ -17,7 +21,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

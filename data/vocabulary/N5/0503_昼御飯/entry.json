@@ -4,7 +4,9 @@
   "kanji": "昼御飯",
   "kana": "ひるごはん",
   "display": "昼御飯",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "午餐"
+  ],
   "meanings_en": [
     "midday meal"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

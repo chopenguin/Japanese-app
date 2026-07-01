@@ -4,7 +4,13 @@
   "kanji": "応じる",
   "kana": "おうじる",
   "display": "応じる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "回應",
+    "滿足",
+    "接受",
+    "遵守",
+    "申請"
+  ],
   "meanings_en": [
     "to respond",
     "to satisfy",
@@ -28,7 +34,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

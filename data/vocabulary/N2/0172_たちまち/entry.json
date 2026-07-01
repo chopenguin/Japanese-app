@@ -4,7 +4,11 @@
   "kanji": "",
   "kana": "たちまち",
   "display": "たちまち",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "一次",
+    "一瞬間",
+    "突然"
+  ],
   "meanings_en": [
     "at once",
     "in a moment",
@@ -27,7 +31,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

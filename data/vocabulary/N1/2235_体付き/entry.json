@@ -4,7 +4,9 @@
   "kanji": "体付き",
   "kana": "からだつき",
   "display": "体付き",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "身材"
+  ],
   "meanings_en": [
     "body build",
     "figure"
@@ -16,7 +18,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,11 @@
   "kanji": "一人でに",
   "kana": "ひとりでに",
   "display": "一人でに",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "本身",
+    "自動地",
+    "自然地"
+  ],
   "meanings_en": [
     "by itself",
     "automatically",
@@ -17,7 +21,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

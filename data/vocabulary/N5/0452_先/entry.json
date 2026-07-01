@@ -4,7 +4,9 @@
   "kanji": "先",
   "kana": "さき",
   "display": "先",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "前瞻[前瞻]"
+  ],
   "meanings_en": [
     "the future",
     "previous"
@@ -25,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,9 @@
   "kanji": "加留多",
   "kana": "かるた",
   "display": "加留多",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "撲克牌"
+  ],
   "meanings_en": [
     "(pt:) (n) playing cards (pt: carta)"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

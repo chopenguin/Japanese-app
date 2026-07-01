@@ -4,7 +4,9 @@
   "kanji": "交ぜる",
   "kana": "まぜる",
   "display": "交ぜる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "待混合"
+  ],
   "meanings_en": [
     "to be mixed",
     "to be blended with"
@@ -16,7 +18,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,9 @@
   "kanji": "命じる",
   "kana": "めいじる",
   "display": "命じる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "吩咐吩咐任命"
+  ],
   "meanings_en": [
     "to order",
     "to command",
@@ -22,7 +24,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "（する）",
   "display": "しいんと",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "無聲[無聲]"
+  ],
   "meanings_en": [
     "silent (as the grave)",
     "(deathly) quiet"
@@ -16,7 +18,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

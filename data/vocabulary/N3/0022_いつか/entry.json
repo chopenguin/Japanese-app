@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "いつか",
   "display": "いつか",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "某一天[某一天]"
+  ],
   "meanings_en": [
     "sometime",
     "someday",
@@ -26,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

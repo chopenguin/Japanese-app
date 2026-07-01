@@ -4,7 +4,10 @@
   "kanji": "嗚呼",
   "kana": "ああ",
   "display": "嗚呼",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "啊",
+    "唉"
+  ],
   "meanings_en": [
     "Ah!",
     "Oh!",
@@ -17,7 +20,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

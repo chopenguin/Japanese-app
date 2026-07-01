@@ -4,7 +4,9 @@
   "kanji": "先々月",
   "kana": "せんせんげつ",
   "display": "先々月",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "做了相同的一件事。"
+  ],
   "meanings_en": [
     "month before last"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

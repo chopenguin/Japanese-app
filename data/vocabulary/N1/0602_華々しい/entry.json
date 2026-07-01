@@ -4,7 +4,11 @@
   "kanji": "華々しい",
   "kana": "はなばなしい",
   "display": "華々しい",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "輝煌",
+    "壯麗",
+    "壯觀"
+  ],
   "meanings_en": [
     "brilliant",
     "magnificent",
@@ -17,7 +21,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

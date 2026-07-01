@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "じゃま",
   "display": "じゃま",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "妨礙",
+    "入侵"
+  ],
   "meanings_en": [
     "hindrance",
     "intrusion"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,10 @@
   "kanji": "付合う",
   "kana": "つきあう",
   "display": "付合う",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "與之交往",
+    "與之相處"
+  ],
   "meanings_en": [
     "to associate with",
     "to keep company with",
@@ -17,7 +20,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,10 @@
   "kanji": "その外",
   "kana": "そのほか",
   "display": "その外",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "除此之外",
+    "其餘的"
+  ],
   "meanings_en": [
     "besides",
     "in addition",
@@ -26,7 +29,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

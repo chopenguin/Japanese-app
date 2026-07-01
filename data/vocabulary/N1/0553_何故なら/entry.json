@@ -4,7 +4,9 @@
   "kanji": "何故なら",
   "kana": "なぜなら",
   "display": "何故なら",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "所以我報名"
+  ],
   "meanings_en": [
     "because"
   ],
@@ -20,7 +22,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

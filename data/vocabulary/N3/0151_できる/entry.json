@@ -4,7 +4,11 @@
   "kanji": "",
   "kana": "（可能。出現。発生）",
   "display": "できる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "能夠",
+    "做好準備",
+    "發生"
+  ],
   "meanings_en": [
     "to be able to",
     "to be ready",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,10 @@
   "kanji": "お酒",
   "kana": "おさけ",
   "display": "お酒",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "酒精",
+    "米酒"
+  ],
   "meanings_en": [
     "alcohol",
     "rice wine"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,9 @@
   "kanji": "作る/造る",
   "kana": "つくる",
   "display": "作る/造る",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "製造[創造]"
+  ],
   "meanings_en": [
     "to make",
     "to create"
@@ -16,7 +18,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,10 @@
   "kanji": "物置き",
   "kana": "ものおき",
   "display": "物置き",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "儲藏室",
+    "倉庫"
+  ],
   "meanings_en": [
     "storeroom"
   ],
@@ -15,7 +18,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,11 @@
   "kanji": "",
   "kana": "なお",
   "display": "なお",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "直",
+    "惡作劇",
+    "普通"
+  ],
   "meanings_en": [
     "straight",
     "mischief",
@@ -27,7 +31,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

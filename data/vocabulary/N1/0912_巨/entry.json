@@ -4,7 +4,9 @@
   "kanji": "巨",
   "kana": "こ",
   "display": "巨",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "大[大]大[大]"
+  ],
   "meanings_en": [
     "big",
     "large",
@@ -26,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

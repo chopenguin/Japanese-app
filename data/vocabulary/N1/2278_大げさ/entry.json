@@ -4,7 +4,9 @@
   "kanji": "大げさ",
   "kana": "おおげさ",
   "display": "大げさ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "誇張"
+  ],
   "meanings_en": [
     "grandiose",
     "exaggerated"
@@ -25,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

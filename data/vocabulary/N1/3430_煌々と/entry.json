@@ -4,7 +4,10 @@
   "kanji": "煌々と",
   "kana": "こうこうと",
   "display": "煌々と",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "燦爛地",
+    "明亮地"
+  ],
   "meanings_en": [
     "brilliantly",
     "brightly"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

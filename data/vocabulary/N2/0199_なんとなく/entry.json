@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "なんとなく",
   "display": "なんとなく",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "不知何故",
+    "出於某種原因"
+  ],
   "meanings_en": [
     "somehow or other",
     "for some reason or another"
@@ -21,7 +24,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

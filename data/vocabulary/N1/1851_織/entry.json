@@ -4,7 +4,10 @@
   "kanji": "織",
   "kana": "おり",
   "display": "織",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "編織",
+    "編織項目"
+  ],
   "meanings_en": [
     "weave",
     "weaving",
@@ -26,7 +29,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

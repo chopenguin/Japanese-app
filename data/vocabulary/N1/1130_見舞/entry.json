@@ -4,7 +4,11 @@
   "kanji": "見舞",
   "kana": "みまい",
   "display": "見舞",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "詢問",
+    "表達同情",
+    "表達關注"
+  ],
   "meanings_en": [
     "enquiry",
     "expression of sympathy",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

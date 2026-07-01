@@ -4,7 +4,10 @@
   "kanji": "戸締り",
   "kana": "とじまり",
   "display": "戸締り",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "關門",
+    "緊固門"
+  ],
   "meanings_en": [
     "closing up",
     "fastening the doors"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

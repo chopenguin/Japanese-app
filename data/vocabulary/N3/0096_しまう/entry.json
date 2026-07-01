@@ -4,7 +4,11 @@
   "kanji": "",
   "kana": "（終わる）",
   "display": "しまう",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "完成",
+    "結束",
+    "完全做某事"
+  ],
   "meanings_en": [
     "to finish",
     "to close",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

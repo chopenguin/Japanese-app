@@ -4,7 +4,9 @@
   "kanji": "前もって",
   "kana": "まえもって",
   "display": "前もって",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "事先[事先]"
+  ],
   "meanings_en": [
     "in advance",
     "beforehand",
@@ -26,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

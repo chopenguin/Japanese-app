@@ -4,7 +4,12 @@
   "kanji": "",
   "kana": "あわただしい",
   "display": "あわただしい",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "忙碌",
+    "匆忙",
+    "困惑",
+    "慌亂"
+  ],
   "meanings_en": [
     "busy",
     "hurried",
@@ -18,7 +23,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

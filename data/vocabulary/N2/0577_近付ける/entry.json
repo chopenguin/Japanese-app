@@ -4,7 +4,10 @@
   "kanji": "近付ける",
   "kana": "ちかづける",
   "display": "近付ける",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "靠近",
+    "與之交往"
+  ],
   "meanings_en": [
     "to bring near",
     "to put close",
@@ -23,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

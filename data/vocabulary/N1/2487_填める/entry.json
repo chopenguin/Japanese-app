@@ -4,7 +4,12 @@
   "kanji": "填める",
   "kana": "はめる",
   "display": "填める",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "進入",
+    "插入",
+    "穿上",
+    "做愛"
+  ],
   "meanings_en": [
     "to get in",
     "to insert",
@@ -18,7 +23,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

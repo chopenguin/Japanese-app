@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "ランチ",
   "display": "ランチ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "推出",
+    "午餐"
+  ],
   "meanings_en": [
     "launch",
     "lunch"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

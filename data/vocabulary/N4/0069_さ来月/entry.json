@@ -4,7 +4,9 @@
   "kanji": "さ来月",
   "kana": "さらいげつ",
   "display": "さ来月",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "下一個月的後一個月"
+  ],
   "meanings_en": [
     "the month after next"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

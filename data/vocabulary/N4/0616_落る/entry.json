@@ -4,7 +4,9 @@
   "kanji": "落る",
   "kana": "おちる",
   "display": "落る",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "跌倒或跌落"
+  ],
   "meanings_en": [
     "to fall or drop"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

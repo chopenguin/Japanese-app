@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "すなわち",
   "display": "すなわち",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "即"
+  ],
   "meanings_en": [
     "that is",
     "namely",
@@ -17,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

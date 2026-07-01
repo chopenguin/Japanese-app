@@ -4,7 +4,11 @@
   "kanji": "",
   "kana": "ひとまず",
   "display": "ひとまず",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "暫時",
+    "一次",
+    "在輪廓中"
+  ],
   "meanings_en": [
     "for the present",
     "once",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

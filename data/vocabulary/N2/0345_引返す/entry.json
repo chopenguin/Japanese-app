@@ -4,7 +4,11 @@
   "kanji": "引返す",
   "kana": "ひきかえす",
   "display": "引返す",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "重複",
+    "送回",
+    "帶回"
+  ],
   "meanings_en": [
     "to repeat",
     "to send back",
@@ -17,7 +21,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

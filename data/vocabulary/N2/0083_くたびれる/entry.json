@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "くたびれる",
   "display": "くたびれる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "疲倦",
+    "磨損"
+  ],
   "meanings_en": [
     "to get tired",
     "to wear out"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

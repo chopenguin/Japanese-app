@@ -4,7 +4,11 @@
   "kanji": "流行る",
   "kana": "はやる",
   "display": "流行る",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "蓬勃發展",
+    "受歡迎",
+    "成為時尚"
+  ],
   "meanings_en": [
     "to flourish",
     "to thrive",
@@ -23,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

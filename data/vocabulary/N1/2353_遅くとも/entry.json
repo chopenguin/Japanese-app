@@ -4,7 +4,9 @@
   "kanji": "遅くとも",
   "kana": "おそくとも",
   "display": "遅くとも",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "最新文章"
+  ],
   "meanings_en": [
     "at the latest"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

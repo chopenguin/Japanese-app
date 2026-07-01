@@ -4,7 +4,9 @@
   "kanji": "消しゴム",
   "kana": "けしゴム",
   "display": "消しゴム",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "橡皮擦"
+  ],
   "meanings_en": [
     "eraser"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,9 @@
   "kanji": "落し物",
   "kana": "おとしもの",
   "display": "落し物",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "遺失財物"
+  ],
   "meanings_en": [
     "lost property"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

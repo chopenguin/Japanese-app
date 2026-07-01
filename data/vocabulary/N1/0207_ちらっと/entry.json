@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "ちらっと",
   "display": "ちらっと",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "一目瞭然",
+    "不小心"
+  ],
   "meanings_en": [
     "at a glance",
     "by accident"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

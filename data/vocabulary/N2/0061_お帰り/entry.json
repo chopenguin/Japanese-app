@@ -4,7 +4,10 @@
   "kanji": "お帰り",
   "kana": "おかえり",
   "display": "お帰り",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "回來",
+    "歡迎回來"
+  ],
   "meanings_en": [
     "return",
     "welcome"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

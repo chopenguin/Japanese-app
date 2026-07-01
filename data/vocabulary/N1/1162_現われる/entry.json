@@ -4,7 +4,12 @@
   "kanji": "現われる",
   "kana": "あらわれる",
   "display": "現われる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "出現",
+    "體現",
+    "實現",
+    "表達自己"
+  ],
   "meanings_en": [
     "to appear",
     "to come in sight",
@@ -30,7 +35,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

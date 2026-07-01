@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "おおざっぱ",
   "display": "おおざっぱ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "粗糙",
+    "粗略"
+  ],
   "meanings_en": [
     "rough (not precise)",
     "broad",
@@ -22,7 +25,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

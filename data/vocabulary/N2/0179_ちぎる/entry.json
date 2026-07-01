@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "ちぎる",
   "display": "ちぎる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "切得精細",
+    "採摘"
+  ],
   "meanings_en": [
     "to cut up fine",
     "to pick (fruit)"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,10 @@
   "kanji": "庖丁",
   "kana": "ほうちょう",
   "display": "庖丁",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "菜刀",
+    "雕刻刀"
+  ],
   "meanings_en": [
     "kitchen knife",
     "carving knife"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

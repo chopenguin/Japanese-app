@@ -4,7 +4,9 @@
   "kanji": "奥さん",
   "kana": "おくさん",
   "display": "奥さん",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "妻子"
+  ],
   "meanings_en": [
     "(honorable) wife"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

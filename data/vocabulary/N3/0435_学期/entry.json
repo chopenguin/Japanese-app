@@ -4,7 +4,9 @@
   "kanji": "学期",
   "kana": "がっき",
   "display": "学期",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "字詞"
+  ],
   "meanings_en": [
     "term (school)"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

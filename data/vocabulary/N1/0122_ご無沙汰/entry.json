@@ -4,7 +4,9 @@
   "kanji": "ご無沙汰",
   "kana": "ごぶさた",
   "display": "ご無沙汰",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "一段時間沒有寫信或聯絡"
+  ],
   "meanings_en": [
     "not writing or contacting for a while"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

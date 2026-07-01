@@ -4,7 +4,10 @@
   "kanji": "任す",
   "kana": "まかす",
   "display": "任す",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "委託",
+    "交給某人"
+  ],
   "meanings_en": [
     "to entrust",
     "to leave to a person"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

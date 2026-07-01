@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "リポート",
   "display": "リポート",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "報告",
+    "紙張"
+  ],
   "meanings_en": [
     "report",
     "paper"
@@ -21,7 +24,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

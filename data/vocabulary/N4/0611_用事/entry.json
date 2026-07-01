@@ -4,7 +4,9 @@
   "kanji": "用事",
   "kana": "ようじ",
   "display": "用事",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "有多少人參與？"
+  ],
   "meanings_en": [
     "things to do"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,10 @@
   "kanji": "陽射",
   "kana": "ひざし",
   "display": "陽射",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "陽光",
+    "陽光的光芒"
+  ],
   "meanings_en": [
     "sunlight",
     "rays of the sun"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

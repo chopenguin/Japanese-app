@@ -4,7 +4,11 @@
   "kanji": "人格",
   "kana": "じんかく",
   "display": "人格",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "人格",
+    "性格",
+    "個性"
+  ],
   "meanings_en": [
     "personality",
     "character",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

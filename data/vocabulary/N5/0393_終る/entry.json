@@ -4,7 +4,9 @@
   "kanji": "終る",
   "kana": "おわる",
   "display": "終る",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "結束！"
+  ],
   "meanings_en": [
     "to finish"
   ],
@@ -20,7 +22,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

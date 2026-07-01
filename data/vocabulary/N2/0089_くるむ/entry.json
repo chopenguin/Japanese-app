@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "くるむ",
   "display": "くるむ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "包裹[包裹]"
+  ],
   "meanings_en": [
     "to be engulfed in",
     "to be enveloped by",
@@ -17,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

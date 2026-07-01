@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "かばん",
   "display": "かばん",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "包",
+    "籃子"
+  ],
   "meanings_en": [
     "bag",
     "basket"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

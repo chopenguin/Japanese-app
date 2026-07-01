@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "いちばん",
   "display": "いちばん",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "最好的",
+    "第一的"
+  ],
   "meanings_en": [
     "best",
     "first"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

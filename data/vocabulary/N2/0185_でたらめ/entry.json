@@ -4,7 +4,11 @@
   "kanji": "",
   "kana": "でたらめ",
   "display": "でたらめ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "不負責任的話語",
+    "無意義的",
+    "隨機的"
+  ],
   "meanings_en": [
     "(1) irresponsible utterance",
     "nonsense",
@@ -27,7 +31,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

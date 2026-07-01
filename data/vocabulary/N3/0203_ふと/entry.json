@@ -4,7 +4,12 @@
   "kanji": "",
   "kana": "（副）",
   "display": "ふと",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "突然",
+    "偶然地",
+    "意外地",
+    "不經意地"
+  ],
   "meanings_en": [
     "suddenly",
     "casually",
@@ -29,7 +34,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "または",
   "display": "または",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "或者",
+    "否則"
+  ],
   "meanings_en": [
     "or",
     "otherwise"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

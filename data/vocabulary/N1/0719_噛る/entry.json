@@ -4,7 +4,13 @@
   "kanji": "噛る",
   "kana": "かじる",
   "display": "噛る",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "咀嚼",
+    "咬",
+    "啃",
+    "嘎吱嘎吱",
+    "少量"
+  ],
   "meanings_en": [
     "to chew",
     "to bite (at)",
@@ -21,7 +27,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

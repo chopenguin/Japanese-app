@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "チップ",
   "display": "チップ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "小費",
+    "晶片"
+  ],
   "meanings_en": [
     "(1) gratuity",
     "tip",
@@ -26,7 +29,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

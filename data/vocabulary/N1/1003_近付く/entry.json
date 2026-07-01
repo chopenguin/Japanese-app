@@ -4,7 +4,11 @@
   "kanji": "近付く",
   "kana": "ちかづく",
   "display": "近付く",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "接近",
+    "靠近",
+    "熟悉"
+  ],
   "meanings_en": [
     "to approach",
     "to get near",
@@ -18,7 +22,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

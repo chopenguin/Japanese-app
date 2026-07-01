@@ -4,7 +4,11 @@
   "kanji": "歎",
   "kana": "たん",
   "display": "歎",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "悲傷",
+    "嘆氣",
+    "哀嘆"
+  ],
   "meanings_en": [
     "grief",
     "sigh",
@@ -17,7 +21,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

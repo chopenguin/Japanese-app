@@ -4,7 +4,12 @@
   "kanji": "入口",
   "kana": "いりくち",
   "display": "入口",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "入口",
+    "門口",
+    "通道",
+    "口"
+  ],
   "meanings_en": [
     "entrance",
     "gate",
@@ -27,7 +32,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

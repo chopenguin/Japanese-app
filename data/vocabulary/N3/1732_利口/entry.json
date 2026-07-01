@@ -4,7 +4,9 @@
   "kanji": "利口",
   "kana": "りこう",
   "display": "利口",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "聰明[聰明]"
+  ],
   "meanings_en": [
     "clever",
     "shrewd",
@@ -29,7 +31,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

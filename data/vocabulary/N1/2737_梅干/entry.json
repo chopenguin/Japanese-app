@@ -4,7 +4,10 @@
   "kanji": "梅干",
   "kana": "うめぼし",
   "display": "梅干",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "梅乾",
+    "梅乾"
+  ],
   "meanings_en": [
     "dried plum"
   ],
@@ -24,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

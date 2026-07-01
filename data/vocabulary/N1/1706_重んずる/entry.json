@@ -4,7 +4,12 @@
   "kanji": "重んずる",
   "kana": "おもんずる",
   "display": "重んずる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "榮譽",
+    "尊重",
+    "尊敬",
+    "獎賞"
+  ],
   "meanings_en": [
     "to honor",
     "to respect",
@@ -18,7 +23,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

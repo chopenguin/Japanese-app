@@ -4,7 +4,9 @@
   "kanji": "知合い",
   "kana": "しりあい",
   "display": "知合い",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "相識"
+  ],
   "meanings_en": [
     "acquaintance"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

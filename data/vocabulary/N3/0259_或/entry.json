@@ -4,7 +4,9 @@
   "kanji": "或",
   "kana": "ある",
   "display": "或",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "某種……"
+  ],
   "meanings_en": [
     "a certain...",
     "some..."
@@ -25,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

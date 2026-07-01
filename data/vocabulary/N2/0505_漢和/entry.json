@@ -4,7 +4,10 @@
   "kanji": "漢和",
   "kana": "かんわ",
   "display": "漢和",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "漢和",
+    "漢字日文"
+  ],
   "meanings_en": [
     "Chinese Character-Japanese (e.g. dictionary)"
   ],
@@ -20,7 +23,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

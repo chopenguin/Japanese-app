@@ -4,7 +4,9 @@
   "kanji": "決る",
   "kana": "きまる",
   "display": "決る",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "待定"
+  ],
   "meanings_en": [
     "to be decided"
   ],
@@ -20,7 +22,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

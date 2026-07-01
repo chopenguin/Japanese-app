@@ -4,7 +4,9 @@
   "kanji": "逆様",
   "kana": "さかさま",
   "display": "逆様",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "倒置"
+  ],
   "meanings_en": [
     "inversion",
     "upside down"
@@ -21,7 +23,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

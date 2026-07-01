@@ -4,7 +4,9 @@
   "kanji": "控室",
   "kana": "ひかえしつ",
   "display": "控室",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "等候室"
+  ],
   "meanings_en": [
     "waiting room"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

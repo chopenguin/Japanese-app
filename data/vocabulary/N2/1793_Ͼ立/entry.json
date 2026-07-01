@@ -4,7 +4,11 @@
   "kanji": "Ͼ立",
   "kana": "たいりつ",
   "display": "Ͼ立",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "對立",
+    "反對",
+    "敵對"
+  ],
   "meanings_en": [
     "confrontation",
     "opposition",
@@ -17,7 +21,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

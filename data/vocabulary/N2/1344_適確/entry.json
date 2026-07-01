@@ -4,7 +4,9 @@
   "kanji": "適確",
   "kana": "てきかく",
   "display": "適確",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "精確[精確]"
+  ],
   "meanings_en": [
     "precise",
     "accurate"
@@ -16,7 +18,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

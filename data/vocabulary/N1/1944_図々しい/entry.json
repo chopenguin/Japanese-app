@@ -4,7 +4,9 @@
   "kanji": "図々しい",
   "kana": "ずうずうしい",
   "display": "図々しい",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "厚顏無恥"
+  ],
   "meanings_en": [
     "impudent",
     "shameless"
@@ -25,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

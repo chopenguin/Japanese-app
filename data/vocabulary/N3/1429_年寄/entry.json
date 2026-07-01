@@ -4,7 +4,9 @@
   "kanji": "年寄",
   "kana": "としより",
   "display": "年寄",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "老年人"
+  ],
   "meanings_en": [
     "old people",
     "the aged"
@@ -25,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

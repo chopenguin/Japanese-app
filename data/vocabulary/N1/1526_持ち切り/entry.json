@@ -4,7 +4,10 @@
   "kanji": "持ち切り",
   "kana": "もちきり",
   "display": "持ち切り",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "熱門話題",
+    "談論城鎮"
+  ],
   "meanings_en": [
     "hot topic",
     "talk of the town"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

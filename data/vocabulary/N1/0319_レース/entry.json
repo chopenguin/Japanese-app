@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "レース",
   "display": "レース",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "蕾絲[蕾絲]"
+  ],
   "meanings_en": [
     "race",
     "lace"
@@ -25,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

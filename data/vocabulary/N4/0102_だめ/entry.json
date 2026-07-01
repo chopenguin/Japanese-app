@@ -4,7 +4,11 @@
   "kanji": "",
   "kana": "だめ",
   "display": "だめ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "不行",
+    "沒用",
+    "不好"
+  ],
   "meanings_en": [
     "no good"
   ],
@@ -24,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

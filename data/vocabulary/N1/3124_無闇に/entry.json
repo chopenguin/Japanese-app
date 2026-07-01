@@ -4,7 +4,12 @@
   "kanji": "無闇に",
   "kana": "むやみに",
   "display": "無闇に",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "不合理地",
+    "荒唐地",
+    "魯莽地",
+    "隨意地"
+  ],
   "meanings_en": [
     "unreasonably",
     "absurdly",
@@ -19,7 +24,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

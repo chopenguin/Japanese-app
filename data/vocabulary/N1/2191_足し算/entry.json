@@ -4,7 +4,9 @@
   "kanji": "足し算",
   "kana": "たしざん",
   "display": "足し算",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "本期新增"
+  ],
   "meanings_en": [
     "addition"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

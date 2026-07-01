@@ -4,7 +4,11 @@
   "kanji": "曇",
   "kana": "くもり",
   "display": "曇",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "多雲",
+    "多雲天氣",
+    "陰影"
+  ],
   "meanings_en": [
     "cloudiness",
     "cloudy weather",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,11 @@
   "kanji": "",
   "kana": "よこす",
   "display": "よこす",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "發送",
+    "轉發",
+    "交出"
+  ],
   "meanings_en": [
     "(1) to send",
     "to forward",
@@ -17,7 +21,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

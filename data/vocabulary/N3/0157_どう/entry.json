@@ -4,7 +4,11 @@
   "kanji": "",
   "kana": "（接。副）",
   "display": "どう",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "小孩",
+    "僕人",
+    "愚蠢"
+  ],
   "meanings_en": [
     "child",
     "servant",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

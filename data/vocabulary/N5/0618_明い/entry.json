@@ -4,7 +4,9 @@
   "kanji": "明い",
   "kana": "あかるい",
   "display": "明い",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "明亮"
+  ],
   "meanings_en": [
     "bright"
   ],
@@ -20,7 +22,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

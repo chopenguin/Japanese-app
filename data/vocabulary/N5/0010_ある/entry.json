@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "ある",
   "display": "ある",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "成為",
+    "擁有"
+  ],
   "meanings_en": [
     "to be",
     "to have (used for inanimate objects)"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

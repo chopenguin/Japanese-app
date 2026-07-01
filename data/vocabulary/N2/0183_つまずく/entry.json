@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "つまずく",
   "display": "つまずく",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "跌倒",
+    "絆倒"
+  ],
   "meanings_en": [
     "to stumble",
     "to trip"
@@ -21,7 +24,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

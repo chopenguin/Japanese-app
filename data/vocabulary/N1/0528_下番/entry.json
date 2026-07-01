@@ -4,7 +4,9 @@
   "kanji": "下番",
   "kana": "かばん",
   "display": "下番",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "下班"
+  ],
   "meanings_en": [
     "going off duty"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,10 @@
   "kanji": "埋め込む",
   "kana": "うめこむ",
   "display": "埋め込む",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "埋葬",
+    "埋入"
+  ],
   "meanings_en": [
     "to bury"
   ],
@@ -15,7 +18,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

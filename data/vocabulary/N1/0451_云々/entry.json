@@ -4,7 +4,10 @@
   "kanji": "云々",
   "kana": "うんぬん",
   "display": "云々",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "等等",
+    "評論"
+  ],
   "meanings_en": [
     "and so on",
     "and so forth",
@@ -17,7 +20,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

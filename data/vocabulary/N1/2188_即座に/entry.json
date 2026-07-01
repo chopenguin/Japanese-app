@@ -4,7 +4,9 @@
   "kanji": "即座に",
   "kana": "そくざに",
   "display": "即座に",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "立刻"
+  ],
   "meanings_en": [
     "immediately",
     "right away"
@@ -25,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

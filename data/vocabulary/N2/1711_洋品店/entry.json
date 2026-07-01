@@ -4,7 +4,9 @@
   "kanji": "洋品店",
   "kana": "ようひんてん",
   "display": "洋品店",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "處理西式服裝和配飾的商店"
+  ],
   "meanings_en": [
     "shop which handles Western-style apparel and accessories"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,12 @@
   "kanji": "",
   "kana": "しきりに",
   "display": "しきりに",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "常常",
+    "反復",
+    "不停地",
+    "急切地"
+  ],
   "meanings_en": [
     "frequently",
     "repeatedly",
@@ -27,7 +32,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

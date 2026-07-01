@@ -4,7 +4,13 @@
   "kanji": "徐々に",
   "kana": "じょじょに",
   "display": "徐々に",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "慢慢地",
+    "一點一點地",
+    "逐漸地",
+    "穩定地",
+    "靜靜地"
+  ],
   "meanings_en": [
     "slowly",
     "little by little",
@@ -28,7 +34,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

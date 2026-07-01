@@ -4,7 +4,11 @@
   "kanji": "堂々",
   "kana": "どうどう",
   "display": "堂々",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "宏偉",
+    "壯觀",
+    "令人印象深刻"
+  ],
   "meanings_en": [
     "magnificent",
     "grand",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,10 @@
   "kanji": "出くわす",
   "kana": "でくわす",
   "display": "出くわす",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "碰巧相遇",
+    "碰到"
+  ],
   "meanings_en": [
     "to happen to meet",
     "to come across"
@@ -21,7 +24,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

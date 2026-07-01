@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "くどい",
   "display": "くどい",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "冗餘",
+    "重"
+  ],
   "meanings_en": [
     "verbose",
     "importunate",
@@ -26,7 +29,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

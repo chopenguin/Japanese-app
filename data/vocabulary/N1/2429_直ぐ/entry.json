@@ -4,7 +4,14 @@
   "kanji": "直ぐ",
   "kana": "すぐ",
   "display": "直ぐ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "立刻",
+    "很快",
+    "容易",
+    "正確",
+    "誠實",
+    "正直"
+  ],
   "meanings_en": [
     "immediately",
     "soon",
@@ -29,7 +36,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

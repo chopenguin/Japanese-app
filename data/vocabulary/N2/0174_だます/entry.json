@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "だます",
   "display": "だます",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "欺騙"
+  ],
   "meanings_en": [
     "to trick",
     "to cheat",
@@ -17,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

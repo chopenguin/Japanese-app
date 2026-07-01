@@ -4,7 +4,9 @@
   "kanji": "男の人",
   "kana": "おとこのひと",
   "display": "男の人",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "男人"
+  ],
   "meanings_en": [
     "man"
   ],
@@ -24,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

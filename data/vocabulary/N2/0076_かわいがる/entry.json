@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "かわいがる",
   "display": "かわいがる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "愛",
+    "深情"
+  ],
   "meanings_en": [
     "to love",
     "to be affectionate"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,10 @@
   "kanji": "成る丈",
   "kana": "なるたけ",
   "display": "成る丈",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "盡可能",
+    "如果可能的話"
+  ],
   "meanings_en": [
     "as much as possible",
     "if possible"
@@ -16,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

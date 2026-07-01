@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "どう",
   "display": "どう",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "如何",
+    "以什麼方式"
+  ],
   "meanings_en": [
     "how",
     "in what way"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

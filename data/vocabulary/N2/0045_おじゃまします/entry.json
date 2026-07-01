@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "おじゃまします",
   "display": "おじゃまします",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "不好意思打擾了"
+  ],
   "meanings_en": [
     "Excuse me for disturbing you"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

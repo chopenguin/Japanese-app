@@ -4,7 +4,11 @@
   "kanji": "取りあえず",
   "kana": "とりあえず",
   "display": "取りあえず",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "一次",
+    "首先",
+    "暫時"
+  ],
   "meanings_en": [
     "at once",
     "first of all",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

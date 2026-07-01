@@ -4,7 +4,12 @@
   "kanji": "",
   "kana": "はめる",
   "display": "はめる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "進入",
+    "插入",
+    "穿上",
+    "做愛"
+  ],
   "meanings_en": [
     "(col) to get in",
     "to insert",
@@ -23,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,11 @@
   "kanji": "時間割",
   "kana": "じかんわり",
   "display": "時間割",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "時間表",
+    "課表",
+    "日程表"
+  ],
   "meanings_en": [
     "timetable",
     "schedule"
@@ -25,7 +29,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

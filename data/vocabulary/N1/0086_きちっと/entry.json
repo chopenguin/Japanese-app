@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "きちっと",
   "display": "きちっと",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "完全[完全]"
+  ],
   "meanings_en": [
     "exactly",
     "perfectly"
@@ -16,7 +18,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

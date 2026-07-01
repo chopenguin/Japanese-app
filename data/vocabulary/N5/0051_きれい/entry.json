@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "きれい",
   "display": "きれい",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "漂亮的",
+    "乾淨的"
+  ],
   "meanings_en": [
     "pretty",
     "clean"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

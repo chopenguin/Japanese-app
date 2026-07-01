@@ -4,7 +4,11 @@
   "kanji": "",
   "kana": "りっぱ",
   "display": "りっぱ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "出色",
+    "優秀",
+    "壯麗"
+  ],
   "meanings_en": [
     "splendid"
   ],
@@ -24,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

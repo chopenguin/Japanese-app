@@ -4,7 +4,9 @@
   "kanji": "二階建て",
   "kana": "にかいだて",
   "display": "二階建て",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "兩個傳奇"
+  ],
   "meanings_en": [
     "two storied"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

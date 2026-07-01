@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "おだいじに",
   "display": "おだいじに",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "自己保重",
+    "好嗎？"
+  ],
   "meanings_en": [
     "Take care of yourself"
   ],
@@ -15,7 +18,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

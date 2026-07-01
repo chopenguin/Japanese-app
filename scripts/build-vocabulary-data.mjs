@@ -1,13 +1,29 @@
 import fs from "node:fs";
 import path from "node:path";
+import { createRequire } from "node:module";
 
 const rootDir = process.cwd();
 const openJlptDir = process.env.OPENJLPT_DIR ?? "/tmp/OpenJLPT";
 const nihongDictDir =
   process.env.NIHONGDICT_DIR ?? "/tmp/NihongDict/NihongDict/dictionarys";
+const require = createRequire(import.meta.url);
+let OpenCC;
+try {
+  OpenCC = require("opencc-js");
+} catch {
+  OpenCC = require("/tmp/opencc-work/node_modules/opencc-js");
+}
+const toTraditional = OpenCC.Converter({ from: "cn", to: "tw" });
 
 const outDir = path.join(rootDir, "data", "vocabulary");
 const levels = ["N5", "N4", "N3", "N2", "N1"];
+const translationOverridesPath = path.join(
+  outDir,
+  "translation-overrides.zh-TW.json",
+);
+const translationOverrides = fs.existsSync(translationOverridesPath)
+  ? readJson(translationOverridesPath)
+  : {};
 
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
@@ -68,7 +84,7 @@ function parseStarDictIndex(idxPath, dictPath) {
 }
 
 function splitChineseMeanings(value) {
-  return value
+  return toTraditional(value)
     .split(/[，,；;、]/)
     .map((item) => item.trim())
     .filter(Boolean)
@@ -93,6 +109,13 @@ function findChineseMeanings(index, word, reading) {
   return [];
 }
 
+function findFallbackMeanings(raw) {
+  const glossKey = raw.meanings.join("; ");
+  return (translationOverrides[glossKey] ?? []).map((meaning) =>
+    toTraditional(meaning),
+  );
+}
+
 function safeFolderName(index, word, reading) {
   const label = word || reading;
   const cleaned = label
@@ -109,7 +132,11 @@ function hasKanji(value) {
 function normalizeEntry(raw, level, index, chineseIndex) {
   const kana = raw.reading || raw.word;
   const kanji = hasKanji(raw.word) ? raw.word : "";
-  const chineseMeanings = findChineseMeanings(chineseIndex, raw.word, kana);
+  let chineseMeanings = findChineseMeanings(chineseIndex, raw.word, kana);
+  const hasDictionaryChinese = chineseMeanings.length > 0;
+  if (!hasDictionaryChinese) {
+    chineseMeanings = findFallbackMeanings(raw);
+  }
 
   return {
     id: `${level.toLowerCase()}-${String(index + 1).padStart(4, "0")}`,
@@ -126,7 +153,11 @@ function normalizeEntry(raw, level, index, chineseIndex) {
     examples: raw.examples ?? [],
     source: {
       jlpt_and_reading: "OpenJLPT",
-      chinese_meaning: chineseMeanings.length ? "NihongDict" : "missing",
+      chinese_meaning: hasDictionaryChinese
+        ? "NihongDict"
+        : chineseMeanings.length
+          ? "translation-overrides.zh-TW"
+          : "missing",
     },
     review: {
       zh_meaning_checked: false,
@@ -145,6 +176,7 @@ const chineseIndex = parseStarDictIndex(
 );
 
 cleanDir(outDir);
+writeJson(translationOverridesPath, translationOverrides);
 
 const manifest = {
   generated_at: new Date().toISOString(),

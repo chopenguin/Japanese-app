@@ -4,7 +4,9 @@
   "kanji": "一挙に",
   "kana": "いっきょに",
   "display": "一挙に",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "一觸即發"
+  ],
   "meanings_en": [
     "at a stroke",
     "with a single swoop"
@@ -16,7 +18,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

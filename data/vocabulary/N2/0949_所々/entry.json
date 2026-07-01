@@ -4,7 +4,10 @@
   "kanji": "所々",
   "kana": "ところどころ",
   "display": "所々",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "這裡和那裡",
+    "一些零件"
+  ],
   "meanings_en": [
     "here and there",
     "some parts (of something)"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,9 @@
   "kanji": "代る",
   "kana": "かわる",
   "display": "代る",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "取代[取代]"
+  ],
   "meanings_en": [
     "(v5r",
     "vi) to take the place of",
@@ -18,7 +20,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

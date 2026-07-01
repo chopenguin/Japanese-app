@@ -4,7 +4,11 @@
   "kanji": "準じる",
   "kana": "じゅんじる",
   "display": "準じる",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "遵循",
+    "符合",
+    "適用於"
+  ],
   "meanings_en": [
     "to follow",
     "to conform",
@@ -17,7 +21,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "いく",
   "display": "いく",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "來",
+    "達到高潮"
+  ],
   "meanings_en": [
     "to come",
     "to orgasm"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

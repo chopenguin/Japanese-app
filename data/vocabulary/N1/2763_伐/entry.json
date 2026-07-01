@@ -4,7 +4,11 @@
   "kanji": "伐",
   "kana": "ばつ",
   "display": "伐",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "討伐",
+    "攻擊",
+    "懲罰"
+  ],
   "meanings_en": [
     "strike",
     "attack",
@@ -26,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

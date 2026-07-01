@@ -4,7 +4,10 @@
   "kanji": "正常",
   "kana": "せいじょう",
   "display": "正常",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "正常",
+    "常態"
+  ],
   "meanings_en": [
     "normalcy",
     "normality",
@@ -26,7 +29,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

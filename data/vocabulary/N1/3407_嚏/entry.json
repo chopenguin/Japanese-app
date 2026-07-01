@@ -4,7 +4,9 @@
   "kanji": "嚏",
   "kana": "くしゃみ",
   "display": "嚏",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "打噴嚏"
+  ],
   "meanings_en": [
     "sneeze"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

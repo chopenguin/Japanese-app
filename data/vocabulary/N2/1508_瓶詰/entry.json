@@ -4,7 +4,10 @@
   "kanji": "瓶詰",
   "kana": "びんづめ",
   "display": "瓶詰",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "瓶裝",
+    "裝瓶"
+  ],
   "meanings_en": [
     "bottling",
     "bottled"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

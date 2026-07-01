@@ -4,7 +4,10 @@
   "kanji": "研究室",
   "kana": "けんきゅうしつ",
   "display": "研究室",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "自習室",
+    "實驗室"
+  ],
   "meanings_en": [
     "study room",
     "laboratory"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

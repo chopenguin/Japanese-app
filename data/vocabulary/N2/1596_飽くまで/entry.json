@@ -4,7 +4,10 @@
   "kanji": "飽くまで",
   "kana": "あくまで",
   "display": "飽くまで",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "到最後",
+    "頑固地"
+  ],
   "meanings_en": [
     "to the end",
     "to the last",
@@ -26,7 +29,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

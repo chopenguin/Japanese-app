@@ -4,7 +4,9 @@
   "kanji": "放送",
   "kana": "ほうそう",
   "display": "放送",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "廣播"
+  ],
   "meanings_en": [
     "broadcast",
     "broadcasting"
@@ -25,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

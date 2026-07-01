@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "とっくに",
   "display": "とっくに",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "很久以前",
+    "已經"
+  ],
   "meanings_en": [
     "long ago",
     "already",
@@ -26,7 +29,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

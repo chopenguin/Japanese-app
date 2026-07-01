@@ -4,7 +4,9 @@
   "kanji": "滅多に",
   "kana": "めったに",
   "display": "滅多に",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "很少"
+  ],
   "meanings_en": [
     "rarely (with neg. verb)",
     "seldom"
@@ -25,7 +27,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

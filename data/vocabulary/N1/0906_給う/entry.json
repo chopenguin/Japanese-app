@@ -4,7 +4,10 @@
   "kanji": "給う",
   "kana": "たまう",
   "display": "給う",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "接受",
+    "授予"
+  ],
   "meanings_en": [
     "to receive",
     "to grant"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

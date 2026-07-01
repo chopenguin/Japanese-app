@@ -4,7 +4,12 @@
   "kanji": "並み",
   "kana": "なみ",
   "display": "並み",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "平均",
+    "中等",
+    "普通",
+    "一般"
+  ],
   "meanings_en": [
     "average",
     "medium",
@@ -27,7 +32,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

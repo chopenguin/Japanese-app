@@ -4,7 +4,12 @@
   "kanji": "空ろ",
   "kana": "うつろ",
   "display": "空ろ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "空白",
+    "空洞",
+    "中空",
+    "空間"
+  ],
   "meanings_en": [
     "blank",
     "cavity",
@@ -18,7 +23,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

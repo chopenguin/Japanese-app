@@ -4,7 +4,10 @@
   "kanji": "世辞",
   "kana": "せじ",
   "display": "世辞",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "奉承",
+    "恭維"
+  ],
   "meanings_en": [
     "flattery",
     "compliment"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

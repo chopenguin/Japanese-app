@@ -4,7 +4,11 @@
   "kanji": "何なり",
   "kana": "なんなり",
   "display": "何なり",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "任何",
+    "任何事",
+    "無論"
+  ],
   "meanings_en": [
     "any",
     "anything",
@@ -22,7 +26,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

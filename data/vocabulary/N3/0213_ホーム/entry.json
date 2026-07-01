@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "ホーム",
   "display": "ホーム",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "平臺",
+    "首頁"
+  ],
   "meanings_en": [
     "(1) platform",
     "(2) home"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

@@ -4,7 +4,11 @@
   "kanji": "",
   "kana": "いつまでも",
   "display": "いつまでも",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "永遠",
+    "只要一個人喜歡",
+    "無限期"
+  ],
   "meanings_en": [
     "forever",
     "for good",
@@ -28,7 +32,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

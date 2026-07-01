@@ -4,7 +4,9 @@
   "kanji": "丸い/円い",
   "kana": "まるい",
   "display": "丸い/円い",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "圓形"
+  ],
   "meanings_en": [
     "round",
     "circular"
@@ -16,7 +18,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

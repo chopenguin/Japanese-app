@@ -4,7 +4,10 @@
   "kanji": "お昼",
   "kana": "おひる",
   "display": "お昼",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "午餐",
+    "中午"
+  ],
   "meanings_en": [
     "lunch",
     "noon"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

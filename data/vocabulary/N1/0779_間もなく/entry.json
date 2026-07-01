@@ -4,7 +4,9 @@
   "kanji": "間もなく",
   "kana": "まもなく",
   "display": "間もなく",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "不久[不久]"
+  ],
   "meanings_en": [
     "soon",
     "before long",
@@ -26,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

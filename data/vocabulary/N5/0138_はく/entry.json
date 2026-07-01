@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "はく",
   "display": "はく",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "穿",
+    "穿上褲子"
+  ],
   "meanings_en": [
     "to wear",
     "to put on trousers"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

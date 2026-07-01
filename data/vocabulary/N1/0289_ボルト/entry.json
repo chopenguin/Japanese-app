@@ -4,7 +4,10 @@
   "kanji": "",
   "kana": "ボルト",
   "display": "ボルト",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "伏特",
+    "螺栓"
+  ],
   "meanings_en": [
     "volt",
     "bolt"
@@ -25,7 +28,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

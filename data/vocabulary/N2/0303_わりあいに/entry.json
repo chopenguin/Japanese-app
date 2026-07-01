@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "わりあいに",
   "display": "わりあいに",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "相對地"
+  ],
   "meanings_en": [
     "comparatively"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

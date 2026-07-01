@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "じゃ/じゃあ",
   "display": "じゃ/じゃあ",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "那麼…"
+  ],
   "meanings_en": [
     "well then…"
   ],
@@ -15,7 +17,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

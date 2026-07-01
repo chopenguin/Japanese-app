@@ -4,7 +4,9 @@
   "kanji": "",
   "kana": "いつのまにか",
   "display": "いつのまにか",
-  "meanings_zh": [],
+  "meanings_zh": [
+    "未知[未知]"
+  ],
   "meanings_en": [
     "before one knows",
     "unnoticed",
@@ -17,7 +19,7 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "missing"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,
