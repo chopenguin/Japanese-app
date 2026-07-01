@@ -1,0 +1,38 @@
+{
+  "id": "n3-0050",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "カー",
+  "display": "カー",
+  "meanings_zh": [
+    "汽车",
+    "车辆",
+    "列车",
+    "电车"
+  ],
+  "meanings_en": [
+    "car"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "カールだわ。",
+      "en": "That's Carl."
+    },
+    {
+      "ja": "レンタカーです。",
+      "en": "It's a rented car."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

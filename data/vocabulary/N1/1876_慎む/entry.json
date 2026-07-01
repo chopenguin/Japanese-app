@@ -1,0 +1,40 @@
+{
+  "id": "n1-1876",
+  "jlpt": "N1",
+  "kanji": "慎む",
+  "kana": "つつしむ",
+  "display": "慎む",
+  "meanings_zh": [
+    "谨慎",
+    "慎重",
+    "小心",
+    "节制"
+  ],
+  "meanings_en": [
+    "to be careful",
+    "to be chaste or discreet",
+    "to abstain or refrain"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "軽挙妄動を慎むべきだ。",
+      "en": "You should behave carefully."
+    },
+    {
+      "ja": "相乗りしている人は他の乗客との会話を慎むべきだ。",
+      "en": "People sharing a ride should refrain from conversation with other passengers."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

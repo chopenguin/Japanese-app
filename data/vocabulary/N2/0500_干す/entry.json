@@ -1,0 +1,42 @@
+{
+  "id": "n2-0500",
+  "jlpt": "N2",
+  "kanji": "干す",
+  "kana": "ほす",
+  "display": "干す",
+  "meanings_zh": [
+    "晒",
+    "晒干",
+    "晾",
+    "晾干"
+  ],
+  "meanings_en": [
+    "to air",
+    "to dry",
+    "to desiccate",
+    "to drain (off)",
+    "to drink up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "洗濯物を干すには最高の天気だ。",
+      "en": "This is perfect weather for drying clothes."
+    },
+    {
+      "ja": "トムが洗濯物を干すの手伝ってあげて。",
+      "en": "Please help Tom hang up the laundry."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

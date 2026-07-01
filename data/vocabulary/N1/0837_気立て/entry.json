@@ -1,0 +1,34 @@
+{
+  "id": "n1-0837",
+  "jlpt": "N1",
+  "kanji": "気立て",
+  "kana": "きだて",
+  "display": "気立て",
+  "meanings_zh": [],
+  "meanings_en": [
+    "disposition",
+    "nature"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は気立てがいい。",
+      "en": "She is good-natured."
+    },
+    {
+      "ja": "彼は気立てが良さそうだ。",
+      "en": "He looks good-natured."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

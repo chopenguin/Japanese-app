@@ -1,0 +1,33 @@
+{
+  "id": "n1-0245",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "パチンコ",
+  "display": "パチンコ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "pachinko (Japanese pinball)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼がパチンコするなんて絶対にないよ。",
+      "en": "He wouldn't be caught dead playing pachinko."
+    },
+    {
+      "ja": "私たちは、パチンコをして時を過ごした。",
+      "en": "We passed the time playing pachinko."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n5-0142",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "パン",
+  "display": "パン",
+  "meanings_zh": [],
+  "meanings_en": [
+    "bread"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "きみはパンダ。",
+      "en": "You are a panda."
+    },
+    {
+      "ja": "パン買ったよ。",
+      "en": "I bought bread."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

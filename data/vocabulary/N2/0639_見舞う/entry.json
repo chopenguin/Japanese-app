@@ -1,0 +1,39 @@
+{
+  "id": "n2-0639",
+  "jlpt": "N2",
+  "kanji": "見舞う",
+  "kana": "みまう",
+  "display": "見舞う",
+  "meanings_zh": [
+    "访问",
+    "看望",
+    "探望",
+    "慰问"
+  ],
+  "meanings_en": [
+    "to ask after (health)",
+    "to visit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らは私を見舞うためにその病院に来てくれた。",
+      "en": "They came to the hospital to inquire after me."
+    },
+    {
+      "ja": "私は病気の友人を見舞うために大阪へ行ってきた。",
+      "en": "I've been to Osaka to ask after my sick friend."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n5-0556",
+  "jlpt": "N5",
+  "kanji": "買う",
+  "kana": "かう",
+  "display": "買う",
+  "meanings_zh": [
+    "买",
+    "惹起",
+    "招致",
+    "承担"
+  ],
+  "meanings_en": [
+    "to buy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それ買うよ。",
+      "en": "I'll buy it."
+    },
+    {
+      "ja": "トムは何を買う？",
+      "en": "What's Tom buying?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

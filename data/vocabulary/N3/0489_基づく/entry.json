@@ -1,0 +1,41 @@
+{
+  "id": "n3-0489",
+  "jlpt": "N3",
+  "kanji": "基づく",
+  "kana": "もとづく",
+  "display": "基づく",
+  "meanings_zh": [
+    "根据",
+    "基于",
+    "按照",
+    "本着"
+  ],
+  "meanings_en": [
+    "to be grounded on",
+    "to be based on",
+    "to be due to",
+    "to originate from"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "税金は収入に基づく。",
+      "en": "Taxation is based on income."
+    },
+    {
+      "ja": "彼の理論は事実に基づく。",
+      "en": "His theory is based on fact."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

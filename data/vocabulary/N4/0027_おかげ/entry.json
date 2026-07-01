@@ -1,0 +1,33 @@
+{
+  "id": "n4-0027",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "おかげ",
+  "display": "おかげ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "owing to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "おかげでほぼ完徹だ。",
+      "en": "Thanks to which I was up nearly all night."
+    },
+    {
+      "ja": "すべて君のおかげだ。",
+      "en": "I owe it all to you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

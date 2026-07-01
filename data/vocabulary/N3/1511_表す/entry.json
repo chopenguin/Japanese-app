@@ -1,0 +1,40 @@
+{
+  "id": "n3-1511",
+  "jlpt": "N3",
+  "kanji": "表す",
+  "kana": "あらわす",
+  "display": "表す",
+  "meanings_zh": [
+    "表现",
+    "表示",
+    "表达",
+    "象征"
+  ],
+  "meanings_en": [
+    "to express",
+    "to show",
+    "to reveal"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "酒は本心を表す。",
+      "en": "In wine, there is truth."
+    },
+    {
+      "ja": "沈黙は同意を表す。",
+      "en": "Silence gives consent."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

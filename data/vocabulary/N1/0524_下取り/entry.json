@@ -1,0 +1,37 @@
+{
+  "id": "n1-0524",
+  "jlpt": "N1",
+  "kanji": "下取り",
+  "kana": "したどり",
+  "display": "下取り",
+  "meanings_zh": [
+    "用旧物折价贴钱换取新物",
+    "用旧物贴换新物"
+  ],
+  "meanings_en": [
+    "trade in",
+    "part exchange"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "車を下取りに出して新車を買った。",
+      "en": "I traded in my car for a new one."
+    },
+    {
+      "ja": "私は古い車を下取りに出して新車を買った。",
+      "en": "I traded in my old car for a new one."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

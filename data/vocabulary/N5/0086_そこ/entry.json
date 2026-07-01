@@ -1,0 +1,33 @@
+{
+  "id": "n5-0086",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "そこ",
+  "display": "そこ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "that place"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そこにいて。",
+      "en": "Stay there."
+    },
+    {
+      "ja": "そこ暖かい？",
+      "en": "Is it warm there?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

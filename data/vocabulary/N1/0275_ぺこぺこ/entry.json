@@ -1,0 +1,39 @@
+{
+  "id": "n1-0275",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ぺこぺこ",
+  "display": "ぺこぺこ",
+  "meanings_zh": [
+    "瘪",
+    "不臌",
+    "饿",
+    "空"
+  ],
+  "meanings_en": [
+    "fawn",
+    "be very hungry"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お腹がぺこぺこです。",
+      "en": "I'm starved."
+    },
+    {
+      "ja": "上役にやたらにぺこぺこするな。",
+      "en": "Don't be subservient to your boss."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

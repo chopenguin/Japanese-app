@@ -1,0 +1,29 @@
+{
+  "id": "n2-1174",
+  "jlpt": "N2",
+  "kanji": "送り仮名",
+  "kana": "おくりがな",
+  "display": "送り仮名",
+  "meanings_zh": [],
+  "meanings_en": [
+    "part of word written in kana"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この漢字、送り仮名が間違ってるよ。",
+      "en": "The okurigana on this kanji is wrong."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

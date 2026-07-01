@@ -1,0 +1,38 @@
+{
+  "id": "n4-0204",
+  "jlpt": "N4",
+  "kanji": "開く",
+  "kana": "ひらく",
+  "display": "開く",
+  "meanings_zh": [
+    "开",
+    "开始",
+    "开张",
+    "加大"
+  ],
+  "meanings_en": [
+    "to open an event"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "本を開くな。",
+      "en": "Don't open your book."
+    },
+    {
+      "ja": "心を開くんだ。",
+      "en": "Open your hearts."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

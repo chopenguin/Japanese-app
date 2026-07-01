@@ -1,0 +1,36 @@
+{
+  "id": "n3-0046",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "およそ",
+  "display": "およそ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "about",
+    "roughly",
+    "as a rule",
+    "approximately"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "およそ２週間で。",
+      "en": "In about two weeks."
+    },
+    {
+      "ja": "仕事はおよそ終わった。",
+      "en": "My work is almost finished."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

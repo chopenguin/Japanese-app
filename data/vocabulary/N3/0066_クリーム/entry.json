@@ -1,0 +1,38 @@
+{
+  "id": "n3-0066",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "クリーム",
+  "display": "クリーム",
+  "meanings_zh": [
+    "奶油",
+    "乳油",
+    "乳脂",
+    "雪花膏"
+  ],
+  "meanings_en": [
+    "cream"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "バターはクリームで作る。",
+      "en": "Butter is made from cream."
+    },
+    {
+      "ja": "ソフトクリーム食べたい。",
+      "en": "I want to eat soft serve ice cream."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

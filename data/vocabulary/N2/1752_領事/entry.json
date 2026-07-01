@@ -1,0 +1,35 @@
+{
+  "id": "n2-1752",
+  "jlpt": "N2",
+  "kanji": "領事",
+  "kana": "りょうじ",
+  "display": "領事",
+  "meanings_zh": [
+    "领事"
+  ],
+  "meanings_en": [
+    "consul"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "領事館で働いています。",
+      "en": "I work at the consulate."
+    },
+    {
+      "ja": "彼はアメリカ領事館に出かけたよ。",
+      "en": "He went out to the American consulate."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n1-2548",
+  "jlpt": "N1",
+  "kanji": "怒る",
+  "kana": "いかる",
+  "display": "怒る",
+  "meanings_zh": [
+    "发怒",
+    "生气",
+    "愤怒",
+    "气愤"
+  ],
+  "meanings_en": [
+    "to get angry",
+    "to be angry"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はすぐ怒る。",
+      "en": "He gets mad very easily."
+    },
+    {
+      "ja": "怒るのは損だ。",
+      "en": "It doesn't pay to lose your temper."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

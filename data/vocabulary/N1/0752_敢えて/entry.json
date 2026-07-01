@@ -1,0 +1,39 @@
+{
+  "id": "n1-0752",
+  "jlpt": "N1",
+  "kanji": "敢えて",
+  "kana": "あえて",
+  "display": "敢えて",
+  "meanings_zh": [
+    "敢",
+    "硬",
+    "勉强",
+    "毫"
+  ],
+  "meanings_en": [
+    "dare (to do)",
+    "challenge (to do)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "敢えてやってみた。",
+      "en": "I took risks."
+    },
+    {
+      "ja": "恋は欲すれば、どの様な事をも敢えてするもの。",
+      "en": "And what love can do, that dares love attempt."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

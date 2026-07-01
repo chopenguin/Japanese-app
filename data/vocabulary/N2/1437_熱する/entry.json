@@ -1,0 +1,34 @@
+{
+  "id": "n2-1437",
+  "jlpt": "N2",
+  "kanji": "熱する",
+  "kana": "ねっする",
+  "display": "熱する",
+  "meanings_zh": [
+    "发热",
+    "变热",
+    "加热",
+    "弄热"
+  ],
+  "meanings_en": [
+    "to heat"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "水は充分に加熱すると沸騰する。",
+      "en": "Water will boil if heated enough."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

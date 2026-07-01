@@ -1,0 +1,40 @@
+{
+  "id": "n3-0640",
+  "jlpt": "N3",
+  "kanji": "激しい",
+  "kana": "はげしい",
+  "display": "激しい",
+  "meanings_zh": [
+    "激烈",
+    "强烈",
+    "猛烈",
+    "剧烈"
+  ],
+  "meanings_en": [
+    "violent",
+    "vehement",
+    "intense"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "胎動が激しいです。",
+      "en": "My baby kicks very hard."
+    },
+    {
+      "ja": "激しい雷鳴がした。",
+      "en": "There was a sharp peal of thunder."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n1-1405",
+  "jlpt": "N1",
+  "kanji": "刷り",
+  "kana": "すり",
+  "display": "刷り",
+  "meanings_zh": [
+    "印刷",
+    "印刷物",
+    "印刷品",
+    "向丝绸上印花"
+  ],
+  "meanings_en": [
+    "printing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私達は招待状を５０通刷りました。",
+      "en": "We ran off 50 copies of the invitation."
+    },
+    {
+      "ja": "白黒印刷より色刷りのほうが高い。",
+      "en": "A black and white print is less expensive than a colour print."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

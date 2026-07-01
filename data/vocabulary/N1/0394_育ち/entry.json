@@ -1,0 +1,39 @@
+{
+  "id": "n1-0394",
+  "jlpt": "N1",
+  "kanji": "育ち",
+  "kana": "そだち",
+  "display": "育ち",
+  "meanings_zh": [
+    "发育",
+    "成长",
+    "长势",
+    "教育"
+  ],
+  "meanings_en": [
+    "breeding",
+    "growth"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "田舎育ちです。",
+      "en": "I grew up in the countryside."
+    },
+    {
+      "ja": "人は氏より育ち。",
+      "en": "Birth is much, breeding is more."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

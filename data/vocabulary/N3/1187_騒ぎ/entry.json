@@ -1,0 +1,39 @@
+{
+  "id": "n3-1187",
+  "jlpt": "N3",
+  "kanji": "騒ぎ",
+  "kana": "さわぎ",
+  "display": "騒ぎ",
+  "meanings_zh": [
+    "吵闹",
+    "嘈杂声",
+    "喧哗",
+    "大哗"
+  ],
+  "meanings_en": [
+    "uproar",
+    "disturbance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何だこの大騒ぎは？",
+      "en": "What's the commotion?"
+    },
+    {
+      "ja": "一体何の騒ぎなの？",
+      "en": "What's all the fuss about?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

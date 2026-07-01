@@ -1,0 +1,39 @@
+{
+  "id": "n2-0711",
+  "jlpt": "N2",
+  "kanji": "広める",
+  "kana": "ひろめる",
+  "display": "広める",
+  "meanings_zh": [
+    "扩大",
+    "增广",
+    "普及",
+    "推广"
+  ],
+  "meanings_en": [
+    "to broaden",
+    "to propagate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "旅行は人の視野を広める。",
+      "en": "Travel broadens one's horizons."
+    },
+    {
+      "ja": "私たちは、この言葉を広める必要があります。",
+      "en": "We need to spread the word."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

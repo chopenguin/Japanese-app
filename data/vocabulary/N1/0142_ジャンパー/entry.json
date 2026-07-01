@@ -1,0 +1,34 @@
+{
+  "id": "n1-0142",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ジャンパー",
+  "display": "ジャンパー",
+  "meanings_zh": [
+    "跳跃者",
+    "跳跃运动员",
+    "茄克"
+  ],
+  "meanings_en": [
+    "jacket",
+    "jumper"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "おしゃれとは縁がなく、ジーパンにティーシャツ、ジャンパーといった格好で、駅まで自転車を走らせる。",
+      "en": "Unfashionable as it is, he rides his bike to the station dressed in jeans, a tee shirt, and a jacket."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

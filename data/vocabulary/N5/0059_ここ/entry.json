@@ -1,0 +1,33 @@
+{
+  "id": "n5-0059",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ここ",
+  "display": "ここ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "here"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ここが痛い。",
+      "en": "It hurts here."
+    },
+    {
+      "ja": "ここに来な。",
+      "en": "Come here."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

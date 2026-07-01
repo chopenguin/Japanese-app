@@ -1,0 +1,38 @@
+{
+  "id": "n1-3432",
+  "jlpt": "N1",
+  "kanji": "痒い",
+  "kana": "かゆい",
+  "display": "痒い",
+  "meanings_zh": [
+    "痒",
+    "发痒",
+    "痒痒"
+  ],
+  "meanings_en": [
+    "itchy",
+    "itching"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "鼻が痒いよ。",
+      "en": "My nose itches."
+    },
+    {
+      "ja": "手が痒いよ。",
+      "en": "My hand is itchy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

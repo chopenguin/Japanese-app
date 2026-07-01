@@ -1,0 +1,33 @@
+{
+  "id": "n5-0370",
+  "jlpt": "N5",
+  "kanji": "時々",
+  "kana": "ときどき",
+  "display": "時々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "sometimes"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は時々変です。",
+      "en": "Sometimes he can be a strange guy."
+    },
+    {
+      "ja": "うん、時々はね。",
+      "en": "Yeah, sometimes they do."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

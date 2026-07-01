@@ -1,0 +1,38 @@
+{
+  "id": "n5-0438",
+  "jlpt": "N5",
+  "kanji": "晴れる",
+  "kana": "はれる",
+  "display": "晴れる",
+  "meanings_zh": [
+    "晴",
+    "放晴",
+    "停止",
+    "消散"
+  ],
+  "meanings_en": [
+    "to be sunny"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "晴れると思う。",
+      "en": "I think it will be fine."
+    },
+    {
+      "ja": "晴れるのかなあ？",
+      "en": "I wonder if it will be nice."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

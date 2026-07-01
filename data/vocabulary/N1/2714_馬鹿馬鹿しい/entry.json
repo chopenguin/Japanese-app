@@ -1,0 +1,34 @@
+{
+  "id": "n1-2714",
+  "jlpt": "N1",
+  "kanji": "馬鹿馬鹿しい",
+  "kana": "ばかばかしい",
+  "display": "馬鹿馬鹿しい",
+  "meanings_zh": [
+    "无聊",
+    "毫无价值",
+    "荒谬",
+    "愚蠢"
+  ],
+  "meanings_en": [
+    "stupid"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ありゃあ馬鹿馬鹿しいアイデアだったな。",
+      "en": "That was a stupid idea."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n4-0094",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "それほど",
+  "display": "それほど",
+  "meanings_zh": [
+    "那么",
+    "那样(程度)"
+  ],
+  "meanings_en": [
+    "to that extent"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それほど簡単ではない。",
+      "en": "It's not quite as simple as that."
+    },
+    {
+      "ja": "彼はそれほど怒っていた。",
+      "en": "He was that angry."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

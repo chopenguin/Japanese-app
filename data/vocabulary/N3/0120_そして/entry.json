@@ -1,0 +1,38 @@
+{
+  "id": "n3-0120",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "そして",
+  "display": "そして",
+  "meanings_zh": [
+    "而",
+    "又",
+    "而且",
+    "然后"
+  ],
+  "meanings_en": [
+    "and"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そして愛が好き。",
+      "en": "And I like love."
+    },
+    {
+      "ja": "日は昇りそして沈む。",
+      "en": "The sun comes and goes."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

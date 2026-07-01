@@ -1,0 +1,33 @@
+{
+  "id": "n5-0095",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "たくさん",
+  "display": "たくさん",
+  "meanings_zh": [],
+  "meanings_en": [
+    "many"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "もうたくさんだ。",
+      "en": "I have had it."
+    },
+    {
+      "ja": "たくさん欲しい。",
+      "en": "I want a lot."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

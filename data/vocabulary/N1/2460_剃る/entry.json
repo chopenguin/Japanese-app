@@ -1,0 +1,36 @@
+{
+  "id": "n1-2460",
+  "jlpt": "N1",
+  "kanji": "剃る",
+  "kana": "する",
+  "display": "剃る",
+  "meanings_zh": [
+    "剃",
+    "刮"
+  ],
+  "meanings_en": [
+    "to shave"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は毎朝髭を剃る。",
+      "en": "I shave every morning."
+    },
+    {
+      "ja": "ひげ剃るの忘れてた。",
+      "en": "I forgot to shave."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n1-1973",
+  "jlpt": "N1",
+  "kanji": "是非とも",
+  "kana": "ぜひとも",
+  "display": "是非とも",
+  "meanings_zh": [
+    "一定",
+    "无论如何",
+    "务必"
+  ],
+  "meanings_en": [
+    "by all means (with sense of not taking no for an answer)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "是非ともそれをみたい。",
+      "en": "I've got to see it."
+    },
+    {
+      "ja": "是非ともそうしてください。",
+      "en": "Please do so by all means."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

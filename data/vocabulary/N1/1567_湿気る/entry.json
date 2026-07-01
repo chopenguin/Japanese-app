@@ -1,0 +1,29 @@
+{
+  "id": "n1-1567",
+  "jlpt": "N1",
+  "kanji": "湿気る",
+  "kana": "しける",
+  "display": "湿気る",
+  "meanings_zh": [
+    "潮湿",
+    "带潮气",
+    "发潮"
+  ],
+  "meanings_en": [
+    "to be damp",
+    "to be moist"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

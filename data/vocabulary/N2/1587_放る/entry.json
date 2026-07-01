@@ -1,0 +1,34 @@
+{
+  "id": "n2-1587",
+  "jlpt": "N2",
+  "kanji": "放る",
+  "kana": "ほうる",
+  "display": "放る",
+  "meanings_zh": [
+    "抛",
+    "扔",
+    "弃置不顾",
+    "丢开"
+  ],
+  "meanings_en": [
+    "to let go"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "いい球を放るようになったな、恵一君。",
+      "en": "You throw a good ball nowadays, Keiichi."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

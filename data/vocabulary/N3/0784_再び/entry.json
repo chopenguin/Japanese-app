@@ -1,0 +1,39 @@
+{
+  "id": "n3-0784",
+  "jlpt": "N3",
+  "kanji": "再び",
+  "kana": "ふたたび",
+  "display": "再び",
+  "meanings_zh": [
+    "再",
+    "又",
+    "重"
+  ],
+  "meanings_en": [
+    "again",
+    "once more",
+    "a second time"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女に再び会った。",
+      "en": "I saw her again."
+    },
+    {
+      "ja": "再び沈黙があった。",
+      "en": "There was another silence."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

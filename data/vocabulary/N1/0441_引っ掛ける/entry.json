@@ -1,0 +1,34 @@
+{
+  "id": "n1-0441",
+  "jlpt": "N1",
+  "kanji": "引っ掛ける",
+  "kana": "ひっかける",
+  "display": "引っ掛ける",
+  "meanings_zh": [
+    "挂",
+    "披上",
+    "欺骗",
+    "大口喝"
+  ],
+  "meanings_en": [
+    "1.  to hang (something) on (something)",
+    "to throw on (clothes)",
+    "2.  to hook",
+    "to catch",
+    "to trap",
+    "to ensnar"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

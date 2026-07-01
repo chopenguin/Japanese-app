@@ -1,0 +1,43 @@
+{
+  "id": "n3-0920",
+  "jlpt": "N3",
+  "kanji": "臭い",
+  "kana": "くさい",
+  "display": "臭い",
+  "meanings_zh": [
+    "臭",
+    "难闻",
+    "可疑 有～～气味儿",
+    "味道",
+    "派头",
+    "样子"
+  ],
+  "meanings_en": [
+    "odour",
+    "scent",
+    "smell",
+    "stench"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "面倒臭いよ。",
+      "en": "I can't be bothered."
+    },
+    {
+      "ja": "詐欺臭いな。",
+      "en": "It sounds like a scam."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

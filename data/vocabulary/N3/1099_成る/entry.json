@@ -1,0 +1,38 @@
+{
+  "id": "n3-1099",
+  "jlpt": "N3",
+  "kanji": "成る",
+  "kana": "なる",
+  "display": "成る",
+  "meanings_zh": [
+    "做好",
+    "做完",
+    "完成",
+    "成"
+  ],
+  "meanings_en": [
+    "to become"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "成せば成る。",
+      "en": "Where there's a will, there's a way."
+    },
+    {
+      "ja": "社会は個人より成る。",
+      "en": "Society consists of individuals."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

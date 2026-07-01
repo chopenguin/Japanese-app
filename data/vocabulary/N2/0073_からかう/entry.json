@@ -1,0 +1,41 @@
+{
+  "id": "n2-0073",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "からかう",
+  "display": "からかう",
+  "meanings_zh": [
+    "逗",
+    "逗弄",
+    "戏弄",
+    "调戏"
+  ],
+  "meanings_en": [
+    "to ridicule",
+    "to tease",
+    "to banter with",
+    "to make fun of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らをからかうな。",
+      "en": "Don't make fun of them."
+    },
+    {
+      "ja": "外人をからかうな。",
+      "en": "Don't make fun of foreigners."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

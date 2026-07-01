@@ -1,0 +1,41 @@
+{
+  "id": "n2-1727",
+  "jlpt": "N2",
+  "kanji": "頼もしい",
+  "kana": "たのもしい",
+  "display": "頼もしい",
+  "meanings_zh": [
+    "可靠",
+    "靠得住",
+    "有出息",
+    "有望"
+  ],
+  "meanings_en": [
+    "reliable",
+    "trustworthy",
+    "hopeful",
+    "promising"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は頼もしい男だ。",
+      "en": "He is a man to be depended on."
+    },
+    {
+      "ja": "トムって、頼もしい。",
+      "en": "Tom is reliable."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

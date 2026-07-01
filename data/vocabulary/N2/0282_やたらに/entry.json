@@ -1,0 +1,31 @@
+{
+  "id": "n2-0282",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "やたらに",
+  "display": "やたらに",
+  "meanings_zh": [],
+  "meanings_en": [
+    "randomly",
+    "recklessly",
+    "blindly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "上役にやたらにぺこぺこするな。",
+      "en": "Don't be subservient to your boss."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

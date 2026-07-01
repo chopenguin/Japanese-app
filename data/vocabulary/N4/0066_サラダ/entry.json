@@ -1,0 +1,36 @@
+{
+  "id": "n4-0066",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "サラダ",
+  "display": "サラダ",
+  "meanings_zh": [
+    "色拉",
+    "凉拌菜"
+  ],
+  "meanings_en": [
+    "salad"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "サラダ、美味しい？",
+      "en": "Is the salad tasty?"
+    },
+    {
+      "ja": "サラダを食べますか。",
+      "en": "Do you eat salad?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

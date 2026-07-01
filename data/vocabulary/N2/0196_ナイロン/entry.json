@@ -1,0 +1,37 @@
+{
+  "id": "n2-0196",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ナイロン",
+  "display": "ナイロン",
+  "meanings_zh": [
+    "尼龙",
+    "耐纶",
+    "锦纶"
+  ],
+  "meanings_en": [
+    "nylon"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ナイロンストッキングはすぐ伝線する。",
+      "en": "Nylon stockings often run."
+    },
+    {
+      "ja": "このナイロンソックスは、洗濯がきく。",
+      "en": "These nylon socks wash well."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

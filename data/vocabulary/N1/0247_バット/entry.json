@@ -1,0 +1,34 @@
+{
+  "id": "n1-0247",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "バット",
+  "display": "バット",
+  "meanings_zh": [],
+  "meanings_en": [
+    "bat",
+    "vat"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は速球をバットで打った。",
+      "en": "He hit a speed ball with his bat."
+    },
+    {
+      "ja": "彼はバットでボールを打った。",
+      "en": "He hit a ball with the bat."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

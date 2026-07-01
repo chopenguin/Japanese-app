@@ -1,0 +1,37 @@
+{
+  "id": "n4-0429",
+  "jlpt": "N4",
+  "kanji": "折る",
+  "kana": "おる",
+  "display": "折る",
+  "meanings_zh": [
+    "折",
+    "弄断",
+    "叠"
+  ],
+  "meanings_en": [
+    "to break or to fold"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "木を折るな。",
+      "en": "Don't break the branches."
+    },
+    {
+      "ja": "無駄骨を折るだけだ。",
+      "en": "It is like looking for a needle in a haystack."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

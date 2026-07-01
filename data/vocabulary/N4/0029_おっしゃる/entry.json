@@ -1,0 +1,33 @@
+{
+  "id": "n4-0029",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "おっしゃる",
+  "display": "おっしゃる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(respectful) to say"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "おっしゃる通りです。",
+      "en": "You're right."
+    },
+    {
+      "ja": "全くおっしゃる通りです。",
+      "en": "You are absolutely right."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

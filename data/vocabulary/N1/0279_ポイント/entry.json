@@ -1,0 +1,38 @@
+{
+  "id": "n1-0279",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ポイント",
+  "display": "ポイント",
+  "meanings_zh": [
+    "点",
+    "句点",
+    "小数点",
+    "要点"
+  ],
+  "meanings_en": [
+    "point"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ポイントカードはお持ちですか？",
+      "en": "Do you have a points card?"
+    },
+    {
+      "ja": "これはとても重要なポイントです。",
+      "en": "This is an extremely important point."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n2-0608",
+  "jlpt": "N2",
+  "kanji": "繋がり",
+  "kana": "つながり",
+  "display": "繋がり",
+  "meanings_zh": [
+    "连接",
+    "相连",
+    "系列",
+    "联系"
+  ],
+  "meanings_en": [
+    "connection",
+    "link",
+    "relationship"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "インターネットを繋ごうとしても、繋がりません。",
+      "en": "Even if I try to connect to the internet, I can't connect."
+    },
+    {
+      "ja": "その新しいトンネルによってイギリスとフランスが繋がります。",
+      "en": "The new tunnel will link Great Britain and France."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

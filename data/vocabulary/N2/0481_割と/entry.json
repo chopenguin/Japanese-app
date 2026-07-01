@@ -1,0 +1,34 @@
+{
+  "id": "n2-0481",
+  "jlpt": "N2",
+  "kanji": "割と",
+  "kana": "わりと",
+  "display": "割と",
+  "meanings_zh": [],
+  "meanings_en": [
+    "relatively",
+    "comparitively"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "割とありうる。",
+      "en": "It's quite possible."
+    },
+    {
+      "ja": "トムって割と早口だね。",
+      "en": "Tom speaks relatively fast."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

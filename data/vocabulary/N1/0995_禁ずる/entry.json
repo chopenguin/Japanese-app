@@ -1,0 +1,39 @@
+{
+  "id": "n1-0995",
+  "jlpt": "N1",
+  "kanji": "禁ずる",
+  "kana": "きんずる",
+  "display": "禁ずる",
+  "meanings_zh": [
+    "禁止",
+    "不准",
+    "忌",
+    "戒"
+  ],
+  "meanings_en": [
+    "to forbid",
+    "to suppress"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私の部屋での喫煙を禁ずる。",
+      "en": "I forbid smoking in my room."
+    },
+    {
+      "ja": "ベッドでの煙草を禁ずる厳しい規則がある。",
+      "en": "There is a very strict rule forbidding smoking in bed."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

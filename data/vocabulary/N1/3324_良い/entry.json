@@ -1,0 +1,38 @@
+{
+  "id": "n1-3324",
+  "jlpt": "N1",
+  "kanji": "良い",
+  "kana": "いい",
+  "display": "良い",
+  "meanings_zh": [
+    "好",
+    "良好",
+    "优良",
+    "优秀"
+  ],
+  "meanings_en": [
+    "good"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "良い週末を。",
+      "en": "Have a nice weekend!"
+    },
+    {
+      "ja": "良い休暇を。",
+      "en": "Have a nice vacation."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

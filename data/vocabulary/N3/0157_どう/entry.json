@@ -1,0 +1,35 @@
+{
+  "id": "n3-0157",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "（接。副）",
+  "display": "どう",
+  "meanings_zh": [],
+  "meanings_en": [
+    "child",
+    "servant",
+    "foolishness"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "是非どうぞ。",
+      "en": "By all means."
+    },
+    {
+      "ja": "景気はどう？",
+      "en": "How goes it?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n4-0205",
+  "jlpt": "N4",
+  "kanji": "確か",
+  "kana": "たしか",
+  "display": "確か",
+  "meanings_zh": [
+    "确实",
+    "确切",
+    "正确",
+    "准确"
+  ],
+  "meanings_en": [
+    "definite"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "気は確かか。",
+      "en": "Are you crazy?"
+    },
+    {
+      "ja": "確かですか？",
+      "en": "Are you certain?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

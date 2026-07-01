@@ -1,0 +1,44 @@
+{
+  "id": "n1-3164",
+  "jlpt": "N1",
+  "kanji": "免れる",
+  "kana": "まぬかれる",
+  "display": "免れる",
+  "meanings_zh": [
+    "免",
+    "避免",
+    "摆脱"
+  ],
+  "meanings_en": [
+    "to escape from",
+    "to be rescued from",
+    "to avoid",
+    "to evade",
+    "to avert",
+    "to elude",
+    "to be exempted",
+    "to be relieved"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "又しても死を免れることができた。",
+      "en": "Again I was able to escape death."
+    },
+    {
+      "ja": "無知ゆえに刑罰を免れるということはない。",
+      "en": "Ignorance does not protect against punishment."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

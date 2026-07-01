@@ -1,0 +1,38 @@
+{
+  "id": "n2-0216",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "バンド",
+  "display": "バンド",
+  "meanings_zh": [
+    "带",
+    "腰带",
+    "皮带",
+    "乐队"
+  ],
+  "meanings_en": [
+    "band"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "好きなバンドは？",
+      "en": "What bands do you like?"
+    },
+    {
+      "ja": "バンド名はレッド・ホット。",
+      "en": "My band name's Red Hot."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "n1-3222",
+  "jlpt": "N1",
+  "kanji": "有りのまま",
+  "kana": "ありのまま",
+  "display": "有りのまま",
+  "meanings_zh": [
+    "据实",
+    "事实上",
+    "实事求是"
+  ],
+  "meanings_en": [
+    "the truth",
+    "fact",
+    "as it is",
+    "frankly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

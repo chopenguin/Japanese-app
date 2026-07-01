@@ -1,0 +1,36 @@
+{
+  "id": "n1-2964",
+  "jlpt": "N1",
+  "kanji": "並み",
+  "kana": "なみ",
+  "display": "並み",
+  "meanings_zh": [],
+  "meanings_en": [
+    "average",
+    "medium",
+    "common",
+    "ordinary"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "農作物は平年並みだ。",
+      "en": "The crops are up to the average."
+    },
+    {
+      "ja": "彼らの判断は月並みだ。",
+      "en": "They are conventional in their judgement."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

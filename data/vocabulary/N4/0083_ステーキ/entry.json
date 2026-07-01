@@ -1,0 +1,36 @@
+{
+  "id": "n4-0083",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ステーキ",
+  "display": "ステーキ",
+  "meanings_zh": [
+    "牛排",
+    "烤肉"
+  ],
+  "meanings_en": [
+    "steak"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ステーキ食べたい。",
+      "en": "I want to eat steak."
+    },
+    {
+      "ja": "ステーキがもっと欲しい。",
+      "en": "I want more of the steak."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "n1-2500",
+  "jlpt": "N1",
+  "kanji": "添える",
+  "kana": "そえる",
+  "display": "添える",
+  "meanings_zh": [
+    "添",
+    "附加",
+    "附上",
+    "配上"
+  ],
+  "meanings_en": [
+    "to add to",
+    "to attach",
+    "to append",
+    "to accompany",
+    "to garnish",
+    "to imitate",
+    "to annex"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "機知は会話に趣を添える。",
+      "en": "Wit gives zest to conversation."
+    },
+    {
+      "ja": "歳月は距離同様二重の魅力を添える。",
+      "en": "Age, like distance, lends a double charm."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

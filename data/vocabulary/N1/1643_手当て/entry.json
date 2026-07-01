@@ -1,0 +1,36 @@
+{
+  "id": "n1-1643",
+  "jlpt": "N1",
+  "kanji": "手当て",
+  "kana": "てあて",
+  "display": "手当て",
+  "meanings_zh": [],
+  "meanings_en": [
+    "allowance",
+    "compensation",
+    "treatment",
+    "medical care"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "田中さんは怪我した人の手当てをしたり、病気になった人の介抱をしたりすることが好きでした。",
+      "en": "Mrs Tanaka liked to carry out first aid on the injured and take care of the sick."
+    },
+    {
+      "ja": "凍死しそうな乞食が手当てのため、病院に運び込まれた。だが、その乞食は治療費を清算するような金は一文も、もってなかった。",
+      "en": "A freezing beggar was brought into the hospital for treatment. However, he didn't have even one cent with which to settle the bill."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

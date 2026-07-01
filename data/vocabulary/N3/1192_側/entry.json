@@ -1,0 +1,40 @@
+{
+  "id": "n3-1192",
+  "jlpt": "N3",
+  "kanji": "側",
+  "kana": "そば",
+  "display": "側",
+  "meanings_zh": [
+    "旁边",
+    "附近",
+    "随～～随",
+    "刚～～就～～"
+  ],
+  "meanings_en": [
+    "side",
+    "edge",
+    "third person"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "左側通行です。",
+      "en": "Keep to the left."
+    },
+    {
+      "ja": "右側通行です。",
+      "en": "Keep to the right."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

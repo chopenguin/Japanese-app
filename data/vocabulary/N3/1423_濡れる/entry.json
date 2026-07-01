@@ -1,0 +1,38 @@
+{
+  "id": "n3-1423",
+  "jlpt": "N3",
+  "kanji": "濡れる",
+  "kana": "ぬれる",
+  "display": "濡れる",
+  "meanings_zh": [
+    "濡湿",
+    "淋湿",
+    "沾湿",
+    "偷香窃玉"
+  ],
+  "meanings_en": [
+    "to get wet"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "猫は濡れるのを嫌がる。",
+      "en": "Cats dislike being wet."
+    },
+    {
+      "ja": "濡れるのを避けて、木の下に立った。",
+      "en": "I stood under a tree to avoid getting wet."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

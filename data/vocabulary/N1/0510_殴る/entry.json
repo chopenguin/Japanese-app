@@ -1,0 +1,38 @@
+{
+  "id": "n1-0510",
+  "jlpt": "N1",
+  "kanji": "殴る",
+  "kana": "なぐる",
+  "display": "殴る",
+  "meanings_zh": [
+    "殴打",
+    "打",
+    "揍"
+  ],
+  "meanings_en": [
+    "to strike",
+    "to hit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "痛い！由紀子！痛いよ。グーで殴るのはよせよ！",
+      "en": "Ow! Yukiko! That hurts! Quit hitting me with your fists!"
+    },
+    {
+      "ja": "わかった。わかった。わかったから、もう殴るのだけはやめてくれ。",
+      "en": "I know. I know. I get it already, so stop hitting me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

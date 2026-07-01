@@ -1,0 +1,34 @@
+{
+  "id": "n1-3451",
+  "jlpt": "N1",
+  "kanji": "躊躇う",
+  "kana": "ためらう",
+  "display": "躊躇う",
+  "meanings_zh": [
+    "踌躇",
+    "犹豫",
+    "游移",
+    "迟疑"
+  ],
+  "meanings_en": [
+    "to hesitate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "躊躇うものは失敗する。",
+      "en": "He who hesitates is lost."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

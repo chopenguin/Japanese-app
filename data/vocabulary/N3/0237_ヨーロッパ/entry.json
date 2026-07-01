@@ -1,0 +1,35 @@
+{
+  "id": "n3-0237",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ヨーロッパ",
+  "display": "ヨーロッパ",
+  "meanings_zh": [
+    "欧洲"
+  ],
+  "meanings_en": [
+    "Europe"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ヨーロッパは大陸です。",
+      "en": "Europe is a continent."
+    },
+    {
+      "ja": "ヨーロッパ人に見える。",
+      "en": "You look European."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n1-3103",
+  "jlpt": "N1",
+  "kanji": "味わい",
+  "kana": "あじわい",
+  "display": "味わい",
+  "meanings_zh": [
+    "味",
+    "味道",
+    "趣味",
+    "妙处"
+  ],
+  "meanings_en": [
+    "flavour",
+    "meaning",
+    "significance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この酒には独特の味わいがある。",
+      "en": "This liquor has a taste all of its own."
+    },
+    {
+      "ja": "私は口で味わい、食べ、そして飲む。",
+      "en": "I taste, eat and drink with my mouth."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

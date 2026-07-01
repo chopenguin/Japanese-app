@@ -1,0 +1,38 @@
+{
+  "id": "n3-0724",
+  "jlpt": "N3",
+  "kanji": "好む",
+  "kana": "このむ",
+  "display": "好む",
+  "meanings_zh": [
+    "爱好",
+    "喜欢",
+    "愿意"
+  ],
+  "meanings_en": [
+    "to like",
+    "to prefer"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "英雄色を好む。",
+      "en": "Who loves not women, wine and song remains a fool his whole life long."
+    },
+    {
+      "ja": "不幸は仲間を好む。",
+      "en": "Misery loves company."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

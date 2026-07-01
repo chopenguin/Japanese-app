@@ -1,0 +1,41 @@
+{
+  "id": "n2-0624",
+  "jlpt": "N2",
+  "kanji": "堅い",
+  "kana": "かたい",
+  "display": "堅い",
+  "meanings_zh": [
+    "硬",
+    "坚实",
+    "坚固",
+    "坚定"
+  ],
+  "meanings_en": [
+    "hard (esp. wood)",
+    "steadfast",
+    "honorable",
+    "stuffy writing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は口が堅い。",
+      "en": "He is a tight-lipped man."
+    },
+    {
+      "ja": "トムは口が堅い。",
+      "en": "Tom can keep a secret."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

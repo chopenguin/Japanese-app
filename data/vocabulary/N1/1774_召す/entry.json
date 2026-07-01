@@ -1,0 +1,43 @@
+{
+  "id": "n1-1774",
+  "jlpt": "N1",
+  "kanji": "召す",
+  "kana": "めす",
+  "display": "召す",
+  "meanings_zh": [
+    "召见",
+    "召唤",
+    "吃",
+    "喝"
+  ],
+  "meanings_en": [
+    "to call",
+    "to send for",
+    "to put on",
+    "to wear",
+    "to take (a bath)",
+    "to ride in",
+    "to buy",
+    "to eat",
+    "to drink",
+    "to catch (a"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ワインがお気に召すといいのですが。",
+      "en": "I hope the wine is to your taste."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

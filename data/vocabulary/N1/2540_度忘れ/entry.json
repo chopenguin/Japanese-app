@@ -1,0 +1,33 @@
+{
+  "id": "n1-2540",
+  "jlpt": "N1",
+  "kanji": "度忘れ",
+  "kana": "どわすれ",
+  "display": "度忘れ",
+  "meanings_zh": [
+    "一时想不起来",
+    "突然忘记"
+  ],
+  "meanings_en": [
+    "lapse of memory",
+    "forget for a moment"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は彼女の名前を度忘れした。",
+      "en": "For a moment I forgot what her name was."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "n1-1205",
+  "jlpt": "N1",
+  "kanji": "御負け",
+  "kana": "おまけ",
+  "display": "御負け",
+  "meanings_zh": [
+    "另外奉送",
+    "白送给的东西",
+    "另外附加的东西",
+    "附带的东西"
+  ],
+  "meanings_en": [
+    "1.  a discount",
+    "a prize",
+    "2.  something additional",
+    "bonus",
+    "an extra",
+    "3.  an exaggeration"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

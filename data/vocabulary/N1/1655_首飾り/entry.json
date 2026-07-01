@@ -1,0 +1,33 @@
+{
+  "id": "n1-1655",
+  "jlpt": "N1",
+  "kanji": "首飾り",
+  "kana": "くびかざり",
+  "display": "首飾り",
+  "meanings_zh": [
+    "项链",
+    "链形饰",
+    "垂饰"
+  ],
+  "meanings_en": [
+    "necklace"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は高価な首飾りをしています。",
+      "en": "She is wearing an expensive necklace."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

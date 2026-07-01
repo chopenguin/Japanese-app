@@ -1,0 +1,33 @@
+{
+  "id": "n5-0042",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "かぎ",
+  "display": "かぎ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "key"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "門にかぎを掛けなさい。",
+      "en": "Fasten the gate."
+    },
+    {
+      "ja": "旅は若いうちにかぎります。",
+      "en": "There is nothing better than travelling while young."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "n1-1219",
+  "jlpt": "N1",
+  "kanji": "交わす",
+  "kana": "かわす",
+  "display": "交わす",
+  "meanings_zh": [
+    "交",
+    "交换",
+    "交结",
+    "交叉"
+  ],
+  "meanings_en": [
+    "to exchange (messages)",
+    "to dodge",
+    "to parry",
+    "to avoid",
+    "to turn aside"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "愛を語ることとは愛を交わすことである。",
+      "en": "To talk about love is to make love."
+    },
+    {
+      "ja": "朝起きて、挨拶を交わす相手がいる——久しぶりの感覚だ。",
+      "en": "To get up in the morning, and there be someone to say good morning to - I haven't had this feeling for a long time."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

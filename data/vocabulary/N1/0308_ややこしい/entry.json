@@ -1,0 +1,40 @@
+{
+  "id": "n1-0308",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ややこしい",
+  "display": "ややこしい",
+  "meanings_zh": [
+    "复杂",
+    "麻烦",
+    "难办"
+  ],
+  "meanings_en": [
+    "puzzling",
+    "tangled",
+    "complicated",
+    "complex"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この世界はややこしい。",
+      "en": "This world is difficult."
+    },
+    {
+      "ja": "文法はとてもややこしい。",
+      "en": "Grammar is very complicated."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

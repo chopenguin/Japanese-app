@@ -1,0 +1,33 @@
+{
+  "id": "n1-3365",
+  "jlpt": "N1",
+  "kanji": "労る",
+  "kana": "いたわる",
+  "display": "労る",
+  "meanings_zh": [
+    "怜恤",
+    "照拂",
+    "照顾",
+    "安慰"
+  ],
+  "meanings_en": [
+    "to pity",
+    "to sympathize with",
+    "to console",
+    "to care for",
+    "to be kind to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

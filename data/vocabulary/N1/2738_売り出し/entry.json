@@ -1,0 +1,38 @@
+{
+  "id": "n1-2738",
+  "jlpt": "N1",
+  "kanji": "売り出し",
+  "kana": "うりだし",
+  "display": "売り出し",
+  "meanings_zh": [
+    "开始出售",
+    "甩卖",
+    "减价出售",
+    "贱卖"
+  ],
+  "meanings_en": [
+    "(bargain) sale"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "開店大売り出し。",
+      "en": "Grand opening sale."
+    },
+    {
+      "ja": "それはまだ売り出し中ですか？",
+      "en": "Is it still for sale?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

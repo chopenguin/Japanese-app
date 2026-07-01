@@ -1,0 +1,29 @@
+{
+  "id": "n1-0220",
+  "jlpt": "N1",
+  "kanji": "どうぞ宜しく",
+  "kana": "どうぞよろしく",
+  "display": "どうぞ宜しく",
+  "meanings_zh": [],
+  "meanings_en": [
+    "pleased to meet you"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "どうぞ宜しくお願い申し上げます。",
+      "en": "Thank you very much for the consideration you will give to our request."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

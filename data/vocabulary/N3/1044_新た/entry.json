@@ -1,0 +1,40 @@
+{
+  "id": "n3-1044",
+  "jlpt": "N3",
+  "kanji": "新た",
+  "kana": "あらた",
+  "display": "新た",
+  "meanings_zh": [
+    "新",
+    "重新",
+    "非常新",
+    "新鲜"
+  ],
+  "meanings_en": [
+    "new",
+    "fresh",
+    "novel"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "新たに始める。",
+      "en": "I will begin anew."
+    },
+    {
+      "ja": "新たな事実が発覚した。",
+      "en": "New facts have been brought to light."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n3-0192",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "パスポート",
+  "display": "パスポート",
+  "meanings_zh": [
+    "护照",
+    "身分证"
+  ],
+  "meanings_en": [
+    "passport"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "パスポートは持った？",
+      "en": "Do you have your passport?"
+    },
+    {
+      "ja": "パスポートは持ってるよ。",
+      "en": "I have my passport."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

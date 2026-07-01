@@ -1,0 +1,27 @@
+{
+  "id": "n1-1984",
+  "jlpt": "N1",
+  "kanji": "成るべく",
+  "kana": "なるべく",
+  "display": "成るべく",
+  "meanings_zh": [
+    "尽量",
+    "尽可能"
+  ],
+  "meanings_en": [
+    "as much as possible"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n3-0370",
+  "jlpt": "N3",
+  "kanji": "何とか",
+  "kana": "なんとか",
+  "display": "何とか",
+  "meanings_zh": [
+    "想办法",
+    "设法",
+    "勉强",
+    "好歹"
+  ],
+  "meanings_en": [
+    "somehow",
+    "anyhow",
+    "one way or another"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何とかしろ！",
+      "en": "Do something!"
+    },
+    {
+      "ja": "何とか入れた。",
+      "en": "I managed to get in."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

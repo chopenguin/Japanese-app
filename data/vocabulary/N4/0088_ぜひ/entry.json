@@ -1,0 +1,33 @@
+{
+  "id": "n4-0088",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ぜひ",
+  "display": "ぜひ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "without fail"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ぜひそうしよう。",
+      "en": "Why not?"
+    },
+    {
+      "ja": "ぜひ来てください。",
+      "en": "Do come by all means."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

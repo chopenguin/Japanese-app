@@ -1,0 +1,40 @@
+{
+  "id": "n3-1498",
+  "jlpt": "N3",
+  "kanji": "飛び出す",
+  "kana": "とびだす",
+  "display": "飛び出す",
+  "meanings_zh": [
+    "飞起",
+    "起飞",
+    "跑出去",
+    "跳出"
+  ],
+  "meanings_en": [
+    "to jump out",
+    "to rush out",
+    "to fly out"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "待ちくたびれているか全速力で飛び出すかだ。",
+      "en": "Bored waiting or rushing off at full speed."
+    },
+    {
+      "ja": "彼女は子供が道路に飛び出すのを見て強くブレーキをかけた。",
+      "en": "She braked hard when she saw a child run out into the road."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

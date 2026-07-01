@@ -1,0 +1,33 @@
+{
+  "id": "n2-0205",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "のろのろ",
+  "display": "のろのろ",
+  "meanings_zh": [
+    "迟缓",
+    "慢吞吞地"
+  ],
+  "meanings_en": [
+    "slowly",
+    "sluggishly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "休日で車は街道をのろのろと動いた。",
+      "en": "The holiday traffic crawled along the highway."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

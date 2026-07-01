@@ -1,0 +1,33 @@
+{
+  "id": "n5-0109",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "できる",
+  "display": "できる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to be able to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それできる？",
+      "en": "Can you do that?"
+    },
+    {
+      "ja": "想像できる？",
+      "en": "Can you picture it?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n1-3209",
+  "jlpt": "N1",
+  "kanji": "役立つ",
+  "kana": "やくだつ",
+  "display": "役立つ",
+  "meanings_zh": [
+    "有用",
+    "有益"
+  ],
+  "meanings_en": [
+    "to be useful",
+    "to be helpful",
+    "to serve the purpose"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "相互理解は平和に役立つ。",
+      "en": "Mutual understanding makes for peace."
+    },
+    {
+      "ja": "英語は商業において役立つ。",
+      "en": "English is useful in commerce."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

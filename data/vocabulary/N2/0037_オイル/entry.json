@@ -1,0 +1,40 @@
+{
+  "id": "n2-0037",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "オイル",
+  "display": "オイル",
+  "meanings_zh": [
+    "油",
+    "油类",
+    "石油",
+    "擦身油"
+  ],
+  "meanings_en": [
+    "oil",
+    "engine oil",
+    "kerosene"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "オリーブオイルを足して。",
+      "en": "Add some olive oil."
+    },
+    {
+      "ja": "オイルをしらべましょうか。",
+      "en": "Shall I check the oil?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

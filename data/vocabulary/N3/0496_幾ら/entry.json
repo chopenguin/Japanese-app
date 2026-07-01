@@ -1,0 +1,38 @@
+{
+  "id": "n3-0496",
+  "jlpt": "N3",
+  "kanji": "幾ら",
+  "kana": "いくら",
+  "display": "幾ら",
+  "meanings_zh": [
+    "多少",
+    "多",
+    "若干"
+  ],
+  "meanings_en": [
+    "how much?",
+    "how many?"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "幾らするの？",
+      "en": "How much does it cost?"
+    },
+    {
+      "ja": "それ幾らした？",
+      "en": "How much did you pay for those?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

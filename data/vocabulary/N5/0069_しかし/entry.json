@@ -1,0 +1,33 @@
+{
+  "id": "n5-0069",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "しかし",
+  "display": "しかし",
+  "meanings_zh": [],
+  "meanings_en": [
+    "however"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "しかし、なぜ？",
+      "en": "But why?"
+    },
+    {
+      "ja": "しかし、車は欲しい。",
+      "en": "But I want a car."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

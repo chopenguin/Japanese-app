@@ -1,0 +1,35 @@
+{
+  "id": "n1-2001",
+  "jlpt": "N1",
+  "kanji": "正常",
+  "kana": "せいじょう",
+  "display": "正常",
+  "meanings_zh": [],
+  "meanings_en": [
+    "normalcy",
+    "normality",
+    "normal"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "君の脈は正常だ。",
+      "en": "You have a regular pulse."
+    },
+    {
+      "ja": "体温は正常です。",
+      "en": "Your temperature's normal."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "n1-3277",
+  "jlpt": "N1",
+  "kanji": "頼み",
+  "kana": "たのみ",
+  "display": "頼み",
+  "meanings_zh": [
+    "请求",
+    "恳求",
+    "信赖",
+    "依靠"
+  ],
+  "meanings_en": [
+    "request",
+    "favor",
+    "reliance",
+    "dependence"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "頼みがあります。",
+      "en": "I have a personal favor to ask."
+    },
+    {
+      "ja": "頼みがあるんだ。",
+      "en": "I have a request."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

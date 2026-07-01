@@ -1,0 +1,40 @@
+{
+  "id": "n3-1609",
+  "jlpt": "N3",
+  "kanji": "褒める",
+  "kana": "ほめる",
+  "display": "褒める",
+  "meanings_zh": [
+    "赞扬",
+    "称赞",
+    "赞美",
+    "褒奖"
+  ],
+  "meanings_en": [
+    "to praise",
+    "to admire",
+    "to speak well"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "褒めると彼女はうぬぼれるよ。",
+      "en": "Too much praise will turn her head."
+    },
+    {
+      "ja": "面と向かってあなたを褒めるような人を信用してはいけない。",
+      "en": "Do not trust such men as praise you to your face."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

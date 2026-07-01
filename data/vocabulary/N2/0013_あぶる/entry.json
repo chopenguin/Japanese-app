@@ -1,0 +1,29 @@
+{
+  "id": "n2-0013",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "あぶる",
+  "display": "あぶる",
+  "meanings_zh": [
+    "烤",
+    "晒",
+    "烤干",
+    "烘"
+  ],
+  "meanings_en": [
+    "to scorch"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

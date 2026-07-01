@@ -1,0 +1,37 @@
+{
+  "id": "n3-1777",
+  "jlpt": "N3",
+  "kanji": "話題",
+  "kana": "わだい",
+  "display": "話題",
+  "meanings_zh": [
+    "话题",
+    "谈话材料"
+  ],
+  "meanings_en": [
+    "topic",
+    "subject"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "話題変えよう。",
+      "en": "Let's change the topic."
+    },
+    {
+      "ja": "彼は話題を変えた。",
+      "en": "He changed the topic of conversation."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

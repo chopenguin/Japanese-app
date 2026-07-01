@@ -1,0 +1,38 @@
+{
+  "id": "n2-0294",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "リボン",
+  "display": "リボン",
+  "meanings_zh": [
+    "丝带",
+    "缎带",
+    "飘带",
+    "发带"
+  ],
+  "meanings_en": [
+    "ribbon"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "リボン結びできる？",
+      "en": "Can you tie a bow?"
+    },
+    {
+      "ja": "彼女は髪をリボンで結んだ。",
+      "en": "She bound her hair with a ribbon."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

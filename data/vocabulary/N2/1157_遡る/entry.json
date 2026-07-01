@@ -1,0 +1,35 @@
+{
+  "id": "n2-1157",
+  "jlpt": "N2",
+  "kanji": "遡る",
+  "kana": "さかのぼる",
+  "display": "遡る",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to go back",
+    "to go upstream",
+    "to make retroactive"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "映画は第二次世界大戦に遡る。",
+      "en": "The film takes us back to World War II."
+    },
+    {
+      "ja": "私は自分の祖先を200年遡ることができる。",
+      "en": "I can trace my ancestors back 200 years."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

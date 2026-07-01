@@ -1,0 +1,39 @@
+{
+  "id": "n1-2482",
+  "jlpt": "N1",
+  "kanji": "徹する",
+  "kana": "てっする",
+  "display": "徹する",
+  "meanings_zh": [
+    "彻",
+    "贯彻",
+    "透彻",
+    "贯穿"
+  ],
+  "meanings_en": [
+    "to sink in",
+    "to penetrate",
+    "to devote oneself",
+    "to believe in",
+    "to go through",
+    "to do intently and exclusively"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "夜を徹するか否か。",
+      "en": "To work all night, or not."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

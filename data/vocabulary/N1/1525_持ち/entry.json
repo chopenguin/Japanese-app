@@ -1,0 +1,46 @@
+{
+  "id": "n1-1525",
+  "jlpt": "N1",
+  "kanji": "持ち",
+  "kana": "もち",
+  "display": "持ち",
+  "meanings_zh": [
+    "持久性",
+    "耐久性",
+    "负担",
+    "有很多"
+  ],
+  "meanings_en": [
+    "1.  hold",
+    "charge",
+    "keep possession",
+    "in charge",
+    "2.  wear",
+    "durability",
+    "life",
+    "draw",
+    "3.  usage (suff)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "気持ち悪い！",
+      "en": "Gross!"
+    },
+    {
+      "ja": "持ち帰ります。",
+      "en": "I'll take it home with me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

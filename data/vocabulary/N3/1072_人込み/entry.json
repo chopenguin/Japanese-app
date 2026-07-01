@@ -1,0 +1,36 @@
+{
+  "id": "n3-1072",
+  "jlpt": "N3",
+  "kanji": "人込み",
+  "kana": "ひとごみ",
+  "display": "人込み",
+  "meanings_zh": [
+    "人群",
+    "人山人海"
+  ],
+  "meanings_en": [
+    "crowd of people"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "人込みの中で彼とあった。",
+      "en": "I met him in the crowd."
+    },
+    {
+      "ja": "人込みを体を横にして抜けた。",
+      "en": "He edged sideways through the crowd."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

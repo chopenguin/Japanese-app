@@ -1,0 +1,41 @@
+{
+  "id": "n3-0861",
+  "jlpt": "N3",
+  "kanji": "示す",
+  "kana": "しめす",
+  "display": "示す",
+  "meanings_zh": [
+    "出示",
+    "拿出来给看",
+    "表示",
+    "指示"
+  ],
+  "meanings_en": [
+    "to denote",
+    "to show",
+    "to point out",
+    "to indicate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "雪は冬の到来を示す。",
+      "en": "Snow indicates the coming of winter."
+    },
+    {
+      "ja": "コンパスは北を示す。",
+      "en": "Compasses point north."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

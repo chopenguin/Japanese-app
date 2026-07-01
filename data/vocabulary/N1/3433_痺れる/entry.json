@@ -1,0 +1,35 @@
+{
+  "id": "n1-3433",
+  "jlpt": "N1",
+  "kanji": "痺れる",
+  "kana": "しびれる",
+  "display": "痺れる",
+  "meanings_zh": [
+    "麻木",
+    "麻",
+    "木",
+    "发麻"
+  ],
+  "meanings_en": [
+    "to become numb",
+    "to go to sleep (i.e.  a limb)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "このからしは舌が痺れるほど辛い。",
+      "en": "This mustard really bites the tongue."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

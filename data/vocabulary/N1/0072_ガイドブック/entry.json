@@ -1,0 +1,33 @@
+{
+  "id": "n1-0072",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ガイドブック",
+  "display": "ガイドブック",
+  "meanings_zh": [],
+  "meanings_en": [
+    "guidebook"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ガイドブックを過信しちゃいけない。",
+      "en": "Don't rely too much on your guidebook."
+    },
+    {
+      "ja": "タイのガイドブックは他にないんですか。",
+      "en": "Do you have any other guidebooks about Thailand?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

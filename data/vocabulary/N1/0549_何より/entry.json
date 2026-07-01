@@ -1,0 +1,39 @@
+{
+  "id": "n1-0549",
+  "jlpt": "N1",
+  "kanji": "何より",
+  "kana": "なにより",
+  "display": "何より",
+  "meanings_zh": [
+    "比什么",
+    "再好不过",
+    "最好",
+    "首先"
+  ],
+  "meanings_en": [
+    "most",
+    "best"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何よりも牛肉が好き。",
+      "en": "I like beef more than anything else."
+    },
+    {
+      "ja": "何よりも、お体を大切に。",
+      "en": "Above all, take care of yourself."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n4-0529",
+  "jlpt": "N4",
+  "kanji": "泊まる",
+  "kana": "とまる",
+  "display": "泊まる",
+  "meanings_zh": [
+    "停泊",
+    "投宿",
+    "住宿",
+    "过夜"
+  ],
+  "meanings_en": [
+    "to lodge at"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "泊まることにしたよ。",
+      "en": "I've decided to stay."
+    },
+    {
+      "ja": "週末は実家に泊まる。",
+      "en": "On weekends, I stay at my parents' house."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

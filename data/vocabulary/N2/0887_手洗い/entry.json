@@ -1,0 +1,40 @@
+{
+  "id": "n2-0887",
+  "jlpt": "N2",
+  "kanji": "手洗い",
+  "kana": "てあらい",
+  "display": "手洗い",
+  "meanings_zh": [
+    "洗手",
+    "洗手盆",
+    "洗手用的水",
+    "厕所"
+  ],
+  "meanings_en": [
+    "restroom",
+    "lavatory",
+    "hand-washing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お手洗いはどこですか。",
+      "en": "Where is the bathroom?"
+    },
+    {
+      "ja": "お手洗いはどこですか？",
+      "en": "Where's the restroom?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

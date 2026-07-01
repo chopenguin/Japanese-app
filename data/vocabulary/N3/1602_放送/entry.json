@@ -1,0 +1,34 @@
+{
+  "id": "n3-1602",
+  "jlpt": "N3",
+  "kanji": "放送",
+  "kana": "ほうそう",
+  "display": "放送",
+  "meanings_zh": [],
+  "meanings_en": [
+    "broadcast",
+    "broadcasting"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "絶賛放送中！",
+      "en": "Currently on air!"
+    },
+    {
+      "ja": "今放送中です。",
+      "en": "They are on the air now."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

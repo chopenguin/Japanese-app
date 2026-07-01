@@ -1,0 +1,38 @@
+{
+  "id": "n1-0127",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "さん",
+  "display": "さん",
+  "meanings_zh": [
+    "～～先生",
+    "女士",
+    "同志",
+    "小～～"
+  ],
+  "meanings_en": [
+    "Mr or Mrs"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "妹さんは元気？",
+      "en": "How's your sister?"
+    },
+    {
+      "ja": "新人さんなの？",
+      "en": "Are you new?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

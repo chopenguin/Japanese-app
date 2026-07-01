@@ -1,0 +1,39 @@
+{
+  "id": "n1-0961",
+  "jlpt": "N1",
+  "kanji": "脅かす",
+  "kana": "おどかす",
+  "display": "脅かす",
+  "meanings_zh": [
+    "威胁",
+    "威逼",
+    "威吓",
+    "胁迫"
+  ],
+  "meanings_en": [
+    "to threaten",
+    "to coerce"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "脅かすなよ。",
+      "en": "Don't threaten me."
+    },
+    {
+      "ja": "それは町の繁栄を脅かすだろう。",
+      "en": "It will threaten the prosperity of the town."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

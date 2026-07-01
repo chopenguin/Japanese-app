@@ -1,0 +1,36 @@
+{
+  "id": "n3-0196",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ハンサム",
+  "display": "ハンサム",
+  "meanings_zh": [
+    "美男子",
+    "有风度(的男人)"
+  ],
+  "meanings_en": [
+    "handsome"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はハンサムだ。",
+      "en": "He's handsome."
+    },
+    {
+      "ja": "トムはハンサムだ。",
+      "en": "Tom is handsome."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n3-0108",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "スタンド",
+  "display": "スタンド",
+  "meanings_zh": [
+    "台",
+    "座",
+    "看台",
+    "观览席"
+  ],
+  "meanings_en": [
+    "stand"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ニューススタンドで買えますよ。",
+      "en": "You can buy it at newsstands."
+    },
+    {
+      "ja": "次のガソリンスタンドに寄ろう。",
+      "en": "Let's stop at the next service station."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

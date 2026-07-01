@@ -1,0 +1,35 @@
+{
+  "id": "n1-0129",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "サンタクロース",
+  "display": "サンタクロース",
+  "meanings_zh": [
+    "圣诞老人"
+  ],
+  "meanings_en": [
+    "Santa Claus"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "サンタクロースは実在する。",
+      "en": "Santa Claus exists."
+    },
+    {
+      "ja": "サンタクロースって信じてる？",
+      "en": "Do you believe in Santa Claus?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

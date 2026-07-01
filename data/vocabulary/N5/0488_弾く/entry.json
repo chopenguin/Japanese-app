@@ -1,0 +1,39 @@
+{
+  "id": "n5-0488",
+  "jlpt": "N5",
+  "kanji": "弾く",
+  "kana": "ひく",
+  "display": "弾く",
+  "meanings_zh": [
+    "弹",
+    "拉",
+    "弹奏",
+    "弹拨"
+  ],
+  "meanings_en": [
+    "to play an instrument with strings",
+    "including piano"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "君はギター弾く？",
+      "en": "Do you play the guitar?"
+    },
+    {
+      "ja": "どんな曲を弾くの？",
+      "en": "What kind of music do you play?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

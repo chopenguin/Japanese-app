@@ -1,0 +1,37 @@
+{
+  "id": "n2-0158",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "せめて",
+  "display": "せめて",
+  "meanings_zh": [
+    "哪怕是～～(也好)",
+    "至少"
+  ],
+  "meanings_en": [
+    "offense",
+    "method of attack"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "せめてヒントをくれよ。",
+      "en": "At least give me a hint."
+    },
+    {
+      "ja": "せめて謝ってくれてもいいのに。",
+      "en": "He might at least apologize."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n2-0121",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "シーズン",
+  "display": "シーズン",
+  "meanings_zh": [
+    "季节",
+    "旺季"
+  ],
+  "meanings_en": [
+    "season (sporting)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "苺は今がシーズンだ。",
+      "en": "Strawberries are in season now."
+    },
+    {
+      "ja": "今、牡蠣のシーズン？",
+      "en": "Are oysters in season now?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

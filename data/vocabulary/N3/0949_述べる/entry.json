@@ -1,0 +1,40 @@
+{
+  "id": "n3-0949",
+  "jlpt": "N3",
+  "kanji": "述べる",
+  "kana": "のべる",
+  "display": "述べる",
+  "meanings_zh": [
+    "叙述",
+    "陈述",
+    "说明",
+    "申诉"
+  ],
+  "meanings_en": [
+    "to state",
+    "to express",
+    "to mention"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は二言三言述べると行ってしまった。",
+      "en": "He said two or three words and left."
+    },
+    {
+      "ja": "英語で自分の考えを述べるのは難しい。",
+      "en": "It is difficult to express one's thoughts in English."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

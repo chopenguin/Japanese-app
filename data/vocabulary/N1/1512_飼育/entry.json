@@ -1,0 +1,38 @@
+{
+  "id": "n1-1512",
+  "jlpt": "N1",
+  "kanji": "飼育",
+  "kana": "しいく",
+  "display": "飼育",
+  "meanings_zh": [
+    "养",
+    "饲养"
+  ],
+  "meanings_en": [
+    "breeding",
+    "raising",
+    "rearing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "牛を飼育する。",
+      "en": "I raise cattle."
+    },
+    {
+      "ja": "家畜を飼育する。",
+      "en": "I rear cattle."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

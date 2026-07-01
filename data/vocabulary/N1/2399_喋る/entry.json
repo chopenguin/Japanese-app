@@ -1,0 +1,40 @@
+{
+  "id": "n1-2399",
+  "jlpt": "N1",
+  "kanji": "喋る",
+  "kana": "しゃべる",
+  "display": "喋る",
+  "meanings_zh": [
+    "说",
+    "讲",
+    "说出",
+    "泄漏"
+  ],
+  "meanings_en": [
+    "to talk",
+    "to chat",
+    "to chatter"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "喋るのをやめろ。",
+      "en": "Stop talking."
+    },
+    {
+      "ja": "私、喋るのが速いの。",
+      "en": "I speak fast."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

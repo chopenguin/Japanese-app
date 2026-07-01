@@ -1,0 +1,30 @@
+{
+  "id": "n1-0093",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "くっきり",
+  "display": "くっきり",
+  "meanings_zh": [
+    "特别鲜明",
+    "显眼",
+    "清楚"
+  ],
+  "meanings_en": [
+    "distinctly",
+    "clearly",
+    "boldly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

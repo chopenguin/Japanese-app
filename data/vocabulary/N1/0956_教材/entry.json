@@ -1,0 +1,35 @@
+{
+  "id": "n1-0956",
+  "jlpt": "N1",
+  "kanji": "教材",
+  "kana": "きょうざい",
+  "display": "教材",
+  "meanings_zh": [
+    "教材"
+  ],
+  "meanings_en": [
+    "teaching materials"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "一口に英会話教材といっても、千差万別だ。",
+      "en": "They all get lumped together as English texts. But in fact these books are extremely varied and wide-ranging."
+    },
+    {
+      "ja": "私は日本人向けの英語学習用の教材を使って日本語を勉強しています。",
+      "en": "I use English-learning resources, meant for Japanese people, to learn Japanese."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

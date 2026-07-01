@@ -1,0 +1,39 @@
+{
+  "id": "n5-0562",
+  "jlpt": "N5",
+  "kanji": "薄い",
+  "kana": "うすい",
+  "display": "薄い",
+  "meanings_zh": [
+    "薄",
+    "淡",
+    "浅",
+    "待人不好"
+  ],
+  "meanings_en": [
+    "thin",
+    "weak"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あの人は影が薄い。",
+      "en": "He is always in the background."
+    },
+    {
+      "ja": "薄い砂糖水を作った。",
+      "en": "I prepared a weak solution of sugar and water."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

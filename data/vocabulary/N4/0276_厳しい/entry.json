@@ -1,0 +1,38 @@
+{
+  "id": "n4-0276",
+  "jlpt": "N4",
+  "kanji": "厳しい",
+  "kana": "きびしい",
+  "display": "厳しい",
+  "meanings_zh": [
+    "严",
+    "严格",
+    "严厉",
+    "严峻"
+  ],
+  "meanings_en": [
+    "strict"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "世間は厳しい。",
+      "en": "The world is harsh."
+    },
+    {
+      "ja": "厳しい冬だった。",
+      "en": "We had a difficult winter."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

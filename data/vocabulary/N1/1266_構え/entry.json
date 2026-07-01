@@ -1,0 +1,40 @@
+{
+  "id": "n1-1266",
+  "jlpt": "N1",
+  "kanji": "構え",
+  "kana": "かまえ",
+  "display": "構え",
+  "meanings_zh": [
+    "构造",
+    "格局",
+    "门面",
+    "外观"
+  ],
+  "meanings_en": [
+    "posture",
+    "pose",
+    "style"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は大通りに店を構えている。",
+      "en": "He has a store on the main road."
+    },
+    {
+      "ja": "気長に構える必要があります。",
+      "en": "You have to be patient."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

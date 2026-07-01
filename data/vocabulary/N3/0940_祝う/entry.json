@@ -1,0 +1,39 @@
+{
+  "id": "n3-0940",
+  "jlpt": "N3",
+  "kanji": "祝う",
+  "kana": "いわう",
+  "display": "祝う",
+  "meanings_zh": [
+    "祝贺",
+    "庆贺",
+    "庆祝",
+    "祝福"
+  ],
+  "meanings_en": [
+    "to congratulate",
+    "to celebrate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "七夕は七月に祝う。",
+      "en": "We celebrate Tanabata in July."
+    },
+    {
+      "ja": "戦勝を祝う祝賀会が開かれた。",
+      "en": "Ceremonies were held to celebrate victories."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

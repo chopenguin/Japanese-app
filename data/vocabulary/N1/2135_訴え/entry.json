@@ -1,0 +1,39 @@
+{
+  "id": "n1-2135",
+  "jlpt": "N1",
+  "kanji": "訴え",
+  "kana": "うったえ",
+  "display": "訴え",
+  "meanings_zh": [
+    "诉讼",
+    "控告",
+    "控诉",
+    "申诉"
+  ],
+  "meanings_en": [
+    "lawsuit",
+    "complaint"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "訴えてやる！",
+      "en": "I'll sue you."
+    },
+    {
+      "ja": "あなたを訴えます。",
+      "en": "I will sue you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

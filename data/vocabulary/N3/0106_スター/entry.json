@@ -1,0 +1,38 @@
+{
+  "id": "n3-0106",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "スター",
+  "display": "スター",
+  "meanings_zh": [
+    "星",
+    "星状物",
+    "明星",
+    "名演员"
+  ],
+  "meanings_en": [
+    "star"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "イースターおめでとう。",
+      "en": "Happy Easter!"
+    },
+    {
+      "ja": "好きな映画スターは誰？",
+      "en": "Who's your favorite movie star?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

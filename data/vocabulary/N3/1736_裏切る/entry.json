@@ -1,0 +1,40 @@
+{
+  "id": "n3-1736",
+  "jlpt": "N3",
+  "kanji": "裏切る",
+  "kana": "うらぎる",
+  "display": "裏切る",
+  "meanings_zh": [
+    "背叛",
+    "通敌",
+    "倒戈",
+    "辜负"
+  ],
+  "meanings_en": [
+    "to betray",
+    "to turn traitor to",
+    "to double-cross"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "友達の信頼を決して裏切るな。",
+      "en": "Never betray the trust of your friends."
+    },
+    {
+      "ja": "彼は友達を裏切るような人ではない。",
+      "en": "He is the last person to betray his friends."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

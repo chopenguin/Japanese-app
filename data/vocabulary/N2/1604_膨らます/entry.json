@@ -1,0 +1,35 @@
+{
+  "id": "n2-1604",
+  "jlpt": "N2",
+  "kanji": "膨らます",
+  "kana": "ふくらます",
+  "display": "膨らます",
+  "meanings_zh": [
+    "使鼓起来",
+    "吹鼓"
+  ],
+  "meanings_en": [
+    "to swell",
+    "to expand",
+    "to inflate",
+    "to bulge"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "イースト菌がパン生地を膨らます。",
+      "en": "Yeast makes dough rise."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

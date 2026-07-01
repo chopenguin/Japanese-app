@@ -1,0 +1,33 @@
+{
+  "id": "n4-0139",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "まじめ",
+  "display": "まじめ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "serious"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はまじめな少年だ。",
+      "en": "He is an earnest young man."
+    },
+    {
+      "ja": "まじめに受け取るな。",
+      "en": "Don't take it seriously."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

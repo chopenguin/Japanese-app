@@ -1,0 +1,41 @@
+{
+  "id": "n3-1031",
+  "jlpt": "N3",
+  "kanji": "伸ばす",
+  "kana": "のばす",
+  "display": "伸ばす",
+  "meanings_zh": [
+    "延长",
+    "拉长",
+    "放长",
+    "伸展"
+  ],
+  "meanings_en": [
+    "to lengthen",
+    "to stretch",
+    "to reach out",
+    "to grow (beard)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "売り上げを伸ばすために懸命に働いた。",
+      "en": "We worked hard so as to increase our sales."
+    },
+    {
+      "ja": "ビーチは子供が羽を伸ばすのに理想の場所だ。",
+      "en": "The beach is an ideal place for children to have fun."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

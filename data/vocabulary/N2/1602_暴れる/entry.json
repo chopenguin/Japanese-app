@@ -1,0 +1,37 @@
+{
+  "id": "n2-1602",
+  "jlpt": "N2",
+  "kanji": "暴れる",
+  "kana": "あばれる",
+  "display": "暴れる",
+  "meanings_zh": [
+    "闹",
+    "乱闹",
+    "在江湖上闯荡",
+    "荒唐"
+  ],
+  "meanings_en": [
+    "to act violently",
+    "to rage",
+    "to struggle",
+    "to be riotous"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お酒を飲んで暴れる人とは一緒に飲みに行きたくない。",
+      "en": "I don't want to go drinking with someone who gets violent after drinking."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

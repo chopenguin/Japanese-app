@@ -1,0 +1,38 @@
+{
+  "id": "n4-0314",
+  "jlpt": "N4",
+  "kanji": "残る",
+  "kana": "のこる",
+  "display": "残る",
+  "meanings_zh": [
+    "留",
+    "留下",
+    "呆",
+    "剩余"
+  ],
+  "meanings_en": [
+    "to remain"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この曲、耳に残るね。",
+      "en": "This song is catchy."
+    },
+    {
+      "ja": "君と一緒にここに残るよ。",
+      "en": "I'll stay here with you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

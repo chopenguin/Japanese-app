@@ -1,0 +1,36 @@
+{
+  "id": "n2-0932",
+  "jlpt": "N2",
+  "kanji": "出迎える",
+  "kana": "でむかえる",
+  "display": "出迎える",
+  "meanings_zh": [
+    "迎接"
+  ],
+  "meanings_en": [
+    "to meet",
+    "to greet"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ジェーンを出迎える事はわくわくします。",
+      "en": "It is exciting to welcome Jane."
+    },
+    {
+      "ja": "彼女は私に駅で出迎えるように頼みました。",
+      "en": "She asked me to meet her at the station."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

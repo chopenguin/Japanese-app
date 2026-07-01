@@ -1,0 +1,40 @@
+{
+  "id": "n2-0442",
+  "jlpt": "N2",
+  "kanji": "改めて",
+  "kana": "あらためて",
+  "display": "改めて",
+  "meanings_zh": [
+    "重新",
+    "再"
+  ],
+  "meanings_en": [
+    "another time",
+    "again",
+    "over again",
+    "anew",
+    "formally"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "改めて、ごめんね。",
+      "en": "Once again, sorry."
+    },
+    {
+      "ja": "改めて言う事はない。",
+      "en": "I have nothing particular to say."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n5-0537",
+  "jlpt": "N5",
+  "kanji": "難しい",
+  "kana": "むずかしい",
+  "display": "難しい",
+  "meanings_zh": [
+    "难",
+    "难懂",
+    "费解",
+    "艰涩"
+  ],
+  "meanings_en": [
+    "difficult"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は気難しい。",
+      "en": "He is hard to please."
+    },
+    {
+      "ja": "禁煙は難しい。",
+      "en": "It is difficult to give up smoking."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n3-0829",
+  "jlpt": "N3",
+  "kanji": "支える",
+  "kana": "ささえる",
+  "display": "支える",
+  "meanings_zh": [
+    "支",
+    "支撑",
+    "扶",
+    "支持"
+  ],
+  "meanings_en": [
+    "to be blocked",
+    "to choke",
+    "to be obstructed"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "どうにかしてトムを支える。",
+      "en": "I'll support Tom any way I can."
+    },
+    {
+      "ja": "今の俺を支えるものは希望だけ。",
+      "en": "Only hope can keep me together now."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

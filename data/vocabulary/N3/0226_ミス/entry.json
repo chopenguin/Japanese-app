@@ -1,0 +1,36 @@
+{
+  "id": "n3-0226",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ミス",
+  "display": "ミス",
+  "meanings_zh": [],
+  "meanings_en": [
+    "miss (mistake",
+    "error",
+    "failure)",
+    "Miss"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ミスでした。",
+      "en": "It was a mistake."
+    },
+    {
+      "ja": "僕のミスだった。",
+      "en": "My mistake."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

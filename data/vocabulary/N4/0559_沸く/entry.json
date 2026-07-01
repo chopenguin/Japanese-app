@@ -1,0 +1,40 @@
+{
+  "id": "n4-0559",
+  "jlpt": "N4",
+  "kanji": "沸く",
+  "kana": "わく",
+  "display": "沸く",
+  "meanings_zh": [
+    "沸腾",
+    "烧开",
+    "烧热",
+    "激动"
+  ],
+  "meanings_en": [
+    "to boil",
+    "to grow hot",
+    "to get excited"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムは、やかんが沸くのを待っていました。",
+      "en": "Tom waited for the kettle to boil."
+    },
+    {
+      "ja": "彼女はお茶を入れる前にお湯が沸くまで待った。",
+      "en": "She waited until the water boiled before making the tea with it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

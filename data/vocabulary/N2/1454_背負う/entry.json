@@ -1,0 +1,30 @@
+{
+  "id": "n2-1454",
+  "jlpt": "N2",
+  "kanji": "背負う",
+  "kana": "せおう",
+  "display": "背負う",
+  "meanings_zh": [
+    "背",
+    "担负",
+    "背负",
+    "担当"
+  ],
+  "meanings_en": [
+    "to be burdened with",
+    "to carry on back or shoulder"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

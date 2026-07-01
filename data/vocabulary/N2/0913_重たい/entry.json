@@ -1,0 +1,40 @@
+{
+  "id": "n2-0913",
+  "jlpt": "N2",
+  "kanji": "重たい",
+  "kana": "おもたい",
+  "display": "重たい",
+  "meanings_zh": [
+    "重",
+    "沉",
+    "沉重",
+    "沉闷"
+  ],
+  "meanings_en": [
+    "heavy",
+    "massive",
+    "serious"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "このテーブルは重たい。",
+      "en": "This table is heavy."
+    },
+    {
+      "ja": "この箱、大きいし重たい。",
+      "en": "The box is big and heavy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

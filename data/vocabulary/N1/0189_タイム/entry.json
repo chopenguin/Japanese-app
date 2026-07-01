@@ -1,0 +1,38 @@
+{
+  "id": "n1-0189",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "タイム",
+  "display": "タイム",
+  "meanings_zh": [
+    "时",
+    "时间",
+    "比赛时所需时间",
+    "比赛暂停"
+  ],
+  "meanings_en": [
+    "time"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ちょっとタイム。",
+      "en": "I'll take a time-out."
+    },
+    {
+      "ja": "タイムカードを押そう。",
+      "en": "I'll punch the clock."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

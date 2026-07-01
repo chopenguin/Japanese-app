@@ -1,0 +1,32 @@
+{
+  "id": "n2-0283",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "やっつける",
+  "display": "やっつける",
+  "meanings_zh": [
+    "干完",
+    "做事草率",
+    "(狠狠地)整一顿",
+    "教训一顿"
+  ],
+  "meanings_en": [
+    "to attack (an enemy)",
+    "to beat",
+    "to do away with",
+    "to finish off"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

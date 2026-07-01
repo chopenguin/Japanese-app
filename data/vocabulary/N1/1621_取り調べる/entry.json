@@ -1,0 +1,34 @@
+{
+  "id": "n1-1621",
+  "jlpt": "N1",
+  "kanji": "取り調べる",
+  "kana": "とりしらべる",
+  "display": "取り調べる",
+  "meanings_zh": [
+    "调查",
+    "审讯",
+    "审问"
+  ],
+  "meanings_en": [
+    "to investigate",
+    "to examine"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "事件の原因を取り調べるために実情調査委員会が作られた。",
+      "en": "A fact-finding committee was set up to determine the cause of the incident."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

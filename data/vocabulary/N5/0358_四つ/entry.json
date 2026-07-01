@@ -1,0 +1,38 @@
+{
+  "id": "n5-0358",
+  "jlpt": "N5",
+  "kanji": "四つ",
+  "kana": "よっつ",
+  "display": "四つ",
+  "meanings_zh": [
+    "四",
+    "四个",
+    "四岁",
+    "巳时"
+  ],
+  "meanings_en": [
+    "four"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "見て！四つ葉！",
+      "en": "Look! A four-leafed clover!"
+    },
+    {
+      "ja": "正方形には四つの辺がある。",
+      "en": "A square has four sides."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

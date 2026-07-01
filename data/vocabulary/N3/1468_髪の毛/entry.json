@@ -1,0 +1,35 @@
+{
+  "id": "n3-1468",
+  "jlpt": "N3",
+  "kanji": "髪の毛",
+  "kana": "かみのけ",
+  "display": "髪の毛",
+  "meanings_zh": [
+    "头发"
+  ],
+  "meanings_en": [
+    "hair (head)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女の髪の毛は長い。",
+      "en": "Her hair is long."
+    },
+    {
+      "ja": "髪の毛が超ボサボサ！",
+      "en": "My hair is so messy!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "n1-0042",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "おどおど",
+  "display": "おどおど",
+  "meanings_zh": [
+    "提心吊胆",
+    "战战兢兢",
+    "惴惴不安"
+  ],
+  "meanings_en": [
+    "coweringly",
+    "hesitantly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "おどおどして首をたれた。",
+      "en": "He hung his head sheepishly."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

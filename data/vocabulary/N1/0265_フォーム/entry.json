@@ -1,0 +1,39 @@
+{
+  "id": "n1-0265",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "フォーム",
+  "display": "フォーム",
+  "meanings_zh": [
+    "形式",
+    "样式",
+    "型",
+    "姿势"
+  ],
+  "meanings_en": [
+    "foam",
+    "form"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "リフォームに結構お金がかかった。",
+      "en": "I spent a lot of money remodeling my house."
+    },
+    {
+      "ja": "警官は青いユニフォームを着ている。",
+      "en": "Police officers wear blue uniforms."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

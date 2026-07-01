@@ -1,0 +1,35 @@
+{
+  "id": "n3-0156",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "テント",
+  "display": "テント",
+  "meanings_zh": [
+    "帐篷"
+  ],
+  "meanings_en": [
+    "tent"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ここにテントを張ろう。",
+      "en": "Let's put up our tent here."
+    },
+    {
+      "ja": "テントの中は暑かった。",
+      "en": "It was hot inside the tent."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

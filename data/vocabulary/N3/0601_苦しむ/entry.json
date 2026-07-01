@@ -1,0 +1,40 @@
+{
+  "id": "n3-0601",
+  "jlpt": "N3",
+  "kanji": "苦しむ",
+  "kana": "くるしむ",
+  "display": "苦しむ",
+  "meanings_zh": [
+    "感到痛苦",
+    "感到难受",
+    "受折磨",
+    "呻吟"
+  ],
+  "meanings_en": [
+    "to suffer",
+    "to groan",
+    "to be worried"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "生きることは苦しむこと。",
+      "en": "To live is to suffer."
+    },
+    {
+      "ja": "理由なく苦しむのは嫌だ。",
+      "en": "I don't want to suffer for no reason."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

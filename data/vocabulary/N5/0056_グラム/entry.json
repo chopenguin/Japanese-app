@@ -1,0 +1,36 @@
+{
+  "id": "n5-0056",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "グラム",
+  "display": "グラム",
+  "meanings_zh": [
+    "克",
+    "公分"
+  ],
+  "meanings_en": [
+    "gram"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "パングラムって面白い！",
+      "en": "I find pangrams amusing."
+    },
+    {
+      "ja": "インスタグラムやってる？",
+      "en": "Do you use Instagram?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n2-1150",
+  "jlpt": "N2",
+  "kanji": "粗い",
+  "kana": "あらい",
+  "display": "粗い",
+  "meanings_zh": [
+    "粗",
+    "大",
+    "粗枝大叶",
+    "粗糙"
+  ],
+  "meanings_en": [
+    "coarse",
+    "rough"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その物体の表面はかなり粗い。",
+      "en": "The surface of the object is fairly rough."
+    },
+    {
+      "ja": "その奇妙な物体の表面はかなり粗い。",
+      "en": "The surface of the peculiar object is fairly rough."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n2-0290",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ランニング",
+  "display": "ランニング",
+  "meanings_zh": [
+    "跑",
+    "跑步",
+    "赛跑"
+  ],
+  "meanings_en": [
+    "(1) running",
+    "(2) tank top"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ランニングしている彼を見た。",
+      "en": "I saw him running."
+    },
+    {
+      "ja": "私は毎朝朝食前にランニングをする。",
+      "en": "I run before breakfast every morning."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

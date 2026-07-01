@@ -1,0 +1,37 @@
+{
+  "id": "n1-0250",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ハンガー",
+  "display": "ハンガー",
+  "meanings_zh": [
+    "衣架"
+  ],
+  "meanings_en": [
+    "hangar",
+    "(coat) hanger",
+    "hunger"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ハンガーをください。",
+      "en": "I need some hangers."
+    },
+    {
+      "ja": "ハンガーストライキをしています。",
+      "en": "I'm on a hunger strike."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n4-0321",
+  "jlpt": "N4",
+  "kanji": "思い出す",
+  "kana": "おもいだす",
+  "display": "思い出す",
+  "meanings_zh": [
+    "想起",
+    "想出",
+    "忆起",
+    "记起"
+  ],
+  "meanings_en": [
+    "to remember"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "最初のころを思い出す。",
+      "en": "I remember the first time."
+    },
+    {
+      "ja": "学生時代を思い出すわ。",
+      "en": "I remember my student days."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

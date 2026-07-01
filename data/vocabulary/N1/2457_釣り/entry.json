@@ -1,0 +1,38 @@
+{
+  "id": "n1-2457",
+  "jlpt": "N1",
+  "kanji": "釣り",
+  "kana": "つり",
+  "display": "釣り",
+  "meanings_zh": [
+    "钓鱼",
+    "找的钱",
+    "找头"
+  ],
+  "meanings_en": [
+    "fishing",
+    "angling"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "釣りに行った。",
+      "en": "I went fishing."
+    },
+    {
+      "ja": "釣りが好きだ。",
+      "en": "I like fishing."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n2-1411",
+  "jlpt": "N2",
+  "kanji": "突っ込む",
+  "kana": "つっこむ",
+  "display": "突っ込む",
+  "meanings_zh": [
+    "闯进",
+    "冲进",
+    "深入",
+    "插入"
+  ],
+  "meanings_en": [
+    "to plunge into",
+    "to go into deeply"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "他人のことに首を突っ込むな。",
+      "en": "Don't pry into the affairs of others."
+    },
+    {
+      "ja": "つまらないことに、首を突っ込むな。",
+      "en": "Don't risk your neck over something foolish."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n5-0428",
+  "jlpt": "N5",
+  "kanji": "寝る",
+  "kana": "ねる",
+  "display": "寝る",
+  "meanings_zh": [
+    "睡",
+    "睡觉",
+    "就寝",
+    "躺"
+  ],
+  "meanings_en": [
+    "to go to bed",
+    "to sleep"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "寝る時間よ。",
+      "en": "Time for bed."
+    },
+    {
+      "ja": "横向きに寝る。",
+      "en": "I sleep on my side."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

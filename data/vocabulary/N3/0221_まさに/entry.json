@@ -1,0 +1,34 @@
+{
+  "id": "n3-0221",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "まさに",
+  "display": "まさに",
+  "meanings_zh": [],
+  "meanings_en": [
+    "correctly",
+    "surely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "まさに傑作だ。",
+      "en": "This is a masterpiece."
+    },
+    {
+      "ja": "まさにその通り。",
+      "en": "That is well said."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

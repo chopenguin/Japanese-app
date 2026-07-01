@@ -1,0 +1,39 @@
+{
+  "id": "n5-0257",
+  "jlpt": "N5",
+  "kanji": "起きる",
+  "kana": "おきる",
+  "display": "起きる",
+  "meanings_zh": [
+    "起",
+    "起来",
+    "立起来",
+    "坐起来",
+    "起床"
+  ],
+  "meanings_en": [
+    "to get up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "起きる時間よ。",
+      "en": "Time to get up."
+    },
+    {
+      "ja": "起きる時間だ。",
+      "en": "It's time to get up."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

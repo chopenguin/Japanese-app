@@ -1,0 +1,36 @@
+{
+  "id": "n1-3235",
+  "jlpt": "N1",
+  "kanji": "夕焼け",
+  "kana": "ゆうやけ",
+  "display": "夕焼け",
+  "meanings_zh": [
+    "晚霞",
+    "火烧云"
+  ],
+  "meanings_en": [
+    "sunset"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "きれいな夕焼けだよ！",
+      "en": "What a beautiful sunset!"
+    },
+    {
+      "ja": "素晴らしい夕焼けですね。",
+      "en": "What a beautiful sunset."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n1-1649",
+  "jlpt": "N1",
+  "kanji": "殊に",
+  "kana": "ことに",
+  "display": "殊に",
+  "meanings_zh": [
+    "特别",
+    "格外",
+    "分外",
+    "尤其"
+  ],
+  "meanings_en": [
+    "especially",
+    "above all"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ロックは殊に若者に人気だ。",
+      "en": "Rock music is especially popular among young people."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n1-3125",
+  "jlpt": "N1",
+  "kanji": "無意味",
+  "kana": "むいみ",
+  "display": "無意味",
+  "meanings_zh": [
+    "无意义",
+    "没意思",
+    "没价值",
+    "无聊"
+  ],
+  "meanings_en": [
+    "nonsense",
+    "no meaning"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それは無意味だよ。",
+      "en": "That's pointless."
+    },
+    {
+      "ja": "それはまったく無意味だ。",
+      "en": "That's quite meaningless."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

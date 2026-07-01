@@ -1,0 +1,38 @@
+{
+  "id": "n1-0145",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ジャンル",
+  "display": "ジャンル",
+  "meanings_zh": [
+    "种类",
+    "体裁",
+    "形式",
+    "类型"
+  ],
+  "meanings_en": [
+    "genre"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "このジャンルの曲が好きです。",
+      "en": "I like this kind of music."
+    },
+    {
+      "ja": "このジャンルの音楽は私の趣味じゃない。",
+      "en": "This sort of music is not my cup of tea."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

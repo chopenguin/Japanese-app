@@ -1,0 +1,33 @@
+{
+  "id": "n4-0054",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "こう",
+  "display": "こう",
+  "meanings_zh": [],
+  "meanings_en": [
+    "this way"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "車で行こう。",
+      "en": "Let's go by car."
+    },
+    {
+      "ja": "さあ行こう。",
+      "en": "Now let's go."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

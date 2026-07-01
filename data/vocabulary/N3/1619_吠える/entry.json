@@ -1,0 +1,42 @@
+{
+  "id": "n3-1619",
+  "jlpt": "N3",
+  "kanji": "吠える",
+  "kana": "ほえる",
+  "display": "吠える",
+  "meanings_zh": [
+    "叫",
+    "吼",
+    "咆哮"
+  ],
+  "meanings_en": [
+    "to bark",
+    "to bay",
+    "to howl",
+    "to bellow",
+    "to roar",
+    "to cry"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は吠える犬を怖がる。",
+      "en": "She is afraid of barking dogs."
+    },
+    {
+      "ja": "トムの犬は誰にも吠える。",
+      "en": "Tom's dog barks at everybody."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

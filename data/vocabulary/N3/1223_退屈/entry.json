@@ -1,0 +1,39 @@
+{
+  "id": "n3-1223",
+  "jlpt": "N3",
+  "kanji": "退屈",
+  "kana": "たいくつ",
+  "display": "退屈",
+  "meanings_zh": [
+    "无聊",
+    "闷",
+    "寂寞",
+    "厌倦"
+  ],
+  "meanings_en": [
+    "tedium",
+    "boredom"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "退屈だなあ。",
+      "en": "Bored now."
+    },
+    {
+      "ja": "退屈だな〜。",
+      "en": "I'm bored."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

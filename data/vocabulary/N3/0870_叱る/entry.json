@@ -1,0 +1,38 @@
+{
+  "id": "n3-0870",
+  "jlpt": "N3",
+  "kanji": "叱る",
+  "kana": "しかる",
+  "display": "叱る",
+  "meanings_zh": [
+    "责备",
+    "申叱",
+    "说",
+    "批评"
+  ],
+  "meanings_en": [
+    "to scold"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お母さんが馬を叱るの？",
+      "en": "Is Mother scolding the horse?"
+    },
+    {
+      "ja": "彼は必ず私達を叱るだろう。",
+      "en": "He will scold us no matter what."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

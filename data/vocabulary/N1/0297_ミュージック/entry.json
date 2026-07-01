@@ -1,0 +1,36 @@
+{
+  "id": "n1-0297",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ミュージック",
+  "display": "ミュージック",
+  "meanings_zh": [
+    "音乐",
+    "乐曲"
+  ],
+  "meanings_en": [
+    "music"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムはポップミュージックが好きだ。",
+      "en": "Tom likes pop music."
+    },
+    {
+      "ja": "トムはディスコミュージックが好きだ。",
+      "en": "Tom likes disco music."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

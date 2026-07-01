@@ -1,0 +1,38 @@
+{
+  "id": "n2-0656",
+  "jlpt": "N2",
+  "kanji": "言葉遣い",
+  "kana": "ことばづかい",
+  "display": "言葉遣い",
+  "meanings_zh": [
+    "说法",
+    "措词"
+  ],
+  "meanings_en": [
+    "speech",
+    "expression",
+    "wording"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "言葉遣いの綺麗な人が好きです。",
+      "en": "I like people who use language beautifully."
+    },
+    {
+      "ja": "言葉遣いにはいつも気をつけるべきです。",
+      "en": "You should always be careful in your speech."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "n1-3025",
+  "jlpt": "N1",
+  "kanji": "報ずる",
+  "kana": "ほうずる",
+  "display": "報ずる",
+  "meanings_zh": [
+    "报",
+    "报答",
+    "报告",
+    "报知"
+  ],
+  "meanings_en": [
+    "to inform",
+    "to report"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

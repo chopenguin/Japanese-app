@@ -1,0 +1,31 @@
+{
+  "id": "n1-3431",
+  "jlpt": "N1",
+  "kanji": "煌びやか",
+  "kana": "きらびやか",
+  "display": "煌びやか",
+  "meanings_zh": [
+    "光辉灿烂",
+    "灿烂夺目",
+    "华丽"
+  ],
+  "meanings_en": [
+    "gorgeous",
+    "gaudy",
+    "dazzling",
+    "gay"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

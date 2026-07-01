@@ -1,0 +1,38 @@
+{
+  "id": "n5-0145",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "プール",
+  "display": "プール",
+  "meanings_zh": [
+    "游泳池",
+    "料场",
+    "堆放场",
+    "停车场"
+  ],
+  "meanings_en": [
+    "swimming pool"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "プールがあるの？",
+      "en": "Do you have a pool?"
+    },
+    {
+      "ja": "プールに行くんだ。",
+      "en": "We're going to the pool."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

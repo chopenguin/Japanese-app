@@ -1,0 +1,38 @@
+{
+  "id": "n1-0197",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "だらけ",
+  "display": "だらけ",
+  "meanings_zh": [
+    "满",
+    "净",
+    "全",
+    "沾满"
+  ],
+  "meanings_en": [
+    "implying (negatively) that something is full of  e.g. mistakes"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "血だらけだよ。",
+      "en": "There's blood everywhere."
+    },
+    {
+      "ja": "猫の毛だらけ！",
+      "en": "Cat hair everywhere!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

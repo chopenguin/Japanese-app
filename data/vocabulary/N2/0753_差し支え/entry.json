@@ -1,0 +1,39 @@
+{
+  "id": "n2-0753",
+  "jlpt": "N2",
+  "kanji": "差し支え",
+  "kana": "さしつかえ",
+  "display": "差し支え",
+  "meanings_zh": [
+    "妨碍",
+    "障碍",
+    "有事情",
+    "不方便"
+  ],
+  "meanings_en": [
+    "hindrance",
+    "impediment"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "差し支えなければ同行したいのですが。",
+      "en": "I'd like to come along if you don't mind."
+    },
+    {
+      "ja": "ここにいてもらっても差し支えありません。",
+      "en": "You may stay here if you want to."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

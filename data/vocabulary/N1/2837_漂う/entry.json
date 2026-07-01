@@ -1,0 +1,40 @@
+{
+  "id": "n1-2837",
+  "jlpt": "N1",
+  "kanji": "漂う",
+  "kana": "ただよう",
+  "display": "漂う",
+  "meanings_zh": [
+    "漂",
+    "飘荡",
+    "漂流",
+    "漂浮"
+  ],
+  "meanings_en": [
+    "to drift about",
+    "to float",
+    "to hang in air"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "多くの人が目的なく人生を漂う。",
+      "en": "Many people drift through life without a purpose."
+    },
+    {
+      "ja": "氷は毎日相当な距離を漂うこともある。",
+      "en": "The ice may drift considerable distances each day."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n1-0260",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ファン",
+  "display": "ファン",
+  "meanings_zh": [
+    "扇",
+    "风扇",
+    "电扇",
+    "送风机"
+  ],
+  "meanings_en": [
+    "fan",
+    "fun"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムの大ファンなの。",
+      "en": "I'm a big fan of Tom."
+    },
+    {
+      "ja": "ミステリーファンなの？",
+      "en": "Are you a fan of mystery novels?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n1-0951",
+  "jlpt": "N1",
+  "kanji": "恐れ入る",
+  "kana": "おそれいる",
+  "display": "恐れ入る",
+  "meanings_zh": [
+    "真对不起",
+    "十分抱歉",
+    "实在不敢当",
+    "实在不好意思"
+  ],
+  "meanings_en": [
+    "to be filled with awe",
+    "to feel small",
+    "to be amazed",
+    "to be surprised",
+    "to be disconcerted",
+    "to be sorry",
+    "to b"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

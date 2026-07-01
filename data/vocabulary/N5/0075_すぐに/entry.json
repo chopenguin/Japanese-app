@@ -1,0 +1,33 @@
+{
+  "id": "n5-0075",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "すぐに",
+  "display": "すぐに",
+  "meanings_zh": [],
+  "meanings_en": [
+    "instantly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "すぐに戻るよ。",
+      "en": "I will be back soon."
+    },
+    {
+      "ja": "すぐに止めろ。",
+      "en": "Stop immediately."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

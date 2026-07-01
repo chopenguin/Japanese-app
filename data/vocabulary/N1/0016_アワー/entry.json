@@ -1,0 +1,35 @@
+{
+  "id": "n1-0016",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "アワー",
+  "display": "アワー",
+  "meanings_zh": [
+    "时间"
+  ],
+  "meanings_en": [
+    "hour"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ラッシュアワーの交通渋滞にあった。",
+      "en": "I was caught in the rush hour."
+    },
+    {
+      "ja": "ラッシュアワーにでくわすのは最低だ。",
+      "en": "It's horrible to get caught in rush hour traffic."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

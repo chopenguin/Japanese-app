@@ -1,0 +1,36 @@
+{
+  "id": "n1-0263",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ブーム",
+  "display": "ブーム",
+  "meanings_zh": [
+    "高潮",
+    "热潮"
+  ],
+  "meanings_en": [
+    "boom"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "大ブームです。",
+      "en": "It's all the rage."
+    },
+    {
+      "ja": "ブームは峠を越した。",
+      "en": "The boom has peaked out."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

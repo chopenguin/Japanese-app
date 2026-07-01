@@ -1,0 +1,38 @@
+{
+  "id": "n1-2676",
+  "jlpt": "N1",
+  "kanji": "認める",
+  "kana": "したためる",
+  "display": "認める",
+  "meanings_zh": [
+    "书",
+    "写",
+    "书写",
+    "吃"
+  ],
+  "meanings_en": [
+    "to write up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それは認める。",
+      "en": "I admit it."
+    },
+    {
+      "ja": "自らスパイと認める。",
+      "en": "Confess himself to be a spy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n3-0986",
+  "jlpt": "N3",
+  "kanji": "昇る",
+  "kana": "のぼる",
+  "display": "昇る",
+  "meanings_zh": [
+    "上升",
+    "升级",
+    "晋级",
+    "高升"
+  ],
+  "meanings_en": [
+    "to arise",
+    "to ascend",
+    "to go up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "毎日、日は昇る。",
+      "en": "The sun rises every day."
+    },
+    {
+      "ja": "天にも昇る思いだ。",
+      "en": "I'm over the moon."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

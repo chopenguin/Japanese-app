@@ -1,0 +1,39 @@
+{
+  "id": "n3-1413",
+  "jlpt": "N3",
+  "kanji": "日常",
+  "kana": "にちじょう",
+  "display": "日常",
+  "meanings_zh": [
+    "日常",
+    "平时"
+  ],
+  "meanings_en": [
+    "ordinary",
+    "regular",
+    "everyday",
+    "usual"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "日常の運動は体に良い。",
+      "en": "Moderate exercise is good for your health."
+    },
+    {
+      "ja": "こういう事は、日常茶飯事だ。",
+      "en": "This kind of thing happens all the time."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

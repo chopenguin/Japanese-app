@@ -1,0 +1,36 @@
+{
+  "id": "n1-1756",
+  "jlpt": "N1",
+  "kanji": "書き取る",
+  "kana": "かきとる",
+  "display": "書き取る",
+  "meanings_zh": [
+    "记下来",
+    "记录",
+    "抄录下来",
+    "听写"
+  ],
+  "meanings_en": [
+    "to write down",
+    "to take dictation",
+    "to take notes"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それを書き取るだけでよい。",
+      "en": "All you have to do is write it down."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

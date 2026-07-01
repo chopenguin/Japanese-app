@@ -1,0 +1,41 @@
+{
+  "id": "n1-1611",
+  "jlpt": "N1",
+  "kanji": "取り扱い",
+  "kana": "とりあつかい",
+  "display": "取り扱い",
+  "meanings_zh": [
+    "对待",
+    "接待",
+    "待遇",
+    "使用"
+  ],
+  "meanings_en": [
+    "treatment",
+    "service",
+    "handling",
+    "management"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "取り扱いに気を付けて。",
+      "en": "Handle with care."
+    },
+    {
+      "ja": "お取り扱いにご注意ください。",
+      "en": "Please handle with care."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

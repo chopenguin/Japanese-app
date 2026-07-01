@@ -1,0 +1,30 @@
+{
+  "id": "n2-1790",
+  "jlpt": "N2",
+  "kanji": "狡い",
+  "kana": "ずるい",
+  "display": "狡い",
+  "meanings_zh": [
+    "狡猾",
+    "奸滑",
+    "奸诈",
+    "滑头"
+  ],
+  "meanings_en": [
+    "sly",
+    "cunning"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

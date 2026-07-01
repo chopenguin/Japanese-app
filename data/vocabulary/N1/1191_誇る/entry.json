@@ -1,0 +1,39 @@
+{
+  "id": "n1-1191",
+  "jlpt": "N1",
+  "kanji": "誇る",
+  "kana": "ほこる",
+  "display": "誇る",
+  "meanings_zh": [
+    "夸耀",
+    "矜夸",
+    "自豪",
+    "骄傲"
+  ],
+  "meanings_en": [
+    "to boast of",
+    "to be proud of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私には誇るべきものが何もない。",
+      "en": "I have nothing to boast about."
+    },
+    {
+      "ja": "地球は様々な花が咲き誇る庭園です。",
+      "en": "The world is a garden of different flowers."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

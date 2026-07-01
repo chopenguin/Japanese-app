@@ -1,0 +1,39 @@
+{
+  "id": "n1-3071",
+  "jlpt": "N1",
+  "kanji": "殆ど",
+  "kana": "ほとんど",
+  "display": "殆ど",
+  "meanings_zh": [
+    "大体上",
+    "大部分",
+    "大致",
+    "大概"
+  ],
+  "meanings_en": [
+    "mostly",
+    "almost"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "議論する価値は殆どない。",
+      "en": "It is hardly worth discussing."
+    },
+    {
+      "ja": "私は強調構文なんて殆ど忘れていた。",
+      "en": "I have pretty much forgotten the emphatic constructions."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

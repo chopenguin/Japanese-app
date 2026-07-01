@@ -1,0 +1,40 @@
+{
+  "id": "n2-1092",
+  "jlpt": "N2",
+  "kanji": "清い",
+  "kana": "きよい",
+  "display": "清い",
+  "meanings_zh": [
+    "清澈",
+    "不混浊",
+    "纯洁",
+    "洁白"
+  ],
+  "meanings_en": [
+    "clear",
+    "pure",
+    "noble"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "心の清い人たちは幸いである。",
+      "en": "Blessed are the pure in heart."
+    },
+    {
+      "ja": "仮令遊女でも純粋な恋をすれば、その恋は無垢な清いものです。",
+      "en": "Even if she's a prostitute which falls in love, her love is a pure and noble feeling."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

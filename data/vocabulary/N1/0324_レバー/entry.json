@@ -1,0 +1,34 @@
+{
+  "id": "n1-0324",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "レバー",
+  "display": "レバー",
+  "meanings_zh": [],
+  "meanings_en": [
+    "lever",
+    "liver"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "レバーを押しあげて下さい。",
+      "en": "Please push up the lever."
+    },
+    {
+      "ja": "調節レバーを上に上げると座面の高さを調節できます。",
+      "en": "You can adjust the seat height by moving the adjustment lever up."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

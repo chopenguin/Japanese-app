@@ -1,0 +1,39 @@
+{
+  "id": "n2-0842",
+  "jlpt": "N2",
+  "kanji": "治す",
+  "kana": "なおす",
+  "display": "治す",
+  "meanings_zh": [
+    "医治"
+  ],
+  "meanings_en": [
+    "to cure",
+    "to heal",
+    "to fix",
+    "to correct",
+    "to repair"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "不平不満を治す薬はない。",
+      "en": "No medicine can cure a man of discontent."
+    },
+    {
+      "ja": "僕達のタスクは壁を治す。",
+      "en": "Our task is to repair a wall."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

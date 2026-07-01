@@ -1,0 +1,36 @@
+{
+  "id": "n1-2355",
+  "jlpt": "N1",
+  "kanji": "遅れ",
+  "kana": "おくれ",
+  "display": "遅れ",
+  "meanings_zh": [
+    "晚"
+  ],
+  "meanings_en": [
+    "delay",
+    "lag"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "遅れるなよ。",
+      "en": "Don't be late."
+    },
+    {
+      "ja": "遅れたかな？",
+      "en": "I'm late, aren't I?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n1-1347",
+  "jlpt": "N1",
+  "kanji": "佐",
+  "kana": "さ",
+  "display": "佐",
+  "meanings_zh": [],
+  "meanings_en": [
+    "help"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は大佐に昇進した。",
+      "en": "He advanced to colonel."
+    },
+    {
+      "ja": "少佐は大尉の上官である。",
+      "en": "A major is above a captain."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

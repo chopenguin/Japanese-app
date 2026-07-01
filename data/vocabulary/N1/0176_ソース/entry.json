@@ -1,0 +1,33 @@
+{
+  "id": "n1-0176",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ソース",
+  "display": "ソース",
+  "meanings_zh": [],
+  "meanings_en": [
+    "source"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ソースとって！",
+      "en": "Pass the sauce!"
+    },
+    {
+      "ja": "ソースを別にください。",
+      "en": "I'd like the sauce on the side."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

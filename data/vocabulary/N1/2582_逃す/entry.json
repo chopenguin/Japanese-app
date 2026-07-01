@@ -1,0 +1,39 @@
+{
+  "id": "n1-2582",
+  "jlpt": "N1",
+  "kanji": "逃す",
+  "kana": "のがす",
+  "display": "逃す",
+  "meanings_zh": [
+    "逸失",
+    "放过",
+    "错过"
+  ],
+  "meanings_en": [
+    "to let loose",
+    "to set free",
+    "to let escape"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "好機を逃すな。",
+      "en": "Make hay while the sun shines."
+    },
+    {
+      "ja": "逃すわけない。",
+      "en": "I won't let you escape."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

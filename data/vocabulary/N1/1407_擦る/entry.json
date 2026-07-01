@@ -1,0 +1,30 @@
+{
+  "id": "n1-1407",
+  "jlpt": "N1",
+  "kanji": "擦る",
+  "kana": "かする",
+  "display": "擦る",
+  "meanings_zh": [
+    "摩擦",
+    "擦",
+    "揉",
+    "搓"
+  ],
+  "meanings_en": [
+    "to touch lightly",
+    "to take a percentage (from)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n2-0966",
+  "jlpt": "N2",
+  "kanji": "小遣い",
+  "kana": "こづかい",
+  "display": "小遣い",
+  "meanings_zh": [
+    "零钱",
+    "零用钱"
+  ],
+  "meanings_en": [
+    "personal expenses",
+    "pocket money",
+    "spending money",
+    "incidental expenses",
+    "allowance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は小遣いが不足している。",
+      "en": "I am short of pocket money."
+    },
+    {
+      "ja": "子供にお小遣いをあげてるよ。",
+      "en": "I give my children an allowance."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

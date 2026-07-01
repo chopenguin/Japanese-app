@@ -1,0 +1,38 @@
+{
+  "id": "n1-1387",
+  "jlpt": "N1",
+  "kanji": "裁く",
+  "kana": "さばく",
+  "display": "裁く",
+  "meanings_zh": [
+    "裁判",
+    "审判",
+    "排解",
+    "从中调停"
+  ],
+  "meanings_en": [
+    "to judge"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "誰がこの事件を裁くのでしょうか。",
+      "en": "Who is going to try this case?"
+    },
+    {
+      "ja": "神が御子を世に遣わされたのは、世を裁くためでなく、御子によって、世が救われるためである。",
+      "en": "For God sent not his Son into the world to condemn the world; but that the world through him might be saved."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

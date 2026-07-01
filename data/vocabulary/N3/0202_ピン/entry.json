@@ -1,0 +1,33 @@
+{
+  "id": "n3-0202",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ピン",
+  "display": "ピン",
+  "meanings_zh": [],
+  "meanings_en": [
+    "pin"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ピンとこないな。",
+      "en": "That doesn't ring a bell."
+    },
+    {
+      "ja": "今月はピンチだ。",
+      "en": "Money's tight for me this month."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

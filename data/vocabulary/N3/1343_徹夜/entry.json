@@ -1,0 +1,40 @@
+{
+  "id": "n3-1343",
+  "jlpt": "N3",
+  "kanji": "徹夜",
+  "kana": "てつや",
+  "display": "徹夜",
+  "meanings_zh": [
+    "彻夜",
+    "通宵",
+    "开夜车",
+    "熬夜"
+  ],
+  "meanings_en": [
+    "all night",
+    "all night vigil",
+    "sleepless night"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は徹夜した。",
+      "en": "I sat up all night."
+    },
+    {
+      "ja": "徹夜だったの？",
+      "en": "Were you up all night?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

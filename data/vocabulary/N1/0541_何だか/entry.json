@@ -1,0 +1,40 @@
+{
+  "id": "n1-0541",
+  "jlpt": "N1",
+  "kanji": "何だか",
+  "kana": "なんだか",
+  "display": "何だか",
+  "meanings_zh": [
+    "是什么",
+    "总觉得",
+    "总有点",
+    "不由得"
+  ],
+  "meanings_en": [
+    "a little",
+    "somewhat",
+    "somehow"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何だか疲れました。",
+      "en": "I'm sort of tired."
+    },
+    {
+      "ja": "何だかクラクラする。",
+      "en": "I'm somewhat dizzy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

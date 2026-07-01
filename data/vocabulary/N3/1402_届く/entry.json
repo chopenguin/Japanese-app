@@ -1,0 +1,38 @@
+{
+  "id": "n3-1402",
+  "jlpt": "N3",
+  "kanji": "届く",
+  "kana": "とどく",
+  "display": "届く",
+  "meanings_zh": [
+    "达到",
+    "够得着",
+    "买得起",
+    "到"
+  ],
+  "meanings_en": [
+    "to reach"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "天井に手が届くんだよ。",
+      "en": "I can touch the ceiling."
+    },
+    {
+      "ja": "ここからでも声は届くよ。",
+      "en": "You can make yourself heard even from here."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n1-1087",
+  "jlpt": "N1",
+  "kanji": "結合",
+  "kana": "けつごう",
+  "display": "結合",
+  "meanings_zh": [
+    "结合"
+  ],
+  "meanings_en": [
+    "combination",
+    "union"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "水素と酸素が結合して水になるのです。",
+      "en": "Hydrogen and oxygen combine to form water."
+    },
+    {
+      "ja": "これらの州は結合して１つの国になった。",
+      "en": "These states were united into one nation."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "n2-1495",
+  "jlpt": "N2",
+  "kanji": "被せる",
+  "kana": "かぶせる",
+  "display": "被せる",
+  "meanings_zh": [
+    "盖上",
+    "蒙上",
+    "包上",
+    "浇"
+  ],
+  "meanings_en": [
+    "to cover (with something)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

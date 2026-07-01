@@ -1,0 +1,40 @@
+{
+  "id": "n3-0855",
+  "jlpt": "N3",
+  "kanji": "持ち上げる",
+  "kana": "もちあげる",
+  "display": "持ち上げる",
+  "meanings_zh": [
+    "用手举起",
+    "抬起",
+    "拿起",
+    "奉承"
+  ],
+  "meanings_en": [
+    "to raise",
+    "to lift up",
+    "to flatter"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "包みを持ち上げるのを手伝って。",
+      "en": "Help me lift the package."
+    },
+    {
+      "ja": "私が持ち上げるには重すぎるよ。",
+      "en": "It's too heavy for me to lift."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

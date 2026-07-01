@@ -1,0 +1,29 @@
+{
+  "id": "n1-0376",
+  "jlpt": "N1",
+  "kanji": "為来り",
+  "kana": "しきたり",
+  "display": "為来り",
+  "meanings_zh": [
+    "惯例",
+    "常规",
+    "成规",
+    "老规矩"
+  ],
+  "meanings_en": [
+    "customs"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

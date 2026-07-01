@@ -1,0 +1,39 @@
+{
+  "id": "n1-2277",
+  "jlpt": "N1",
+  "kanji": "台無し",
+  "kana": "だいなし",
+  "display": "台無し",
+  "meanings_zh": [
+    "弄坏",
+    "糟蹋",
+    "断送"
+  ],
+  "meanings_en": [
+    "mess",
+    "spoiled",
+    "(come to) nothing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "すべてを台無しにする。",
+      "en": "Bring everything to ruin."
+    },
+    {
+      "ja": "悪天候が式を台無しにした。",
+      "en": "The bad weather marred the ceremony."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

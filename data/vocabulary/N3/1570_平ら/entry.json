@@ -1,0 +1,42 @@
+{
+  "id": "n3-1570",
+  "jlpt": "N3",
+  "kanji": "平ら",
+  "kana": "たいら",
+  "display": "平ら",
+  "meanings_zh": [
+    "平",
+    "平坦",
+    "平地",
+    "平原"
+  ],
+  "meanings_en": [
+    "flatness",
+    "level",
+    "smooth",
+    "calm",
+    "plain"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "どうぞ、お平らに。",
+      "en": "Please relax your sitting position and feel free to stretch your legs."
+    },
+    {
+      "ja": "彼は全部平らげた。",
+      "en": "He ate all of it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

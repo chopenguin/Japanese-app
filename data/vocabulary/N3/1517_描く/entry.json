@@ -1,0 +1,42 @@
+{
+  "id": "n3-1517",
+  "jlpt": "N3",
+  "kanji": "描く",
+  "kana": "えがく",
+  "display": "描く",
+  "meanings_zh": [
+    "画",
+    "绘",
+    "描绘",
+    "描写"
+  ],
+  "meanings_en": [
+    "to draw",
+    "to paint",
+    "to sketch",
+    "to depict",
+    "to describe"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "絵を描くの好き？",
+      "en": "Do you like painting?"
+    },
+    {
+      "ja": "絵を描くのは得意？",
+      "en": "Are you good at drawing pictures?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

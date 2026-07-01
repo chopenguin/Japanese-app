@@ -1,0 +1,38 @@
+{
+  "id": "n4-0567",
+  "jlpt": "N4",
+  "kanji": "別れる",
+  "kana": "わかれる",
+  "display": "別れる",
+  "meanings_zh": [
+    "离别",
+    "分手",
+    "离婚",
+    "分散"
+  ],
+  "meanings_en": [
+    "to separate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムと別れるの？",
+      "en": "Are you breaking up with Tom?"
+    },
+    {
+      "ja": "別れる時がやって来た。",
+      "en": "The time has come when we must part."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

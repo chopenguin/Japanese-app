@@ -1,0 +1,30 @@
+{
+  "id": "n1-0719",
+  "jlpt": "N1",
+  "kanji": "噛る",
+  "kana": "かじる",
+  "display": "噛る",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to chew",
+    "to bite (at)",
+    "to gnaw",
+    "to nibble",
+    "to munch",
+    "to crunch",
+    "to have a smattering of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

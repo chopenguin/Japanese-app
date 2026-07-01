@@ -1,0 +1,38 @@
+{
+  "id": "n5-0317",
+  "jlpt": "N5",
+  "kanji": "向こう",
+  "kana": "むこう",
+  "display": "向こう",
+  "meanings_zh": [
+    "前面",
+    "正面",
+    "对面",
+    "正对面"
+  ],
+  "meanings_en": [
+    "over there"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "向こうへ行け！",
+      "en": "Get away!"
+    },
+    {
+      "ja": "向こうの方で泳ごう。",
+      "en": "Let's swim over there."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

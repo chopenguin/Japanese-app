@@ -1,0 +1,35 @@
+{
+  "id": "n3-0246",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ワイン",
+  "display": "ワイン",
+  "meanings_zh": [
+    "葡萄酒"
+  ],
+  "meanings_en": [
+    "wine"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ワインです。",
+      "en": "It's wine."
+    },
+    {
+      "ja": "白ワインは好き？",
+      "en": "Do you like white wine?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

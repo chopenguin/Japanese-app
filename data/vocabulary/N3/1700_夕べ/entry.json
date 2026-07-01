@@ -1,0 +1,36 @@
+{
+  "id": "n3-1700",
+  "jlpt": "N3",
+  "kanji": "夕べ",
+  "kana": "ゆうべ",
+  "display": "夕べ",
+  "meanings_zh": [
+    "傍晚",
+    "晚会"
+  ],
+  "meanings_en": [
+    "evening"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "夕べ大雪が降った。",
+      "en": "It snowed a good deal last night."
+    },
+    {
+      "ja": "夕べはひどく冷えた。",
+      "en": "There was heavy frost last night."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

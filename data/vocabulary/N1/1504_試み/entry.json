@@ -1,0 +1,36 @@
+{
+  "id": "n1-1504",
+  "jlpt": "N1",
+  "kanji": "試み",
+  "kana": "こころみ",
+  "display": "試み",
+  "meanings_zh": [
+    "尝试"
+  ],
+  "meanings_en": [
+    "trial",
+    "experiment"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "心肺蘇生法を試みる。",
+      "en": "I'm going to attempt CPR."
+    },
+    {
+      "ja": "彼女は３度目を試みた。",
+      "en": "She tried a third time."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n1-0040",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "オープン",
+  "display": "オープン",
+  "meanings_zh": [
+    "开",
+    "开放",
+    "敞开",
+    "公开"
+  ],
+  "meanings_en": [
+    "open"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "もうオープンしてる？",
+      "en": "Is it already open?"
+    },
+    {
+      "ja": "オープン戦だけ絶好調だった。",
+      "en": "He was doing really well in the preseason, but that was it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

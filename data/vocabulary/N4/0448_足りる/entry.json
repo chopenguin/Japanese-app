@@ -1,0 +1,38 @@
+{
+  "id": "n4-0448",
+  "jlpt": "N4",
+  "kanji": "足りる",
+  "kana": "たりる",
+  "display": "足りる",
+  "meanings_zh": [
+    "足",
+    "够",
+    "值得",
+    "可以"
+  ],
+  "meanings_en": [
+    "to be enough"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これで足りる？",
+      "en": "Is this enough?"
+    },
+    {
+      "ja": "千円で足りる？",
+      "en": "Is a thousand yen enough?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

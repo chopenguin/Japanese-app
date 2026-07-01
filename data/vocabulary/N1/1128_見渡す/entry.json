@@ -1,0 +1,40 @@
+{
+  "id": "n1-1128",
+  "jlpt": "N1",
+  "kanji": "見渡す",
+  "kana": "みわたす",
+  "display": "見渡す",
+  "meanings_zh": [
+    "放眼望去",
+    "了望",
+    "远望",
+    "张望"
+  ],
+  "meanings_en": [
+    "to look out over",
+    "to survey (scene)",
+    "to take an extensive view of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "見渡す限り海だった。",
+      "en": "There was nothing but the ocean as far as the eye could see."
+    },
+    {
+      "ja": "見渡す限り、森であった。",
+      "en": "There was nothing but forest as far as the eye could see."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

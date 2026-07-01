@@ -1,0 +1,34 @@
+{
+  "id": "n1-0817",
+  "jlpt": "N1",
+  "kanji": "幾多",
+  "kana": "いくた",
+  "display": "幾多",
+  "meanings_zh": [],
+  "meanings_en": [
+    "many",
+    "numerous"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "我々は幾多の困難を克服しなければならない。",
+      "en": "We have to cope with hosts of difficulties."
+    },
+    {
+      "ja": "私たちの前途には幾多の困難が横たわっている。",
+      "en": "There lie many difficulties before us."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

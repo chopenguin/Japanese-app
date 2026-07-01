@@ -1,0 +1,33 @@
+{
+  "id": "n1-3444",
+  "jlpt": "N1",
+  "kanji": "茹でる",
+  "kana": "ゆでる",
+  "display": "茹でる",
+  "meanings_zh": [
+    "煮",
+    "烫",
+    "焯"
+  ],
+  "meanings_en": [
+    "to boil"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "茹でるのとぐつぐつ煮るのって何が違うの？",
+      "en": "What's the difference between boiling and simmering?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n5-0014",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "いかが",
+  "display": "いかが",
+  "meanings_zh": [],
+  "meanings_en": [
+    "how"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "一口いかが？",
+      "en": "How about a bite to eat?"
+    },
+    {
+      "ja": "葉巻はいかが？",
+      "en": "Have a cigar?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

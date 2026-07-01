@@ -1,0 +1,39 @@
+{
+  "id": "n2-0980",
+  "jlpt": "N2",
+  "kanji": "焦げる",
+  "kana": "こげる",
+  "display": "焦げる",
+  "meanings_zh": [
+    "焦",
+    "煳",
+    "烤焦",
+    "烧煳"
+  ],
+  "meanings_en": [
+    "to burn",
+    "to be burned"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "灼熱の太陽で体が焦げるほどだった。",
+      "en": "The scorching sun grilled us."
+    },
+    {
+      "ja": "私が台所に戻った時、私の料理はもうすぐ焦げるところだった。",
+      "en": "My cooking had almost burnt by the time I came to the kitchen."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

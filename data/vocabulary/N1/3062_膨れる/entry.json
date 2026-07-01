@@ -1,0 +1,44 @@
+{
+  "id": "n1-3062",
+  "jlpt": "N1",
+  "kanji": "膨れる",
+  "kana": "ふくれる",
+  "display": "膨れる",
+  "meanings_zh": [
+    "胀",
+    "鼓出",
+    "肿",
+    "噘嘴"
+  ],
+  "meanings_en": [
+    "to get cross",
+    "to get sulky",
+    "to swell (out)",
+    "to expand",
+    "to be inflated",
+    "to distend",
+    "to bulge"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムってすぐ膨れるよね。",
+      "en": "Tom gets cross easily."
+    },
+    {
+      "ja": "炭酸を飲むとすぐにお腹が膨れる。",
+      "en": "When I drink carbonated water my stomach quickly starts feeling inflated."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

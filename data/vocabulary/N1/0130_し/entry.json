@@ -1,0 +1,40 @@
+{
+  "id": "n1-0130",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "し",
+  "display": "し",
+  "meanings_zh": [
+    "又～～又～～",
+    "既～～又～～",
+    "也～～也～～",
+    "因为～～"
+  ],
+  "meanings_en": [
+    "10^24 (kanji is JIS X 0212 kuten 4906)",
+    "septillion (American)",
+    "quadrillion (British)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何してるの？",
+      "en": "What are you doing?"
+    },
+    {
+      "ja": "決めました。",
+      "en": "I made my decision."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

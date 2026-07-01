@@ -1,0 +1,38 @@
+{
+  "id": "n5-0299",
+  "jlpt": "N5",
+  "kanji": "言う",
+  "kana": "いう",
+  "display": "言う",
+  "meanings_zh": [
+    "说",
+    "讲",
+    "道",
+    "说话"
+  ],
+  "meanings_en": [
+    "to say"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "よく言うよ。",
+      "en": "Don't make me laugh."
+    },
+    {
+      "ja": "バカ言うな。",
+      "en": "Don't be stupid."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

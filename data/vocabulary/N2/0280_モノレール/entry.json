@@ -1,0 +1,28 @@
+{
+  "id": "n2-0280",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "モノレール",
+  "display": "モノレール",
+  "meanings_zh": [
+    "单轨铁路",
+    "单轨电车",
+    "独轨车"
+  ],
+  "meanings_en": [
+    "monorail"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

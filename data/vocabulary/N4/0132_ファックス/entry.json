@@ -1,0 +1,33 @@
+{
+  "id": "n4-0132",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ファックス",
+  "display": "ファックス",
+  "meanings_zh": [],
+  "meanings_en": [
+    "fax"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ファックスしなきゃ。",
+      "en": "I need to send a fax."
+    },
+    {
+      "ja": "ファックスって、何ですか？",
+      "en": "What is a fax?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

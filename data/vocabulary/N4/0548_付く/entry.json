@@ -1,0 +1,38 @@
+{
+  "id": "n4-0548",
+  "jlpt": "N4",
+  "kanji": "付く",
+  "kana": "つく",
+  "display": "付く",
+  "meanings_zh": [
+    "附上",
+    "附着",
+    "粘附",
+    "沾上"
+  ],
+  "meanings_en": [
+    "to be attached"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女の水着は目に付く。",
+      "en": "Her bathing suit attracts our attention."
+    },
+    {
+      "ja": "このテープはよく付く。",
+      "en": "This tape sticks well."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

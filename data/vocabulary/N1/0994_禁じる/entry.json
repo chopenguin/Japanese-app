@@ -1,0 +1,33 @@
+{
+  "id": "n1-0994",
+  "jlpt": "N1",
+  "kanji": "禁じる",
+  "kana": "きんじる",
+  "display": "禁じる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to prohibit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "君の喫煙を禁じる。",
+      "en": "I forbid you to smoke."
+    },
+    {
+      "ja": "ドアに「関係者以外の立ち入りを禁じる」という貼り紙がしてあるにもかかわらず、トムは勝手に中に入って行った。",
+      "en": "Despite a sign on the door that said \"Authorized Personnel Only,\" Tom just went right in."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "n2-1462",
+  "jlpt": "N2",
+  "kanji": "這う",
+  "kana": "はう",
+  "display": "這う",
+  "meanings_zh": [
+    "爬",
+    "攀援",
+    "趴"
+  ],
+  "meanings_en": [
+    "to creep",
+    "to crawl"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "我々は山道をまるでアリが這うように進んだ。",
+      "en": "We crawled like so many ants along the mountain pass."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n2-0284",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "やっぱり",
+  "display": "やっぱり",
+  "meanings_zh": [],
+  "meanings_en": [
+    "also",
+    "as I thought",
+    "still",
+    "in spite of",
+    "absolutely",
+    "of course"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "やっぱりね。",
+      "en": "That figures."
+    },
+    {
+      "ja": "やっぱり異常だよ。",
+      "en": "As expected it's unusual."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

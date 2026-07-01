@@ -1,0 +1,30 @@
+{
+  "id": "n2-0293",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "リポート",
+  "display": "リポート",
+  "meanings_zh": [],
+  "meanings_en": [
+    "report",
+    "paper"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼のリポートはたった今提出された。",
+      "en": "His report has just been handed in."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

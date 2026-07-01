@@ -1,0 +1,38 @@
+{
+  "id": "n5-0473",
+  "jlpt": "N5",
+  "kanji": "貸す",
+  "kana": "かす",
+  "display": "貸す",
+  "meanings_zh": [
+    "借给",
+    "借出",
+    "出借",
+    "贷给"
+  ],
+  "meanings_en": [
+    "to lend"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "噂話に耳を貸すな。",
+      "en": "Don't listen to gossip."
+    },
+    {
+      "ja": "彼は君に本を貸すだろう。",
+      "en": "He'll lend you his book."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

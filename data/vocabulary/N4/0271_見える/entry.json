@@ -1,0 +1,38 @@
+{
+  "id": "n4-0271",
+  "jlpt": "N4",
+  "kanji": "見える",
+  "kana": "みえる",
+  "display": "見える",
+  "meanings_zh": [
+    "看见",
+    "看得见",
+    "好象是",
+    "似乎"
+  ],
+  "meanings_en": [
+    "to be in sight"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何か見える？",
+      "en": "Can you see anything?"
+    },
+    {
+      "ja": "家が見える。",
+      "en": "I see a house."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

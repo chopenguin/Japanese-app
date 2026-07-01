@@ -1,0 +1,39 @@
+{
+  "id": "n2-1115",
+  "jlpt": "N2",
+  "kanji": "積む",
+  "kana": "つむ",
+  "display": "積む",
+  "meanings_zh": [
+    "堆积",
+    "积垒",
+    "装载",
+    "积累"
+  ],
+  "meanings_en": [
+    "to pile up",
+    "to stack"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "一隻の船に全部を積む冒険をするな。",
+      "en": "Don't risk putting everything in one boat."
+    },
+    {
+      "ja": "経験を積むにつれて更に知恵が身につく。",
+      "en": "You get more wisdom as you have more experiences."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

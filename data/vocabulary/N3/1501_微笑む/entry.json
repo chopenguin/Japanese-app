@@ -1,0 +1,37 @@
+{
+  "id": "n3-1501",
+  "jlpt": "N3",
+  "kanji": "微笑む",
+  "kana": "ほほえむ",
+  "display": "微笑む",
+  "meanings_zh": [
+    "微笑",
+    "初放",
+    "乍开"
+  ],
+  "meanings_en": [
+    "to smile"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "運命は大胆な者に微笑む。",
+      "en": "Fortune favors the bold."
+    },
+    {
+      "ja": "何といって良いか分からず、彼女はただ微笑むだけだった。",
+      "en": "Not knowing what to say, she just smiled."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

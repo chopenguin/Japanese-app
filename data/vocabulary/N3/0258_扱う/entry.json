@@ -1,0 +1,40 @@
+{
+  "id": "n3-0258",
+  "jlpt": "N3",
+  "kanji": "扱う",
+  "kana": "あつかう",
+  "display": "扱う",
+  "meanings_zh": [
+    "待",
+    "待遇",
+    "对待",
+    "接待"
+  ],
+  "meanings_en": [
+    "to handle",
+    "to deal with",
+    "to treat"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "最高の品を扱う。",
+      "en": "Deal in top of the line of goods."
+    },
+    {
+      "ja": "歴史は過去を扱う。",
+      "en": "History deals with the past."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

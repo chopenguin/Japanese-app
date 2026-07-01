@@ -1,0 +1,33 @@
+{
+  "id": "n4-0140",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "まず",
+  "display": "まず",
+  "meanings_zh": [],
+  "meanings_en": [
+    "first of all"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "まず京都にいく。",
+      "en": "First we'll hit Kyoto."
+    },
+    {
+      "ja": "まずその辺です。",
+      "en": "That's about it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n1-1242",
+  "jlpt": "N1",
+  "kanji": "向け",
+  "kana": "むけ",
+  "display": "向け",
+  "meanings_zh": [
+    "向～～"
+  ],
+  "meanings_en": [
+    "for ~",
+    "oriented towards ~"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "仰向けになって。",
+      "en": "Roll over on your back."
+    },
+    {
+      "ja": "銃を私に向けるな。",
+      "en": "Don't point your gun at me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

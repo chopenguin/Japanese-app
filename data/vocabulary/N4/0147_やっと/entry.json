@@ -1,0 +1,38 @@
+{
+  "id": "n4-0147",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "やっと",
+  "display": "やっと",
+  "meanings_zh": [
+    "好容易",
+    "终于",
+    "才",
+    "勉勉强强"
+  ],
+  "meanings_en": [
+    "at last"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "やっと着いた。",
+      "en": "Well, here we are at last!"
+    },
+    {
+      "ja": "やっといたよ。",
+      "en": "I did that for you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

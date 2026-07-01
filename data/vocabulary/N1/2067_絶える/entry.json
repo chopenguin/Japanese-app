@@ -1,0 +1,36 @@
+{
+  "id": "n1-2067",
+  "jlpt": "N1",
+  "kanji": "絶える",
+  "kana": "たえる",
+  "display": "絶える",
+  "meanings_zh": [
+    "断绝",
+    "终了",
+    "停止",
+    "消失"
+  ],
+  "meanings_en": [
+    "to die out",
+    "to peter out",
+    "to become extinct"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "鯨が今世紀の終わりに死に絶える可能性は五分五分である。",
+      "en": "As likely as not, whales will be extinct by the end of this century."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

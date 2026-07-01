@@ -1,0 +1,35 @@
+{
+  "id": "n1-2441",
+  "jlpt": "N1",
+  "kanji": "追い出す",
+  "kana": "おいだす",
+  "display": "追い出す",
+  "meanings_zh": [
+    "赶出",
+    "逐出",
+    "轰出",
+    "撵出"
+  ],
+  "meanings_en": [
+    "to expel",
+    "to drive out"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "黙ってて、じゃなきゃ追い出すわよ。",
+      "en": "Shut up, or I'll kick you out."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

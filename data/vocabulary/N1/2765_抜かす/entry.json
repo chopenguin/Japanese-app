@@ -1,0 +1,38 @@
+{
+  "id": "n1-2765",
+  "jlpt": "N1",
+  "kanji": "抜かす",
+  "kana": "ぬかす",
+  "display": "抜かす",
+  "meanings_zh": [
+    "遗漏",
+    "漏掉",
+    "跳过"
+  ],
+  "meanings_en": [
+    "to omit",
+    "to leave out"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "注意しなさい。君はよく何かの文字を抜かすよ。",
+      "en": "Be more careful. You often leave out some letter or other."
+    },
+    {
+      "ja": "は？グダグダ抜かすんじゃねぇ。それでもオトコか。",
+      "en": "Huh? Don't be so whiny! And you call yourself a man!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

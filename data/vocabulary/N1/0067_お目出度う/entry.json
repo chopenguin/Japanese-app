@@ -1,0 +1,28 @@
+{
+  "id": "n1-0067",
+  "jlpt": "N1",
+  "kanji": "お目出度う",
+  "kana": "おめでとう",
+  "display": "お目出度う",
+  "meanings_zh": [
+    "恭喜恭喜",
+    "可喜可贺"
+  ],
+  "meanings_en": [
+    "(ateji) (int) (uk) Congratulations!",
+    "an auspicious occasion!"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

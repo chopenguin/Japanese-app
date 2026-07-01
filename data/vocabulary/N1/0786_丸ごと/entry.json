@@ -1,0 +1,38 @@
+{
+  "id": "n1-0786",
+  "jlpt": "N1",
+  "kanji": "丸ごと",
+  "kana": "まるごと",
+  "display": "丸ごと",
+  "meanings_zh": [
+    "整个",
+    "完整"
+  ],
+  "meanings_en": [
+    "in its entirety",
+    "whole",
+    "wholly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は１課を丸ごと暗記することで満点を取った。",
+      "en": "She got full marks by memorizing the whole lesson."
+    },
+    {
+      "ja": "丸ごと馬一匹を食べられるくらい腹が減っている。",
+      "en": "I'm so hungry that I could eat a horse."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

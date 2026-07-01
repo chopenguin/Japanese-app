@@ -1,0 +1,38 @@
+{
+  "id": "n1-3182",
+  "jlpt": "N1",
+  "kanji": "目覚める",
+  "kana": "めざめる",
+  "display": "目覚める",
+  "meanings_zh": [
+    "睡醒",
+    "觉醒",
+    "自觉",
+    "醒悟"
+  ],
+  "meanings_en": [
+    "to wake up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "目覚めるまで長かった。",
+      "en": "It took me a long time to wake up."
+    },
+    {
+      "ja": "目覚める事は寝る事の反対です。",
+      "en": "Waking up is the opposite of going to sleep."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

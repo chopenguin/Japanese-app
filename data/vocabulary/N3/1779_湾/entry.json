@@ -1,0 +1,37 @@
+{
+  "id": "n3-1779",
+  "jlpt": "N3",
+  "kanji": "湾",
+  "kana": "わん",
+  "display": "湾",
+  "meanings_zh": [
+    "湾"
+  ],
+  "meanings_en": [
+    "bay",
+    "gulf",
+    "inlet"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "台湾は国です。",
+      "en": "Taiwan is a country."
+    },
+    {
+      "ja": "私たちは台湾経由で行った。",
+      "en": "We went by way of Taiwan."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

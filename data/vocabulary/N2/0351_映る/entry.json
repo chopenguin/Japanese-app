@@ -1,0 +1,40 @@
+{
+  "id": "n2-0351",
+  "jlpt": "N2",
+  "kanji": "映る",
+  "kana": "うつる",
+  "display": "映る",
+  "meanings_zh": [
+    "映",
+    "照",
+    "相配",
+    "相称"
+  ],
+  "meanings_en": [
+    "to be reflected",
+    "to harmonize with",
+    "to come out (photo)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "メアリーは、鏡に映る自分の姿に目をやった。",
+      "en": "Mary looked at herself in the mirror."
+    },
+    {
+      "ja": "なんて小さなテレビなんでしょう。本当に映るのですか。",
+      "en": "What a small television set! Does it really work?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

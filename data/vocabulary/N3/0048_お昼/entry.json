@@ -1,0 +1,34 @@
+{
+  "id": "n3-0048",
+  "jlpt": "N3",
+  "kanji": "お昼",
+  "kana": "おひる",
+  "display": "お昼",
+  "meanings_zh": [],
+  "meanings_en": [
+    "lunch",
+    "noon"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お昼ですよ。",
+      "en": "Lunch is on."
+    },
+    {
+      "ja": "お昼寝中よ。",
+      "en": "She's taking a nap."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

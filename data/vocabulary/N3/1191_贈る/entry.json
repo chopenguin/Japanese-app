@@ -1,0 +1,41 @@
+{
+  "id": "n3-1191",
+  "jlpt": "N3",
+  "kanji": "贈る",
+  "kana": "おくる",
+  "display": "贈る",
+  "meanings_zh": [
+    "赠送",
+    "馈赠",
+    "授予",
+    "赠给"
+  ],
+  "meanings_en": [
+    "to send",
+    "to give to",
+    "to award to",
+    "to confer on"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は贈るものを紙で包んだ。",
+      "en": "She wrapped some gifts in paper."
+    },
+    {
+      "ja": "彼は先生に本を贈るつもりだ。",
+      "en": "He will present a book to his teacher."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

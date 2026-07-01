@@ -1,0 +1,37 @@
+{
+  "id": "n2-1447",
+  "jlpt": "N2",
+  "kanji": "覗く",
+  "kana": "のぞく",
+  "display": "覗く",
+  "meanings_zh": [
+    "露出",
+    "窥视",
+    "探视",
+    "看一看"
+  ],
+  "meanings_en": [
+    "to peep in",
+    "to look in",
+    "to peek in",
+    "to stick out"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "被写体に気づかれないようにそぉっとカメラを取り出し、ファインダーを覗く。",
+      "en": "I quietly take out my camera, so as not to be noticed by my photographic subject, and peek through the finder."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

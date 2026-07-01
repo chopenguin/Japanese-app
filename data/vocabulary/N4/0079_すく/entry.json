@@ -1,0 +1,33 @@
+{
+  "id": "n4-0079",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "すく",
+  "display": "すく",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to become empty"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は肩をすくめた。",
+      "en": "She gave a shrug of the shoulders."
+    },
+    {
+      "ja": "波に足をすくわれた。",
+      "en": "The waves carried me off my feet."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

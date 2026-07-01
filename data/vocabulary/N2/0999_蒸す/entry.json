@@ -1,0 +1,29 @@
+{
+  "id": "n2-0999",
+  "jlpt": "N2",
+  "kanji": "蒸す",
+  "kana": "むす",
+  "display": "蒸す",
+  "meanings_zh": [
+    "蒸",
+    "闷热"
+  ],
+  "meanings_en": [
+    "to steam",
+    "to poultice",
+    "to be sultry"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

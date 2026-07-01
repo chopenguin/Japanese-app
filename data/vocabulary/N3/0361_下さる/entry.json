@@ -1,0 +1,37 @@
+{
+  "id": "n3-0361",
+  "jlpt": "N3",
+  "kanji": "下さる",
+  "kana": "くださる",
+  "display": "下さる",
+  "meanings_zh": [
+    "送",
+    "给"
+  ],
+  "meanings_en": [
+    "(hon) to give",
+    "to confer"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "約束を守って下さるわね。",
+      "en": "You will keep your word, won't you?"
+    },
+    {
+      "ja": "来て下さるだけでいいのです。",
+      "en": "I just want you to come."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

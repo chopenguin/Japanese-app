@@ -1,0 +1,39 @@
+{
+  "id": "n2-1585",
+  "jlpt": "N2",
+  "kanji": "崩れる",
+  "kana": "くずれる",
+  "display": "崩れる",
+  "meanings_zh": [
+    "坍",
+    "塌",
+    "崩溃",
+    "崩裂"
+  ],
+  "meanings_en": [
+    "to collapse",
+    "to crumble"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は床に崩れるようにして倒れた。",
+      "en": "She fell in a heap to the floor."
+    },
+    {
+      "ja": "彼は彼女の足元に崩れるように倒れた。",
+      "en": "He collapsed at her feet."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

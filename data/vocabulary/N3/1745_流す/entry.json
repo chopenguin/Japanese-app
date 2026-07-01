@@ -1,0 +1,42 @@
+{
+  "id": "n3-1745",
+  "jlpt": "N3",
+  "kanji": "流す",
+  "kana": "ながす",
+  "display": "流す",
+  "meanings_zh": [
+    "冲走",
+    "倒",
+    "泼",
+    "使漂浮"
+  ],
+  "meanings_en": [
+    "to drain",
+    "to float",
+    "to shed (blood",
+    "tears)",
+    "to cruise (e.g. taxi)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "電線は電気を流す。",
+      "en": "Wires carry electricity."
+    },
+    {
+      "ja": "新聞は大衆に情報を流す。",
+      "en": "Newspapers distribute information to the public."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

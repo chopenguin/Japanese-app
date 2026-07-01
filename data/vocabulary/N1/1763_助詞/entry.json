@@ -1,0 +1,36 @@
+{
+  "id": "n1-1763",
+  "jlpt": "N1",
+  "kanji": "助詞",
+  "kana": "じょし",
+  "display": "助詞",
+  "meanings_zh": [
+    "助词"
+  ],
+  "meanings_en": [
+    "particle",
+    "postposition"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "日本語の助詞の「は」と「が」は一生使いこなせそうにないわ。",
+      "en": "I don't think I will ever be able to master the Japanese particles \"wa'' and \"ga.''"
+    },
+    {
+      "ja": "中国語においては「テンス」を表す場合には上述のように「助詞」か「時を表す語」または文脈によるものが多い。",
+      "en": "When indicating 'tense' in Chinese, as shown above, there are 'particles', 'time-specifying words' and also many cases where it depends on context."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

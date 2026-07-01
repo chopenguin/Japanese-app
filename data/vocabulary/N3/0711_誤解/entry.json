@@ -1,0 +1,36 @@
+{
+  "id": "n3-0711",
+  "jlpt": "N3",
+  "kanji": "誤解",
+  "kana": "ごかい",
+  "display": "誤解",
+  "meanings_zh": [
+    "误解",
+    "误会"
+  ],
+  "meanings_en": [
+    "misunderstanding"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "誤解しないでよ。",
+      "en": "Don't get me wrong."
+    },
+    {
+      "ja": "トムは誤解した。",
+      "en": "Tom misunderstood."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

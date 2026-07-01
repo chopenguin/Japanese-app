@@ -1,0 +1,38 @@
+{
+  "id": "n3-1388",
+  "jlpt": "N3",
+  "kanji": "同僚",
+  "kana": "どうりょう",
+  "display": "同僚",
+  "meanings_zh": [
+    "同僚",
+    "同事"
+  ],
+  "meanings_en": [
+    "coworker",
+    "colleague",
+    "associate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は同僚だよ。",
+      "en": "She is one of my colleagues."
+    },
+    {
+      "ja": "同僚なら大勢いるよ。",
+      "en": "I have many colleagues."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

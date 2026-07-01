@@ -1,0 +1,34 @@
+{
+  "id": "n1-1336",
+  "jlpt": "N1",
+  "kanji": "根回し",
+  "kana": "ねまわし",
+  "display": "根回し",
+  "meanings_zh": [
+    "修根",
+    "整根",
+    "做事前工作",
+    "事前讲明"
+  ],
+  "meanings_en": [
+    "making necessary arrangements"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "大統領は辞任する前にお金に困らないように根回しした。",
+      "en": "The president made certain that he lined his pockets before he resigned."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

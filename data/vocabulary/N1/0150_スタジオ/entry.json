@@ -1,0 +1,38 @@
+{
+  "id": "n1-0150",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "スタジオ",
+  "display": "スタジオ",
+  "meanings_zh": [
+    "艺术家工作室",
+    "照相馆",
+    "摄影室",
+    "(电影)制片厅"
+  ],
+  "meanings_en": [
+    "studio"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "スタジオに入れません。",
+      "en": "We cannot go into the studio."
+    },
+    {
+      "ja": "夜にスタジオでは電気をつけない。",
+      "en": "I don't switch on the light in my studio at night."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

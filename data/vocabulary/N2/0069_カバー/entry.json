@@ -1,0 +1,38 @@
+{
+  "id": "n2-0069",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "カバー",
+  "display": "カバー",
+  "meanings_zh": [
+    "复盖物",
+    "外皮",
+    "套子",
+    "套鞋"
+  ],
+  "meanings_en": [
+    "cover (ex. book)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は車にカバーを被せた。",
+      "en": "He put a cover over his car."
+    },
+    {
+      "ja": "損害は保険でカバーされた。",
+      "en": "The damage was covered by insurance."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

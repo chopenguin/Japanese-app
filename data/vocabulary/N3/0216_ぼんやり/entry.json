@@ -1,0 +1,42 @@
+{
+  "id": "n3-0216",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ぼんやり",
+  "display": "ぼんやり",
+  "meanings_zh": [
+    "模糊",
+    "不清楚",
+    "发呆",
+    "精神恍惚"
+  ],
+  "meanings_en": [
+    "absent-minded",
+    "block-head",
+    "dim",
+    "faint",
+    "vague"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女はぼんやり顔をしている。",
+      "en": "She has an absent look on her face."
+    },
+    {
+      "ja": "彼は私の顔をぼんやり眺めた。",
+      "en": "He gave me a blank stare."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

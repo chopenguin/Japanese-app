@@ -1,0 +1,38 @@
+{
+  "id": "n1-0161",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "スペース",
+  "display": "スペース",
+  "meanings_zh": [
+    "空间",
+    "空地",
+    "空白",
+    "行间宽度"
+  ],
+  "meanings_en": [
+    "space"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "サイバースペースへようこそ。",
+      "en": "Welcome to Cyberspace!"
+    },
+    {
+      "ja": "４０人に十分なスペースはここにはない。",
+      "en": "Forty people can't fit in here."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

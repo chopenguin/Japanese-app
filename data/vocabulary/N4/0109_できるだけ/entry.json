@@ -1,0 +1,33 @@
+{
+  "id": "n4-0109",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "できるだけ",
+  "display": "できるだけ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "as much as possible"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "できるだけ早くね。",
+      "en": "Be as quick as possible."
+    },
+    {
+      "ja": "できるだけしてるよ。",
+      "en": "He's trying to do what he can."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

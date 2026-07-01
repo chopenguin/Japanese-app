@@ -1,0 +1,33 @@
+{
+  "id": "n1-0231",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "とんだ",
+  "display": "とんだ",
+  "meanings_zh": [
+    "意想不到的",
+    "想象不到",
+    "想不到",
+    "没想到"
+  ],
+  "meanings_en": [
+    "terrible",
+    "awful",
+    "serious",
+    "preposterous",
+    "absolutely not"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

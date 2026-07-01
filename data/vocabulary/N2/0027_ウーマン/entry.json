@@ -1,0 +1,38 @@
+{
+  "id": "n2-0027",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ウーマン",
+  "display": "ウーマン",
+  "meanings_zh": [
+    "女人",
+    "妇女",
+    "女性",
+    "女士"
+  ],
+  "meanings_en": [
+    "woman"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女はウーマンリブ運動の指導者だと言われている。",
+      "en": "She is said to be a leader in the women's liberation movement."
+    },
+    {
+      "ja": "ウーマン・リブは底辺は広いが、非公式な民衆の運動である。",
+      "en": "Women's Liberation is a broad-based but informal popular movement."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

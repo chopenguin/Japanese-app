@@ -1,0 +1,39 @@
+{
+  "id": "n3-0519",
+  "jlpt": "N3",
+  "kanji": "起こる",
+  "kana": "おこる",
+  "display": "起こる",
+  "meanings_zh": [
+    "起",
+    "发生",
+    "闹",
+    "发作"
+  ],
+  "meanings_en": [
+    "to occur",
+    "to happen"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何が起こるだろう。",
+      "en": "What would happen?"
+    },
+    {
+      "ja": "事故は起こるものだ。",
+      "en": "Accidents will happen."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

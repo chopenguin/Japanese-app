@@ -1,0 +1,37 @@
+{
+  "id": "n5-0526",
+  "jlpt": "N5",
+  "kanji": "答える",
+  "kana": "こたえる",
+  "display": "答える",
+  "meanings_zh": [
+    "回答",
+    "答复",
+    "解答"
+  ],
+  "meanings_en": [
+    "to answer"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "軽率に答えるな。",
+      "en": "Do not answer hastily."
+    },
+    {
+      "ja": "君が答える必要はない。",
+      "en": "You don't have to answer."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

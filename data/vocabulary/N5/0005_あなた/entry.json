@@ -1,0 +1,33 @@
+{
+  "id": "n5-0005",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "あなた",
+  "display": "あなた",
+  "meanings_zh": [],
+  "meanings_en": [
+    "you"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あなたの本？",
+      "en": "Is the book yours?"
+    },
+    {
+      "ja": "あなたは朝型？",
+      "en": "Would you say you're a morning person?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

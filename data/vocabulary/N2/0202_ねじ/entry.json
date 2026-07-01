@@ -1,0 +1,33 @@
+{
+  "id": "n2-0202",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ねじ",
+  "display": "ねじ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(a) screw"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は私の腕をねじり上げた。",
+      "en": "He twisted my arm."
+    },
+    {
+      "ja": "彼は手紙をポケットにねじ込んだ。",
+      "en": "He shoved the letter into his pocket."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

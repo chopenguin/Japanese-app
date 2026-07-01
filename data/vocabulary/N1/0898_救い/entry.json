@@ -1,0 +1,35 @@
+{
+  "id": "n1-0898",
+  "jlpt": "N1",
+  "kanji": "救い",
+  "kana": "すくい",
+  "display": "救い",
+  "meanings_zh": [],
+  "meanings_en": [
+    "help",
+    "aid",
+    "relief"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は救い難い。",
+      "en": "He's beyond help."
+    },
+    {
+      "ja": "悪より救い出し給え。",
+      "en": "Deliver us from evil."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

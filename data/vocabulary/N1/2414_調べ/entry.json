@@ -1,0 +1,40 @@
+{
+  "id": "n1-2414",
+  "jlpt": "N1",
+  "kanji": "調べ",
+  "kana": "しらべ",
+  "display": "調べ",
+  "meanings_zh": [
+    "调查",
+    "审查",
+    "审问",
+    "搜查"
+  ],
+  "meanings_en": [
+    "preparation",
+    "investigation",
+    "inspection"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "調べてみるよ。",
+      "en": "I'm going to look into it."
+    },
+    {
+      "ja": "辞書で調べます。",
+      "en": "I will look it up in the dictionary."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

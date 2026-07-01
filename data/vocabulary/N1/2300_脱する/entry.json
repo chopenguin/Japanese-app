@@ -1,0 +1,35 @@
+{
+  "id": "n1-2300",
+  "jlpt": "N1",
+  "kanji": "脱する",
+  "kana": "だっする",
+  "display": "脱する",
+  "meanings_zh": [
+    "逃出",
+    "逃脱",
+    "脱离",
+    "离开"
+  ],
+  "meanings_en": [
+    "to escape from",
+    "to get out"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "国民党は、簡潔に言うと、政治が崩壊する前に政府を離脱する必要があった。",
+      "en": "The People's party, to put it briefly, needed to leave the government before the government fell."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

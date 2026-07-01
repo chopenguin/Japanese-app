@@ -1,0 +1,38 @@
+{
+  "id": "n1-0116",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "コントロール",
+  "display": "コントロール",
+  "meanings_zh": [
+    "支配",
+    "管理",
+    "统制",
+    "抑制"
+  ],
+  "meanings_en": [
+    "control"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "コントロールを失い始めた。",
+      "en": "I began to lose control."
+    },
+    {
+      "ja": "誰も私達をコントロールできない。",
+      "en": "Nobody can control us."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

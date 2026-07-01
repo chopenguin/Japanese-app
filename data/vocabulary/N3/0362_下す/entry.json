@@ -1,0 +1,39 @@
+{
+  "id": "n3-0362",
+  "jlpt": "N3",
+  "kanji": "下す",
+  "kana": "おろす",
+  "display": "下す",
+  "meanings_zh": [
+    "赐",
+    "下赐",
+    "泻",
+    "下达 一直～～下去"
+  ],
+  "meanings_en": [
+    "to lower",
+    "to let go down"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "決定を下すのは彼の権限だ。",
+      "en": "The decision belongs to him."
+    },
+    {
+      "ja": "結論を下すのは君の義務です。",
+      "en": "It's up to you to make the decision."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "n1-2528",
+  "jlpt": "N1",
+  "kanji": "妬む",
+  "kana": "ねたむ",
+  "display": "妬む",
+  "meanings_zh": [
+    "嫉妒",
+    "妒羡",
+    "眼红",
+    "嫉恨"
+  ],
+  "meanings_en": [
+    "to be jealous",
+    "to be envious"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

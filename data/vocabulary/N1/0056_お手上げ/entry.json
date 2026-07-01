@@ -1,0 +1,41 @@
+{
+  "id": "n1-0056",
+  "jlpt": "N1",
+  "kanji": "お手上げ",
+  "kana": "おてあげ",
+  "display": "お手上げ",
+  "meanings_zh": [
+    "束手无策",
+    "毫无办法",
+    "没辙",
+    "只好放弃"
+  ],
+  "meanings_en": [
+    "all over",
+    "given in",
+    "given up hope",
+    "bring to knees"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お手上げだ。",
+      "en": "I'm at a complete loss!"
+    },
+    {
+      "ja": "本当にお手上げだ。",
+      "en": "I'm really up a tree."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

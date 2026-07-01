@@ -1,0 +1,36 @@
+{
+  "id": "n2-1570",
+  "jlpt": "N2",
+  "kanji": "片付く",
+  "kana": "かたづく",
+  "display": "片付く",
+  "meanings_zh": [
+    "收拾整齐",
+    "整理好",
+    "得到解决",
+    "处理好"
+  ],
+  "meanings_en": [
+    "to put in order",
+    "to dispose of",
+    "to solve"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "明日までには仕事は片付くよ。",
+      "en": "I'll be through with my work by tomorrow."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

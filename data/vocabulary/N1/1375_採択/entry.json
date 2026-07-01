@@ -1,0 +1,40 @@
+{
+  "id": "n1-1375",
+  "jlpt": "N1",
+  "kanji": "採択",
+  "kana": "さいたく",
+  "display": "採択",
+  "meanings_zh": [
+    "采纳",
+    "通过",
+    "选择",
+    "选定"
+  ],
+  "meanings_en": [
+    "adoption",
+    "selection",
+    "choice"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らはその提案を採択した。",
+      "en": "They adopted the proposal."
+    },
+    {
+      "ja": "国連総会は停戦決議案を採択した。",
+      "en": "The United Nations General Assembly adopted the cease-fire resolution."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

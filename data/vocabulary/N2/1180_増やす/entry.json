@@ -1,0 +1,40 @@
+{
+  "id": "n2-1180",
+  "jlpt": "N2",
+  "kanji": "増やす",
+  "kana": "ふやす",
+  "display": "増やす",
+  "meanings_zh": [
+    "繁殖",
+    "增殖",
+    "增加",
+    "添"
+  ],
+  "meanings_en": [
+    "to increase",
+    "to add to",
+    "to augment"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "書物は人生の楽しみを増やす。",
+      "en": "Books add to the pleasures of life."
+    },
+    {
+      "ja": "運動量を増やすつもりなんだ。",
+      "en": "I'm going to get more exercise."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

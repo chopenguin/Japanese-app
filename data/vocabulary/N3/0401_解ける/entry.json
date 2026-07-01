@@ -1,0 +1,39 @@
+{
+  "id": "n3-0401",
+  "jlpt": "N3",
+  "kanji": "解ける",
+  "kana": "とける",
+  "display": "解ける",
+  "meanings_zh": [
+    "解开",
+    "消",
+    "解消",
+    "解除"
+  ],
+  "meanings_en": [
+    "to come untied",
+    "to come apart"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それ解ける？",
+      "en": "Can you solve it?"
+    },
+    {
+      "ja": "氷は解けると水に戻る。",
+      "en": "Ice turns back into water when it melts."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "n2-0183",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "つまずく",
+  "display": "つまずく",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to stumble",
+    "to trip"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "足元に気をつけなさい。さもないと手荷物につまずくよ。",
+      "en": "Watch your step, or else you will trip on the baggage."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

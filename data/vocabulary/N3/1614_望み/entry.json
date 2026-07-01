@@ -1,0 +1,40 @@
+{
+  "id": "n3-1614",
+  "jlpt": "N3",
+  "kanji": "望み",
+  "kana": "のぞみ",
+  "display": "望み",
+  "meanings_zh": [
+    "希望",
+    "愿望",
+    "期望",
+    "要求"
+  ],
+  "meanings_en": [
+    "wish",
+    "desire",
+    "(a) hope"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は望みを捨てた。",
+      "en": "He gave up hope."
+    },
+    {
+      "ja": "成功の望みはない。",
+      "en": "There is no hope of success."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

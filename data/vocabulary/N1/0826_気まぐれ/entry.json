@@ -1,0 +1,44 @@
+{
+  "id": "n1-0826",
+  "jlpt": "N1",
+  "kanji": "気まぐれ",
+  "kana": "きまぐれ",
+  "display": "気まぐれ",
+  "meanings_zh": [
+    "心情浮躁",
+    "忽三忽四",
+    "没准脾气",
+    "心血来潮",
+    "任性"
+  ],
+  "meanings_en": [
+    "whim",
+    "caprice",
+    "whimsy",
+    "fickle",
+    "moody",
+    "uneven temper"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "気まぐれな天気だな。",
+      "en": "The weather is fickle."
+    },
+    {
+      "ja": "あの子、気まぐれなのよ。",
+      "en": "The kid is temperamental."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

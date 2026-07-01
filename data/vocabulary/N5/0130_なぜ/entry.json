@@ -1,0 +1,33 @@
+{
+  "id": "n5-0130",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "なぜ",
+  "display": "なぜ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "why"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "本当？なぜ？",
+      "en": "Do you? Why?"
+    },
+    {
+      "ja": "なぜ聞くの？",
+      "en": "Why do you ask?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

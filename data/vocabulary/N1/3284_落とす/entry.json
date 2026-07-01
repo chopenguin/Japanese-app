@@ -1,0 +1,40 @@
+{
+  "id": "n1-3284",
+  "jlpt": "N1",
+  "kanji": "落とす",
+  "kana": "おとす",
+  "display": "落とす",
+  "meanings_zh": [
+    "使落下",
+    "使降落",
+    "使坠落",
+    "弄下"
+  ],
+  "meanings_en": [
+    "to drop",
+    "to lose",
+    "to let fall"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "体重を落とすつもりだよ。",
+      "en": "I'm going to lose weight."
+    },
+    {
+      "ja": "体重を落とすのは容易くない。",
+      "en": "It isn't easy to lose weight."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

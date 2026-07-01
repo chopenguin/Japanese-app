@@ -1,0 +1,35 @@
+{
+  "id": "n2-1428",
+  "jlpt": "N2",
+  "kanji": "日帰り",
+  "kana": "ひがえり",
+  "display": "日帰り",
+  "meanings_zh": [
+    "当天回来"
+  ],
+  "meanings_en": [
+    "day trip"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "父は明日帰ります。",
+      "en": "Father is coming home tomorrow."
+    },
+    {
+      "ja": "彼は日帰り旅行に行った。",
+      "en": "He went on a one-day trip."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

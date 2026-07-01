@@ -1,0 +1,31 @@
+{
+  "id": "n1-0546",
+  "jlpt": "N1",
+  "kanji": "何なり",
+  "kana": "なんなり",
+  "display": "何なり",
+  "meanings_zh": [],
+  "meanings_en": [
+    "any",
+    "anything",
+    "whatever"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何なりと言って下さい。",
+      "en": "Just tell me what you'd like me to do."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

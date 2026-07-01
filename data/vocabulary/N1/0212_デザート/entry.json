@@ -1,0 +1,36 @@
+{
+  "id": "n1-0212",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "デザート",
+  "display": "デザート",
+  "meanings_zh": [
+    "餐后点心",
+    "甜食"
+  ],
+  "meanings_en": [
+    "dessert"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "デザートが欲しい？",
+      "en": "Do you want some dessert?"
+    },
+    {
+      "ja": "デザート、何頼む？",
+      "en": "What are we ordering for dessert?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

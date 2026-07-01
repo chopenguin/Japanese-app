@@ -1,0 +1,33 @@
+{
+  "id": "n2-1483",
+  "jlpt": "N2",
+  "kanji": "判子",
+  "kana": "はんこ",
+  "display": "判子",
+  "meanings_zh": [],
+  "meanings_en": [
+    "seal (used for signature)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私たちの生活には判子が必需品です。",
+      "en": "Hanko are essential in our daily life."
+    },
+    {
+      "ja": "例えば、宅配便の受け取りには、判子は必要有りません。",
+      "en": "For example, you don't need a personal seal to collect a parcel."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

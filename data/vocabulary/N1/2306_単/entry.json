@@ -1,0 +1,34 @@
+{
+  "id": "n1-2306",
+  "jlpt": "N1",
+  "kanji": "単",
+  "kana": "ひとえ",
+  "display": "単",
+  "meanings_zh": [],
+  "meanings_en": [
+    "one layer",
+    "single"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "簡単、簡単。",
+      "en": "It's so easy."
+    },
+    {
+      "ja": "簡単だった。",
+      "en": "It was easy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

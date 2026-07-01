@@ -1,0 +1,40 @@
+{
+  "id": "n1-2209",
+  "jlpt": "N1",
+  "kanji": "尊ぶ",
+  "kana": "たっとぶ",
+  "display": "尊ぶ",
+  "meanings_zh": [
+    "尊贵",
+    "尊重",
+    "尊敬",
+    "钦佩"
+  ],
+  "meanings_en": [
+    "to value",
+    "to prize",
+    "to esteem"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "我々は時間を守ることを尊ぶ。",
+      "en": "We value punctuality."
+    },
+    {
+      "ja": "イギリス人は自由を尊ぶ国民である。",
+      "en": "The English set a high value on freedom."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

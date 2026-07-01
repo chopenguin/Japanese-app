@@ -1,0 +1,38 @@
+{
+  "id": "n1-0330",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ロマンチック",
+  "display": "ロマンチック",
+  "meanings_zh": [
+    "浪漫(的)",
+    "罗曼蒂克",
+    "幻想(的)",
+    "传奇(的)"
+  ],
+  "meanings_en": [
+    "romantic"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "とってもロマンチックだな～！",
+      "en": "It's very romantic!"
+    },
+    {
+      "ja": "トムってロマンチックだよね？",
+      "en": "Tom is romantic, isn't he?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

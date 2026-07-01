@@ -1,0 +1,37 @@
+{
+  "id": "n3-0130",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "それとも",
+  "display": "それとも",
+  "meanings_zh": [
+    "还是",
+    "或者"
+  ],
+  "meanings_en": [
+    "or",
+    "or else"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "朝型？それとも夜型？",
+      "en": "Are you a morning person or a night person?"
+    },
+    {
+      "ja": "あれは猫？それとも犬？",
+      "en": "Is that a cat or a dog?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

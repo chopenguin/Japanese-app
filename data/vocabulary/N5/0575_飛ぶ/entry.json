@@ -1,0 +1,39 @@
+{
+  "id": "n5-0575",
+  "jlpt": "N5",
+  "kanji": "飛ぶ",
+  "kana": "とぶ",
+  "display": "飛ぶ",
+  "meanings_zh": [
+    "飞",
+    "飞翔",
+    "飞行",
+    "吹起"
+  ],
+  "meanings_en": [
+    "to fly",
+    "to hop"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "飛ぶ前に見よ。",
+      "en": "Look before you leap."
+    },
+    {
+      "ja": "飛ぶ魚もいる。",
+      "en": "Some fish fly."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

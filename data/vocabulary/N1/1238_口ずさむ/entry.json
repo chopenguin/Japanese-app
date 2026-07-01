@@ -1,0 +1,29 @@
+{
+  "id": "n1-1238",
+  "jlpt": "N1",
+  "kanji": "口ずさむ",
+  "kana": "くちずさむ",
+  "display": "口ずさむ",
+  "meanings_zh": [
+    "吟",
+    "诵",
+    "哼"
+  ],
+  "meanings_en": [
+    "to hum something",
+    "to sing to oneself"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

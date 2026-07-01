@@ -1,0 +1,38 @@
+{
+  "id": "n4-0289",
+  "jlpt": "N4",
+  "kanji": "考える",
+  "kana": "かんがえる",
+  "display": "考える",
+  "meanings_zh": [
+    "想",
+    "思",
+    "思维",
+    "思索"
+  ],
+  "meanings_en": [
+    "to consider"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "なぜそう考えるの？",
+      "en": "What makes you think so?"
+    },
+    {
+      "ja": "その時に考えるよ。",
+      "en": "I'll just cross that bridge when I come to it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

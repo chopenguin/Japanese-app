@@ -1,0 +1,35 @@
+{
+  "id": "n3-0242",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ライター",
+  "display": "ライター",
+  "meanings_zh": [],
+  "meanings_en": [
+    "lighter",
+    "rider",
+    "writer"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ライター持ってる？",
+      "en": "Have you got a lighter?"
+    },
+    {
+      "ja": "ソングライターです。",
+      "en": "I'm a songwriter."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

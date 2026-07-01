@@ -1,0 +1,38 @@
+{
+  "id": "n3-1434",
+  "jlpt": "N3",
+  "kanji": "燃える",
+  "kana": "もえる",
+  "display": "燃える",
+  "meanings_zh": [
+    "燃烧",
+    "着火",
+    "热情洋溢",
+    "火红"
+  ],
+  "meanings_en": [
+    "to burn"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "木が燃える。",
+      "en": "Wood burns."
+    },
+    {
+      "ja": "火は燃える。",
+      "en": "Fire burns."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

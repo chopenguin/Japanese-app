@@ -1,0 +1,37 @@
+{
+  "id": "n2-0142",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "スケジュール",
+  "display": "スケジュール",
+  "meanings_zh": [
+    "时间表",
+    "日程(表)",
+    "预定计划表"
+  ],
+  "meanings_en": [
+    "schedule"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "スケジュール変えたよ。",
+      "en": "I rescheduled."
+    },
+    {
+      "ja": "タイトなスケジュールだった？",
+      "en": "Were you on a tight schedule?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

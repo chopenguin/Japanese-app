@@ -1,0 +1,38 @@
+{
+  "id": "n5-0271",
+  "jlpt": "N5",
+  "kanji": "狭い",
+  "kana": "せまい",
+  "display": "狭い",
+  "meanings_zh": [
+    "窄",
+    "狭小",
+    "狭窄",
+    "狭隘"
+  ],
+  "meanings_en": [
+    "narrow"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "狭い部屋だね。",
+      "en": "It's a small room."
+    },
+    {
+      "ja": "彼は肩幅が狭い。",
+      "en": "He has narrow shoulders."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n2-0623",
+  "jlpt": "N2",
+  "kanji": "兼ねる",
+  "kana": "かねる",
+  "display": "兼ねる",
+  "meanings_zh": [
+    "兼",
+    "兼带",
+    "兼任",
+    "兼职 碍难",
+    "不便",
+    "不好意思",
+    "不能"
+  ],
+  "meanings_en": [
+    "to hold (position)",
+    "to serve",
+    "to be unable"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ちょっと大きいけど、この封筒でいいや。大は小を兼ねるって言うし。",
+      "en": "It might be a bit big but this envelope will do just fine. It's better to be too big than too small."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

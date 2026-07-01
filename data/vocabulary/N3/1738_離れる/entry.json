@@ -1,0 +1,41 @@
+{
+  "id": "n3-1738",
+  "jlpt": "N3",
+  "kanji": "離れる",
+  "kana": "はなれる",
+  "display": "離れる",
+  "meanings_zh": [
+    "离",
+    "分离",
+    "离开",
+    "离去"
+  ],
+  "meanings_en": [
+    "to be separated from",
+    "to leave",
+    "to go away",
+    "to be a long way off"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今夜、東京を離れるよ。",
+      "en": "I'll leave Tokyo tonight."
+    },
+    {
+      "ja": "彼は４月に日本を離れる。",
+      "en": "He will leave Japan in April."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

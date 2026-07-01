@@ -1,0 +1,35 @@
+{
+  "id": "n1-1284",
+  "jlpt": "N1",
+  "kanji": "行員",
+  "kana": "こういん",
+  "display": "行員",
+  "meanings_zh": [
+    "银行职员"
+  ],
+  "meanings_en": [
+    "bank clerk"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は銀行員です。",
+      "en": "He is a bank clerk."
+    },
+    {
+      "ja": "私は銀行員です。",
+      "en": "I'm a bank clerk."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

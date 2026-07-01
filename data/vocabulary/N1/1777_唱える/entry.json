@@ -1,0 +1,40 @@
+{
+  "id": "n1-1777",
+  "jlpt": "N1",
+  "kanji": "唱える",
+  "kana": "となえる",
+  "display": "唱える",
+  "meanings_zh": [
+    "念",
+    "诵",
+    "高喊",
+    "高呼"
+  ],
+  "meanings_en": [
+    "to recite",
+    "to chant",
+    "to call upon"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女の提案に異議を唱えるとは君も大胆だ。",
+      "en": "It is bold of you to question her proposal."
+    },
+    {
+      "ja": "彼は異議を唱える誰に対しても腹を立てた。",
+      "en": "He got angry with whoever challenged him."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n1-0023",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "いっそ",
+  "display": "いっそ",
+  "meanings_zh": [
+    "宁可",
+    "索性",
+    "莫如",
+    "莫若"
+  ],
+  "meanings_en": [
+    "rather",
+    "sooner",
+    "might as well"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "いっそ断れば。",
+      "en": "Just say no."
+    },
+    {
+      "ja": "今日はいっそう寒い。",
+      "en": "It is still colder today."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

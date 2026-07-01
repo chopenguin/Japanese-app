@@ -1,0 +1,42 @@
+{
+  "id": "n2-0595",
+  "jlpt": "N2",
+  "kanji": "係わる",
+  "kana": "かかわる",
+  "display": "係わる",
+  "meanings_zh": [
+    "关系到",
+    "涉及到",
+    "有牵连",
+    "纠缠到"
+  ],
+  "meanings_en": [
+    "to concern oneself in",
+    "to have to do with",
+    "to affect",
+    "to influence",
+    "to stick to (opinions)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "係わることを真剣に考えていますか？",
+      "en": "Are you seriously thinking about becoming involved?"
+    },
+    {
+      "ja": "虫歯を侮ると命に係わる場合もあるのです。",
+      "en": "Making light of cavities can be a matter of life and death."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n3-1595",
+  "jlpt": "N3",
+  "kanji": "包み",
+  "kana": "つつみ",
+  "display": "包み",
+  "meanings_zh": [
+    "包",
+    "包裹",
+    "包袱"
+  ],
+  "meanings_en": [
+    "bundle",
+    "package",
+    "parcel",
+    "bale"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "包みを開けて下さい。",
+      "en": "Please undo the package."
+    },
+    {
+      "ja": "炎が森を包み込んだ。",
+      "en": "Fire devoured the forest."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

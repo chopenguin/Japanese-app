@@ -1,0 +1,29 @@
+{
+  "id": "n2-1023",
+  "jlpt": "N2",
+  "kanji": "浸ける",
+  "kana": "つける",
+  "display": "浸ける",
+  "meanings_zh": [
+    "浸",
+    "泡",
+    "浸泡"
+  ],
+  "meanings_en": [
+    "to dip in",
+    "to soak"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

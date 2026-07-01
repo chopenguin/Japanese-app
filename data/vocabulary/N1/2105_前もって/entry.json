@@ -1,0 +1,35 @@
+{
+  "id": "n1-2105",
+  "jlpt": "N1",
+  "kanji": "前もって",
+  "kana": "まえもって",
+  "display": "前もって",
+  "meanings_zh": [],
+  "meanings_en": [
+    "in advance",
+    "beforehand",
+    "previously"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "前もって準備しておけよ。",
+      "en": "Get ready in advance."
+    },
+    {
+      "ja": "前もってお知らせします。",
+      "en": "I'll let you know beforehand."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

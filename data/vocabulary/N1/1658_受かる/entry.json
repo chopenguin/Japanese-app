@@ -1,0 +1,37 @@
+{
+  "id": "n1-1658",
+  "jlpt": "N1",
+  "kanji": "受かる",
+  "kana": "うかる",
+  "display": "受かる",
+  "meanings_zh": [
+    "考中",
+    "考上",
+    "及格"
+  ],
+  "meanings_en": [
+    "to pass (examination)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は試験に受かる努力をした。",
+      "en": "He made an effort to pass the examination."
+    },
+    {
+      "ja": "トムは試験に受かる自信がある。",
+      "en": "Tom is sure to pass the exam."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n4-0080",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "スクリーン",
+  "display": "スクリーン",
+  "meanings_zh": [
+    "(框内嵌以薄布的)轻便屏风",
+    "银幕",
+    "电影界"
+  ],
+  "meanings_en": [
+    "screen"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムはスクリーンに釘付けだった。",
+      "en": "Tom's eyes were glued to the screen."
+    },
+    {
+      "ja": "最も効果の高いサンスクリーンはどれですか。",
+      "en": "What's your strongest type of sunscreen?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

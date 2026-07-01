@@ -1,0 +1,36 @@
+{
+  "id": "n5-0112",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "デパート",
+  "display": "デパート",
+  "meanings_zh": [
+    "百货商店",
+    "百货公司"
+  ],
+  "meanings_en": [
+    "department store"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "デパートで買った。",
+      "en": "I bought it at a department store."
+    },
+    {
+      "ja": "彼はデパートへ買い物に行った。",
+      "en": "He went shopping at a department store."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

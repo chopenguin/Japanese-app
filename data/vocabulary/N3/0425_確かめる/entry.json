@@ -1,0 +1,36 @@
+{
+  "id": "n3-0425",
+  "jlpt": "N3",
+  "kanji": "確かめる",
+  "kana": "たしかめる",
+  "display": "確かめる",
+  "meanings_zh": [
+    "弄清",
+    "查明"
+  ],
+  "meanings_en": [
+    "to ascertain"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は事の真相を確かめるつもりだ。",
+      "en": "I am going to ascertain the truth of the matter."
+    },
+    {
+      "ja": "出かける前にそれを確かめるべきだ。",
+      "en": "You should make sure of it before you go."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

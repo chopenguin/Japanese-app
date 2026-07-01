@@ -1,0 +1,36 @@
+{
+  "id": "n5-0027",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "おまわりさん",
+  "display": "おまわりさん",
+  "meanings_zh": [
+    "警察",
+    "巡警"
+  ],
+  "meanings_en": [
+    "friendly term for policeman"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そのおまわりさんは勤務中です。",
+      "en": "The policeman is on duty."
+    },
+    {
+      "ja": "おまわりさんに道を尋ねなさい。",
+      "en": "Ask the policeman the way."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

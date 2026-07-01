@@ -1,0 +1,33 @@
+{
+  "id": "n4-0131",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ビル",
+  "display": "ビル",
+  "meanings_zh": [],
+  "meanings_en": [
+    "building or bill"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ねえ、ビル。",
+      "en": "Come on, Bill."
+    },
+    {
+      "ja": "やあ、ビル。元気？",
+      "en": "Hi, Bill. How are you?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

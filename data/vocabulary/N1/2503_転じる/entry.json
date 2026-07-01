@@ -1,0 +1,32 @@
+{
+  "id": "n1-2503",
+  "jlpt": "N1",
+  "kanji": "転じる",
+  "kana": "てんじる",
+  "display": "転じる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to turn",
+    "to shift",
+    "to alter",
+    "to distract"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ナポレオン時代のフランス、卓越した才能で魅了するシェフがスパイに転じる。",
+      "en": "A brilliant, seductive chef turns to espionage in Napoleon-era France."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

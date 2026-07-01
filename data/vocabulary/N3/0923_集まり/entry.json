@@ -1,0 +1,41 @@
+{
+  "id": "n3-0923",
+  "jlpt": "N3",
+  "kanji": "集まり",
+  "kana": "あつまり",
+  "display": "集まり",
+  "meanings_zh": [
+    "会",
+    "集会",
+    "会合",
+    "汇集"
+  ],
+  "meanings_en": [
+    "gathering",
+    "meeting",
+    "assembly",
+    "collection"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "明日集まりましょう。",
+      "en": "Let's get together tomorrow."
+    },
+    {
+      "ja": "今晩集まりましょう。",
+      "en": "Let's get together tonight."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

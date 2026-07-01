@@ -1,0 +1,41 @@
+{
+  "id": "n3-1593",
+  "jlpt": "N3",
+  "kanji": "暮れ",
+  "kana": "くれ",
+  "display": "暮れ",
+  "meanings_zh": [
+    "日暮",
+    "黄昏",
+    "季末",
+    "岁末"
+  ],
+  "meanings_en": [
+    "year end",
+    "sunset",
+    "nightfall",
+    "end"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "日が暮れた。",
+      "en": "The day became night."
+    },
+    {
+      "ja": "薄暮れが迫った。",
+      "en": "The twilight came on."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

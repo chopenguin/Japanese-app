@@ -1,0 +1,34 @@
+{
+  "id": "n2-1753",
+  "jlpt": "N2",
+  "kanji": "領収",
+  "kana": "りょうしゅう",
+  "display": "領収",
+  "meanings_zh": [],
+  "meanings_en": [
+    "receipt",
+    "voucher"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "領収書をください。",
+      "en": "Please give me a receipt."
+    },
+    {
+      "ja": "領収書は必要ないです。",
+      "en": "I don't need a receipt."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

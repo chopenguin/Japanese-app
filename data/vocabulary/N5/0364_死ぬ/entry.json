@@ -1,0 +1,38 @@
+{
+  "id": "n5-0364",
+  "jlpt": "N5",
+  "kanji": "死ぬ",
+  "kana": "しぬ",
+  "display": "死ぬ",
+  "meanings_zh": [
+    "死",
+    "停止活动",
+    "休止",
+    "无生气"
+  ],
+  "meanings_en": [
+    "to die"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "死ぬもんか。",
+      "en": "I won't die."
+    },
+    {
+      "ja": "人は必ず死ぬ。",
+      "en": "Man is mortal."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

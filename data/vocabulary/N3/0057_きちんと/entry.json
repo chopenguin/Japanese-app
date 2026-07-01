@@ -1,0 +1,39 @@
+{
+  "id": "n3-0057",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "きちんと",
+  "display": "きちんと",
+  "meanings_zh": [
+    "整洁",
+    "干干净净",
+    "整整齐齐",
+    "正"
+  ],
+  "meanings_en": [
+    "precisely",
+    "accurately"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "きちんと座りなさい。",
+      "en": "Sit up straight."
+    },
+    {
+      "ja": "きちんと戸を閉めなさい。",
+      "en": "Shut the door tight."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

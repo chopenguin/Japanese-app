@@ -1,0 +1,41 @@
+{
+  "id": "n3-1160",
+  "jlpt": "N3",
+  "kanji": "全く",
+  "kana": "まったく",
+  "display": "全く",
+  "meanings_zh": [
+    "完全",
+    "全然",
+    "实在",
+    "真"
+  ],
+  "meanings_en": [
+    "really",
+    "truly",
+    "entirely",
+    "completely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "全くですね。",
+      "en": "You're quite right."
+    },
+    {
+      "ja": "全く同感です。",
+      "en": "I couldn't agree with you more."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

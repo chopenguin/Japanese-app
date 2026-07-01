@@ -1,0 +1,33 @@
+{
+  "id": "n4-0142",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "もうすぐ",
+  "display": "もうすぐ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "soon"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "もうすぐ冬だ。",
+      "en": "Winter is drawing on."
+    },
+    {
+      "ja": "もうすぐ春だ。",
+      "en": "It'll soon be spring."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "n2-1577",
+  "jlpt": "N2",
+  "kanji": "捕える",
+  "kana": "とらえる",
+  "display": "捕える",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to seize",
+    "to grasp",
+    "to capture",
+    "to arrest"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "早起きの鳥は虫を捕える。",
+      "en": "The early bird catches the worm."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "n1-1208",
+  "jlpt": "N1",
+  "kanji": "御覧なさい",
+  "kana": "ごらんなさい",
+  "display": "御覧なさい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(please) look",
+    "(please) try to do"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その眠っている赤ちゃんを御覧なさい。",
+      "en": "Look at the sleeping baby."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

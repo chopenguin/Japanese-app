@@ -1,0 +1,40 @@
+{
+  "id": "n3-0358",
+  "jlpt": "N3",
+  "kanji": "穏やか",
+  "kana": "おだやか",
+  "display": "穏やか",
+  "meanings_zh": [
+    "平稳",
+    "稳静",
+    "平静",
+    "温和"
+  ],
+  "meanings_en": [
+    "calm",
+    "gentle",
+    "quiet"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "海は穏やかだった。",
+      "en": "The sea was calm."
+    },
+    {
+      "ja": "彼女はとても穏やかだ。",
+      "en": "She is as modest as anything."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

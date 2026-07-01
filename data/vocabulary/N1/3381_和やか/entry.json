@@ -1,0 +1,38 @@
+{
+  "id": "n1-3381",
+  "jlpt": "N1",
+  "kanji": "和やか",
+  "kana": "なごやか",
+  "display": "和やか",
+  "meanings_zh": [
+    "平静",
+    "安详",
+    "温和",
+    "和谐"
+  ],
+  "meanings_en": [
+    "mild",
+    "calm",
+    "gentle",
+    "quiet",
+    "harmonious"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らは和やかに食事をした。",
+      "en": "They ate peacefully."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

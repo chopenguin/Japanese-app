@@ -1,0 +1,34 @@
+{
+  "id": "n2-0611",
+  "jlpt": "N2",
+  "kanji": "蛍光灯",
+  "kana": "けいこうとう",
+  "display": "蛍光灯",
+  "meanings_zh": [],
+  "meanings_en": [
+    "fluorescent lamp",
+    "person who is slow to react"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ハリーは本当に蛍光灯だね。",
+      "en": "Harry's really slow to catch on."
+    },
+    {
+      "ja": "そこの蛍光灯を交換しないといけない。",
+      "en": "I must replace that fluorescent lamp."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

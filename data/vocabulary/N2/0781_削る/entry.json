@@ -1,0 +1,39 @@
+{
+  "id": "n2-0781",
+  "jlpt": "N2",
+  "kanji": "削る",
+  "kana": "けずる",
+  "display": "削る",
+  "meanings_zh": [
+    "削",
+    "刨",
+    "铲",
+    "削减"
+  ],
+  "meanings_en": [
+    "to cut down little by little",
+    "to take a percentage"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "君の鉛筆は削る必要がある。",
+      "en": "Your pencils need sharpening."
+    },
+    {
+      "ja": "したがって生産費を削る必要がある。",
+      "en": "Therefore, it is necessary to reduce the cost."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

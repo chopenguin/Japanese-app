@@ -1,0 +1,38 @@
+{
+  "id": "n4-0563",
+  "jlpt": "N4",
+  "kanji": "聞こえる",
+  "kana": "きこえる",
+  "display": "聞こえる",
+  "meanings_zh": [
+    "听得见",
+    "能听见",
+    "听到",
+    "听得到"
+  ],
+  "meanings_en": [
+    "to be heard"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何か聞こえる？",
+      "en": "Do you hear any sound?"
+    },
+    {
+      "ja": "歌が聞こえる？",
+      "en": "Can you hear the song?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

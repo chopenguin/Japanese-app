@@ -1,0 +1,36 @@
+{
+  "id": "n3-0198",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ピクニック",
+  "display": "ピクニック",
+  "meanings_zh": [
+    "郊游",
+    "野游"
+  ],
+  "meanings_en": [
+    "picnic"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ピクニックに行かない？",
+      "en": "How about going on a picnic?"
+    },
+    {
+      "ja": "ピクニックに行きたい。",
+      "en": "I want to have a picnic."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

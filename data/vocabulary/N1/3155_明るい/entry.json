@@ -1,0 +1,39 @@
+{
+  "id": "n1-3155",
+  "jlpt": "N1",
+  "kanji": "明るい",
+  "kana": "あかるい",
+  "display": "明るい",
+  "meanings_zh": [
+    "明亮",
+    "明朗",
+    "快活",
+    "光明"
+  ],
+  "meanings_en": [
+    "bright",
+    "cheerful"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "月は明るい。",
+      "en": "The moon is bright."
+    },
+    {
+      "ja": "すごく明るい。",
+      "en": "It's very bright."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

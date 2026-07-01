@@ -1,0 +1,38 @@
+{
+  "id": "n4-0206",
+  "jlpt": "N4",
+  "kanji": "楽しみ",
+  "kana": "たのしみ",
+  "display": "楽しみ",
+  "meanings_zh": [
+    "乐",
+    "愉快",
+    "乐趣",
+    "消遣"
+  ],
+  "meanings_en": [
+    "joy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "明日楽しみだな。",
+      "en": "I'm looking forward to tomorrow."
+    },
+    {
+      "ja": "夕食が楽しみだ。",
+      "en": "I'm looking forward to our dinner."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n2-0849",
+  "jlpt": "N2",
+  "kanji": "蒔く",
+  "kana": "まく",
+  "display": "蒔く",
+  "meanings_zh": [
+    "播",
+    "种",
+    "漆泥金画"
+  ],
+  "meanings_en": [
+    "to sow (seeds)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "春が来ると、彼らは畑を耕し種を蒔く。",
+      "en": "When spring comes, they plow the fields and plant seeds."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

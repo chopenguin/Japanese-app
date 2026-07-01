@@ -1,0 +1,33 @@
+{
+  "id": "n1-0283",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ポジション",
+  "display": "ポジション",
+  "meanings_zh": [
+    "地位",
+    "职位",
+    "防守位置"
+  ],
+  "meanings_en": [
+    "position"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "僕はバスケットボールチームの最後のポジションの申し込みをしようとスポーツ事務所へ行ったが、誰かが先を越してしまった。",
+      "en": "I went down to the sports office to sign up for the last position on the basketball team, but somebody else beat me to it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

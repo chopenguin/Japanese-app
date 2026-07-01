@@ -1,0 +1,36 @@
+{
+  "id": "n1-0294",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "マッサージ",
+  "display": "マッサージ",
+  "meanings_zh": [
+    "按摩",
+    "推拿"
+  ],
+  "meanings_en": [
+    "massage"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私にはマッサージが必要だ。",
+      "en": "I really need a massage."
+    },
+    {
+      "ja": "彼は背中のマッサージを頼んだ。",
+      "en": "He asked for a back massage."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n1-0315",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ラベル",
+  "display": "ラベル",
+  "meanings_zh": [
+    "标签",
+    "签条"
+  ],
+  "meanings_en": [
+    "label"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私はラベルを読みます。",
+      "en": "I read the label."
+    },
+    {
+      "ja": "彼は鞄にラベルを貼った。",
+      "en": "He attached a label to the bag."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

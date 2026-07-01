@@ -1,0 +1,43 @@
+{
+  "id": "n1-2145",
+  "jlpt": "N1",
+  "kanji": "爽やか",
+  "kana": "さわやか",
+  "display": "爽やか",
+  "meanings_zh": [
+    "清爽",
+    "爽朗",
+    "爽快",
+    "爽利"
+  ],
+  "meanings_en": [
+    "fresh",
+    "refreshing",
+    "invigorating",
+    "clear",
+    "fluent",
+    "eloquent"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今日は爽やかな日だね。",
+      "en": "It's balmy today."
+    },
+    {
+      "ja": "トムは爽やかで素直な好青年だ。",
+      "en": "Tom is refreshing, honest and a good young man."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

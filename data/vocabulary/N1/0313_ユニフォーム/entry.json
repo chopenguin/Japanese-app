@@ -1,0 +1,33 @@
+{
+  "id": "n1-0313",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ユニフォーム",
+  "display": "ユニフォーム",
+  "meanings_zh": [],
+  "meanings_en": [
+    "uniform"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "警官は青いユニフォームを着ている。",
+      "en": "Police officers wear blue uniforms."
+    },
+    {
+      "ja": "トムのユニフォームには血がついていた。",
+      "en": "There was blood on Tom's uniform."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

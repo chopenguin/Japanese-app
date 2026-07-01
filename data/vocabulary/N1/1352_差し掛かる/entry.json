@@ -1,0 +1,30 @@
+{
+  "id": "n1-1352",
+  "jlpt": "N1",
+  "kanji": "差し掛かる",
+  "kana": "さしかかる",
+  "display": "差し掛かる",
+  "meanings_zh": [
+    "来到",
+    "临到",
+    "靠近",
+    "路过"
+  ],
+  "meanings_en": [
+    "to come near to",
+    "to approach"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

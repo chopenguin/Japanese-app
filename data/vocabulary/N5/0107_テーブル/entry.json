@@ -1,0 +1,38 @@
+{
+  "id": "n5-0107",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "テーブル",
+  "display": "テーブル",
+  "meanings_zh": [
+    "桌子",
+    "台子",
+    "饭桌",
+    "餐桌"
+  ],
+  "meanings_en": [
+    "table"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "テーブルの下よ。",
+      "en": "It's under the table."
+    },
+    {
+      "ja": "テーブルは緑です。",
+      "en": "The table is green."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

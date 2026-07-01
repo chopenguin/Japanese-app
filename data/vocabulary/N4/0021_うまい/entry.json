@@ -1,0 +1,33 @@
+{
+  "id": "n4-0021",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "うまい",
+  "display": "うまい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "delicious"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "料理うまいね。",
+      "en": "You are a good cook, aren't you?"
+    },
+    {
+      "ja": "もう言うまい。",
+      "en": "I'll say no more."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

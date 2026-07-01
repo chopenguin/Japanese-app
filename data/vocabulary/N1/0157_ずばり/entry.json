@@ -1,0 +1,38 @@
+{
+  "id": "n1-0157",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ずばり",
+  "display": "ずばり",
+  "meanings_zh": [
+    "锋利切下",
+    "脆快",
+    "击中要害",
+    "一语道破"
+  ],
+  "meanings_en": [
+    "decisively",
+    "decidedly",
+    "once and for all",
+    "unreservedly",
+    "frankly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その問題についての彼の意見はずばり的を射ている。",
+      "en": "His remarks on the subject are much to the point."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

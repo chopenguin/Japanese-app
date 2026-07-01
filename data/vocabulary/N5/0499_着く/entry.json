@@ -1,0 +1,38 @@
+{
+  "id": "n5-0499",
+  "jlpt": "N5",
+  "kanji": "着く",
+  "kana": "つく",
+  "display": "着く",
+  "meanings_zh": [
+    "到",
+    "到达",
+    "抵达",
+    "寄到"
+  ],
+  "meanings_en": [
+    "to arrive at"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "いつ着くの？",
+      "en": "When do we arrive?"
+    },
+    {
+      "ja": "もう、着くよ。",
+      "en": "I'm arriving now."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

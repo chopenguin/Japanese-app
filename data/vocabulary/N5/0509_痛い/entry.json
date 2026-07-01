@@ -1,0 +1,38 @@
+{
+  "id": "n5-0509",
+  "jlpt": "N5",
+  "kanji": "痛い",
+  "kana": "いたい",
+  "display": "痛い",
+  "meanings_zh": [
+    "疼",
+    "疼痛",
+    "痛苦",
+    "难过"
+  ],
+  "meanings_en": [
+    "painful"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "頭が痛いな。",
+      "en": "I have a headache."
+    },
+    {
+      "ja": "ここが痛い。",
+      "en": "It hurts here."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

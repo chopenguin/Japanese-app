@@ -1,0 +1,36 @@
+{
+  "id": "n2-0214",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "バランス",
+  "display": "バランス",
+  "meanings_zh": [
+    "平衡",
+    "均势"
+  ],
+  "meanings_en": [
+    "balance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何事もバランス感覚が大事。",
+      "en": "As with everything, it's important to have a balanced sense of perception."
+    },
+    {
+      "ja": "トムはバランスを取り戻した。",
+      "en": "Tom regained his balance."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

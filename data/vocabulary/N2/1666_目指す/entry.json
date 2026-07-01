@@ -1,0 +1,34 @@
+{
+  "id": "n2-1666",
+  "jlpt": "N2",
+  "kanji": "目指す",
+  "kana": "めざす",
+  "display": "目指す",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to aim at",
+    "to have an eye on"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "経済の安定はすべての政府の目指すところだ。",
+      "en": "A stable economy is the aim of every government."
+    },
+    {
+      "ja": "教育はテストに合格することを目指すべきでない。",
+      "en": "Education shouldn't be aimed at passing a test."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

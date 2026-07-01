@@ -1,0 +1,38 @@
+{
+  "id": "n4-0344",
+  "jlpt": "N4",
+  "kanji": "捨てる",
+  "kana": "すてる",
+  "display": "捨てる",
+  "meanings_zh": [
+    "抛弃",
+    "扔掉",
+    "不顾",
+    "不理 废弃"
+  ],
+  "meanings_en": [
+    "to throw away"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ここにゴミ捨てるべからず。",
+      "en": "No dumping rubbish here!"
+    },
+    {
+      "ja": "乗り捨てる事ができますか。",
+      "en": "Can I drop off the car?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

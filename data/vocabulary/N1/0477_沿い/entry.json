@@ -1,0 +1,36 @@
+{
+  "id": "n1-0477",
+  "jlpt": "N1",
+  "kanji": "沿い",
+  "kana": "ぞい",
+  "display": "沿い",
+  "meanings_zh": [
+    "沿",
+    "顺"
+  ],
+  "meanings_en": [
+    "along"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "川沿いを歩いたよ。",
+      "en": "I walked along the river."
+    },
+    {
+      "ja": "彼は海岸沿いに歩いた。",
+      "en": "He walked along the shore."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

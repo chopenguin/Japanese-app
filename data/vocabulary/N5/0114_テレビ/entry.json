@@ -1,0 +1,35 @@
+{
+  "id": "n5-0114",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "テレビ",
+  "display": "テレビ",
+  "meanings_zh": [
+    "僥儗價偱傫傢 [僥儗價偱傫傢] /// 电视电话"
+  ],
+  "meanings_en": [
+    "television"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "テレビを消して。",
+      "en": "Turn off the TV."
+    },
+    {
+      "ja": "テレビをつけて。",
+      "en": "Please turn on the television."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

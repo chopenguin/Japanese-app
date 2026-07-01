@@ -1,0 +1,41 @@
+{
+  "id": "n3-0953",
+  "jlpt": "N3",
+  "kanji": "順調",
+  "kana": "じゅんちょう",
+  "display": "順調",
+  "meanings_zh": [
+    "顺利",
+    "顺当",
+    "良好",
+    "如意"
+  ],
+  "meanings_en": [
+    "favourable",
+    "doing well",
+    "O.K.",
+    "all right"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "万事順調だ。",
+      "en": "Everything is all right."
+    },
+    {
+      "ja": "ずっと順調だね。",
+      "en": "He's been batting a thousand."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "n3-0213",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ホーム",
+  "display": "ホーム",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(1) platform",
+    "(2) home"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ホームシックです。",
+      "en": "I feel homesick."
+    },
+    {
+      "ja": "ホームシックなの？",
+      "en": "Are you homesick?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

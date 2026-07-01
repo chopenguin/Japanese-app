@@ -1,0 +1,41 @@
+{
+  "id": "n2-0664",
+  "jlpt": "N2",
+  "kanji": "固まる",
+  "kana": "かたまる",
+  "display": "固まる",
+  "meanings_zh": [
+    "变硬",
+    "凝结",
+    "凝固",
+    "成块儿"
+  ],
+  "meanings_en": [
+    "to harden",
+    "to solidify",
+    "to become firm",
+    "to become certain"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "雨降って地固まる。",
+      "en": "Adversity strengthens the foundations."
+    },
+    {
+      "ja": "セメントは２、３時間で固まる。",
+      "en": "The cement will set in a couple of hours."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

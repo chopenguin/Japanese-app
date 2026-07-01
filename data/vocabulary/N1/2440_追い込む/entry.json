@@ -1,0 +1,36 @@
+{
+  "id": "n1-2440",
+  "jlpt": "N1",
+  "kanji": "追い込む",
+  "kana": "おいこむ",
+  "display": "追い込む",
+  "meanings_zh": [
+    "赶进",
+    "撵进",
+    "逼入",
+    "使陷入"
+  ],
+  "meanings_en": [
+    "to herd",
+    "to corner",
+    "to drive"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "人間楽ばかりしてるとダメになる。たまには、自分で自分の首をしめるくらい窮地に追い込むのもありだと思う。",
+      "en": "Comfort can spoil you. Once in a while, it can do you good to corner yourself."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

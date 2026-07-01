@@ -1,0 +1,41 @@
+{
+  "id": "n1-1877",
+  "jlpt": "N1",
+  "kanji": "振り",
+  "kana": "ふり",
+  "display": "振り",
+  "meanings_zh": [
+    "把",
+    "口 振动",
+    "摆动",
+    "样子",
+    "打扮"
+  ],
+  "meanings_en": [
+    "pretence",
+    "show",
+    "appearance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "振り向いて。",
+      "en": "Turn around."
+    },
+    {
+      "ja": "後ろを振り返るな。",
+      "en": "Don't look back."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

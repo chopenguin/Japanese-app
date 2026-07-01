@@ -1,0 +1,28 @@
+{
+  "id": "n1-0356",
+  "jlpt": "N1",
+  "kanji": "案じる",
+  "kana": "あんじる",
+  "display": "案じる",
+  "meanings_zh": [
+    "担心",
+    "挂念"
+  ],
+  "meanings_en": [
+    "to be anxious",
+    "to ponder"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

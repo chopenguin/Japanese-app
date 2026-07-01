@@ -1,0 +1,42 @@
+{
+  "id": "n3-1032",
+  "jlpt": "N3",
+  "kanji": "伸びる",
+  "kana": "のびる",
+  "display": "伸びる",
+  "meanings_zh": [
+    "伸长",
+    "变长",
+    "长长",
+    "舒展"
+  ],
+  "meanings_en": [
+    "to stretch",
+    "to extend",
+    "to make progress",
+    "to grow (beard",
+    "body height)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "夏には草がよく伸びる。",
+      "en": "Grass is luxuriant in summer."
+    },
+    {
+      "ja": "消費は心持ち伸びる程度でしょう。",
+      "en": "Spending will grow only a touch faster."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

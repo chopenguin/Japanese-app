@@ -1,0 +1,33 @@
+{
+  "id": "n3-0179",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "なにも",
+  "display": "なにも",
+  "meanings_zh": [],
+  "meanings_en": [
+    "nothing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "なにもかも準備ができた。",
+      "en": "Everything is ready."
+    },
+    {
+      "ja": "彼女はなにも言わなかった。",
+      "en": "She did not say anything."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

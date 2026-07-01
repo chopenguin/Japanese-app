@@ -1,0 +1,38 @@
+{
+  "id": "n4-0209",
+  "jlpt": "N4",
+  "kanji": "割れる",
+  "kana": "われる",
+  "display": "割れる",
+  "meanings_zh": [
+    "分散",
+    "分裂",
+    "破裂",
+    "裂开"
+  ],
+  "meanings_en": [
+    "to break"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "卵を片手で割れる？",
+      "en": "Can you break an egg with one hand?"
+    },
+    {
+      "ja": "ガラスはすぐ割れる。",
+      "en": "Glass breaks easily."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n2-0104",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ゴム",
+  "display": "ゴム",
+  "meanings_zh": [
+    "橡胶",
+    "橡皮",
+    "树胶"
+  ],
+  "meanings_en": [
+    "gum",
+    "rubber",
+    "eraser"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "消しゴム返してよ。",
+      "en": "Give me back my eraser."
+    },
+    {
+      "ja": "消しゴム借りていい？",
+      "en": "May I borrow your eraser?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

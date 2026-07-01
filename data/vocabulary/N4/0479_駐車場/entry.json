@@ -1,0 +1,33 @@
+{
+  "id": "n4-0479",
+  "jlpt": "N4",
+  "kanji": "駐車場",
+  "kana": "ちゅうしゃじょう",
+  "display": "駐車場",
+  "meanings_zh": [],
+  "meanings_en": [
+    "parking lot"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "駐車場はある？",
+      "en": "Is there a car park?"
+    },
+    {
+      "ja": "駐車場は満車です。",
+      "en": "There are no parking spaces left."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "n1-2179",
+  "jlpt": "N1",
+  "kanji": "蔵相",
+  "kana": "ぞうしょう",
+  "display": "蔵相",
+  "meanings_zh": [
+    "藏相",
+    "大藏大臣",
+    "财政部长"
+  ],
+  "meanings_en": [
+    "Minister of Finance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

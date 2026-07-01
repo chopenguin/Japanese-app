@@ -1,0 +1,39 @@
+{
+  "id": "n3-0160",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "どこか",
+  "display": "どこか",
+  "meanings_zh": [
+    "哪里",
+    "什么地方",
+    "有的地方",
+    "某点"
+  ],
+  "meanings_en": [
+    "somewhere",
+    "anywhere"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "どこか痛いの？",
+      "en": "Does it hurt anywhere?"
+    },
+    {
+      "ja": "どこかで一杯どう？",
+      "en": "Would you like to go out to have a drink somewhere?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

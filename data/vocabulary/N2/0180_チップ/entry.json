@@ -1,0 +1,35 @@
+{
+  "id": "n2-0180",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "チップ",
+  "display": "チップ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(1) gratuity",
+    "tip",
+    "(2) chip"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "チップを置きましたか。",
+      "en": "Did you leave a tip?"
+    },
+    {
+      "ja": "チップはお断りします。",
+      "en": "No gratuities accepted."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

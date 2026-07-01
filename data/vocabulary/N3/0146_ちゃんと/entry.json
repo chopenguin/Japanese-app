@@ -1,0 +1,40 @@
+{
+  "id": "n3-0146",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ちゃんと",
+  "display": "ちゃんと",
+  "meanings_zh": [
+    "正",
+    "端正",
+    "正当",
+    "规规矩矩"
+  ],
+  "meanings_en": [
+    "perfectly",
+    "properly",
+    "exactly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ちゃんとやって。",
+      "en": "Do it right."
+    },
+    {
+      "ja": "ちゃんと座ってろ。",
+      "en": "Sit tight."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

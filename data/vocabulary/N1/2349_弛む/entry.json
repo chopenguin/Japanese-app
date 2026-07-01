@@ -1,0 +1,31 @@
+{
+  "id": "n1-2349",
+  "jlpt": "N1",
+  "kanji": "弛む",
+  "kana": "たるむ",
+  "display": "弛む",
+  "meanings_zh": [
+    "松",
+    "松弛",
+    "弯曲",
+    "下沉"
+  ],
+  "meanings_en": [
+    "to slacken",
+    "to loosen",
+    "to relax"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n4-0164",
+  "jlpt": "N4",
+  "kanji": "育てる",
+  "kana": "そだてる",
+  "display": "育てる",
+  "meanings_zh": [
+    "培育",
+    "抚育",
+    "抚养",
+    "教育"
+  ],
+  "meanings_en": [
+    "to rear",
+    "to bring up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "読書は精神を育てる。",
+      "en": "Reading develops the mind."
+    },
+    {
+      "ja": "ミルクは赤ん坊を育てる",
+      "en": "Milk makes kids grow."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

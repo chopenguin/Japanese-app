@@ -1,0 +1,40 @@
+{
+  "id": "n1-2265",
+  "jlpt": "N1",
+  "kanji": "退く",
+  "kana": "しりぞく",
+  "display": "退く",
+  "meanings_zh": [
+    "倒退",
+    "后退",
+    "退出",
+    "离开"
+  ],
+  "meanings_en": [
+    "to retreat",
+    "to recede",
+    "to withdraw"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "退くのは無理、だって私の本質だ。",
+      "en": "I can't quit it, it's my personality."
+    },
+    {
+      "ja": "彼は大統領の職から強制的に退くべきか。",
+      "en": "Ought he to be forced out of the presidency?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

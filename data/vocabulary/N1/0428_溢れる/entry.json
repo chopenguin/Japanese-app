@@ -1,0 +1,35 @@
+{
+  "id": "n1-0428",
+  "jlpt": "N1",
+  "kanji": "溢れる",
+  "kana": "あふれる",
+  "display": "溢れる",
+  "meanings_zh": [
+    "溢出",
+    "漾出",
+    "充满"
+  ],
+  "meanings_en": [
+    "to flood",
+    "to overflow",
+    "to brim over"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "『うぐいす侍』人間愛とユーモア溢れる侍物語。",
+      "en": "\"The Nightingale Samurai\" is a samurai tale full of humanity and humour."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

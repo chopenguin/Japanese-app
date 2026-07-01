@@ -1,0 +1,40 @@
+{
+  "id": "n1-3266",
+  "jlpt": "N1",
+  "kanji": "養う",
+  "kana": "やしなう",
+  "display": "養う",
+  "meanings_zh": [
+    "养育",
+    "养活",
+    "供养",
+    "扶养"
+  ],
+  "meanings_en": [
+    "to rear",
+    "to maintain",
+    "to cultivate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼を養うのは君の責任だ。",
+      "en": "It is up to you to support him."
+    },
+    {
+      "ja": "彼には養うべき家族がいる。",
+      "en": "He has a family to support."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

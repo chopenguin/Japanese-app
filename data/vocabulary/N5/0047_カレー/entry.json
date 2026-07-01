@@ -1,0 +1,36 @@
+{
+  "id": "n5-0047",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "カレー",
+  "display": "カレー",
+  "meanings_zh": [
+    "咖喱",
+    "加哩"
+  ],
+  "meanings_en": [
+    "curry"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今日もカレーよ。",
+      "en": "Today it will also be Japanese curry."
+    },
+    {
+      "ja": "昨夜カレーを食べた。",
+      "en": "I had curry and rice last night."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

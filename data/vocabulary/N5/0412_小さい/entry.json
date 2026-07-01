@@ -1,0 +1,38 @@
+{
+  "id": "n5-0412",
+  "jlpt": "N5",
+  "kanji": "小さい",
+  "kana": "ちいさい",
+  "display": "小さい",
+  "meanings_zh": [
+    "小",
+    "微少",
+    "轻微",
+    "幼小"
+  ],
+  "meanings_en": [
+    "little"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この本は小さい。",
+      "en": "This book is small."
+    },
+    {
+      "ja": "その本は小さい。",
+      "en": "That book is small."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

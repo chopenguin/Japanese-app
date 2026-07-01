@@ -1,0 +1,28 @@
+{
+  "id": "n1-0718",
+  "jlpt": "N1",
+  "kanji": "噛み切る",
+  "kana": "かみきる",
+  "display": "噛み切る",
+  "meanings_zh": [
+    "咬断",
+    "咬破"
+  ],
+  "meanings_en": [
+    "to bite off",
+    "to gnaw through"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

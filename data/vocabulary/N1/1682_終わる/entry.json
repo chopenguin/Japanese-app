@@ -1,0 +1,39 @@
+{
+  "id": "n1-1682",
+  "jlpt": "N1",
+  "kanji": "終わる",
+  "kana": "おわる",
+  "display": "終わる",
+  "meanings_zh": [
+    "完",
+    "完毕",
+    "结束",
+    "告终"
+  ],
+  "meanings_en": [
+    "to finish",
+    "to close"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "いつ終わるの？",
+      "en": "When does it end?"
+    },
+    {
+      "ja": "三月が終わる。",
+      "en": "March is over."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

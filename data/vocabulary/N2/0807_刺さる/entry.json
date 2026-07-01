@@ -1,0 +1,30 @@
+{
+  "id": "n2-0807",
+  "jlpt": "N2",
+  "kanji": "刺さる",
+  "kana": "ささる",
+  "display": "刺さる",
+  "meanings_zh": [
+    "扎",
+    "刺",
+    "扎进",
+    "刺入"
+  ],
+  "meanings_en": [
+    "to stick",
+    "to be stuck"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

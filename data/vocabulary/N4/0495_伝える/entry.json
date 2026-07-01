@@ -1,0 +1,38 @@
+{
+  "id": "n4-0495",
+  "jlpt": "N4",
+  "kanji": "伝える",
+  "kana": "つたえる",
+  "display": "伝える",
+  "meanings_zh": [
+    "传达",
+    "转告",
+    "转达",
+    "告诉"
+  ],
+  "meanings_en": [
+    "to report"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "鉄は熱をよく伝える。",
+      "en": "Iron transmits heat well."
+    },
+    {
+      "ja": "針金は電気を伝える。",
+      "en": "Wires transmit electricity."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

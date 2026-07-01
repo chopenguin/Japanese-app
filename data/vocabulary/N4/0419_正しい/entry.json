@@ -1,0 +1,38 @@
+{
+  "id": "n4-0419",
+  "jlpt": "N4",
+  "kanji": "正しい",
+  "kana": "ただしい",
+  "display": "正しい",
+  "meanings_zh": [
+    "正确",
+    "对",
+    "正",
+    "正当"
+  ],
+  "meanings_en": [
+    "correct"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "大体正しい。",
+      "en": "That is almost correct."
+    },
+    {
+      "ja": "私、正しい？",
+      "en": "Am I right?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

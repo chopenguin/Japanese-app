@@ -1,0 +1,33 @@
+{
+  "id": "n4-0034",
+  "jlpt": "N4",
+  "kanji": "お祭り",
+  "kana": "おまつり",
+  "display": "お祭り",
+  "meanings_zh": [],
+  "meanings_en": [
+    "festival"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らはお祭りを中止した。",
+      "en": "They cancelled the festival."
+    },
+    {
+      "ja": "お祭り中に高山に行きたい。",
+      "en": "I'd like to go to Takayama during festival time."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

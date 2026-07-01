@@ -1,0 +1,38 @@
+{
+  "id": "n2-0093",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "コース",
+  "display": "コース",
+  "meanings_zh": [
+    "路线",
+    "跑道",
+    "泳道",
+    "球路"
+  ],
+  "meanings_en": [
+    "course"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "車はコースをはずれた。",
+      "en": "The car veered from its course."
+    },
+    {
+      "ja": "どのコースがおすすめ？",
+      "en": "Which course do you recommend?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

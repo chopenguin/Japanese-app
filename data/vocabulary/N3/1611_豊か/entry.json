@@ -1,0 +1,41 @@
+{
+  "id": "n3-1611",
+  "jlpt": "N3",
+  "kanji": "豊か",
+  "kana": "ゆたか",
+  "display": "豊か",
+  "meanings_zh": [
+    "丰富",
+    "富裕",
+    "充裕",
+    "宽裕"
+  ],
+  "meanings_en": [
+    "abundant",
+    "wealthy",
+    "plentiful",
+    "rich"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は想像力が豊かだ。",
+      "en": "He has a rich imagination."
+    },
+    {
+      "ja": "日本は豊かな国です。",
+      "en": "Japan is a rich country."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

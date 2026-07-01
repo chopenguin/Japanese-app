@@ -1,0 +1,40 @@
+{
+  "id": "n1-2814",
+  "jlpt": "N1",
+  "kanji": "費やす",
+  "kana": "ついやす",
+  "display": "費やす",
+  "meanings_zh": [
+    "花费",
+    "耗费",
+    "消耗",
+    "用掉"
+  ],
+  "meanings_en": [
+    "to spend",
+    "to devote",
+    "to waste"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は本に収入の大部分を費やす。",
+      "en": "She spends most of her income on books."
+    },
+    {
+      "ja": "学生は多くの時間を勉学に費やす。",
+      "en": "A student spends a lot of time studying."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

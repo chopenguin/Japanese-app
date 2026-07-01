@@ -1,0 +1,33 @@
+{
+  "id": "n5-0116",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "トイレ",
+  "display": "トイレ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "toilet"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お前はトイレだ！",
+      "en": "You are a toilet!"
+    },
+    {
+      "ja": "ちょっとトイレ。",
+      "en": "I need to go to the toilet."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

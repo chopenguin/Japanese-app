@@ -1,0 +1,40 @@
+{
+  "id": "n2-0498",
+  "jlpt": "N2",
+  "kanji": "巻く",
+  "kana": "まく",
+  "display": "巻く",
+  "meanings_zh": [
+    "卷",
+    "卷上",
+    "缠",
+    "缠绕"
+  ],
+  "meanings_en": [
+    "to wind",
+    "to coil",
+    "to roll"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ヘビがとぐろを巻く。",
+      "en": "The snake coils itself up."
+    },
+    {
+      "ja": "彼女の利口なのには舌を巻く。",
+      "en": "I'm astonished by her cleverness."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

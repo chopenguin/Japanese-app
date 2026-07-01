@@ -1,0 +1,40 @@
+{
+  "id": "n1-1975",
+  "jlpt": "N1",
+  "kanji": "制する",
+  "kana": "せいする",
+  "display": "制する",
+  "meanings_zh": [
+    "制止",
+    "压制",
+    "控制",
+    "制定"
+  ],
+  "meanings_en": [
+    "to control",
+    "to command",
+    "to get the better of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "自制するよう努めなさい。",
+      "en": "Try to control yourself."
+    },
+    {
+      "ja": "船長は船のすべてを統制する。",
+      "en": "The captain controls the whole ship."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

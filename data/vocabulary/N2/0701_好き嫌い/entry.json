@@ -1,0 +1,39 @@
+{
+  "id": "n2-0701",
+  "jlpt": "N2",
+  "kanji": "好き嫌い",
+  "kana": "すききらい",
+  "display": "好き嫌い",
+  "meanings_zh": [
+    "好恶",
+    "喜好和厌恶",
+    "挑肥拣瘦",
+    "挑拣"
+  ],
+  "meanings_en": [
+    "likes and dislikes",
+    "taste"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムは好き嫌いないよ。",
+      "en": "Tom isn't a fussy eater."
+    },
+    {
+      "ja": "食べ物に好き嫌いがない。",
+      "en": "I have no likes and dislikes about food."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

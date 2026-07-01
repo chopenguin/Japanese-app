@@ -1,0 +1,33 @@
+{
+  "id": "n4-0032",
+  "jlpt": "N4",
+  "kanji": "お金持ち",
+  "kana": "かねもち/おかねもち",
+  "display": "お金持ち",
+  "meanings_zh": [],
+  "meanings_en": [
+    "rich man"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お金持ちになりたい。",
+      "en": "I want to become rich."
+    },
+    {
+      "ja": "お金持ちだったらなあ。",
+      "en": "I wish I were rich."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "n3-1409",
+  "jlpt": "N3",
+  "kanji": "二十",
+  "kana": "はたち",
+  "display": "二十",
+  "meanings_zh": [],
+  "meanings_en": [
+    "20 years old",
+    "20th year"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "五の五倍は二十五。",
+      "en": "Five times five is twenty-five."
+    },
+    {
+      "ja": "ローリーは二十歳だ。",
+      "en": "Laurie is twenty years old."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

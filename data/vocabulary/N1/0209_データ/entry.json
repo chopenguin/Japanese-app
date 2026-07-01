@@ -1,0 +1,38 @@
+{
+  "id": "n1-0209",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "データ",
+  "display": "データ",
+  "meanings_zh": [
+    "论据",
+    "论证的事实",
+    "材料",
+    "资料"
+  ],
+  "meanings_en": [
+    "data"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "きゃ〜、データが消えた！",
+      "en": "Oh, I lost the data!"
+    },
+    {
+      "ja": "このデータは正確ですか？",
+      "en": "Is this data accurate?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n1-1120",
+  "jlpt": "N1",
+  "kanji": "見苦しい",
+  "kana": "みぐるしい",
+  "display": "見苦しい",
+  "meanings_zh": [
+    "不好看",
+    "难看",
+    "肮脏",
+    "寒碜"
+  ],
+  "meanings_en": [
+    "unsightly",
+    "ugly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "見苦しい言い訳はよせよ。",
+      "en": "For heavens sake, stop your pathetic excuses!"
+    },
+    {
+      "ja": "見苦しいから愚痴は言わないことだ。",
+      "en": "You shouldn't complain because you'll look ugly."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

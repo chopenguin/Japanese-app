@@ -1,0 +1,28 @@
+{
+  "id": "n1-1891",
+  "jlpt": "N1",
+  "kanji": "申し入れる",
+  "kana": "もうしいれる",
+  "display": "申し入れる",
+  "meanings_zh": [
+    "表明",
+    "提出意见"
+  ],
+  "meanings_en": [
+    "to propose",
+    "to suggest"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "n2-0058",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "おやすみ",
+  "display": "おやすみ",
+  "meanings_zh": [
+    "晚安",
+    "再见",
+    "您歇着吧",
+    "睡觉"
+  ],
+  "meanings_en": [
+    "(1) holiday",
+    "absence",
+    "rest",
+    "(2) (exp) Good night"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "おやすみなさい。",
+      "en": "Good night!"
+    },
+    {
+      "ja": "おやすみ、トム。",
+      "en": "Good night, Tom."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

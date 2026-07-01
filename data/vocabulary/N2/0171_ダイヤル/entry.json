@@ -1,0 +1,38 @@
+{
+  "id": "n2-0171",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ダイヤル",
+  "display": "ダイヤル",
+  "meanings_zh": [
+    "调谐度盘",
+    "刻度盘",
+    "号码盘",
+    "拨号盘"
+  ],
+  "meanings_en": [
+    "dial"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ダイヤル直通ですか。",
+      "en": "Can I dial directly?"
+    },
+    {
+      "ja": "直接ダイヤルできますか。",
+      "en": "Can I dial direct?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

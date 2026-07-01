@@ -1,0 +1,45 @@
+{
+  "id": "n1-2871",
+  "jlpt": "N1",
+  "kanji": "不味い",
+  "kana": "まずい",
+  "display": "不味い",
+  "meanings_zh": [
+    "不好吃",
+    "难吃",
+    "拙劣",
+    "笨拙"
+  ],
+  "meanings_en": [
+    "unappetising",
+    "unpleasant (taste  appearance  situation)",
+    "ugly",
+    "unskilful",
+    "awkward",
+    "bungling",
+    "unwise",
+    "untime"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "魚は不味い。",
+      "en": "The fish doesn't taste good."
+    },
+    {
+      "ja": "この果物は不味い。",
+      "en": "This fruit has a bad taste."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

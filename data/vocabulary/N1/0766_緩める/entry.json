@@ -1,0 +1,30 @@
+{
+  "id": "n1-0766",
+  "jlpt": "N1",
+  "kanji": "緩める",
+  "kana": "ゆるめる",
+  "display": "緩める",
+  "meanings_zh": [
+    "放松",
+    "松懈",
+    "懈弛",
+    "疏忽"
+  ],
+  "meanings_en": [
+    "to loosen",
+    "to slow down"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

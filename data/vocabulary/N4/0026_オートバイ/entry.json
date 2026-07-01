@@ -1,0 +1,36 @@
+{
+  "id": "n4-0026",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "オートバイ",
+  "display": "オートバイ",
+  "meanings_zh": [
+    "机器脚踏车",
+    "摩托车"
+  ],
+  "meanings_en": [
+    "motorcycle"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "オートバイを買うんだ。",
+      "en": "I'm going to buy myself a motorcycle."
+    },
+    {
+      "ja": "私はオートバイに乗りたい。",
+      "en": "I want to ride a motorcycle."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n1-0780",
+  "jlpt": "N1",
+  "kanji": "間違う",
+  "kana": "まちがう",
+  "display": "間違う",
+  "meanings_zh": [
+    "错",
+    "弄错",
+    "搞错",
+    "不对"
+  ],
+  "meanings_en": [
+    "to make a mistake",
+    "to be incorrect",
+    "to be mistaken"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "誰でも間違う事はある。",
+      "en": "Anyone can make mistakes."
+    },
+    {
+      "ja": "間違うことはないだろう。",
+      "en": "You won't make mistakes."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n4-0043",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ガソリンスタンド",
+  "display": "ガソリンスタンド",
+  "meanings_zh": [],
+  "meanings_en": [
+    "petrol station"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "次のガソリンスタンドに寄ろう。",
+      "en": "Let's stop at the next service station."
+    },
+    {
+      "ja": "次のガソリンスタンドに寄ろうよ。",
+      "en": "Let's stop at the next gas station."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

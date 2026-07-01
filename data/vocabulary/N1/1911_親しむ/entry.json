@@ -1,0 +1,30 @@
+{
+  "id": "n1-1911",
+  "jlpt": "N1",
+  "kanji": "親しむ",
+  "kana": "したしむ",
+  "display": "親しむ",
+  "meanings_zh": [
+    "亲近",
+    "亲密",
+    "接近",
+    "爱好"
+  ],
+  "meanings_en": [
+    "to be intimate with",
+    "to befriend"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

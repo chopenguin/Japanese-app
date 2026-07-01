@@ -1,0 +1,41 @@
+{
+  "id": "n1-2339",
+  "jlpt": "N1",
+  "kanji": "値打ち",
+  "kana": "ねうち",
+  "display": "値打ち",
+  "meanings_zh": [
+    "估价",
+    "评价",
+    "定价",
+    "价格"
+  ],
+  "meanings_en": [
+    "value",
+    "worth",
+    "price",
+    "dignity"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この服はお値打ち品です。",
+      "en": "This dress is a good bargain."
+    },
+    {
+      "ja": "今日はホタテ貝がお値打ちですよ。",
+      "en": "Scallops are on sale today."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

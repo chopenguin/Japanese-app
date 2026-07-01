@@ -1,0 +1,38 @@
+{
+  "id": "n4-0008",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "アナウンサー",
+  "display": "アナウンサー",
+  "meanings_zh": [
+    "广播员",
+    "报告员",
+    "播音员",
+    "播送员"
+  ],
+  "meanings_en": [
+    "announcer"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "アナウンサーは早口が出来る。",
+      "en": "The announcer can talk rapidly."
+    },
+    {
+      "ja": "アナウンサーは英語を話した。",
+      "en": "The announcer spoke English."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

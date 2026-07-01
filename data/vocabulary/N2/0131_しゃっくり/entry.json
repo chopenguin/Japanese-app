@@ -1,0 +1,37 @@
+{
+  "id": "n2-0131",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "しゃっくり",
+  "display": "しゃっくり",
+  "meanings_zh": [
+    "呃逆",
+    "打嗝儿"
+  ],
+  "meanings_en": [
+    "hiccough",
+    "hiccup"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "しゃっくり出てる。",
+      "en": "I have hiccups."
+    },
+    {
+      "ja": "よくしゃっくりが出る。",
+      "en": "I often hiccup."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n1-0688",
+  "jlpt": "N1",
+  "kanji": "覚え",
+  "kana": "おぼえ",
+  "display": "覚え",
+  "meanings_zh": [
+    "记忆",
+    "记忆力",
+    "记性",
+    "体验"
+  ],
+  "meanings_en": [
+    "memory",
+    "sense",
+    "experience"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "覚えてろよ。",
+      "en": "I will get even with you some day."
+    },
+    {
+      "ja": "覚えておけ！",
+      "en": "Remember!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

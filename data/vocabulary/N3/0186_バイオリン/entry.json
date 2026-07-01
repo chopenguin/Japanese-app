@@ -1,0 +1,35 @@
+{
+  "id": "n3-0186",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "バイオリン",
+  "display": "バイオリン",
+  "meanings_zh": [
+    "小提琴"
+  ],
+  "meanings_en": [
+    "violin"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私はバイオリンを弾く。",
+      "en": "I play the violin."
+    },
+    {
+      "ja": "バイオリンが弾けるの？",
+      "en": "Can you play the violin?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

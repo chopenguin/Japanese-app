@@ -1,0 +1,39 @@
+{
+  "id": "n1-1395",
+  "jlpt": "N1",
+  "kanji": "作り",
+  "kana": "つくり",
+  "display": "作り",
+  "meanings_zh": [
+    "构造",
+    "结构",
+    "样式",
+    "身材"
+  ],
+  "meanings_en": [
+    "make-up",
+    "sliced raw fish"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "手作りだった。",
+      "en": "It was handmade."
+    },
+    {
+      "ja": "作り方は簡単よ。",
+      "en": "The recipe is easy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

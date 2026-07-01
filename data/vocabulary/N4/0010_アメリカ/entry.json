@@ -1,0 +1,36 @@
+{
+  "id": "n4-0010",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "アメリカ",
+  "display": "アメリカ",
+  "meanings_zh": [
+    "美洲",
+    "(北美洲)美国"
+  ],
+  "meanings_en": [
+    "America"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "アメリカ出身です。",
+      "en": "I'm from the United States."
+    },
+    {
+      "ja": "彼はアメリカ人です。",
+      "en": "He is an American."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

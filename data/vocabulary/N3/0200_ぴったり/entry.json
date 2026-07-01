@@ -1,0 +1,40 @@
+{
+  "id": "n3-0200",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ぴったり",
+  "display": "ぴったり",
+  "meanings_zh": [
+    "紧",
+    "紧密",
+    "严实",
+    "恰好"
+  ],
+  "meanings_en": [
+    "exactly",
+    "neatly",
+    "sharp"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "服がぴったり合っていた。",
+      "en": "It was a perfect fit."
+    },
+    {
+      "ja": "それはぴったりの番号だ。",
+      "en": "That number is just perfect."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

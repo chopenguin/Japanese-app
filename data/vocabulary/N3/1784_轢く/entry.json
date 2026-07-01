@@ -1,0 +1,27 @@
+{
+  "id": "n3-1784",
+  "jlpt": "N3",
+  "kanji": "轢く",
+  "kana": "ひく",
+  "display": "轢く",
+  "meanings_zh": [
+    "轧"
+  ],
+  "meanings_en": [
+    "to run somebody over (with vehicle)",
+    "to knock someone down"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

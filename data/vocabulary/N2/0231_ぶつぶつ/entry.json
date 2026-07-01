@@ -1,0 +1,39 @@
+{
+  "id": "n2-0231",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ぶつぶつ",
+  "display": "ぶつぶつ",
+  "meanings_zh": [
+    "抱怨",
+    "牢骚",
+    "唠叨",
+    "嘟哝"
+  ],
+  "meanings_en": [
+    "grumbling",
+    "complaining in a small voice"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ぶつぶつ言うよ。",
+      "en": "She'll complain."
+    },
+    {
+      "ja": "ぶつぶつと礼を言った。",
+      "en": "He grunted his thanks."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

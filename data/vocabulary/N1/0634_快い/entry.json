@@ -1,0 +1,38 @@
+{
+  "id": "n1-0634",
+  "jlpt": "N1",
+  "kanji": "快い",
+  "kana": "こころよい",
+  "display": "快い",
+  "meanings_zh": [
+    "高兴",
+    "愉快",
+    "爽快"
+  ],
+  "meanings_en": [
+    "pleasant",
+    "agreeable"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "快い笑顔で彼女は私に挨拶した。",
+      "en": "She greeted me with a pleasant smile."
+    },
+    {
+      "ja": "岩の上で髪をとかしながら、彼女は快い歌を歌った。",
+      "en": "Sitting on the rock, she sang a sweet song as she combed her hair."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n1-1901",
+  "jlpt": "N1",
+  "kanji": "真実",
+  "kana": "さな",
+  "display": "真実",
+  "meanings_zh": [
+    "真实",
+    "实在",
+    "真话",
+    "事实"
+  ],
+  "meanings_en": [
+    "truth",
+    "reality"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "真実が勝つ。",
+      "en": "Truth prevails."
+    },
+    {
+      "ja": "真実が必要だ。",
+      "en": "I need the truth."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "n1-3436",
+  "jlpt": "N1",
+  "kanji": "瞑る",
+  "kana": "つぶる",
+  "display": "瞑る",
+  "meanings_zh": [
+    "闭眼"
+  ],
+  "meanings_en": [
+    "to close the eyes"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

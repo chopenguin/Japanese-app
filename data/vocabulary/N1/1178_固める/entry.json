@@ -1,0 +1,40 @@
+{
+  "id": "n1-1178",
+  "jlpt": "N1",
+  "kanji": "固める",
+  "kana": "かためる",
+  "display": "固める",
+  "meanings_zh": [
+    "凝固",
+    "坚硬",
+    "堆集一处",
+    "坚定"
+  ],
+  "meanings_en": [
+    "to harden",
+    "to freeze",
+    "to fortify"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "基礎を固めることは大切です。",
+      "en": "It is important to strengthen the basis."
+    },
+    {
+      "ja": "砂利をセメントで固める必要がある。",
+      "en": "We need to bind gravel with cement."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

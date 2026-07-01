@@ -1,0 +1,38 @@
+{
+  "id": "n2-0882",
+  "jlpt": "N2",
+  "kanji": "取り消す",
+  "kana": "とりけす",
+  "display": "取り消す",
+  "meanings_zh": [
+    "取消",
+    "作废",
+    "废除",
+    "撤销"
+  ],
+  "meanings_en": [
+    "to cancel"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ごめん、取り消すよ。",
+      "en": "I'm sorry. I take back my words."
+    },
+    {
+      "ja": "ジャックは予約を取り消すことにした。",
+      "en": "Jack decided to cancel the reservations."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

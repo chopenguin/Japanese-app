@@ -1,0 +1,43 @@
+{
+  "id": "n1-1450",
+  "jlpt": "N1",
+  "kanji": "仕組み",
+  "kana": "しくみ",
+  "display": "仕組み",
+  "meanings_zh": [
+    "结构",
+    "构造",
+    "情节",
+    "计划"
+  ],
+  "meanings_en": [
+    "devising",
+    "plan",
+    "plot",
+    "contrivance",
+    "construction",
+    "arrangement"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この機械の仕組みを説明してもらえますか？",
+      "en": "Can you explain how this machine works?"
+    },
+    {
+      "ja": "これは具体的にどういう仕組みなんですか？",
+      "en": "How exactly does this work?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

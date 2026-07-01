@@ -1,0 +1,34 @@
+{
+  "id": "n1-3183",
+  "jlpt": "N1",
+  "kanji": "目盛",
+  "kana": "めもり",
+  "display": "目盛",
+  "meanings_zh": [],
+  "meanings_en": [
+    "scale",
+    "gradations"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "日本では摂氏の目盛りが使われている。",
+      "en": "The Celsius scale is used in Japan."
+    },
+    {
+      "ja": "この定規にはミリメートルの目盛りがある。",
+      "en": "This ruler has the scale in millimeters."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "n1-1991",
+  "jlpt": "N1",
+  "kanji": "整える",
+  "kana": "ととのえる",
+  "display": "整える",
+  "meanings_zh": [
+    "整理",
+    "整顿",
+    "整齐",
+    "齐整"
+  ],
+  "meanings_en": [
+    "to put in order",
+    "to get ready",
+    "to arrange",
+    "to adjust"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "眉毛を整えると印象がぐっと良くなった。",
+      "en": "When I did up my eyebrows, I looked much, much better."
+    },
+    {
+      "ja": "彼女はヘアスタイルを整えるのに忙しかった。",
+      "en": "She was busy doing her hair."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

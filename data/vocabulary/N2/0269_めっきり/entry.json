@@ -1,0 +1,36 @@
+{
+  "id": "n2-0269",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "めっきり",
+  "display": "めっきり",
+  "meanings_zh": [
+    "(变化)显著",
+    "急剧"
+  ],
+  "meanings_en": [
+    "remarkably"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "めっきり寒くなった。",
+      "en": "It has become noticeably colder."
+    },
+    {
+      "ja": "めっきり春らしくなったね。",
+      "en": "It's getting quite springlike."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

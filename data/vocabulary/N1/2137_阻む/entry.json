@@ -1,0 +1,35 @@
+{
+  "id": "n1-2137",
+  "jlpt": "N1",
+  "kanji": "阻む",
+  "kana": "はばむ",
+  "display": "阻む",
+  "meanings_zh": [
+    "阻止",
+    "阻挡",
+    "挡"
+  ],
+  "meanings_en": [
+    "to keep someone from doing",
+    "to stop",
+    "to prevent",
+    "to check",
+    "to hinder",
+    "to obstruct",
+    "to oppose",
+    "to thwart"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

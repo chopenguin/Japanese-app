@@ -1,0 +1,35 @@
+{
+  "id": "n1-2462",
+  "jlpt": "N1",
+  "kanji": "定まる",
+  "kana": "さだまる",
+  "display": "定まる",
+  "meanings_zh": [
+    "定",
+    "决定",
+    "规定",
+    "确定"
+  ],
+  "meanings_en": [
+    "to become settled",
+    "to be fixed"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "金利は、債務者が負担する事業リスクに応じて定まるものと存じます。",
+      "en": "I know that interest rates are fixed in accordance to the borrower's business risk."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

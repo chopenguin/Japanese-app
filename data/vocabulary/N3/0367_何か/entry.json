@@ -1,0 +1,38 @@
+{
+  "id": "n3-0367",
+  "jlpt": "N3",
+  "kanji": "何か",
+  "kana": "なにか",
+  "display": "何か",
+  "meanings_zh": [
+    "什么",
+    "某种",
+    "某些",
+    "不知为什么"
+  ],
+  "meanings_en": [
+    "something"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何かあった？",
+      "en": "Anything new?"
+    },
+    {
+      "ja": "何か感じる。",
+      "en": "I feel something."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

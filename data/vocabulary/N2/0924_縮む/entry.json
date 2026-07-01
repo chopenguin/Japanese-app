@@ -1,0 +1,35 @@
+{
+  "id": "n2-0924",
+  "jlpt": "N2",
+  "kanji": "縮む",
+  "kana": "ちぢむ",
+  "display": "縮む",
+  "meanings_zh": [
+    "缩",
+    "抽",
+    "缩小",
+    "收缩"
+  ],
+  "meanings_en": [
+    "to shrink",
+    "to be contracted"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "命が縮む思いをした。",
+      "en": "I felt as if my life had been shortened."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

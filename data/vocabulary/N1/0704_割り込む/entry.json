@@ -1,0 +1,43 @@
+{
+  "id": "n1-0704",
+  "jlpt": "N1",
+  "kanji": "割り込む",
+  "kana": "わりこむ",
+  "display": "割り込む",
+  "meanings_zh": [
+    "挤进",
+    "加楔儿",
+    "加塞儿",
+    "硬加入"
+  ],
+  "meanings_en": [
+    "to cut in",
+    "to thrust oneself into",
+    "to wedge oneself in",
+    "to muscle in on",
+    "to interrupt",
+    "to disturb"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "僕たちの話に割り込むなよ。",
+      "en": "Don't interrupt our conversation."
+    },
+    {
+      "ja": "人の話に割り込むのは失礼だぞ。",
+      "en": "It is rude to interrupt others."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

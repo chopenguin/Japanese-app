@@ -1,0 +1,34 @@
+{
+  "id": "n5-0090",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "そば",
+  "display": "そば",
+  "meanings_zh": [],
+  "meanings_en": [
+    "near",
+    "beside"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そばにいたいな。",
+      "en": "I want to be with you."
+    },
+    {
+      "ja": "池のそばに男がいる。",
+      "en": "There is a man by the side of the pond."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

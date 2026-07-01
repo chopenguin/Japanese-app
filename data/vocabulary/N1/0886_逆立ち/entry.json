@@ -1,0 +1,39 @@
+{
+  "id": "n1-0886",
+  "jlpt": "N1",
+  "kanji": "逆立ち",
+  "kana": "さかだち",
+  "display": "逆立ち",
+  "meanings_zh": [
+    "倒立",
+    "拿大顶",
+    "竖蜻蜒",
+    "颠倒"
+  ],
+  "meanings_en": [
+    "handstand",
+    "headstand"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は逆立ちをした。",
+      "en": "She stood on her head."
+    },
+    {
+      "ja": "彼は逆立ちしている。",
+      "en": "He's doing a handstand."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

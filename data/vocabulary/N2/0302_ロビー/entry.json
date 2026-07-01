@@ -1,0 +1,38 @@
+{
+  "id": "n2-0302",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ロビー",
+  "display": "ロビー",
+  "meanings_zh": [
+    "前厅",
+    "门厅",
+    "门廊",
+    "休息厅"
+  ],
+  "meanings_en": [
+    "lobby"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ロビーで待ってて。",
+      "en": "Wait in the lobby."
+    },
+    {
+      "ja": "ロビーで傘を広げないで。",
+      "en": "Don't open your umbrella in the lobby."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

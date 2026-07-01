@@ -1,0 +1,39 @@
+{
+  "id": "n3-1717",
+  "jlpt": "N3",
+  "kanji": "用いる",
+  "kana": "もちいる",
+  "display": "用いる",
+  "meanings_zh": [
+    "用",
+    "使用",
+    "采用",
+    "采纳"
+  ],
+  "meanings_en": [
+    "to use",
+    "to make use of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "イギリス人が用いる表現はたくさんある。",
+      "en": "There are a lot of expressions used by English people."
+    },
+    {
+      "ja": "パラソルは顔に陽が当たらないように夏に用いる。",
+      "en": "A parasol is used during the summertime to shade the face."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

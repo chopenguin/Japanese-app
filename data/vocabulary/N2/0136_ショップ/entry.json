@@ -1,0 +1,36 @@
+{
+  "id": "n2-0136",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ショップ",
+  "display": "ショップ",
+  "meanings_zh": [
+    "店铺",
+    "商店"
+  ],
+  "meanings_en": [
+    "a shop"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ギフトショップはどこですか？",
+      "en": "Where's the gift shop?"
+    },
+    {
+      "ja": "コーヒーショップはどこですか。",
+      "en": "Where is the coffee shop?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

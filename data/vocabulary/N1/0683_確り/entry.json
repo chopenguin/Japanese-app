@@ -1,0 +1,32 @@
+{
+  "id": "n1-0683",
+  "jlpt": "N1",
+  "kanji": "確り",
+  "kana": "しっかり",
+  "display": "確り",
+  "meanings_zh": [
+    "结实",
+    "牢固",
+    "健壮"
+  ],
+  "meanings_en": [
+    "firmly",
+    "tightly",
+    "reliable",
+    "level-headed",
+    "steady"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

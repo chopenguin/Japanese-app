@@ -1,0 +1,40 @@
+{
+  "id": "n1-1298",
+  "jlpt": "N1",
+  "kanji": "高まる",
+  "kana": "たかまる",
+  "display": "高まる",
+  "meanings_zh": [
+    "高涨",
+    "提高",
+    "增长",
+    "兴奋"
+  ],
+  "meanings_en": [
+    "to rise",
+    "to swell",
+    "to be promoted"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ますます高まる抗議の声に彼の演説は聞こえなかった。",
+      "en": "Ever louder voices of protest drowned out his speech."
+    },
+    {
+      "ja": "だが、徐々に生活水準が高まるようになるにつれて、ますます大勢の人が我が家に浴室を持つようになった。",
+      "en": "However, as living standards gradually came to rise, more and more people began to have their own bathrooms at home."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

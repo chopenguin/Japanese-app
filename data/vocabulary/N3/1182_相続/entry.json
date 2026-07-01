@@ -1,0 +1,36 @@
+{
+  "id": "n3-1182",
+  "jlpt": "N3",
+  "kanji": "相続",
+  "kana": "そうぞく",
+  "display": "相続",
+  "meanings_zh": [
+    "继承"
+  ],
+  "meanings_en": [
+    "succession",
+    "inheritance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "財産を相続する。",
+      "en": "I succeed to a fortune."
+    },
+    {
+      "ja": "私は莫大な遺産を相続した。",
+      "en": "I came into a huge fortune."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

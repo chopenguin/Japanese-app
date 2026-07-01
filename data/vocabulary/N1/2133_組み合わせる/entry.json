@@ -1,0 +1,37 @@
+{
+  "id": "n1-2133",
+  "jlpt": "N1",
+  "kanji": "組み合わせる",
+  "kana": "くみあわせる",
+  "display": "組み合わせる",
+  "meanings_zh": [
+    "编在一起",
+    "交叉在一起",
+    "搭在一起",
+    "配合",
+    "编组"
+  ],
+  "meanings_en": [
+    "to join together",
+    "to combine",
+    "to join up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "創造力とは、既に知られている要素を、意外な方法で組み合わせる能力である。",
+      "en": "Creativity is taking things that are already known and combining them in an extraordinary way."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

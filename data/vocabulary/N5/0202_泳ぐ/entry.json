@@ -1,0 +1,38 @@
+{
+  "id": "n5-0202",
+  "jlpt": "N5",
+  "kanji": "泳ぐ",
+  "kana": "およぐ",
+  "display": "泳ぐ",
+  "meanings_zh": [
+    "游",
+    "游泳",
+    "游水",
+    "泅水"
+  ],
+  "meanings_en": [
+    "to swim"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は泳ぐのが怖い。",
+      "en": "He is afraid of swimming."
+    },
+    {
+      "ja": "海で泳ぐのは面白い。",
+      "en": "It is fun to swim in the sea."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

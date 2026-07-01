@@ -1,0 +1,37 @@
+{
+  "id": "n2-0028",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ウール",
+  "display": "ウール",
+  "meanings_zh": [
+    "羊毛",
+    "毛线",
+    "毛织品"
+  ],
+  "meanings_en": [
+    "wool"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ウールは染色しやすい。",
+      "en": "Wool takes a dye well."
+    },
+    {
+      "ja": "彼女はウールの服を着ていた。",
+      "en": "She was clothed in wool."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n5-0110",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "テスト",
+  "display": "テスト",
+  "meanings_zh": [
+    "试验",
+    "测验",
+    "考试",
+    "检验"
+  ],
+  "meanings_en": [
+    "test"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "テスト文です。",
+      "en": "This is a test sentence."
+    },
+    {
+      "ja": "テストの感触は？",
+      "en": "How was the test?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

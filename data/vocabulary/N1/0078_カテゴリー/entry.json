@@ -1,0 +1,35 @@
+{
+  "id": "n1-0078",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "カテゴリー",
+  "display": "カテゴリー",
+  "meanings_zh": [
+    "范畴"
+  ],
+  "meanings_en": [
+    "category"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "作家としての彼女は伝統的なカテゴリーのいずれにも当てはまらない。",
+      "en": "As a writer, she does not fit into any of the traditional categories."
+    },
+    {
+      "ja": "このカテゴリーには他にも異常が存在すると考えることが妥当である。",
+      "en": "It is reasonable to think that there exist other anomalies in this category."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

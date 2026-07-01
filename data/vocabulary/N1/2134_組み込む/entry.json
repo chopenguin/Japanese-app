@@ -1,0 +1,30 @@
+{
+  "id": "n1-2134",
+  "jlpt": "N1",
+  "kanji": "組み込む",
+  "kana": "くみこむ",
+  "display": "組み込む",
+  "meanings_zh": [
+    "编入",
+    "入伙",
+    "排入"
+  ],
+  "meanings_en": [
+    "to insert",
+    "to include",
+    "to cut in (printing)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

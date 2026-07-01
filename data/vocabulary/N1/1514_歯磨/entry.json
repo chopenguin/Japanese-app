@@ -1,0 +1,34 @@
+{
+  "id": "n1-1514",
+  "jlpt": "N1",
+  "kanji": "歯磨",
+  "kana": "はみがき",
+  "display": "歯磨",
+  "meanings_zh": [],
+  "meanings_en": [
+    "dentifrice",
+    "toothpaste"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "歯磨きはどこ？",
+      "en": "Where's the toothpaste?"
+    },
+    {
+      "ja": "歯磨きはしたの？",
+      "en": "Did you brush your teeth?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

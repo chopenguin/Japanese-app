@@ -1,0 +1,34 @@
+{
+  "id": "n1-0306",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "もろに",
+  "display": "もろに",
+  "meanings_zh": [
+    "全面",
+    "迎面",
+    "无处不"
+  ],
+  "meanings_en": [
+    "completely",
+    "all the way"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はもろに壁にぶつかった。",
+      "en": "He ran sheer into the wall."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

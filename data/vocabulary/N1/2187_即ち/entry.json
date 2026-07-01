@@ -1,0 +1,40 @@
+{
+  "id": "n1-2187",
+  "jlpt": "N1",
+  "kanji": "即ち",
+  "kana": "すなわち",
+  "display": "即ち",
+  "meanings_zh": [
+    "即",
+    "也就是说",
+    "换言之",
+    "即是"
+  ],
+  "meanings_en": [
+    "that is",
+    "namely",
+    "i.e."
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は天文学、即ち天文の学問の偉大な権威であった。",
+      "en": "He was a great authority on astronomy, or the science of the heavenly bodies."
+    },
+    {
+      "ja": "人間はいつでも二つの基本的な願望を持っている。即ち苦痛から逃れること、快楽に到達することである。",
+      "en": "Human beings usually have two basic desires: to get away from pain and to arrive at pleasure."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "n2-1178",
+  "jlpt": "N2",
+  "kanji": "騒々しい",
+  "kana": "そうぞうしい",
+  "display": "騒々しい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "noisy",
+    "boisterous"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その通りは騒々しい。",
+      "en": "That street is very noisy."
+    },
+    {
+      "ja": "騒々しい音楽は健康に悪いです。",
+      "en": "Loud music is bad for your health."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

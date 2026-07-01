@@ -1,0 +1,31 @@
+{
+  "id": "n3-1424",
+  "jlpt": "N3",
+  "kanji": "寧ろ",
+  "kana": "むしろ",
+  "display": "寧ろ",
+  "meanings_zh": [
+    "与其～～",
+    "不如～～",
+    "宁可",
+    "毋宁"
+  ],
+  "meanings_en": [
+    "rather",
+    "better",
+    "instead"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

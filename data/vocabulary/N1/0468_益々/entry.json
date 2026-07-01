@@ -1,0 +1,34 @@
+{
+  "id": "n1-0468",
+  "jlpt": "N1",
+  "kanji": "益々",
+  "kana": "ますます",
+  "display": "益々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "increasingly",
+    "more and more"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "人口が益々増える一方です。",
+      "en": "The population just keeps growing and growing."
+    },
+    {
+      "ja": "北海道のいくつかの小さな町は益々荒れています。",
+      "en": "More and more of Hokkaido's small towns are falling into ruin."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

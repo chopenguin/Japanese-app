@@ -1,0 +1,36 @@
+{
+  "id": "n3-0363",
+  "jlpt": "N3",
+  "kanji": "下り",
+  "kana": "くだり",
+  "display": "下り",
+  "meanings_zh": [
+    "下",
+    "从首都到地方去"
+  ],
+  "meanings_en": [
+    "down-train (going away from Tokyo)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "幕が下りた。",
+      "en": "The curtain fell."
+    },
+    {
+      "ja": "彼はもう下り坂だね。",
+      "en": "He is over the hill, you know."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

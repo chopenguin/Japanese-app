@@ -1,0 +1,43 @@
+{
+  "id": "n1-1361",
+  "jlpt": "N1",
+  "kanji": "催す",
+  "kana": "もよおす",
+  "display": "催す",
+  "meanings_zh": [
+    "举行",
+    "举办",
+    "主办",
+    "感觉"
+  ],
+  "meanings_en": [
+    "to hold (a meeting)",
+    "to give (a dinner)",
+    "to feel",
+    "to show signs of",
+    "to develop symptoms of",
+    "to feel (sick"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は来週パーティーを催す。",
+      "en": "She will give a party next week."
+    },
+    {
+      "ja": "トムが主催するパーティーに招かれた。",
+      "en": "I was invited to Tom's party."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

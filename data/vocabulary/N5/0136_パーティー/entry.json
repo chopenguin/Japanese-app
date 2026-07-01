@@ -1,0 +1,38 @@
+{
+  "id": "n5-0136",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "パーティー",
+  "display": "パーティー",
+  "meanings_zh": [
+    "(社交性或娱乐性)会",
+    "集会",
+    "茶会",
+    "舞会"
+  ],
+  "meanings_en": [
+    "party"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "パーティーに出たい。",
+      "en": "I would love to attend the party."
+    },
+    {
+      "ja": "パーティー楽しめた？",
+      "en": "How did you enjoy the party?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

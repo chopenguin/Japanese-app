@@ -1,0 +1,42 @@
+{
+  "id": "n2-0560",
+  "jlpt": "N2",
+  "kanji": "強引",
+  "kana": "ごういん",
+  "display": "強引",
+  "meanings_zh": [
+    "强行",
+    "强制",
+    "硬干",
+    "蛮干"
+  ],
+  "meanings_en": [
+    "overbearing",
+    "coercive",
+    "pushy",
+    "forcible",
+    "high-handed"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "与党は強引に税制法案を通過させた。",
+      "en": "The ruling party pushed its tax bill through."
+    },
+    {
+      "ja": "政府はその法案を強引に議会を通過させた。",
+      "en": "The government pushed the bill through the Diet."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

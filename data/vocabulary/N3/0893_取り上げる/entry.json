@@ -1,0 +1,42 @@
+{
+  "id": "n3-0893",
+  "jlpt": "N3",
+  "kanji": "取り上げる",
+  "kana": "とりあげる",
+  "display": "取り上げる",
+  "meanings_zh": [
+    "拿起",
+    "举起",
+    "采纳",
+    "接受"
+  ],
+  "meanings_en": [
+    "to take up",
+    "to pick up",
+    "to disqualify",
+    "to confiscate",
+    "to deprive"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "電話が鳴る。スーザンは受話器を取り上げる。",
+      "en": "The telephone rings. Susan picks it up."
+    },
+    {
+      "ja": "誰が最初にその問題を取り上げるのだろうか。",
+      "en": "Who will raise the question in the first place?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

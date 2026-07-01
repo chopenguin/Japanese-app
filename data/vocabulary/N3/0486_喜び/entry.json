@@ -1,0 +1,45 @@
+{
+  "id": "n3-0486",
+  "jlpt": "N3",
+  "kanji": "喜び",
+  "kana": "よろこび",
+  "display": "喜び",
+  "meanings_zh": [
+    "喜悦",
+    "愉快",
+    "高兴",
+    "欢喜"
+  ],
+  "meanings_en": [
+    "(a) joy",
+    "(a) delight",
+    "rapture",
+    "pleasure",
+    "gratification",
+    "rejoicing",
+    "congratulations",
+    "felicitations"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は大喜びだ。",
+      "en": "He's tickled pink."
+    },
+    {
+      "ja": "大喜びでした。",
+      "en": "We were overjoyed."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

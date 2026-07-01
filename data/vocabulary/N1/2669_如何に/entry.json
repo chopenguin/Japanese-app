@@ -1,0 +1,42 @@
+{
+  "id": "n1-2669",
+  "jlpt": "N1",
+  "kanji": "如何に",
+  "kana": "いかに",
+  "display": "如何に",
+  "meanings_zh": [
+    "如何",
+    "怎样",
+    "用什么方法",
+    "怎么"
+  ],
+  "meanings_en": [
+    "how?",
+    "in what way?",
+    "how much?",
+    "however",
+    "whatever"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "成功するかどうかは、君自身の努力の如何による。",
+      "en": "Whether you will succeed or not depends upon your own exertions."
+    },
+    {
+      "ja": "彼が成功するか否かは、彼の健康の如何によります。",
+      "en": "Whether he will succeed or not depends upon his health."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

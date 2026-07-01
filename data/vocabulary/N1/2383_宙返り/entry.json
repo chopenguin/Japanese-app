@@ -1,0 +1,38 @@
+{
+  "id": "n1-2383",
+  "jlpt": "N1",
+  "kanji": "宙返り",
+  "kana": "ちゅうがえり",
+  "display": "宙返り",
+  "meanings_zh": [
+    "翻筋斗",
+    "翻跟头",
+    "特技飞行"
+  ],
+  "meanings_en": [
+    "somersault",
+    "looping-the-loop"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は宙返りをした。",
+      "en": "He turned a somersault."
+    },
+    {
+      "ja": "トムは後方宙返りのやり方を学んだ。",
+      "en": "Tom learned how to do a backflip."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

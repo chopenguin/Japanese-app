@@ -1,0 +1,40 @@
+{
+  "id": "n3-0608",
+  "jlpt": "N3",
+  "kanji": "空く",
+  "kana": "すく",
+  "display": "空く",
+  "meanings_zh": [
+    "有空隙",
+    "有缝",
+    "有间隙",
+    "少"
+  ],
+  "meanings_en": [
+    "(1) to open",
+    "to become empty",
+    "(2) to be less crowded"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あと１０分で手が空く。",
+      "en": "I will be free in ten minutes."
+    },
+    {
+      "ja": "ただいま満席です。席が空くまでこちらでお待ちください。",
+      "en": "We are full now. Please wait here until there is a seat."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

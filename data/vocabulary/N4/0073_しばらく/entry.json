@@ -1,0 +1,38 @@
+{
+  "id": "n4-0073",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "しばらく",
+  "display": "しばらく",
+  "meanings_zh": [
+    "暂时",
+    "暂且",
+    "一会儿",
+    "片刻"
+  ],
+  "meanings_en": [
+    "little while"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "しばらくね。",
+      "en": "Nice to see you again."
+    },
+    {
+      "ja": "ここしばらくの間。",
+      "en": "For the time being."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

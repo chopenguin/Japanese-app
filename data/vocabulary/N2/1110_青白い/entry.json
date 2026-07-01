@@ -1,0 +1,37 @@
+{
+  "id": "n2-1110",
+  "jlpt": "N2",
+  "kanji": "青白い",
+  "kana": "あおじろい",
+  "display": "青白い",
+  "meanings_zh": [
+    "青白色",
+    "苍白"
+  ],
+  "meanings_en": [
+    "pale",
+    "pallid"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "病気ですか。顔が青白いよ。",
+      "en": "Are you sick? You look pale."
+    },
+    {
+      "ja": "君は大変青白い顔をしている。",
+      "en": "You look very pale."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

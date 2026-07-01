@@ -1,0 +1,33 @@
+{
+  "id": "n4-0020",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "うち",
+  "display": "うち",
+  "meanings_zh": [],
+  "meanings_en": [
+    "within"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "うちの旦那。",
+      "en": "He is my husband."
+    },
+    {
+      "ja": "うちにいます。",
+      "en": "I am at home."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

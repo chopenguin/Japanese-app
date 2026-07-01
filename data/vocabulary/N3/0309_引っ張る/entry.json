@@ -1,0 +1,42 @@
+{
+  "id": "n3-0309",
+  "jlpt": "N3",
+  "kanji": "引っ張る",
+  "kana": "ひっぱる",
+  "display": "引っ張る",
+  "meanings_zh": [
+    "拉",
+    "拽",
+    "扯",
+    "拉上"
+  ],
+  "meanings_en": [
+    "(1) to pull",
+    "to draw",
+    "to stretch",
+    "to drag",
+    "(2) to pull the ball (baseball)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "引っ張るぞ。",
+      "en": "We're going to pull it."
+    },
+    {
+      "ja": "それに掴まって。引っ張るぞ。",
+      "en": "Take hold of it. We're going to pull it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

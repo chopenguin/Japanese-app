@@ -1,0 +1,36 @@
+{
+  "id": "n1-0284",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ほっと",
+  "display": "ほっと",
+  "meanings_zh": [
+    "叹气",
+    "放心"
+  ],
+  "meanings_en": [
+    "feel relieved"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ほっといてよ！",
+      "en": "Leave me alone!"
+    },
+    {
+      "ja": "ほっといてくれ。",
+      "en": "Leave me alone."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

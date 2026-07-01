@@ -1,0 +1,33 @@
+{
+  "id": "n1-2165",
+  "jlpt": "N1",
+  "kanji": "葬る",
+  "kana": "ほうむる",
+  "display": "葬る",
+  "meanings_zh": [
+    "埋葬",
+    "葬埋",
+    "葬送",
+    "弃而不顾"
+  ],
+  "meanings_en": [
+    "to bury",
+    "to inter",
+    "to entomb",
+    "to consign to oblivion",
+    "to shelve"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n1-2969",
+  "jlpt": "N1",
+  "kanji": "偏る",
+  "kana": "かたよる",
+  "display": "偏る",
+  "meanings_zh": [
+    "偏颇",
+    "不公平",
+    "不平衡",
+    "偏于一方"
+  ],
+  "meanings_en": [
+    "to be one-sided",
+    "to incline",
+    "to be partial",
+    "to be prejudiced",
+    "to lean",
+    "to be biased"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ハンバーガーばかり食べていると、栄養が偏るよ。",
+      "en": "Your diet is going to be really unbalanced if all you eat is hamburgers."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

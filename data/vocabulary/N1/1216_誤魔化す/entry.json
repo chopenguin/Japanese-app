@@ -1,0 +1,40 @@
+{
+  "id": "n1-1216",
+  "jlpt": "N1",
+  "kanji": "誤魔化す",
+  "kana": "ごまかす",
+  "display": "誤魔化す",
+  "meanings_zh": [
+    "欺骗",
+    "欺瞒",
+    "蒙混",
+    "愚弄"
+  ],
+  "meanings_en": [
+    "to deceive",
+    "to falsify",
+    "to misrepresent"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "歳を誤魔化すな。",
+      "en": "Don't lie about your age!"
+    },
+    {
+      "ja": "頭を掻いて誤魔化すのが彼の癖だ。",
+      "en": "He has a habit of scratching his head when he wants to avoid answering things."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n1-2020",
+  "jlpt": "N1",
+  "kanji": "盛り上がる",
+  "kana": "もりあがる",
+  "display": "盛り上がる",
+  "meanings_zh": [
+    "鼓",
+    "凸起",
+    "隆起",
+    "涌起"
+  ],
+  "meanings_en": [
+    "to rouse",
+    "to swell",
+    "to rise"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あの曲を聞いてみんなは盛り上がる。",
+      "en": "Everyone listens to the song and gets excited."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

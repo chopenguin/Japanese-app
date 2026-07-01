@@ -1,0 +1,35 @@
+{
+  "id": "n1-1972",
+  "jlpt": "N1",
+  "kanji": "是正",
+  "kana": "ぜせい",
+  "display": "是正",
+  "meanings_zh": [
+    "订正",
+    "更正",
+    "矫正",
+    "纠正"
+  ],
+  "meanings_en": [
+    "correction",
+    "revision"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "バス通学と積極的差別是正措置などが論争の多い話題だった。",
+      "en": "School busing and taking a proactive stance against discrimination were hotly debated topics."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

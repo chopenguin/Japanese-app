@@ -1,0 +1,36 @@
+{
+  "id": "n5-0173",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ラジオ",
+  "display": "ラジオ",
+  "meanings_zh": [
+    "无线电",
+    "收音机"
+  ],
+  "meanings_en": [
+    "radio"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ラジオ、切った？",
+      "en": "Did you turn off the radio?"
+    },
+    {
+      "ja": "ラジオを消して！",
+      "en": "Turn off the radio!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

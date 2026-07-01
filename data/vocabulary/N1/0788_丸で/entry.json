@@ -1,0 +1,44 @@
+{
+  "id": "n1-0788",
+  "jlpt": "N1",
+  "kanji": "丸で",
+  "kana": "まるで",
+  "display": "丸で",
+  "meanings_zh": [
+    "完全",
+    "全然",
+    "简直",
+    "好象"
+  ],
+  "meanings_en": [
+    "quite",
+    "entirely",
+    "completely",
+    "at all",
+    "as if",
+    "as though",
+    "so to speak"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "赤丸で囲む。",
+      "en": "Circle in red pencil."
+    },
+    {
+      "ja": "彼は弾丸で負傷した。",
+      "en": "He was wounded by a bullet."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

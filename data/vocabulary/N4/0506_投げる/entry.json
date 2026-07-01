@@ -1,0 +1,38 @@
+{
+  "id": "n4-0506",
+  "jlpt": "N4",
+  "kanji": "投げる",
+  "kana": "なげる",
+  "display": "投げる",
+  "meanings_zh": [
+    "投",
+    "抛",
+    "扔",
+    "掷"
+  ],
+  "meanings_en": [
+    "to throw or cast away"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "速球を投げる。",
+      "en": "I'll throw a fastball."
+    },
+    {
+      "ja": "猫に石を投げるな。",
+      "en": "Don't throw a stone at a cat."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

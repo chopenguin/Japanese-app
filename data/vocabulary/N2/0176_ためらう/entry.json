@@ -1,0 +1,29 @@
+{
+  "id": "n2-0176",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ためらう",
+  "display": "ためらう",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to hesitate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は答える前に時としてためらう。",
+      "en": "She sometimes hesitates before answering."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

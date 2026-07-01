@@ -1,0 +1,34 @@
+{
+  "id": "n1-3430",
+  "jlpt": "N1",
+  "kanji": "煌々と",
+  "kana": "こうこうと",
+  "display": "煌々と",
+  "meanings_zh": [],
+  "meanings_en": [
+    "brilliantly",
+    "brightly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "月は煌々と輝いていた。",
+      "en": "The moon was shining brightly."
+    },
+    {
+      "ja": "ジャクージの傍には蝋燭が煌々と輝いていた。",
+      "en": "Candles gleamed brightly beside the jacuzzi."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

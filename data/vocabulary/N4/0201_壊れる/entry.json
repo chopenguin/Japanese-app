@@ -1,0 +1,38 @@
+{
+  "id": "n4-0201",
+  "jlpt": "N4",
+  "kanji": "壊れる",
+  "kana": "こわれる",
+  "display": "壊れる",
+  "meanings_zh": [
+    "坏",
+    "碎",
+    "倒塌",
+    "出故障"
+  ],
+  "meanings_en": [
+    "to be broken"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "形あるものはいつか壊れる。",
+      "en": "Anything having form will someday break."
+    },
+    {
+      "ja": "壊れる前に売ってしまわなきゃ。",
+      "en": "I should sell it while it still runs."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

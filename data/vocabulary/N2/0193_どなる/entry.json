@@ -1,0 +1,30 @@
+{
+  "id": "n2-0193",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "どなる",
+  "display": "どなる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to shout",
+    "to yell"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "大きな声でどなるなよ。",
+      "en": "Don't raise your voice at me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

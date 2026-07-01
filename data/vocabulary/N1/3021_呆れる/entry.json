@@ -1,0 +1,39 @@
+{
+  "id": "n1-3021",
+  "jlpt": "N1",
+  "kanji": "呆れる",
+  "kana": "あきれる",
+  "display": "呆れる",
+  "meanings_zh": [
+    "吃惊",
+    "惊讶",
+    "吓呆",
+    "发愣"
+  ],
+  "meanings_en": [
+    "to be amazed",
+    "to be shocked"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "正直が聞いて呆れるよ。",
+      "en": "Him, honest? What a joke!"
+    },
+    {
+      "ja": "お前の厚かましさには呆れるよ。",
+      "en": "I am amazed at your audacity."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

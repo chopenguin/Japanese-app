@@ -1,0 +1,33 @@
+{
+  "id": "n4-0031",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "おもちゃ",
+  "display": "おもちゃ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "toy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "おもちゃ、直して。",
+      "en": "Fix my toy."
+    },
+    {
+      "ja": "僕のおもちゃを直して。",
+      "en": "Please fix my toy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

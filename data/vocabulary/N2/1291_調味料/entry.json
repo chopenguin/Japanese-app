@@ -1,0 +1,34 @@
+{
+  "id": "n2-1291",
+  "jlpt": "N2",
+  "kanji": "調味料",
+  "kana": "ちょうみりょう",
+  "display": "調味料",
+  "meanings_zh": [],
+  "meanings_en": [
+    "condiment",
+    "seasoning"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "市販の調味料よりうまいと言いきれる。",
+      "en": "I can definitively say that this seasoning tastes better than anything you could buy in a store."
+    },
+    {
+      "ja": "同じ調味料かけまくってたら、飽きてきた。",
+      "en": "I was putting the same seasonings on everything, so I got tired of it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n3-0035",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "（感）",
+  "display": "うん",
+  "meanings_zh": [
+    "嗯",
+    "哦",
+    "喔",
+    "哼"
+  ],
+  "meanings_en": [
+    "fortune",
+    "luck"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "うん、君は？",
+      "en": "Fine. And you?"
+    },
+    {
+      "ja": "どう違うんだ？",
+      "en": "What's the difference?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

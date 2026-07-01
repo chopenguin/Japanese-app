@@ -1,0 +1,40 @@
+{
+  "id": "n1-2180",
+  "jlpt": "N1",
+  "kanji": "造り",
+  "kana": "つくり",
+  "display": "造り",
+  "meanings_zh": [
+    "构造",
+    "结构",
+    "样式",
+    "身材"
+  ],
+  "meanings_en": [
+    "make up",
+    "structure",
+    "physique"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "橋は石造りだ。",
+      "en": "The bridge is made of stone."
+    },
+    {
+      "ja": "荷造りできてる？",
+      "en": "Are your bags packed?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

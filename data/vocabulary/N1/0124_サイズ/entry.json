@@ -1,0 +1,38 @@
+{
+  "id": "n1-0124",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "サイズ",
+  "display": "サイズ",
+  "meanings_zh": [
+    "大小",
+    "尺寸",
+    "尺码",
+    "号码"
+  ],
+  "meanings_en": [
+    "size"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ジャストサイズだよ。",
+      "en": "It's just the right size."
+    },
+    {
+      "ja": "靴のサイズはいくつ？",
+      "en": "What's your shoe size?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

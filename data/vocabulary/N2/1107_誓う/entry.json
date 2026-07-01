@@ -1,0 +1,41 @@
+{
+  "id": "n2-1107",
+  "jlpt": "N2",
+  "kanji": "誓う",
+  "kana": "ちかう",
+  "display": "誓う",
+  "meanings_zh": [
+    "起誓",
+    "发誓",
+    "立誓",
+    "宣誓"
+  ],
+  "meanings_en": [
+    "to swear",
+    "to vow",
+    "to take an oath",
+    "to pledge"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "誓うよ、ジョン。",
+      "en": "I swear, John."
+    },
+    {
+      "ja": "それは私じゃない。誓うよ。",
+      "en": "It's not me, I swear!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

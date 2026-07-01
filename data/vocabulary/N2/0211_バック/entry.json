@@ -1,0 +1,38 @@
+{
+  "id": "n2-0211",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "バック",
+  "display": "バック",
+  "meanings_zh": [
+    "背部",
+    "背后",
+    "背景",
+    "后台"
+  ],
+  "meanings_en": [
+    "back"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "僕がバックアップするよ。",
+      "en": "I'll back you up."
+    },
+    {
+      "ja": "海をバックに記念写真撮ろうよ。",
+      "en": "Let's get a picture of us with the sea in the background."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

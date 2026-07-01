@@ -1,0 +1,34 @@
+{
+  "id": "n2-0517",
+  "jlpt": "N2",
+  "kanji": "関東",
+  "kana": "かんとう",
+  "display": "関東",
+  "meanings_zh": [],
+  "meanings_en": [
+    "eastern half of Japan",
+    "including Tokyo"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "台風が関東地方に上陸した。",
+      "en": "The typhoon struck the Kanto district."
+    },
+    {
+      "ja": "先週、関東で大雪が降りました。",
+      "en": "A lot of snow fell on the Kanto region last week."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

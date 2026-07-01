@@ -1,0 +1,38 @@
+{
+  "id": "n3-0641",
+  "jlpt": "N3",
+  "kanji": "欠ける",
+  "kana": "かける",
+  "display": "欠ける",
+  "meanings_zh": [
+    "出缺口",
+    "出罅口",
+    "缺",
+    "欠"
+  ],
+  "meanings_en": [
+    "to be lacking"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は経験に欠ける。",
+      "en": "He is devoid of experience."
+    },
+    {
+      "ja": "メアリーは配慮に欠ける。",
+      "en": "Mary is lacking in delicacy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

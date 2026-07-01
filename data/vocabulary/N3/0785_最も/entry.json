@@ -1,0 +1,38 @@
+{
+  "id": "n3-0785",
+  "jlpt": "N3",
+  "kanji": "最も",
+  "kana": "もっとも",
+  "display": "最も",
+  "meanings_zh": [
+    "最",
+    "顶",
+    "～～不过"
+  ],
+  "meanings_en": [
+    "most",
+    "extremely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "清潔は敬神に最も近い。",
+      "en": "Cleanliness is next to godliness."
+    },
+    {
+      "ja": "私は最も速い走者です。",
+      "en": "I am the fastest runner."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

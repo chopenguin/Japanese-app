@@ -1,0 +1,39 @@
+{
+  "id": "n1-3282",
+  "jlpt": "N1",
+  "kanji": "落ち着き",
+  "kana": "おちつき",
+  "display": "落ち着き",
+  "meanings_zh": [
+    "沉着",
+    "镇静",
+    "安定",
+    "安详"
+  ],
+  "meanings_en": [
+    "calm",
+    "composure"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "落ち着きが肝心です。",
+      "en": "We must keep calm."
+    },
+    {
+      "ja": "私は落ち着きがない。",
+      "en": "I'm restless."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

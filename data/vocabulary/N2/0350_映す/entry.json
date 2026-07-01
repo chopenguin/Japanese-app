@@ -1,0 +1,39 @@
+{
+  "id": "n2-0350",
+  "jlpt": "N2",
+  "kanji": "映す",
+  "kana": "うつす",
+  "display": "映す",
+  "meanings_zh": [
+    "映",
+    "照",
+    "放映"
+  ],
+  "meanings_en": [
+    "to project",
+    "to reflect",
+    "to cast (shadow)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "庭は庭師を映す鏡だ。",
+      "en": "A garden is the reflection of the gardener."
+    },
+    {
+      "ja": "新聞は世論を反映する。",
+      "en": "The newspaper reflects public opinion."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n1-3400",
+  "jlpt": "N1",
+  "kanji": "呟く",
+  "kana": "つぶやく",
+  "display": "呟く",
+  "meanings_zh": [
+    "嘟哝",
+    "嘟囔",
+    "发牢骚",
+    "唠叨"
+  ],
+  "meanings_en": [
+    "to mutter",
+    "to murmur"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "由美って、時々変なこと呟くのよ。",
+      "en": "Yumi occasionally mumbles weird things."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

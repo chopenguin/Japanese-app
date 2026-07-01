@@ -1,0 +1,38 @@
+{
+  "id": "n1-1245",
+  "jlpt": "N1",
+  "kanji": "好い",
+  "kana": "よい",
+  "display": "好い",
+  "meanings_zh": [
+    "好",
+    "良好",
+    "优良",
+    "优秀"
+  ],
+  "meanings_en": [
+    "good"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムは格好いい。",
+      "en": "Tom is cool."
+    },
+    {
+      "ja": "ジリは格好いい人だ。",
+      "en": "Ziri is a cool guy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

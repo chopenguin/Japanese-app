@@ -1,0 +1,29 @@
+{
+  "id": "n2-0334",
+  "jlpt": "N2",
+  "kanji": "因る",
+  "kana": "よる",
+  "display": "因る",
+  "meanings_zh": [
+    "由于",
+    "因为",
+    "在于",
+    "取决于"
+  ],
+  "meanings_en": [
+    "to come from"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

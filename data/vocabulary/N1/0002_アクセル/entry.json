@@ -1,0 +1,36 @@
+{
+  "id": "n1-0002",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "アクセル",
+  "display": "アクセル",
+  "meanings_zh": [
+    "(汽车的)加速器",
+    "加速踏板"
+  ],
+  "meanings_en": [
+    "accelerator"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は注意深くアクセルを踏んだ。",
+      "en": "I stepped on the accelerator carefully."
+    },
+    {
+      "ja": "しばらく車を運転していないと、アクセルとブレーキがごっちゃになることない？",
+      "en": "Have you ever got in your car after a long absence and got the brake mixed up with the accelerator?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

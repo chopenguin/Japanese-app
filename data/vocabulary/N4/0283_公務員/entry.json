@@ -1,0 +1,33 @@
+{
+  "id": "n4-0283",
+  "jlpt": "N4",
+  "kanji": "公務員",
+  "kana": "こうむいん",
+  "display": "公務員",
+  "meanings_zh": [],
+  "meanings_en": [
+    "government worker"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は公務員です。",
+      "en": "I'm a government worker."
+    },
+    {
+      "ja": "彼女は地方公務員だ。",
+      "en": "She is a local government officer."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

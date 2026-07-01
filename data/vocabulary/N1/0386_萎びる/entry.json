@@ -1,0 +1,29 @@
+{
+  "id": "n1-0386",
+  "jlpt": "N1",
+  "kanji": "萎びる",
+  "kana": "しなびる",
+  "display": "萎びる",
+  "meanings_zh": [
+    "枯萎",
+    "干瘪",
+    "蔫"
+  ],
+  "meanings_en": [
+    "to wilt",
+    "to fade"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

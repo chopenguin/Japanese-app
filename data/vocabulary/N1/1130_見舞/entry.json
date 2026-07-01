@@ -1,0 +1,35 @@
+{
+  "id": "n1-1130",
+  "jlpt": "N1",
+  "kanji": "見舞",
+  "kana": "みまい",
+  "display": "見舞",
+  "meanings_zh": [],
+  "meanings_en": [
+    "enquiry",
+    "expression of sympathy",
+    "expression of concern"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼を見舞った。",
+      "en": "I inquired after him."
+    },
+    {
+      "ja": "お見舞いありがとう。",
+      "en": "Thank you for coming."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

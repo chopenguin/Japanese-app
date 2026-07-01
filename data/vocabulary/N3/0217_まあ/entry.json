@@ -1,0 +1,38 @@
+{
+  "id": "n3-0217",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "まあ",
+  "display": "まあ",
+  "meanings_zh": [
+    "先",
+    "一会儿",
+    "还算",
+    "还可以"
+  ],
+  "meanings_en": [
+    "(female) you might say"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "まあ、本当？",
+      "en": "Oh no, really?"
+    },
+    {
+      "ja": "ざまあ見ろ。",
+      "en": "That serves you right."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "n1-2122",
+  "jlpt": "N1",
+  "kanji": "繕う",
+  "kana": "つくろう",
+  "display": "繕う",
+  "meanings_zh": [
+    "修理",
+    "修缮",
+    "整理",
+    "修饰"
+  ],
+  "meanings_en": [
+    "to mend",
+    "to repair",
+    "to fix",
+    "to patch up",
+    "to darn",
+    "to tidy up",
+    "to adjust",
+    "to trim"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "世間体を繕う心配をするより他にやることがある。",
+      "en": "We have other things to do than worry about keeping up appearances."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

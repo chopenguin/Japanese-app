@@ -1,0 +1,38 @@
+{
+  "id": "n2-1671",
+  "jlpt": "N2",
+  "kanji": "問い合わせ",
+  "kana": "といあわせ",
+  "display": "問い合わせ",
+  "meanings_zh": [
+    "询问",
+    "打听",
+    "查询"
+  ],
+  "meanings_en": [
+    "enquiry",
+    "ENQ"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼の経歴を会社に問い合わせた。",
+      "en": "I referred to the company for his work record."
+    },
+    {
+      "ja": "旅行代理店に問い合わせてみよう。",
+      "en": "Let's ask a travel agent."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

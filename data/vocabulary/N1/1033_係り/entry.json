@@ -1,0 +1,35 @@
+{
+  "id": "n1-1033",
+  "jlpt": "N1",
+  "kanji": "係り",
+  "kana": "かかり",
+  "display": "係り",
+  "meanings_zh": [],
+  "meanings_en": [
+    "official",
+    "duty",
+    "person in charge"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "こちら国際電話の係りです。",
+      "en": "Overseas service here."
+    },
+    {
+      "ja": "今、誰か係りの者を差し向けます。",
+      "en": "I'll send someone up to help you now."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

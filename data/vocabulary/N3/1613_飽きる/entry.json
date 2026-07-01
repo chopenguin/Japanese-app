@@ -1,0 +1,35 @@
+{
+  "id": "n3-1613",
+  "jlpt": "N3",
+  "kanji": "飽きる",
+  "kana": "あきる",
+  "display": "飽きる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to get tired of",
+    "to lose interest in",
+    "to have enough"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "刺身もこう毎日だと飽きるな。",
+      "en": "If you eat it every day like this, then you become tired even of sashimi."
+    },
+    {
+      "ja": "要するに彼は何にでも飽きるのだ。",
+      "en": "In a word, he tires of everything."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

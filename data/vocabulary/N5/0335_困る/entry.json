@@ -1,0 +1,38 @@
+{
+  "id": "n5-0335",
+  "jlpt": "N5",
+  "kanji": "困る",
+  "kana": "こまる",
+  "display": "困る",
+  "meanings_zh": [
+    "感觉困难",
+    "窘",
+    "为难",
+    "难办"
+  ],
+  "meanings_en": [
+    "to be worried"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "杖がないと困る。",
+      "en": "I need my cane."
+    },
+    {
+      "ja": "開き直られても困る。",
+      "en": "Giving me an attitude won't solve anything."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

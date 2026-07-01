@@ -1,0 +1,37 @@
+{
+  "id": "n2-0134",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "じゃんけん",
+  "display": "じゃんけん",
+  "meanings_zh": [
+    "猜猜猜",
+    "猜拳",
+    "划拳"
+  ],
+  "meanings_en": [
+    "(n) rock-scissors-paper game"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "じゃんけんぽん。",
+      "en": "Rock, paper, scissors."
+    },
+    {
+      "ja": "じゃんけんで係を決めることになった。",
+      "en": "Rock Paper Scissors was used to decide who would be in charge."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

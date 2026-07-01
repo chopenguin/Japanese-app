@@ -1,0 +1,52 @@
+{
+  "id": "n1-1818",
+  "jlpt": "N1",
+  "kanji": "上がり",
+  "kana": "あがり",
+  "display": "上がり",
+  "meanings_zh": [
+    "上",
+    "往上",
+    "进步",
+    "长进 ～～出身",
+    "当过～～",
+    "刚～～过～～",
+    "刚～～完"
+  ],
+  "meanings_en": [
+    "1.  slope",
+    "advance income",
+    "crop yield",
+    "ascent",
+    "rise",
+    "advance",
+    "death",
+    "spinning",
+    "completion",
+    "stop",
+    "finish",
+    "after"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "物価上がりすぎ。",
+      "en": "The cost of living is rising too much."
+    },
+    {
+      "ja": "値上がりします。",
+      "en": "The price will increase."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

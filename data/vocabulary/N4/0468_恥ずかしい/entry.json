@@ -1,0 +1,38 @@
+{
+  "id": "n4-0468",
+  "jlpt": "N4",
+  "kanji": "恥ずかしい",
+  "kana": "はずかしい",
+  "display": "恥ずかしい",
+  "meanings_zh": [
+    "害羞",
+    "害臊",
+    "不好意思",
+    "难为情"
+  ],
+  "meanings_en": [
+    "embarrassed"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "恥ずかしいなぁ！",
+      "en": "How embarrassing!"
+    },
+    {
+      "ja": "恥ずかしいです。",
+      "en": "I am embarrassed."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

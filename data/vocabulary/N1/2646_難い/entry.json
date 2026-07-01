@@ -1,0 +1,36 @@
+{
+  "id": "n1-2646",
+  "jlpt": "N1",
+  "kanji": "難い",
+  "kana": "かたい",
+  "display": "難い",
+  "meanings_zh": [
+    "难"
+  ],
+  "meanings_en": [
+    "difficult",
+    "hard"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "信じ難いな。",
+      "en": "It's hard to believe."
+    },
+    {
+      "ja": "彼は救い難い。",
+      "en": "He's beyond help."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

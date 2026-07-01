@@ -1,0 +1,36 @@
+{
+  "id": "n1-0368",
+  "jlpt": "N1",
+  "kanji": "尉",
+  "kana": "じょう",
+  "display": "尉",
+  "meanings_zh": [],
+  "meanings_en": [
+    "jailer",
+    "old man",
+    "rank",
+    "company officer"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "少佐は大尉の上官である。",
+      "en": "A major is above a captain."
+    },
+    {
+      "ja": "大尉は軍曹よりも階級が上だ。",
+      "en": "A captain is above a sergeant."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

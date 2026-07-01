@@ -1,0 +1,41 @@
+{
+  "id": "n2-0808",
+  "jlpt": "N2",
+  "kanji": "刺す",
+  "kana": "さす",
+  "display": "刺す",
+  "meanings_zh": [
+    "刺",
+    "扎",
+    "穿",
+    "螫"
+  ],
+  "meanings_en": [
+    "to pierce",
+    "to stab",
+    "to prick",
+    "to thrust"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "人をナイフで刺すのはやめましょう。",
+      "en": "Let's refrain from stabbing people with knives."
+    },
+    {
+      "ja": "君はもう少しで私の目を鉛筆で突き刺すところだった。",
+      "en": "You nearly poked me in the eye with your pencil."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

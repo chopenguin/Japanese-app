@@ -1,0 +1,33 @@
+{
+  "id": "n3-0178",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "なぜなら",
+  "display": "なぜなら",
+  "meanings_zh": [],
+  "meanings_en": [
+    "because"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "なぜならそこにあるからさ。",
+      "en": "Because it is there."
+    },
+    {
+      "ja": "なぜなら彼が招待したからです。",
+      "en": "Because he invited me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

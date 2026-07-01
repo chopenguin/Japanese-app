@@ -1,0 +1,31 @@
+{
+  "id": "n1-2450",
+  "jlpt": "N1",
+  "kanji": "通りかかる",
+  "kana": "とおりかかる",
+  "display": "通りかかる",
+  "meanings_zh": [
+    "恰巧路过"
+  ],
+  "meanings_en": [
+    "to happen to pass by"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "すると、たまたま少女のおばあちゃんが通りかかる。",
+      "en": "Along comes the grandmother and sees her granddaughter."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

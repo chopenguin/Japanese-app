@@ -1,0 +1,28 @@
+{
+  "id": "n1-0288",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ぼやける",
+  "display": "ぼやける",
+  "meanings_zh": [
+    "模糊",
+    "不清楚"
+  ],
+  "meanings_en": [
+    "to become dim",
+    "to become blurred"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

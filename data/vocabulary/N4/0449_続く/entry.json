@@ -1,0 +1,38 @@
+{
+  "id": "n4-0449",
+  "jlpt": "N4",
+  "kanji": "続く",
+  "kana": "つづく",
+  "display": "続く",
+  "meanings_zh": [
+    "继续",
+    "连续",
+    "连绵",
+    "接连发生"
+  ],
+  "meanings_en": [
+    "to be continued"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "最近は寒い日が続く。",
+      "en": "Now we are having one cold day after another."
+    },
+    {
+      "ja": "ホテルに続く道は狭い。",
+      "en": "The road which leads to the hotel is narrow."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

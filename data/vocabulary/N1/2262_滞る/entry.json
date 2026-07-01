@@ -1,0 +1,35 @@
+{
+  "id": "n1-2262",
+  "jlpt": "N1",
+  "kanji": "滞る",
+  "kana": "とどこおる",
+  "display": "滞る",
+  "meanings_zh": [
+    "堵塞",
+    "积压",
+    "拖延",
+    "迟延"
+  ],
+  "meanings_en": [
+    "to stagnate",
+    "to be delayed"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "支払いを滞る原因となるような問題があるのですが。",
+      "en": "I have run into a problem that is causing the delay of my payment."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

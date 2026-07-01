@@ -1,0 +1,34 @@
+{
+  "id": "n1-2432",
+  "jlpt": "N1",
+  "kanji": "沈める",
+  "kana": "しずめる",
+  "display": "沈める",
+  "meanings_zh": [
+    "把～～沉入水中",
+    "使降落",
+    "降低"
+  ],
+  "meanings_en": [
+    "to sink",
+    "to submerge"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼の善良な性格は、家の中の不和を沈める役割を果たすように見える。",
+      "en": "His good nature seems to fulfill the role of reducing the family's trouble."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

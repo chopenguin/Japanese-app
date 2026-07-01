@@ -1,0 +1,33 @@
+{
+  "id": "n3-1263",
+  "jlpt": "N3",
+  "kanji": "男の人",
+  "kana": "おとこのひと",
+  "display": "男の人",
+  "meanings_zh": [],
+  "meanings_en": [
+    "man"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この男の人、誰？",
+      "en": "Who is this man?"
+    },
+    {
+      "ja": "男の人は歯を磨く。",
+      "en": "The man brushes his teeth."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

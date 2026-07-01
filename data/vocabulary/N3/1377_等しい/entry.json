@@ -1,0 +1,38 @@
+{
+  "id": "n3-1377",
+  "jlpt": "N3",
+  "kanji": "等しい",
+  "kana": "ひとしい",
+  "display": "等しい",
+  "meanings_zh": [
+    "相等",
+    "相同",
+    "一样",
+    "等于"
+  ],
+  "meanings_en": [
+    "equal"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "AはBと大きさが等しい。",
+      "en": "A is of equal size to B."
+    },
+    {
+      "ja": "この条件では拒絶に等しい。",
+      "en": "These conditions amount to refusal."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

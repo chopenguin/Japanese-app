@@ -1,0 +1,35 @@
+{
+  "id": "n1-0507",
+  "jlpt": "N1",
+  "kanji": "押し寄せる",
+  "kana": "おしよせる",
+  "display": "押し寄せる",
+  "meanings_zh": [
+    "涌来",
+    "涌过来",
+    "涌上来",
+    "蜂拥而至"
+  ],
+  "meanings_en": [
+    "to push aside",
+    "to advance on"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "最大１０メートルの津波が押し寄せるとみられます。",
+      "en": "It is expected that the tsunami surge will be ten meters or less."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

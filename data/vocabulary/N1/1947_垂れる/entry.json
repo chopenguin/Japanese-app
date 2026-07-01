@@ -1,0 +1,48 @@
+{
+  "id": "n1-1947",
+  "jlpt": "N1",
+  "kanji": "垂れる",
+  "kana": "たれる",
+  "display": "垂れる",
+  "meanings_zh": [
+    "悬垂",
+    "耷拉",
+    "滴",
+    "流"
+  ],
+  "meanings_en": [
+    "to hang",
+    "to droop",
+    "to drop",
+    "to lower",
+    "to pull down",
+    "to dangle",
+    "to sag",
+    "to drip",
+    "to ooze",
+    "to trickle",
+    "to leave"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "実るほど頭を垂れる稲穂かな。",
+      "en": "The boughs that bear most hang lowest."
+    },
+    {
+      "ja": "犬は文句を垂れるように歩みを止めた。",
+      "en": "The dog stopped walking, as if to complain."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

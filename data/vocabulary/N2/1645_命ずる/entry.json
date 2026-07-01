@@ -1,0 +1,30 @@
+{
+  "id": "n2-1645",
+  "jlpt": "N2",
+  "kanji": "命ずる",
+  "kana": "めいずる",
+  "display": "命ずる",
+  "meanings_zh": [
+    "命令",
+    "吩咐",
+    "任命",
+    "委派"
+  ],
+  "meanings_en": [
+    "to command",
+    "to appoint"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

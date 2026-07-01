@@ -1,0 +1,38 @@
+{
+  "id": "n4-0343",
+  "jlpt": "N4",
+  "kanji": "写す",
+  "kana": "うつす",
+  "display": "写す",
+  "meanings_zh": [
+    "抄",
+    "誊",
+    "摹",
+    "拍照"
+  ],
+  "meanings_en": [
+    "to copy or photograph"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は友達のノートを写す。",
+      "en": "She will copy her friend's notebook."
+    },
+    {
+      "ja": "彼は友達のノートを写すのに忙しかった。",
+      "en": "He was busy copying his friend's notebook."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

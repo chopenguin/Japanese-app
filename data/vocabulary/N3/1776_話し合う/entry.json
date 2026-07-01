@@ -1,0 +1,39 @@
+{
+  "id": "n3-1776",
+  "jlpt": "N3",
+  "kanji": "話し合う",
+  "kana": "はなしあう",
+  "display": "話し合う",
+  "meanings_zh": [
+    "谈话",
+    "对话",
+    "商量",
+    "商谈"
+  ],
+  "meanings_en": [
+    "to discuss",
+    "to talk together"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "明日トムと話し合うよ。",
+      "en": "I'll talk to Tom tomorrow."
+    },
+    {
+      "ja": "その話題は話し合う価値がある。",
+      "en": "The topic is worth discussing."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "n2-0059",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "おやつ",
+  "display": "おやつ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(1) between meal snack",
+    "afternoon refreshment"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "おやつはどう？",
+      "en": "How about a snack?"
+    },
+    {
+      "ja": "おやつの時間よ。",
+      "en": "Time for a snack."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

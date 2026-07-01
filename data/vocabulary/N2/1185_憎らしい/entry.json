@@ -1,0 +1,39 @@
+{
+  "id": "n2-1185",
+  "jlpt": "N2",
+  "kanji": "憎らしい",
+  "kana": "にくらしい",
+  "display": "憎らしい",
+  "meanings_zh": [
+    "讨厌",
+    "可憎",
+    "憎恨",
+    "可恨"
+  ],
+  "meanings_en": [
+    "odious",
+    "hateful"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あの男性は憎らしい人だよ！",
+      "en": "That man is an odious person!"
+    },
+    {
+      "ja": "私たちのことが憎らしいの？",
+      "en": "Do you hate us?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

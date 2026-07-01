@@ -1,0 +1,40 @@
+{
+  "id": "n1-2979",
+  "jlpt": "N1",
+  "kanji": "返る",
+  "kana": "かえる",
+  "display": "返る",
+  "meanings_zh": [
+    "归还",
+    "返还",
+    "还原",
+    "恢复"
+  ],
+  "meanings_en": [
+    "to return",
+    "to come back",
+    "to go back"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "後ろを振り返るな。",
+      "en": "Don't look back."
+    },
+    {
+      "ja": "のろいはのろい主に返る。",
+      "en": "Curses, like chickens, come home to roost."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

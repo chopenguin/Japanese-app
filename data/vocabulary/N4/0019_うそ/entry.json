@@ -1,0 +1,38 @@
+{
+  "id": "n4-0019",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "うそ",
+  "display": "うそ",
+  "meanings_zh": [
+    "有点",
+    "稍微",
+    "总觉得",
+    "模糊感到"
+  ],
+  "meanings_en": [
+    "a lie"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "うそを言うな。",
+      "en": "Don't tell lies."
+    },
+    {
+      "ja": "嘘うそつくな！",
+      "en": "Don't lie!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "n1-0443",
+  "jlpt": "N1",
+  "kanji": "飲み込む",
+  "kana": "のみこむ",
+  "display": "飲み込む",
+  "meanings_zh": [
+    "咽下",
+    "吞下",
+    "理解",
+    "领会"
+  ],
+  "meanings_en": [
+    "to gulp down",
+    "to swallow deeply",
+    "to understand",
+    "to take in",
+    "to catch on to",
+    "to learn",
+    "to digest"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "食べ物を飲み込むとのどが痛みます。",
+      "en": "My throat hurts when I swallow."
+    },
+    {
+      "ja": "食べ物は飲み込む前にかまなければならない。",
+      "en": "Food should be chewed before being swallowed."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

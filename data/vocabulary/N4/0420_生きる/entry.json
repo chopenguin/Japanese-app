@@ -1,0 +1,38 @@
+{
+  "id": "n4-0420",
+  "jlpt": "N4",
+  "kanji": "生きる",
+  "kana": "いきる",
+  "display": "生きる",
+  "meanings_zh": [
+    "活",
+    "生存",
+    "保持生命",
+    "生活"
+  ],
+  "meanings_en": [
+    "to live"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "生きるのは危険です。",
+      "en": "Living is dangerous."
+    },
+    {
+      "ja": "生きる意味を教えてくれ。",
+      "en": "Tell me the meaning of life."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

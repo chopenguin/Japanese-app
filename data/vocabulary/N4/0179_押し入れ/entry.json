@@ -1,0 +1,35 @@
+{
+  "id": "n4-0179",
+  "jlpt": "N4",
+  "kanji": "押し入れ",
+  "kana": "おしいれ",
+  "display": "押し入れ",
+  "meanings_zh": [
+    "壁橱"
+  ],
+  "meanings_en": [
+    "closet"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムは妹を押し入れに閉じ込めた。",
+      "en": "Tom locked his sister in the closet."
+    },
+    {
+      "ja": "強盗はその子供を押し入れに閉じ込めた。",
+      "en": "The burglar shut the child in the closet."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

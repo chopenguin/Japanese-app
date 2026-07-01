@@ -1,0 +1,39 @@
+{
+  "id": "n1-0476",
+  "jlpt": "N1",
+  "kanji": "延べ",
+  "kana": "のべ",
+  "display": "延べ",
+  "meanings_zh": [
+    "共计",
+    "总计"
+  ],
+  "meanings_en": [
+    "futures",
+    "credit (buying)",
+    "stretching",
+    "total"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "金の延べ棒１本を盗まれた。",
+      "en": "We had a bar of gold stolen."
+    },
+    {
+      "ja": "その支払いは２年間繰り延べられる。",
+      "en": "The payment will be deferred for two years."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

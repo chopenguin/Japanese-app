@@ -1,0 +1,33 @@
+{
+  "id": "n4-0107",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "つもり",
+  "display": "つもり",
+  "meanings_zh": [],
+  "meanings_en": [
+    "intention"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何するつもり？",
+      "en": "What do you intend to do?"
+    },
+    {
+      "ja": "何のつもりだ？",
+      "en": "What's the big idea?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

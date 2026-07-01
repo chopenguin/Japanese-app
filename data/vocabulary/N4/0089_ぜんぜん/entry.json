@@ -1,0 +1,33 @@
+{
+  "id": "n4-0089",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ぜんぜん",
+  "display": "ぜんぜん",
+  "meanings_zh": [],
+  "meanings_en": [
+    "not entirely (used in a negative sentence)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ぜんぜん気にしない。",
+      "en": "I don't care a bean."
+    },
+    {
+      "ja": "ぜんぜん乾いてないね。",
+      "en": "It's not dry at all."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n1-2048",
+  "jlpt": "N1",
+  "kanji": "切ない",
+  "kana": "せつない",
+  "display": "切ない",
+  "meanings_zh": [
+    "喘不过气来",
+    "难过",
+    "苦闷"
+  ],
+  "meanings_en": [
+    "painful",
+    "trying",
+    "oppressive",
+    "suffocating"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "切ない話だった。",
+      "en": "It was a sad story."
+    },
+    {
+      "ja": "今宵はとても切ない。",
+      "en": "I feel very sad tonight."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

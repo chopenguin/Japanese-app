@@ -1,0 +1,39 @@
+{
+  "id": "n3-1382",
+  "jlpt": "N3",
+  "kanji": "働き",
+  "kana": "はたらき",
+  "display": "働き",
+  "meanings_zh": [
+    "工作",
+    "功劳",
+    "功绩",
+    "功能"
+  ],
+  "meanings_en": [
+    "work",
+    "labor"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は働き者だ。",
+      "en": "He is a hard worker."
+    },
+    {
+      "ja": "働きたくない。",
+      "en": "I don't want to work."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

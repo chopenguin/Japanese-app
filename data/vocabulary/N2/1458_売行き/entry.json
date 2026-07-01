@@ -1,0 +1,29 @@
+{
+  "id": "n2-1458",
+  "jlpt": "N2",
+  "kanji": "売行き",
+  "kana": "うれゆき",
+  "display": "売行き",
+  "meanings_zh": [],
+  "meanings_en": [
+    "sales"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女の本はかなりの売行きだ。",
+      "en": "Her books sell pretty well."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

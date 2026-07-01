@@ -1,0 +1,33 @@
+{
+  "id": "n5-0009",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "あまり",
+  "display": "あまり",
+  "meanings_zh": [],
+  "meanings_en": [
+    "not very"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あまり見えない。",
+      "en": "I see it rarely."
+    },
+    {
+      "ja": "あまり気負うな。",
+      "en": "Don't get worked up."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

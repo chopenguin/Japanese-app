@@ -1,0 +1,40 @@
+{
+  "id": "n3-0052",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "がっかり",
+  "display": "がっかり",
+  "meanings_zh": [
+    "颓丧",
+    "心灰意懒",
+    "失望",
+    "灰心丧气"
+  ],
+  "meanings_en": [
+    "feel disappointed",
+    "be dejected",
+    "lose heart"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "がっかりだよ。",
+      "en": "I'm disappointed."
+    },
+    {
+      "ja": "がっかりした？",
+      "en": "Are you disappointed?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

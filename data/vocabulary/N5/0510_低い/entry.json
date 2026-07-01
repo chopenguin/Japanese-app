@@ -1,0 +1,39 @@
+{
+  "id": "n5-0510",
+  "jlpt": "N5",
+  "kanji": "低い",
+  "kana": "ひくい",
+  "display": "低い",
+  "meanings_zh": [
+    "低",
+    "矮",
+    "低微",
+    "低贱"
+  ],
+  "meanings_en": [
+    "short",
+    "low"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムは声が低い。",
+      "en": "Tom has a low-pitched voice."
+    },
+    {
+      "ja": "血圧が低いんだ。",
+      "en": "My blood pressure is low."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

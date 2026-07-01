@@ -1,0 +1,34 @@
+{
+  "id": "n1-1125",
+  "jlpt": "N1",
+  "kanji": "見積り",
+  "kana": "みつもり",
+  "display": "見積り",
+  "meanings_zh": [],
+  "meanings_en": [
+    "estimation",
+    "quotation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "特別価格の見積りです。",
+      "en": "We have quoted special prices."
+    },
+    {
+      "ja": "私どもの見積りは、最大限の努力をしたものです。",
+      "en": "Our quote is the best effort we can make."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

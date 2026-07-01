@@ -1,0 +1,41 @@
+{
+  "id": "n3-1308",
+  "jlpt": "N3",
+  "kanji": "直ちに",
+  "kana": "ただちに",
+  "display": "直ちに",
+  "meanings_zh": [
+    "立刻",
+    "立即",
+    "当即",
+    "即刻"
+  ],
+  "meanings_en": [
+    "at once",
+    "immediately",
+    "directly",
+    "in person"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "直ちにそれをしなさい。",
+      "en": "Let it be done at once."
+    },
+    {
+      "ja": "直ちに中止してください。",
+      "en": "Stop immediately."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

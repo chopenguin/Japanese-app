@@ -1,0 +1,38 @@
+{
+  "id": "n3-0210",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ベンチ",
+  "display": "ベンチ",
+  "meanings_zh": [
+    "长凳",
+    "长椅",
+    "条凳",
+    "教练"
+  ],
+  "meanings_en": [
+    "bench"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ベンチに座った。",
+      "en": "He seated himself on the bench."
+    },
+    {
+      "ja": "ベンチに座ろう。",
+      "en": "Let's sit on the bench."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

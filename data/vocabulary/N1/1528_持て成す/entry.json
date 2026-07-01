@@ -1,0 +1,30 @@
+{
+  "id": "n1-1528",
+  "jlpt": "N1",
+  "kanji": "持て成す",
+  "kana": "もてなす",
+  "display": "持て成す",
+  "meanings_zh": [
+    "对待",
+    "接待",
+    "款待",
+    "招待"
+  ],
+  "meanings_en": [
+    "to entertain",
+    "to make welcome"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

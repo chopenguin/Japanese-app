@@ -1,0 +1,40 @@
+{
+  "id": "n3-1229",
+  "jlpt": "N3",
+  "kanji": "大いに",
+  "kana": "おおいに",
+  "display": "大いに",
+  "meanings_zh": [
+    "大",
+    "很",
+    "甚",
+    "颇"
+  ],
+  "meanings_en": [
+    "very",
+    "much",
+    "greatly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "大いに召し上がれ。",
+      "en": "Eat and drink up."
+    },
+    {
+      "ja": "私達は大いに笑った。",
+      "en": "We all laughed and laughed."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

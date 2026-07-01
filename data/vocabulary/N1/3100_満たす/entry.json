@@ -1,0 +1,41 @@
+{
+  "id": "n1-3100",
+  "jlpt": "N1",
+  "kanji": "満たす",
+  "kana": "みたす",
+  "display": "満たす",
+  "meanings_zh": [
+    "充满",
+    "填满",
+    "填充",
+    "补充"
+  ],
+  "meanings_en": [
+    "to satisfy",
+    "to ingratiate",
+    "to fill",
+    "to fulfill"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らはその条件を満たすことが出来なかった。",
+      "en": "They failed to fulfill the conditions."
+    },
+    {
+      "ja": "この農園は我々の必要を満たすだけの果実を産出する。",
+      "en": "This farm yields enough fruit to meet our needs."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

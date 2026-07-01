@@ -1,0 +1,42 @@
+{
+  "id": "n1-2174",
+  "jlpt": "N1",
+  "kanji": "増し",
+  "kana": "まし",
+  "display": "増し",
+  "meanings_zh": [
+    "增",
+    "增加",
+    "增多",
+    "好些"
+  ],
+  "meanings_en": [
+    "extra",
+    "additional",
+    "less objectionable",
+    "better",
+    "preferable"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "日増しに暑くなる。",
+      "en": "It is getting warmer day by day."
+    },
+    {
+      "ja": "私の興味が増した。",
+      "en": "My interest quickened."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

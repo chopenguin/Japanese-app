@@ -1,0 +1,40 @@
+{
+  "id": "n2-0128",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "しみじみ",
+  "display": "しみじみ",
+  "meanings_zh": [
+    "痛切",
+    "深切",
+    "感慨地",
+    "亲密"
+  ],
+  "meanings_en": [
+    "keenly",
+    "deeply",
+    "heartily"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼の話は胸にしみじみこたえた。",
+      "en": "His story hit home."
+    },
+    {
+      "ja": "人生の無常をしみじみと感じる。",
+      "en": "I feel the uncertainty of life."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

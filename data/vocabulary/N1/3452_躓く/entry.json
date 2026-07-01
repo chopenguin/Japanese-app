@@ -1,0 +1,35 @@
+{
+  "id": "n1-3452",
+  "jlpt": "N1",
+  "kanji": "躓く",
+  "kana": "つまずく",
+  "display": "躓く",
+  "meanings_zh": [
+    "绊",
+    "摔倒",
+    "跌交",
+    "栽跟头"
+  ],
+  "meanings_en": [
+    "to stumble",
+    "to trip"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "走れば躓く。",
+      "en": "Make haste slowly."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

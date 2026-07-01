@@ -1,0 +1,38 @@
+{
+  "id": "n4-0570",
+  "jlpt": "N4",
+  "kanji": "変わる",
+  "kana": "かわる",
+  "display": "変わる",
+  "meanings_zh": [
+    "变",
+    "变化",
+    "改变",
+    "转变"
+  ],
+  "meanings_en": [
+    "to change"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "水は蒸気に変わる。",
+      "en": "Water changes into steam."
+    },
+    {
+      "ja": "天気は刻々と変わる。",
+      "en": "The weather varies from hour to hour."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

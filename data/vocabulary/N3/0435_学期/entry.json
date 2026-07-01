@@ -1,0 +1,33 @@
+{
+  "id": "n3-0435",
+  "jlpt": "N3",
+  "kanji": "学期",
+  "kana": "がっき",
+  "display": "学期",
+  "meanings_zh": [],
+  "meanings_en": [
+    "term (school)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "二学期は終わった。",
+      "en": "The second term came to an end."
+    },
+    {
+      "ja": "昨日２学期が終わった。",
+      "en": "The second term came to an end yesterday."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

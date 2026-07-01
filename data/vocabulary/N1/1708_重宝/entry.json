@@ -1,0 +1,37 @@
+{
+  "id": "n1-1708",
+  "jlpt": "N1",
+  "kanji": "重宝",
+  "kana": "じゅうほう",
+  "display": "重宝",
+  "meanings_zh": [
+    "贵重宝物"
+  ],
+  "meanings_en": [
+    "priceless treasure",
+    "convenience",
+    "usefulness"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "重宝してるわ。",
+      "en": "Oh, it's useful."
+    },
+    {
+      "ja": "それ、本当に重宝するよ。",
+      "en": "That's real convenient."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

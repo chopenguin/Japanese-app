@@ -1,0 +1,34 @@
+{
+  "id": "n3-1312",
+  "jlpt": "N3",
+  "kanji": "追い付く",
+  "kana": "おいつく",
+  "display": "追い付く",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to overtake",
+    "to catch up (with)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "すぐにそっちに追い付くよ。",
+      "en": "I'll catch up with you soon."
+    },
+    {
+      "ja": "もし急ぐならば、あなたは彼に追い付くでしょう。",
+      "en": "If you hurry, you will overtake him."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

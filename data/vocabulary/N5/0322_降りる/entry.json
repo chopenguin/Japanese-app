@@ -1,0 +1,39 @@
+{
+  "id": "n5-0322",
+  "jlpt": "N5",
+  "kanji": "降りる",
+  "kana": "おりる",
+  "display": "降りる",
+  "meanings_zh": [
+    "下",
+    "下来",
+    "降",
+    "降落"
+  ],
+  "meanings_en": [
+    "to get off",
+    "to descend"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "終点で降りる。",
+      "en": "We'll get off at the last stop."
+    },
+    {
+      "ja": "次が君の降りる駅です。",
+      "en": "The next station is where you get off."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

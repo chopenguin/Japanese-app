@@ -1,0 +1,38 @@
+{
+  "id": "n3-0691",
+  "jlpt": "N3",
+  "kanji": "言わば",
+  "kana": "いわば",
+  "display": "言わば",
+  "meanings_zh": [
+    "说起来",
+    "可以说",
+    "譬如说",
+    "打个比方说"
+  ],
+  "meanings_en": [
+    "so to speak"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その老人は言わば生き字引だ。",
+      "en": "That old man is, so to speak, a walking dictionary."
+    },
+    {
+      "ja": "この犬は言わばうちの家族の一員だ。",
+      "en": "This dog is, so to speak, a member of our family."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "n3-0256",
+  "jlpt": "N3",
+  "kanji": "握る",
+  "kana": "にぎる",
+  "display": "握る",
+  "meanings_zh": [
+    "握",
+    "攥",
+    "抓",
+    "攥饭团",
+    "掌握"
+  ],
+  "meanings_en": [
+    "to grasp",
+    "to seize",
+    "to mould sushi"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それは、手に汗握る試合だった。",
+      "en": "That was an exciting game."
+    },
+    {
+      "ja": "成功への鍵を握るのは教育である。",
+      "en": "It is education that is key to the success."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

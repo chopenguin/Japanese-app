@@ -1,0 +1,39 @@
+{
+  "id": "n2-1754",
+  "jlpt": "N2",
+  "kanji": "力強い",
+  "kana": "ちからづよい",
+  "display": "力強い",
+  "meanings_zh": [
+    "觉得肚子壮",
+    "心里踏实",
+    "有仗恃",
+    "强有力"
+  ],
+  "meanings_en": [
+    "reassuring",
+    "emboldened"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "なるほどこの車は小さいが力強い。",
+      "en": "Indeed this car is small, but it is powerful."
+    },
+    {
+      "ja": "彼の力強い演説は聴衆をぐいぐいひっぱっていった。",
+      "en": "His powerful speech carried the audience with him."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

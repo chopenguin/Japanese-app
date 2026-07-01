@@ -1,0 +1,39 @@
+{
+  "id": "n2-1478",
+  "jlpt": "N2",
+  "kanji": "発揮",
+  "kana": "はっき",
+  "display": "発揮",
+  "meanings_zh": [
+    "发挥",
+    "施展"
+  ],
+  "meanings_en": [
+    "exhibition",
+    "demonstration",
+    "utilization",
+    "display"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は才能を発揮した。",
+      "en": "She displayed her talents."
+    },
+    {
+      "ja": "利益は効果を発揮してる。",
+      "en": "Benefits are in effect."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

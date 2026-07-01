@@ -1,0 +1,39 @@
+{
+  "id": "n4-0391",
+  "jlpt": "N4",
+  "kanji": "植える",
+  "kana": "うえる",
+  "display": "植える",
+  "meanings_zh": [
+    "种",
+    "植",
+    "栽",
+    "嵌入"
+  ],
+  "meanings_en": [
+    "to plant",
+    "to grow"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "春は木を植える時期です。",
+      "en": "Spring is the time to plant trees."
+    },
+    {
+      "ja": "母は庭に花を植えるのに忙しい。",
+      "en": "My mother is busy planting flowers in the garden."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n4-0620",
+  "jlpt": "N4",
+  "kanji": "立てる",
+  "kana": "たてる",
+  "display": "立てる",
+  "meanings_zh": [
+    "立",
+    "竖",
+    "冒",
+    "扬起"
+  ],
+  "meanings_en": [
+    "to stand something up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "腹を立てるな。",
+      "en": "Don't get angry."
+    },
+    {
+      "ja": "彼は直に腹を立てる。",
+      "en": "He is quick to take offense."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

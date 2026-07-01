@@ -1,0 +1,38 @@
+{
+  "id": "n5-0002",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "あそこ",
+  "display": "あそこ",
+  "meanings_zh": [
+    "那儿",
+    "那里",
+    "那种局面",
+    "那种情况"
+  ],
+  "meanings_en": [
+    "over there"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あそこを見て。",
+      "en": "Look over there."
+    },
+    {
+      "ja": "先生はあそこよ。",
+      "en": "The teacher is over there."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

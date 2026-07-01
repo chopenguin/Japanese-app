@@ -1,0 +1,40 @@
+{
+  "id": "n1-0198",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "タレント",
+  "display": "タレント",
+  "meanings_zh": [
+    "才能",
+    "才干",
+    "演员",
+    "表演者"
+  ],
+  "meanings_en": [
+    "talent",
+    "star",
+    "personality"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "一番好きなテレビタレントは誰？",
+      "en": "Who is your favourite TV star?"
+    },
+    {
+      "ja": "彼の妹は人気のテレビタレントだよ。",
+      "en": "His sister is a popular TV personality."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

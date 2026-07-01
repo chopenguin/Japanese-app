@@ -1,0 +1,37 @@
+{
+  "id": "n3-0144",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "チーム",
+  "display": "チーム",
+  "meanings_zh": [
+    "组",
+    "团体",
+    "队"
+  ],
+  "meanings_en": [
+    "team"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何人チームですか？",
+      "en": "How many people are in your team?"
+    },
+    {
+      "ja": "彼はチームの主将だ。",
+      "en": "He is the captain of the team."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

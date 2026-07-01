@@ -1,0 +1,40 @@
+{
+  "id": "n1-3237",
+  "jlpt": "N1",
+  "kanji": "予め",
+  "kana": "あらかじめ",
+  "display": "予め",
+  "meanings_zh": [
+    "预先",
+    "先",
+    "事先",
+    "事前"
+  ],
+  "meanings_en": [
+    "beforehand",
+    "in advance",
+    "previously"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "休暇の計画を予め立てている。",
+      "en": "We are making advance plans for our holidays."
+    },
+    {
+      "ja": "予め断りますが、今日のブログは面白くないよ～。",
+      "en": "Just to warn you in advance, today's blog is no fun."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

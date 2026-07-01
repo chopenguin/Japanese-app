@@ -1,0 +1,39 @@
+{
+  "id": "n1-3281",
+  "jlpt": "N1",
+  "kanji": "落ち込む",
+  "kana": "おちこむ",
+  "display": "落ち込む",
+  "meanings_zh": [
+    "坠入",
+    "落进",
+    "掉进",
+    "陷入"
+  ],
+  "meanings_en": [
+    "to fall into",
+    "to feel down (sad)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そう落ち込むなよ。",
+      "en": "Keep your chin up."
+    },
+    {
+      "ja": "そんな落ち込むなよ！",
+      "en": "Keep your chin up!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

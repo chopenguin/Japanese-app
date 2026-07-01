@@ -1,0 +1,36 @@
+{
+  "id": "n3-0741",
+  "jlpt": "N3",
+  "kanji": "行き",
+  "kana": "いき",
+  "display": "行き",
+  "meanings_zh": [
+    "去",
+    "往"
+  ],
+  "meanings_en": [
+    "going"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "行きなさい。",
+      "en": "Go."
+    },
+    {
+      "ja": "毎年行きます。",
+      "en": "I go every year."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

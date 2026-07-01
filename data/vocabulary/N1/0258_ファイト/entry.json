@@ -1,0 +1,38 @@
+{
+  "id": "n1-0258",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ファイト",
+  "display": "ファイト",
+  "meanings_zh": [
+    "战斗",
+    "搏斗",
+    "斗争",
+    "战斗精神"
+  ],
+  "meanings_en": [
+    "fight"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ファイトだ。",
+      "en": "Don't give up the fight."
+    },
+    {
+      "ja": "映画「ファイトクラブ」のエンディングには驚かされた。",
+      "en": "The movie \"Fight Club\" has a surprise ending."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n2-0118",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "さわやか",
+  "display": "さわやか",
+  "meanings_zh": [],
+  "meanings_en": [
+    "fresh",
+    "refreshing",
+    "invigorating"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "気分がさわやかだ。",
+      "en": "I feel refreshed."
+    },
+    {
+      "ja": "散歩して気分がさわやかだ。",
+      "en": "I feel fresh after a walk."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

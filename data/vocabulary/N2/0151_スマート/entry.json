@@ -1,0 +1,40 @@
+{
+  "id": "n2-0151",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "スマート",
+  "display": "スマート",
+  "meanings_zh": [
+    "漂亮",
+    "俊俏",
+    "苗条",
+    "俏皮"
+  ],
+  "meanings_en": [
+    "smart",
+    "stylish",
+    "slim"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "スマートウォッチを買ってあげようよ。",
+      "en": "Let's buy him a smart watch."
+    },
+    {
+      "ja": "トムって、スマートウォッチ持ってるのよ。",
+      "en": "Tom has a smartwatch."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

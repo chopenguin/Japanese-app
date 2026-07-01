@@ -1,0 +1,39 @@
+{
+  "id": "n3-1763",
+  "jlpt": "N3",
+  "kanji": "劣る",
+  "kana": "おとる",
+  "display": "劣る",
+  "meanings_zh": [
+    "劣",
+    "次",
+    "亚",
+    "不如"
+  ],
+  "meanings_en": [
+    "to fall behind",
+    "to be inferior to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この点で私は彼に劣る。",
+      "en": "I fall behind him in this respect."
+    },
+    {
+      "ja": "彼は英語においては弟に劣る。",
+      "en": "He is inferior to his younger brother in English."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

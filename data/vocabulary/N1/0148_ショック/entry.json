@@ -1,0 +1,38 @@
+{
+  "id": "n1-0148",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ショック",
+  "display": "ショック",
+  "meanings_zh": [
+    "冲击",
+    "震动",
+    "刺激",
+    "打击"
+  ],
+  "meanings_en": [
+    "shock"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ショックでした。",
+      "en": "I was shocked."
+    },
+    {
+      "ja": "まだショックだよ。",
+      "en": "I'm still in a state of shock."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

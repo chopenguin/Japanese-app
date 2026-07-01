@@ -1,0 +1,38 @@
+{
+  "id": "n4-0511",
+  "jlpt": "N4",
+  "kanji": "逃げる",
+  "kana": "にげる",
+  "display": "逃げる",
+  "meanings_zh": [
+    "逃跑",
+    "逃走",
+    "逃脱",
+    "逃遁"
+  ],
+  "meanings_en": [
+    "to escape"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "逃げるが勝ち。",
+      "en": "Yielding is sometimes the best way of succeeding."
+    },
+    {
+      "ja": "逃げるすきはなかった。",
+      "en": "I had no chance to escape."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

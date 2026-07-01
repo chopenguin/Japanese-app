@@ -1,0 +1,41 @@
+{
+  "id": "n2-0443",
+  "jlpt": "N2",
+  "kanji": "改める",
+  "kana": "あらためる",
+  "display": "改める",
+  "meanings_zh": [
+    "改",
+    "改变",
+    "修改",
+    "革新"
+  ],
+  "meanings_en": [
+    "to change",
+    "to alter",
+    "to reform",
+    "to revise"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "悪い習慣を改めるのは難しいです。",
+      "en": "It's hard to break bad habits."
+    },
+    {
+      "ja": "改めるのに遅すぎるということはない。",
+      "en": "It is never too late to mend."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

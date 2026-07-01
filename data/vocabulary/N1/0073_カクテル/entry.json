@@ -1,0 +1,36 @@
+{
+  "id": "n1-0073",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "カクテル",
+  "display": "カクテル",
+  "meanings_zh": [
+    "鸡尾酒",
+    "果汁鸡尾酒"
+  ],
+  "meanings_en": [
+    "cocktail"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あのカクテルは甘くて飲みやすいよ。",
+      "en": "That cocktail is sweet and easy to drink."
+    },
+    {
+      "ja": "トムはメアリーにカクテルを手渡した。",
+      "en": "Tom handed a cocktail to Mary."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

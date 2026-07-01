@@ -1,0 +1,43 @@
+{
+  "id": "n1-2181",
+  "jlpt": "N1",
+  "kanji": "造る",
+  "kana": "つくる",
+  "display": "造る",
+  "meanings_zh": [
+    "创造",
+    "建造",
+    "建筑",
+    "修"
+  ],
+  "meanings_en": [
+    "to make",
+    "to create",
+    "to manufacture",
+    "to draw up",
+    "to write",
+    "to compose",
+    "to build",
+    "to coin",
+    "to cultivate",
+    "to org"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は木の建物を造る。",
+      "en": "I will construct a wooden building."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

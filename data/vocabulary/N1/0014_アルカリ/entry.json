@@ -1,0 +1,36 @@
+{
+  "id": "n1-0014",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "アルカリ",
+  "display": "アルカリ",
+  "meanings_zh": [
+    "碱",
+    "强碱"
+  ],
+  "meanings_en": [
+    "alkali"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "アルカリは酸を中和する。",
+      "en": "Alkalis neutralize acids."
+    },
+    {
+      "ja": "小学校のときから、酸性・アルカリ性という性質をリトマス紙で調べたりしてきていますね。",
+      "en": "Since primary school we've been checking for the qualities known as acidity and alkalinity with litmus paper."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

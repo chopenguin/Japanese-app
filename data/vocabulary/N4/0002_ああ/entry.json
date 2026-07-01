@@ -1,0 +1,33 @@
+{
+  "id": "n4-0002",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ああ",
+  "display": "ああ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "like that"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ああ悲しい。",
+      "en": "Ah, me!"
+    },
+    {
+      "ja": "ああ嬉しい。",
+      "en": "How glad I am!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

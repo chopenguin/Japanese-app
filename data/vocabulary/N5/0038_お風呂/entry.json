@@ -1,0 +1,33 @@
+{
+  "id": "n5-0038",
+  "jlpt": "N5",
+  "kanji": "お風呂",
+  "kana": "おふろ",
+  "display": "お風呂",
+  "meanings_zh": [],
+  "meanings_en": [
+    "bath"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お風呂にする？",
+      "en": "Do you want a bath?"
+    },
+    {
+      "ja": "お風呂沸いてる？",
+      "en": "Is the bath ready?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

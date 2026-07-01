@@ -1,0 +1,39 @@
+{
+  "id": "n4-0282",
+  "jlpt": "N4",
+  "kanji": "光る",
+  "kana": "ひかる",
+  "display": "光る",
+  "meanings_zh": [
+    "发光",
+    "发亮",
+    "出众",
+    "出类拔萃"
+  ],
+  "meanings_en": [
+    "to shine",
+    "to glitter"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "使っている鎌は光る。",
+      "en": "A sickle that gets used shines."
+    },
+    {
+      "ja": "光るもの必ずしも金ならず。",
+      "en": "All that glitters is not gold."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

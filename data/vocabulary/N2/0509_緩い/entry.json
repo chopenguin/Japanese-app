@@ -1,0 +1,40 @@
+{
+  "id": "n2-0509",
+  "jlpt": "N2",
+  "kanji": "緩い",
+  "kana": "ゆるい",
+  "display": "緩い",
+  "meanings_zh": [
+    "松",
+    "不紧",
+    "肥",
+    "肥大"
+  ],
+  "meanings_en": [
+    "loose",
+    "lenient",
+    "slow"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この靴は少し緩い。",
+      "en": "These shoes are a little loose."
+    },
+    {
+      "ja": "このボタンは緩い。",
+      "en": "This button is loose."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

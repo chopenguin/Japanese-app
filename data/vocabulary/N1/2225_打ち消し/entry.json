@@ -1,0 +1,34 @@
+{
+  "id": "n1-2225",
+  "jlpt": "N1",
+  "kanji": "打ち消し",
+  "kana": "うちけし",
+  "display": "打ち消し",
+  "meanings_zh": [
+    "否认",
+    "否定"
+  ],
+  "meanings_en": [
+    "negation",
+    "denial",
+    "negative"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はうわさを打ち消したわよ。",
+      "en": "He denied the rumor."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

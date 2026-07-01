@@ -1,0 +1,38 @@
+{
+  "id": "n3-1393",
+  "jlpt": "N3",
+  "kanji": "特徴",
+  "kana": "とくちょう",
+  "display": "特徴",
+  "meanings_zh": [
+    "特征",
+    "特色",
+    "特点"
+  ],
+  "meanings_en": [
+    "feature",
+    "characteristic"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "熱情が彼女の特徴の一つだ。",
+      "en": "Passion is one of her characteristics."
+    },
+    {
+      "ja": "そこは何の特徴もない町だ。",
+      "en": "It is a town of no character."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

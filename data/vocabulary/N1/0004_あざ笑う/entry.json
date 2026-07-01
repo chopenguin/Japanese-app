@@ -1,0 +1,36 @@
+{
+  "id": "n1-0004",
+  "jlpt": "N1",
+  "kanji": "あざ笑う",
+  "kana": "あざわらう",
+  "display": "あざ笑う",
+  "meanings_zh": [
+    "嘲笑"
+  ],
+  "meanings_en": [
+    "to sneer at",
+    "to ridicule"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "間違えたからと言って彼をあざ笑うな。",
+      "en": "Don't laugh at him for making a mistake."
+    },
+    {
+      "ja": "デニスはウィルソンさんの丸い顔をあざ笑う。",
+      "en": "Dennis laughs at Wilson's round face."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

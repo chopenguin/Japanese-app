@@ -1,0 +1,35 @@
+{
+  "id": "n3-1278",
+  "jlpt": "N3",
+  "kanji": "地平線",
+  "kana": "ちへいせん",
+  "display": "地平線",
+  "meanings_zh": [
+    "地平线"
+  ],
+  "meanings_en": [
+    "horizon"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "遠い地平線を見て！",
+      "en": "Look at the distant horizon!"
+    },
+    {
+      "ja": "地平線に愛が現れる。",
+      "en": "Love appears over the horizon."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

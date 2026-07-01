@@ -1,0 +1,36 @@
+{
+  "id": "n3-0329",
+  "jlpt": "N3",
+  "kanji": "泳ぎ",
+  "kana": "およぎ",
+  "display": "泳ぎ",
+  "meanings_zh": [
+    "游泳",
+    "游水"
+  ],
+  "meanings_en": [
+    "swimming"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "泳ぎたいな。",
+      "en": "I'd like to swim."
+    },
+    {
+      "ja": "泳ぎは得意？",
+      "en": "Are you able to swim well?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

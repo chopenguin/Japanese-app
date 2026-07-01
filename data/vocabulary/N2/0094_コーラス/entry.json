@@ -1,0 +1,37 @@
+{
+  "id": "n2-0094",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "コーラス",
+  "display": "コーラス",
+  "meanings_zh": [
+    "合唱",
+    "合唱队",
+    "合唱曲"
+  ],
+  "meanings_en": [
+    "chorus"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "誰がコーラスを指揮しますか。",
+      "en": "Who leads the chorus?"
+    },
+    {
+      "ja": "彼らはみな一緒にコーラスを歌いました。",
+      "en": "They all joined in the chorus."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

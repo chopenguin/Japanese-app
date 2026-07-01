@@ -1,0 +1,34 @@
+{
+  "id": "n3-0078",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ごめんなさい",
+  "display": "ごめんなさい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "I beg your pardon",
+    "excuse me"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "遅れてごめんなさい。",
+      "en": "Please excuse my being late."
+    },
+    {
+      "ja": "先日はごめんなさい。",
+      "en": "I'm sorry about the other day."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n2-1252",
+  "jlpt": "N2",
+  "kanji": "暖める",
+  "kana": "あたためる",
+  "display": "暖める",
+  "meanings_zh": [
+    "温",
+    "热",
+    "烫",
+    "恢复"
+  ],
+  "meanings_en": [
+    "to warm",
+    "to heat"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は両手を暖めるために息を吹きかけた。",
+      "en": "She blew on her hands to warm them."
+    },
+    {
+      "ja": "このストーブではあの大きな部屋を暖めることはできない。",
+      "en": "This heater won't heat up that large room."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n5-0532",
+  "jlpt": "N5",
+  "kanji": "読む",
+  "kana": "よむ",
+  "display": "読む",
+  "meanings_zh": [
+    "念",
+    "读",
+    "诵",
+    "朗读"
+  ],
+  "meanings_en": [
+    "to read"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そんな本読むな。",
+      "en": "Do not read such a book."
+    },
+    {
+      "ja": "君が読む番だよ。",
+      "en": "It's your turn to read."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

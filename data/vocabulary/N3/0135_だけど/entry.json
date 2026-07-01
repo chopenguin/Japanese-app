@@ -1,0 +1,33 @@
+{
+  "id": "n3-0135",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "だけど",
+  "display": "だけど",
+  "meanings_zh": [],
+  "meanings_en": [
+    "however"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "話があるんだけど。",
+      "en": "Can we talk in private?"
+    },
+    {
+      "ja": "ものは相談だけど。",
+      "en": "I have something to ask of you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n3-1421",
+  "jlpt": "N3",
+  "kanji": "任せる",
+  "kana": "まかせる",
+  "display": "任せる",
+  "meanings_zh": [
+    "委托",
+    "托付",
+    "交给",
+    "听任"
+  ],
+  "meanings_en": [
+    "to entrust to another",
+    "to leave to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "君に任せるよ。",
+      "en": "I'll let you decide."
+    },
+    {
+      "ja": "時間は任せるよ。",
+      "en": "The time is up to you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

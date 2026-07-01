@@ -1,0 +1,32 @@
+{
+  "id": "n2-0127",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "しぼむ",
+  "display": "しぼむ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to wither",
+    "to fade (away)",
+    "to shrivel",
+    "to wilt"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "花は切られるとすぐにしぼむ。",
+      "en": "Flowers soon fade when they have been cut."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

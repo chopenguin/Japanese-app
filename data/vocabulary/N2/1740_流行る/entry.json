@@ -1,0 +1,32 @@
+{
+  "id": "n2-1740",
+  "jlpt": "N2",
+  "kanji": "流行る",
+  "kana": "はやる",
+  "display": "流行る",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to flourish",
+    "to thrive",
+    "to be popular",
+    "to come into fashion"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "イタリアのファッション・デザイナーは、今年は白の水着が流行るだろうと言っている。",
+      "en": "Some Italian fashion designers are saying that white bathing suits will catch on this year."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

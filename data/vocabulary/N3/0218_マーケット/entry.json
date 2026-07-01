@@ -1,0 +1,38 @@
+{
+  "id": "n3-0218",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "マーケット",
+  "display": "マーケット",
+  "meanings_zh": [
+    "市场",
+    "商场",
+    "菜市(场)",
+    "销售范围"
+  ],
+  "meanings_en": [
+    "market"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "明日フリーマーケットに行こうよ！",
+      "en": "Let's go to the flea market tomorrow."
+    },
+    {
+      "ja": "母はマーケットへ買い物に行きました。",
+      "en": "Mother has gone to the market."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n5-0394",
+  "jlpt": "N5",
+  "kanji": "習う",
+  "kana": "ならう",
+  "display": "習う",
+  "meanings_zh": [
+    "学习",
+    "练习"
+  ],
+  "meanings_en": [
+    "to learn"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "習うより慣れろ。",
+      "en": "Practice makes perfect."
+    },
+    {
+      "ja": "書道を習うのは楽しい。",
+      "en": "Learning calligraphy is fun."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

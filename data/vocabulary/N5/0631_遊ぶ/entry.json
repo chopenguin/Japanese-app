@@ -1,0 +1,39 @@
+{
+  "id": "n5-0631",
+  "jlpt": "N5",
+  "kanji": "遊ぶ",
+  "kana": "あそぶ",
+  "display": "遊ぶ",
+  "meanings_zh": [
+    "玩",
+    "游戏",
+    "闲着",
+    "闲置不用"
+  ],
+  "meanings_en": [
+    "to play",
+    "to make a visit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ここで遊ぶな。",
+      "en": "Don't play here."
+    },
+    {
+      "ja": "僕と遊ぶの嫌なの？",
+      "en": "Do you hate playing with me?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

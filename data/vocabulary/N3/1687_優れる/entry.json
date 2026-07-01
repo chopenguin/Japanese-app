@@ -1,0 +1,31 @@
+{
+  "id": "n3-1687",
+  "jlpt": "N3",
+  "kanji": "優れる",
+  "kana": "すぐれる",
+  "display": "優れる",
+  "meanings_zh": [
+    "出色",
+    "优越",
+    "优秀",
+    "卓越"
+  ],
+  "meanings_en": [
+    "to surpass",
+    "to outstrip",
+    "to excel"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n4-0225",
+  "jlpt": "N4",
+  "kanji": "帰り",
+  "kana": "かえり",
+  "display": "帰り",
+  "meanings_zh": [
+    "回来",
+    "回去",
+    "归",
+    "归途"
+  ],
+  "meanings_en": [
+    "return"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "帰りなさい。",
+      "en": "Go home."
+    },
+    {
+      "ja": "持ち帰ります。",
+      "en": "I'll take it home with me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

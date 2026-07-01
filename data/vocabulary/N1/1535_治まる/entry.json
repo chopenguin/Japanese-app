@@ -1,0 +1,36 @@
+{
+  "id": "n1-1535",
+  "jlpt": "N1",
+  "kanji": "治まる",
+  "kana": "おさまる",
+  "display": "治まる",
+  "meanings_zh": [
+    "安定",
+    "平定",
+    "平息",
+    "结束"
+  ],
+  "meanings_en": [
+    "to be at peace",
+    "to clamp down",
+    "to lessen (storm  terror  anger)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "腫れが治まるまで、どれぐらいかかりそうですか？",
+      "en": "How many days will it take until the swelling goes down?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

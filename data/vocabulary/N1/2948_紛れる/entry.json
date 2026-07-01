@@ -1,0 +1,30 @@
+{
+  "id": "n1-2948",
+  "jlpt": "N1",
+  "kanji": "紛れる",
+  "kana": "まぎれる",
+  "display": "紛れる",
+  "meanings_zh": [
+    "混同",
+    "混淆",
+    "难以辨别",
+    "搀混"
+  ],
+  "meanings_en": [
+    "to be diverted",
+    "to slip into"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

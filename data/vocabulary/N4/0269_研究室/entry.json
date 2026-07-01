@@ -1,0 +1,34 @@
+{
+  "id": "n4-0269",
+  "jlpt": "N4",
+  "kanji": "研究室",
+  "kana": "けんきゅうしつ",
+  "display": "研究室",
+  "meanings_zh": [],
+  "meanings_en": [
+    "study room",
+    "laboratory"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "研究室に戻りなさい。",
+      "en": "Go back to the lab."
+    },
+    {
+      "ja": "私たちはその研究室を利用した。",
+      "en": "We have made use of the laboratory."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

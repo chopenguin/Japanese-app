@@ -1,0 +1,34 @@
+{
+  "id": "n2-0575",
+  "jlpt": "N2",
+  "kanji": "近々",
+  "kana": "ちかぢか",
+  "display": "近々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "nearness",
+    "before long"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ではまた近々。",
+      "en": "See you soon."
+    },
+    {
+      "ja": "彼の秘密は近々ばれるだろう。",
+      "en": "His secret will be disclosed soon."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n2-0078",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ぎっしり",
+  "display": "ぎっしり",
+  "meanings_zh": [
+    "满满的"
+  ],
+  "meanings_en": [
+    "tightly",
+    "fully"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は棚に本をぎっしり詰め込んだ。",
+      "en": "He crowded the books into the shelves."
+    },
+    {
+      "ja": "エレベーターにぎっしりいっぱいに乗った。",
+      "en": "We jammed into the elevator."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n1-1380",
+  "jlpt": "N1",
+  "kanji": "済まない",
+  "kana": "すまない",
+  "display": "済まない",
+  "meanings_zh": [
+    "对不起",
+    "抱歉",
+    "过意不去",
+    "不好意思"
+  ],
+  "meanings_en": [
+    "sorry (phrase)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ただでは済まないぞ。",
+      "en": "You won't get away with it."
+    },
+    {
+      "ja": "とにかく誰かをぶたないと気が済まない。",
+      "en": "I really need to hit somebody."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

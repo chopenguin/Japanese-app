@@ -1,0 +1,33 @@
+{
+  "id": "n2-0097",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ごちそうさま",
+  "display": "ごちそうさま",
+  "meanings_zh": [],
+  "meanings_en": [
+    "feast"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ごちそうさま。",
+      "en": "I'm done."
+    },
+    {
+      "ja": "ごちそうさまでした。",
+      "en": "Thank you for the lovely dinner."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n5-0557",
+  "jlpt": "N5",
+  "kanji": "売る",
+  "kana": "うる",
+  "display": "売る",
+  "meanings_zh": [
+    "卖",
+    "售",
+    "沽名",
+    "出卖"
+  ],
+  "meanings_en": [
+    "to sell"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は果物を売る。",
+      "en": "He sells fruit."
+    },
+    {
+      "ja": "彼は売ると約束した。",
+      "en": "He promised to sell."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

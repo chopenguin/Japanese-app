@@ -1,0 +1,38 @@
+{
+  "id": "n5-0561",
+  "jlpt": "N5",
+  "kanji": "白い",
+  "kana": "しろい",
+  "display": "白い",
+  "meanings_zh": [
+    "白色",
+    "空白",
+    "干净",
+    "洁白"
+  ],
+  "meanings_en": [
+    "white"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "白いですか。",
+      "en": "Is it white?"
+    },
+    {
+      "ja": "結構面白い。",
+      "en": "It's so exciting."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n3-1332",
+  "jlpt": "N3",
+  "kanji": "諦める",
+  "kana": "あきらめる",
+  "display": "諦める",
+  "meanings_zh": [
+    "断念",
+    "死心",
+    "抱达观"
+  ],
+  "meanings_en": [
+    "to give up",
+    "to abandon"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "諦めるっていうの？",
+      "en": "Are you just going to give up?"
+    },
+    {
+      "ja": "諦めるつもりなの？",
+      "en": "Are you going to give up?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "n1-2697",
+  "jlpt": "N1",
+  "kanji": "悩ます",
+  "kana": "なやます",
+  "display": "悩ます",
+  "meanings_zh": [
+    "伤脑筋",
+    "烦恼",
+    "苦恼",
+    "困扰"
+  ],
+  "meanings_en": [
+    "to afflict",
+    "to torment",
+    "to harass",
+    "to molest"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "子供はしばしば両親を悩ます。",
+      "en": "Children often bother their parents."
+    },
+    {
+      "ja": "そんなことで頭を悩ます必要はない。",
+      "en": "You don't have to worry about a thing like that."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n2-1788",
+  "jlpt": "N2",
+  "kanji": "揉む",
+  "kana": "もむ",
+  "display": "揉む",
+  "meanings_zh": [
+    "搓",
+    "揉",
+    "捏",
+    "推拿"
+  ],
+  "meanings_en": [
+    "to rub",
+    "to crumple (up)",
+    "to wrinkle"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お父さん、肩揉むよ。",
+      "en": "Dad, I will massage your shoulders."
+    },
+    {
+      "ja": "「最近、お疲れのようですが、何かあったんですか？」「あっ、年頃になってきた娘のことで、あれこれと気を揉むことが多くてね」",
+      "en": "\"You seem kind of worn down lately, is everything all right?\" \"Oh, it's my daughter. She's all grown up now, so I'm worried about all sorts of things.\""
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

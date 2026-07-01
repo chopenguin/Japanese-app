@@ -1,0 +1,40 @@
+{
+  "id": "n3-0942",
+  "jlpt": "N3",
+  "kanji": "出会う",
+  "kana": "であう",
+  "display": "出会う",
+  "meanings_zh": [
+    "遇见",
+    "遇上",
+    "遇到",
+    "碰见"
+  ],
+  "meanings_en": [
+    "to meet by chance",
+    "to come across",
+    "to happen to encounter"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女と偶然出会う。",
+      "en": "I bump into her."
+    },
+    {
+      "ja": "私が出会う人々は親切だ。",
+      "en": "The people whom I meet are kind."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

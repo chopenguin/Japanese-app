@@ -1,0 +1,39 @@
+{
+  "id": "n3-0844",
+  "jlpt": "N3",
+  "kanji": "試す",
+  "kana": "ためす",
+  "display": "試す",
+  "meanings_zh": [
+    "试",
+    "试验",
+    "试试",
+    "尝试"
+  ],
+  "meanings_en": [
+    "to attempt",
+    "to test"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は、試す。",
+      "en": "He tries."
+    },
+    {
+      "ja": "私たちは、試す。",
+      "en": "We try."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

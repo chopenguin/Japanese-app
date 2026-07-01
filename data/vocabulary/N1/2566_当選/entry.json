@@ -1,0 +1,39 @@
+{
+  "id": "n1-2566",
+  "jlpt": "N1",
+  "kanji": "当選",
+  "kana": "とうせん",
+  "display": "当選",
+  "meanings_zh": [
+    "当选",
+    "中选",
+    "中彩",
+    "中签"
+  ],
+  "meanings_en": [
+    "being elected",
+    "winning the prize"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女の当選は確実だ。",
+      "en": "Her election is in the bag."
+    },
+    {
+      "ja": "彼は選挙で大差で当選した。",
+      "en": "He won the election by a large majority."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

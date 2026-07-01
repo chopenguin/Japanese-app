@@ -1,0 +1,38 @@
+{
+  "id": "n1-0038",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "オーケー",
+  "display": "オーケー",
+  "meanings_zh": [
+    "好",
+    "行",
+    "成",
+    "对"
+  ],
+  "meanings_en": [
+    "OK"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "すべてオーケーだ。",
+      "en": "Everything is OK."
+    },
+    {
+      "ja": "フルコースもあれば、サラダで軽いお食事もオーケー。",
+      "en": "You can eat a complete meal, or just go easy with our salad bar."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

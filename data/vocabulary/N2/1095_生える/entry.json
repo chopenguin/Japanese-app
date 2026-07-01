@@ -1,0 +1,35 @@
+{
+  "id": "n2-1095",
+  "jlpt": "N2",
+  "kanji": "生える",
+  "kana": "はえる",
+  "display": "生える",
+  "meanings_zh": [
+    "长",
+    "生",
+    "发"
+  ],
+  "meanings_en": [
+    "(1) to grow",
+    "to spring up",
+    "(2) to cut (teeth)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "植物が生える。",
+      "en": "Plants grow."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

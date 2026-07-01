@@ -1,0 +1,38 @@
+{
+  "id": "n5-0103",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ちょっと",
+  "display": "ちょっと",
+  "meanings_zh": [
+    "一会儿",
+    "一下",
+    "暂且",
+    "一点"
+  ],
+  "meanings_en": [
+    "somewhat"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ちょっと来て。",
+      "en": "Come here."
+    },
+    {
+      "ja": "ちょっと失礼。",
+      "en": "Sorry..."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

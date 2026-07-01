@@ -1,0 +1,34 @@
+{
+  "id": "n3-0043",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "おまえ",
+  "display": "おまえ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(fam) you (sing)",
+    "presence (of a high personage)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "おまえは首だ。",
+      "en": "You're fired."
+    },
+    {
+      "ja": "おまえの勝ちだ。",
+      "en": "You won."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

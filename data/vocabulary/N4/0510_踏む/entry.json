@@ -1,0 +1,38 @@
+{
+  "id": "n4-0510",
+  "jlpt": "N4",
+  "kanji": "踏む",
+  "kana": "ふむ",
+  "display": "踏む",
+  "meanings_zh": [
+    "踏",
+    "踩",
+    "践踏",
+    "跺脚"
+  ],
+  "meanings_en": [
+    "to step on"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "割れたガラスを踏むな。",
+      "en": "Don't step on the broken glass."
+    },
+    {
+      "ja": "私が足を踏むと犬は鳴いた。",
+      "en": "The dog gave a yelp when I trod on its paw."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

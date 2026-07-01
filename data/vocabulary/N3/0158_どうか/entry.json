@@ -1,0 +1,38 @@
+{
+  "id": "n3-0158",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "どうか",
+  "display": "どうか",
+  "meanings_zh": [
+    "请",
+    "总算",
+    "总还是",
+    "设法"
+  ],
+  "meanings_en": [
+    "copper coin"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "商売はどうかね。",
+      "en": "How's business?"
+    },
+    {
+      "ja": "野球はどうかな？",
+      "en": "How about playing baseball?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

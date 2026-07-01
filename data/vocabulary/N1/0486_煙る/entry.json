@@ -1,0 +1,28 @@
+{
+  "id": "n1-0486",
+  "jlpt": "N1",
+  "kanji": "煙る",
+  "kana": "けむる",
+  "display": "煙る",
+  "meanings_zh": [
+    "冒烟",
+    "模糊不清",
+    "朦胧"
+  ],
+  "meanings_en": [
+    "to smoke (e.g. fire)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

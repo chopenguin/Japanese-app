@@ -1,0 +1,28 @@
+{
+  "id": "n2-1535",
+  "jlpt": "N2",
+  "kanji": "払い戻す",
+  "kana": "はらいもどす",
+  "display": "払い戻す",
+  "meanings_zh": [
+    "退还",
+    "付还"
+  ],
+  "meanings_en": [
+    "to repay",
+    "to pay back"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

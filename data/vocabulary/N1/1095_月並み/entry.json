@@ -1,0 +1,39 @@
+{
+  "id": "n1-1095",
+  "jlpt": "N1",
+  "kanji": "月並み",
+  "kana": "つきなみ",
+  "display": "月並み",
+  "meanings_zh": [
+    "每月",
+    "月月",
+    "按月",
+    "平凡"
+  ],
+  "meanings_en": [
+    "every month",
+    "common"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らの判断は月並みだ。",
+      "en": "They are conventional in their judgement."
+    },
+    {
+      "ja": "月並みのパーティーだったよ。",
+      "en": "That was just another party."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

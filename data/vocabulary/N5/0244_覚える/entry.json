@@ -1,0 +1,38 @@
+{
+  "id": "n5-0244",
+  "jlpt": "N5",
+  "kanji": "覚える",
+  "kana": "おぼえる",
+  "display": "覚える",
+  "meanings_zh": [
+    "记",
+    "记住",
+    "记得",
+    "记忆"
+  ],
+  "meanings_en": [
+    "to remember"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "覚えるの、簡単よ。",
+      "en": "It's easy to learn."
+    },
+    {
+      "ja": "覚える価値さえない。",
+      "en": "It's not worth remembering."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

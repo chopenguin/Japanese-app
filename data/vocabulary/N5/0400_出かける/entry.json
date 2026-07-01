@@ -1,0 +1,33 @@
+{
+  "id": "n5-0400",
+  "jlpt": "N5",
+  "kanji": "出かける",
+  "kana": "でかける",
+  "display": "出かける",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to go out"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "出かけるの？",
+      "en": "Are you going out?"
+    },
+    {
+      "ja": "出かける時間よ。",
+      "en": "It's time to go."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

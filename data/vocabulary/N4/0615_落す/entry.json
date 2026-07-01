@@ -1,0 +1,33 @@
+{
+  "id": "n4-0615",
+  "jlpt": "N4",
+  "kanji": "落す",
+  "kana": "おとす",
+  "display": "落す",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to drop"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そのコップを落すな。",
+      "en": "Don't drop that cup."
+    },
+    {
+      "ja": "妻が堕落するのは夫が悪いのだ。",
+      "en": "It is their husbands' faults if wives do fall."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

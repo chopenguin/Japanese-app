@@ -1,0 +1,38 @@
+{
+  "id": "n2-1747",
+  "jlpt": "N2",
+  "kanji": "粒",
+  "kana": "つぶ",
+  "display": "粒",
+  "meanings_zh": [
+    "粒",
+    "颗粒",
+    "颗",
+    "丸"
+  ],
+  "meanings_en": [
+    "grain"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "大粒の雪が降った。",
+      "en": "Snow fell in large flakes."
+    },
+    {
+      "ja": "彼らは粒よりの兵士だ。",
+      "en": "They are picked soldiers."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

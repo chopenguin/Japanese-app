@@ -1,0 +1,38 @@
+{
+  "id": "n2-0796",
+  "jlpt": "N2",
+  "kanji": "散らかす",
+  "kana": "ちらかす",
+  "display": "散らかす",
+  "meanings_zh": [
+    "弄得乱七八糟",
+    "乱扔",
+    "乱抛"
+  ],
+  "meanings_en": [
+    "to scatter around",
+    "to leave untidy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お前の物をその辺りに散らかすな。",
+      "en": "Don't scatter your things about."
+    },
+    {
+      "ja": "シンガポールでは通りにゴミを散らかすと罰金を課せられる。",
+      "en": "They fine you in Singapore if you throw trash in the streets."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

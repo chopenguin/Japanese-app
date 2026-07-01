@@ -1,0 +1,40 @@
+{
+  "id": "n1-0789",
+  "jlpt": "N1",
+  "kanji": "丸める",
+  "kana": "まるめる",
+  "display": "丸める",
+  "meanings_zh": [
+    "团",
+    "弄圆",
+    "揉成团",
+    "卷"
+  ],
+  "meanings_en": [
+    "to make round",
+    "to round off",
+    "to roll up",
+    "to curl up",
+    "to seduce",
+    "to cajole",
+    "to explain away"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "猫は背中を丸める。",
+      "en": "Cats arch their backs."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

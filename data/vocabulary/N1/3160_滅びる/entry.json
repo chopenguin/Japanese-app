@@ -1,0 +1,39 @@
+{
+  "id": "n1-3160",
+  "jlpt": "N1",
+  "kanji": "滅びる",
+  "kana": "ほろびる",
+  "display": "滅びる",
+  "meanings_zh": [
+    "灭亡",
+    "灭绝"
+  ],
+  "meanings_en": [
+    "to be ruined",
+    "to go under",
+    "to perish",
+    "to be destroyed"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "剣を取る者は皆剣で滅びる。",
+      "en": "All who take up the sword will perish by the sword."
+    },
+    {
+      "ja": "肉体は滅びるが霊魂は不滅である。",
+      "en": "A man's body dies, but his soul is immortal."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "n1-0369",
+  "jlpt": "N1",
+  "kanji": "意気込む",
+  "kana": "いきごむ",
+  "display": "意気込む",
+  "meanings_zh": [
+    "振奋",
+    "鼓起干劲",
+    "干劲十足",
+    "兴致勃勃"
+  ],
+  "meanings_en": [
+    "to be enthusiastic about"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n2-1184",
+  "jlpt": "N2",
+  "kanji": "憎む",
+  "kana": "にくむ",
+  "display": "憎む",
+  "meanings_zh": [
+    "憎恶",
+    "憎恨",
+    "厌恶"
+  ],
+  "meanings_en": [
+    "to hate",
+    "to detest"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私を憎むな！",
+      "en": "Don't hate me!"
+    },
+    {
+      "ja": "私たちは暴力を憎む。",
+      "en": "We abhor violence."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

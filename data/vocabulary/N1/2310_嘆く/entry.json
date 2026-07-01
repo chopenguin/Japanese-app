@@ -1,0 +1,36 @@
+{
+  "id": "n1-2310",
+  "jlpt": "N1",
+  "kanji": "嘆く",
+  "kana": "なげく",
+  "display": "嘆く",
+  "meanings_zh": [
+    "叹息",
+    "叹气",
+    "悲叹",
+    "哀叹"
+  ],
+  "meanings_en": [
+    "to sigh",
+    "to lament",
+    "to grieve"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "過去を嘆くより、未来のために今できることを頑張ろう。",
+      "en": "Rather than lamenting over the past, you should focus your energy into what you can do right now for the future."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

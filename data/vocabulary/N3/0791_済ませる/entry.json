@@ -1,0 +1,33 @@
+{
+  "id": "n3-0791",
+  "jlpt": "N3",
+  "kanji": "済ませる",
+  "kana": "すませる",
+  "display": "済ませる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to be finished"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "英語の辞書なしで済ませることができますか。",
+      "en": "Can you do without an English dictionary?"
+    },
+    {
+      "ja": "彼は食事を済ませるとすぐに仕事に向かいました。",
+      "en": "He left for work as soon as he finished eating."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

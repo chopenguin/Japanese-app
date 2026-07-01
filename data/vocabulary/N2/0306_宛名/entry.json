@@ -1,0 +1,36 @@
+{
+  "id": "n2-0306",
+  "jlpt": "N2",
+  "kanji": "宛名",
+  "kana": "あてな",
+  "display": "宛名",
+  "meanings_zh": [
+    "收件人姓名"
+  ],
+  "meanings_en": [
+    "address",
+    "direction"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これが私の会社の宛名です。",
+      "en": "This is my business address."
+    },
+    {
+      "ja": "郵便の宛名ははっきり正確に。",
+      "en": "Please address your mail clearly and correctly."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

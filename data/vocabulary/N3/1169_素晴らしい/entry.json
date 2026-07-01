@@ -1,0 +1,40 @@
+{
+  "id": "n3-1169",
+  "jlpt": "N3",
+  "kanji": "素晴らしい",
+  "kana": "すばらしい",
+  "display": "素晴らしい",
+  "meanings_zh": [
+    "极好",
+    "绝佳",
+    "非常好",
+    "极美"
+  ],
+  "meanings_en": [
+    "wonderful",
+    "splendid",
+    "magnificent"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "素晴らしい。",
+      "en": "Ah, wonderful."
+    },
+    {
+      "ja": "素晴らしい！",
+      "en": "Terrific!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

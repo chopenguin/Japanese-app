@@ -1,0 +1,36 @@
+{
+  "id": "n4-0215",
+  "jlpt": "N4",
+  "kanji": "看護婦",
+  "kana": "かんごふ",
+  "display": "看護婦",
+  "meanings_zh": [
+    "护士",
+    "女护士"
+  ],
+  "meanings_en": [
+    "female nurse"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は看護婦です。",
+      "en": "I'm a nurse."
+    },
+    {
+      "ja": "彼女は看護婦です。",
+      "en": "She is a nurse."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

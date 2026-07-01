@@ -1,0 +1,29 @@
+{
+  "id": "n2-0066",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "かしこまりました",
+  "display": "かしこまりました",
+  "meanings_zh": [],
+  "meanings_en": [
+    "certainly!"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "かしこまりました。",
+      "en": "I understand."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

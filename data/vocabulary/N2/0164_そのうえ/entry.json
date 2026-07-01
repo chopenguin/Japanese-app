@@ -1,0 +1,35 @@
+{
+  "id": "n2-0164",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "そのうえ",
+  "display": "そのうえ",
+  "meanings_zh": [
+    "又",
+    "而且",
+    "加上",
+    "兼之"
+  ],
+  "meanings_en": [
+    "in addition",
+    "furthermore"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そのうえ７ドル払おう。",
+      "en": "I will pay 7 dollars in addition."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

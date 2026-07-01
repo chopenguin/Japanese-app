@@ -1,0 +1,36 @@
+{
+  "id": "n1-0818",
+  "jlpt": "N1",
+  "kanji": "既婚",
+  "kana": "きこん",
+  "display": "既婚",
+  "meanings_zh": [
+    "已婚"
+  ],
+  "meanings_en": [
+    "marriage",
+    "married"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "既婚者だよね？",
+      "en": "You're married, aren't you?"
+    },
+    {
+      "ja": "この人って、既婚者？",
+      "en": "Is this man married?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

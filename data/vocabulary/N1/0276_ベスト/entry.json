@@ -1,0 +1,34 @@
+{
+  "id": "n1-0276",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ベスト",
+  "display": "ベスト",
+  "meanings_zh": [],
+  "meanings_en": [
+    "best",
+    "vest"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ベストを尽くせ。",
+      "en": "Do your best."
+    },
+    {
+      "ja": "常にベストを尽くしなさい。",
+      "en": "You should always do your best."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n3-0097",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "（感）",
+  "display": "しまった",
+  "meanings_zh": [
+    "糟糕",
+    "糟了"
+  ],
+  "meanings_en": [
+    "Damn it!"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "寝てしまった。",
+      "en": "I fell asleep."
+    },
+    {
+      "ja": "あー、しまった！",
+      "en": "Oh no!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

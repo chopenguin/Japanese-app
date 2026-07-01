@@ -1,0 +1,40 @@
+{
+  "id": "n1-2499",
+  "jlpt": "N1",
+  "kanji": "添う",
+  "kana": "そう",
+  "display": "添う",
+  "meanings_zh": [
+    "增添",
+    "加上",
+    "添上",
+    "紧跟"
+  ],
+  "meanings_en": [
+    "to accompany",
+    "to become married",
+    "to comply with"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女に付き添う人がいない。",
+      "en": "She has no one to wait on her."
+    },
+    {
+      "ja": "新しい家は期待に添うものではなかった。",
+      "en": "The new house didn't live up to expectations."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

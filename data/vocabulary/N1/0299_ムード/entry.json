@@ -1,0 +1,38 @@
+{
+  "id": "n1-0299",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ムード",
+  "display": "ムード",
+  "meanings_zh": [
+    "心情",
+    "心绪",
+    "情绪",
+    "气氛"
+  ],
+  "meanings_en": [
+    "mood"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムはムードメーカーだった。",
+      "en": "Tom was the life of the party."
+    },
+    {
+      "ja": "前半彼らは押せ押せムードとなった。",
+      "en": "They went on the offensive in the first half."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

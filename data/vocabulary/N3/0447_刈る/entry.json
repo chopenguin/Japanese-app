@@ -1,0 +1,40 @@
+{
+  "id": "n3-0447",
+  "jlpt": "N3",
+  "kanji": "刈る",
+  "kana": "かる",
+  "display": "刈る",
+  "meanings_zh": [
+    "割",
+    "割掉",
+    "剪",
+    "修剪"
+  ],
+  "meanings_en": [
+    "to cut (hair)",
+    "to mow (grass)",
+    "to harvest"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "芝は刈る必要がある。",
+      "en": "The grass needs cutting."
+    },
+    {
+      "ja": "彼等は普通春に羊の毛を刈る。",
+      "en": "They usually shear sheep in spring."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

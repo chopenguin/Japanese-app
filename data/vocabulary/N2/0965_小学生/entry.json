@@ -1,0 +1,33 @@
+{
+  "id": "n2-0965",
+  "jlpt": "N2",
+  "kanji": "小学生",
+  "kana": "しょうがくせい",
+  "display": "小学生",
+  "meanings_zh": [],
+  "meanings_en": [
+    "grade school student"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "小学生は６年間学校に通う。",
+      "en": "Elementary school children go to school for a term of six years."
+    },
+    {
+      "ja": "彼らはそのころ小学生でした。",
+      "en": "They were school children then."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

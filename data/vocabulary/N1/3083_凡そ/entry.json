@@ -1,0 +1,36 @@
+{
+  "id": "n1-3083",
+  "jlpt": "N1",
+  "kanji": "凡そ",
+  "kana": "およそ",
+  "display": "凡そ",
+  "meanings_zh": [
+    "大概",
+    "概",
+    "概略"
+  ],
+  "meanings_en": [
+    "about",
+    "roughly",
+    "as a rule",
+    "approximately"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "凡そ人間に限らず、あらゆる動物は、異性に対つて、意識的無意識的に、「性的示威」を行ふものである。",
+      "en": "As a rule, not only in humans, but also in animals, \"sexual display\" occurs, consciously or unconsciously, towards individuals of the opposite sex."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

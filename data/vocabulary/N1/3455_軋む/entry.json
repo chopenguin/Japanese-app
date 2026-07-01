@@ -1,0 +1,28 @@
+{
+  "id": "n1-3455",
+  "jlpt": "N1",
+  "kanji": "軋む",
+  "kana": "きしむ",
+  "display": "軋む",
+  "meanings_zh": [
+    "吱吱嘎嘎响"
+  ],
+  "meanings_en": [
+    "to jar",
+    "to creak",
+    "to grate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

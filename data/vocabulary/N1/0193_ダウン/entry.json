@@ -1,0 +1,38 @@
+{
+  "id": "n1-0193",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ダウン",
+  "display": "ダウン",
+  "meanings_zh": [
+    "落下",
+    "降落",
+    "下降",
+    "倒下"
+  ],
+  "meanings_en": [
+    "down"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は風邪でダウンした。",
+      "en": "He came down with a cold."
+    },
+    {
+      "ja": "彼女は風邪でダウンした。",
+      "en": "She came down with a cold."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

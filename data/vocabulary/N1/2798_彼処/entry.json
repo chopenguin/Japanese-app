@@ -1,0 +1,30 @@
+{
+  "id": "n1-2798",
+  "jlpt": "N1",
+  "kanji": "彼処",
+  "kana": "あそこ",
+  "display": "彼処",
+  "meanings_zh": [
+    "那里",
+    "彼处"
+  ],
+  "meanings_en": [
+    "1.  (uk) there",
+    "over there",
+    "that place",
+    "2.  (X) (col) genitals"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

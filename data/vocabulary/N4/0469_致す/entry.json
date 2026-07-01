@@ -1,0 +1,38 @@
+{
+  "id": "n4-0469",
+  "jlpt": "N4",
+  "kanji": "致す",
+  "kana": "いたす",
+  "display": "致す",
+  "meanings_zh": [
+    "做",
+    "为",
+    "办",
+    "致"
+  ],
+  "meanings_en": [
+    "(humble) to do"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "両極端は一致する。",
+      "en": "Extremes meet."
+    },
+    {
+      "ja": "その話は証拠と一致する。",
+      "en": "The story is consistent with the evidence."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

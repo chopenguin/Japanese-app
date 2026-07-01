@@ -1,0 +1,35 @@
+{
+  "id": "n2-1785",
+  "jlpt": "N2",
+  "kanji": "囁く",
+  "kana": "ささやく",
+  "display": "囁く",
+  "meanings_zh": [
+    "低声私语",
+    "咬耳朵",
+    "说私话",
+    "喃喃细语"
+  ],
+  "meanings_en": [
+    "to whisper",
+    "to murmur"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼が耳元で何かを囁くと、彼女はまるで催眠術にかかったかのように、彼の言う通りの動きをした。",
+      "en": "When he whispered something into her ear, she moved just as he said, as if she had been hypnotized."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

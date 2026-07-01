@@ -1,0 +1,33 @@
+{
+  "id": "n1-0556",
+  "jlpt": "N1",
+  "kanji": "何時でも",
+  "kana": "いつでも",
+  "display": "何時でも",
+  "meanings_zh": [
+    "无论什么时候",
+    "随时",
+    "经常",
+    "总是"
+  ],
+  "meanings_en": [
+    "(at) any time",
+    "always",
+    "at all times",
+    "never (neg)",
+    "whenever"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "n2-1421",
+  "jlpt": "N2",
+  "kanji": "軟らかい",
+  "kana": "やわらかい",
+  "display": "軟らかい",
+  "meanings_zh": [
+    "软",
+    "嫩",
+    "柔软"
+  ],
+  "meanings_en": [
+    "soft",
+    "tender",
+    "limp"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n2-1656",
+  "jlpt": "N2",
+  "kanji": "茂る",
+  "kana": "しげる",
+  "display": "茂る",
+  "meanings_zh": [
+    "繁茂"
+  ],
+  "meanings_en": [
+    "to grow thick",
+    "to luxuriate",
+    "to be luxurious"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "若葉が茂る。",
+      "en": "The young leaves are lush."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

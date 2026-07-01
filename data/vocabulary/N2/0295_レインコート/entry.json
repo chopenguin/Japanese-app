@@ -1,0 +1,33 @@
+{
+  "id": "n2-0295",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "レインコート",
+  "display": "レインコート",
+  "meanings_zh": [],
+  "meanings_en": [
+    "raincoat"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "君はレインコートを着たほうがよい。",
+      "en": "You had better put on a raincoat."
+    },
+    {
+      "ja": "このレインコートは水を完全にはじく。",
+      "en": "The raincoat sheds water perfectly."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

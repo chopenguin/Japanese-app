@@ -1,0 +1,40 @@
+{
+  "id": "n3-0002",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "あいにく",
+  "display": "あいにく",
+  "meanings_zh": [
+    "不凑巧",
+    "偏巧",
+    "对不起",
+    "遗憾"
+  ],
+  "meanings_en": [
+    "unfortunately",
+    "Sorry",
+    "but...."
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あいにく話中です。",
+      "en": "I'm afraid the line is busy."
+    },
+    {
+      "ja": "あいにく雨が降った。",
+      "en": "Unfortunately, it rained."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

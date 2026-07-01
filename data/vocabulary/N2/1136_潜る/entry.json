@@ -1,0 +1,43 @@
+{
+  "id": "n2-1136",
+  "jlpt": "N2",
+  "kanji": "潜る",
+  "kana": "もぐる",
+  "display": "潜る",
+  "meanings_zh": [
+    "潜水",
+    "躲入",
+    "藏入",
+    "钻进"
+  ],
+  "meanings_en": [
+    "(1) to drive",
+    "to pass through",
+    "(2) to evade",
+    "to hide",
+    "(3) to dive (into or under water)",
+    "to go undergroun"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "深く潜れば潜るほど、水は冷たくなる。",
+      "en": "As we dive deeper, the water becomes colder."
+    },
+    {
+      "ja": "深く潜れば潜るほど、水は冷たくなった。",
+      "en": "The deeper we dove, the colder the water became."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

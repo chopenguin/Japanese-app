@@ -1,0 +1,30 @@
+{
+  "id": "n2-1236",
+  "jlpt": "N2",
+  "kanji": "濁る",
+  "kana": "にごる",
+  "display": "濁る",
+  "meanings_zh": [
+    "浑浊",
+    "污浊",
+    "不透明",
+    "不清"
+  ],
+  "meanings_en": [
+    "to become muddy",
+    "to get impure"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

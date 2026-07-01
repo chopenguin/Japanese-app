@@ -1,0 +1,36 @@
+{
+  "id": "n5-0415",
+  "jlpt": "N5",
+  "kanji": "少ない",
+  "kana": "すくない",
+  "display": "少ない",
+  "meanings_zh": [
+    "少",
+    "不多"
+  ],
+  "meanings_en": [
+    "a few"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "５は８より少ない。",
+      "en": "5 is less than 8."
+    },
+    {
+      "ja": "僕は友達が少ない。",
+      "en": "I don't have many friends."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

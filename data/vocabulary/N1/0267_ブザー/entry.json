@@ -1,0 +1,36 @@
+{
+  "id": "n1-0267",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ブザー",
+  "display": "ブザー",
+  "meanings_zh": [
+    "蜂鸣器",
+    "信号器"
+  ],
+  "meanings_en": [
+    "buzzer"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ブザーがなった。",
+      "en": "The buzzer sounded."
+    },
+    {
+      "ja": "ブザーを押して下さい。",
+      "en": "Please push the buzzer."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n2-0791",
+  "jlpt": "N2",
+  "kanji": "錆びる",
+  "kana": "さびる",
+  "display": "錆びる",
+  "meanings_zh": [
+    "生锈",
+    "长锈",
+    "无用"
+  ],
+  "meanings_en": [
+    "to rust",
+    "to become rusty"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "休みすぎは錆びる。",
+      "en": "Too much rest is rust."
+    },
+    {
+      "ja": "自転車は雨ざらしにすると錆びるよ。",
+      "en": "A bicycle will rust if you leave it in the rain."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

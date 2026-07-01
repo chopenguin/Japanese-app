@@ -1,0 +1,39 @@
+{
+  "id": "n3-0104",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "スケート",
+  "display": "スケート",
+  "meanings_zh": [
+    "冰鞋",
+    "冰刀",
+    "滑冰",
+    "溜冰"
+  ],
+  "meanings_en": [
+    "skate(s)",
+    "skating"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "スケートってできる？",
+      "en": "Can you skate?"
+    },
+    {
+      "ja": "スケート靴を履いて。",
+      "en": "Put on your skates."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

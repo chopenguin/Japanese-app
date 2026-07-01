@@ -1,0 +1,40 @@
+{
+  "id": "n3-0961",
+  "jlpt": "N3",
+  "kanji": "助ける",
+  "kana": "たすける",
+  "display": "助ける",
+  "meanings_zh": [
+    "助",
+    "帮助",
+    "援助",
+    "救"
+  ],
+  "meanings_en": [
+    "to help",
+    "to save",
+    "to rescue"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "芸は身を助ける。",
+      "en": "Art brings bread."
+    },
+    {
+      "ja": "ワインは消化を助ける。",
+      "en": "Wine helps digest food."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

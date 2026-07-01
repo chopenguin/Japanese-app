@@ -1,0 +1,38 @@
+{
+  "id": "n3-0847",
+  "jlpt": "N3",
+  "kanji": "飼う",
+  "kana": "かう",
+  "display": "飼う",
+  "meanings_zh": [
+    "养",
+    "饲养"
+  ],
+  "meanings_en": [
+    "to keep",
+    "to raise",
+    "to feed"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "がちょうを飼う。",
+      "en": "I raise a goose."
+    },
+    {
+      "ja": "猫を飼うのは不倫理的だよ。",
+      "en": "It's unethical to own a cat as a pet."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

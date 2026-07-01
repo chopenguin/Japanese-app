@@ -1,0 +1,40 @@
+{
+  "id": "n3-0531",
+  "jlpt": "N3",
+  "kanji": "詰める",
+  "kana": "つめる",
+  "display": "詰める",
+  "meanings_zh": [
+    "守候",
+    "值勤",
+    "上班",
+    "填"
+  ],
+  "meanings_en": [
+    "to pack",
+    "to shorten",
+    "to work out (details)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らは出資を切り詰めるでしょう。",
+      "en": "They will cut down on their expenses."
+    },
+    {
+      "ja": "あまり根を詰めるのは体に良くないよ。",
+      "en": "If you push yourself too hard, you'll make yourself ill."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

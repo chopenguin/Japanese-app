@@ -1,0 +1,39 @@
+{
+  "id": "n3-0939",
+  "jlpt": "N3",
+  "kanji": "祝い",
+  "kana": "いわい",
+  "display": "祝い",
+  "meanings_zh": [
+    "祝贺",
+    "庆祝",
+    "贺礼",
+    "祝贺的礼品"
+  ],
+  "meanings_en": [
+    "celebration",
+    "festival"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "御成功をお祝いします。",
+      "en": "I congratulate you on your success."
+    },
+    {
+      "ja": "私の結婚祝いに何くれる？",
+      "en": "What will you give me at my wedding?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

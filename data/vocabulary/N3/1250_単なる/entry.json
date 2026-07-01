@@ -1,0 +1,38 @@
+{
+  "id": "n3-1250",
+  "jlpt": "N3",
+  "kanji": "単なる",
+  "kana": "たんなる",
+  "display": "単なる",
+  "meanings_zh": [
+    "仅仅",
+    "只不过"
+  ],
+  "meanings_en": [
+    "mere",
+    "simple",
+    "sheer"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "単なる推測だろ。",
+      "en": "You're just guessing."
+    },
+    {
+      "ja": "お金は単なる紙よ。",
+      "en": "Money is just paper."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

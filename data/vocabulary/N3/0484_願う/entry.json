@@ -1,0 +1,40 @@
+{
+  "id": "n3-0484",
+  "jlpt": "N3",
+  "kanji": "願う",
+  "kana": "ねがう",
+  "display": "願う",
+  "meanings_zh": [
+    "请求",
+    "要求",
+    "恳求",
+    "恳请"
+  ],
+  "meanings_en": [
+    "to desire",
+    "to wish",
+    "to request"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私達は平和を願う。",
+      "en": "We long for peace."
+    },
+    {
+      "ja": "私たちはみな幸福を願う。",
+      "en": "We all wish for happiness."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

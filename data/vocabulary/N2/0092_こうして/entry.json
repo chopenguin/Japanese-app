@@ -1,0 +1,29 @@
+{
+  "id": "n2-0092",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "こうして",
+  "display": "こうして",
+  "meanings_zh": [],
+  "meanings_en": [
+    "thus"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "こうして彼は成功した。",
+      "en": "Thus he succeeded."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

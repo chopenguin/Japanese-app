@@ -1,0 +1,40 @@
+{
+  "id": "n3-0607",
+  "jlpt": "N3",
+  "kanji": "空き",
+  "kana": "あき",
+  "display": "空き",
+  "meanings_zh": [
+    "空当儿",
+    "空白",
+    "空",
+    "空儿"
+  ],
+  "meanings_en": [
+    "room",
+    "time to spare",
+    "emptiness"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "空き缶あったよ。",
+      "en": "I found the empty tin."
+    },
+    {
+      "ja": "空き箱あったよ。",
+      "en": "I found an empty box."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

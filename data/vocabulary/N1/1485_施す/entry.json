@@ -1,0 +1,42 @@
+{
+  "id": "n1-1485",
+  "jlpt": "N1",
+  "kanji": "施す",
+  "kana": "ほどこす",
+  "display": "施す",
+  "meanings_zh": [
+    "施舍",
+    "周济",
+    "施",
+    "施加"
+  ],
+  "meanings_en": [
+    "to donate",
+    "to give",
+    "to conduct",
+    "to apply",
+    "to perform"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "人々に善行を施すのに積極的であれ。",
+      "en": "Be active in doing good for people."
+    },
+    {
+      "ja": "私はこの計画を実施するつもりです。",
+      "en": "I'm going to carry out this plan."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

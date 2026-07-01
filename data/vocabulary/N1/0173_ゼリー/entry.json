@@ -1,0 +1,39 @@
+{
+  "id": "n1-0173",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ゼリー",
+  "display": "ゼリー",
+  "meanings_zh": [
+    "果子冻",
+    "果汁冻",
+    "胶状物",
+    "胶状药品"
+  ],
+  "meanings_en": [
+    "1.  jelly",
+    "2.  Jerry"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼の好きなのはゼリーです。",
+      "en": "It is jelly that he likes."
+    },
+    {
+      "ja": "ゼリーは冷えると固くなる。",
+      "en": "Jelly sets as it cools."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

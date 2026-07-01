@@ -1,0 +1,35 @@
+{
+  "id": "n1-3328",
+  "jlpt": "N1",
+  "kanji": "良心",
+  "kana": "りょうしん",
+  "display": "良心",
+  "meanings_zh": [
+    "良心"
+  ],
+  "meanings_en": [
+    "conscience"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "良心が彼を苦しめた。",
+      "en": "His conscience stung him."
+    },
+    {
+      "ja": "良心が彼をとがめた。",
+      "en": "His conscience pricked him."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n1-0243",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "バー",
+  "display": "バー",
+  "meanings_zh": [
+    "横竿",
+    "横梁",
+    "酒吧间",
+    "(西式)酒馆"
+  ],
+  "meanings_en": [
+    "bar"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムはバーにいた。",
+      "en": "Tom was at the bar."
+    },
+    {
+      "ja": "サーバーが落ちてる。",
+      "en": "The servers are down."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

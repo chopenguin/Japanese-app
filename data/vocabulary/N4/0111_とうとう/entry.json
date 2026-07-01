@@ -1,0 +1,39 @@
+{
+  "id": "n4-0111",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "とうとう",
+  "display": "とうとう",
+  "meanings_zh": [
+    "终于",
+    "到底",
+    "终究",
+    "结局"
+  ],
+  "meanings_en": [
+    "finally",
+    "after all"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "とうとう彼が現れた。",
+      "en": "At last he appeared."
+    },
+    {
+      "ja": "とうとう彼は殺された。",
+      "en": "He was put to death finally."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

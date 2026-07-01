@@ -1,0 +1,41 @@
+{
+  "id": "n3-0837",
+  "jlpt": "N3",
+  "kanji": "止す",
+  "kana": "よす",
+  "display": "止す",
+  "meanings_zh": [
+    "停止",
+    "作罢",
+    "戒",
+    "忌"
+  ],
+  "meanings_en": [
+    "to cease",
+    "to abolish",
+    "to resign",
+    "to give up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "処刑を廃止するべきだ。",
+      "en": "We should abolish the death penalty."
+    },
+    {
+      "ja": "死刑は廃止すべきである。",
+      "en": "We must abolish the death penalty."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

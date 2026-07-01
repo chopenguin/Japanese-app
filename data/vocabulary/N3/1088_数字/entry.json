@@ -1,0 +1,37 @@
+{
+  "id": "n3-1088",
+  "jlpt": "N3",
+  "kanji": "数字",
+  "kana": "すうじ",
+  "display": "数字",
+  "meanings_zh": [
+    "数字",
+    "数据"
+  ],
+  "meanings_en": [
+    "numeral",
+    "figure"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "3桁の数字です。",
+      "en": "It's a three-digit number."
+    },
+    {
+      "ja": "ローマ数字わかる？",
+      "en": "Do you understand Roman numerals?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

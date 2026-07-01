@@ -1,0 +1,39 @@
+{
+  "id": "n1-3131",
+  "jlpt": "N1",
+  "kanji": "無駄遣い",
+  "kana": "むだづかい",
+  "display": "無駄遣い",
+  "meanings_zh": [
+    "浪费",
+    "乱花钱",
+    "乱用"
+  ],
+  "meanings_en": [
+    "waste money on",
+    "squander money on",
+    "flog a dead horse"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "無駄遣いをするな。",
+      "en": "Don't waste your money."
+    },
+    {
+      "ja": "水の無駄遣いだよ！",
+      "en": "What a waste of water!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

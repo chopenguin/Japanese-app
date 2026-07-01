@@ -1,0 +1,38 @@
+{
+  "id": "n5-0274",
+  "jlpt": "N5",
+  "kanji": "近い",
+  "kana": "ちかい",
+  "display": "近い",
+  "meanings_zh": [
+    "近",
+    "接近",
+    "靠近",
+    "靠"
+  ],
+  "meanings_en": [
+    "near"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "決断の日は近い。",
+      "en": "The day of decision is at hand."
+    },
+    {
+      "ja": "もう１０時近い。",
+      "en": "It is almost ten o'clock."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

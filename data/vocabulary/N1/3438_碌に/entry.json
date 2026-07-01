@@ -1,0 +1,29 @@
+{
+  "id": "n1-3438",
+  "jlpt": "N1",
+  "kanji": "碌に",
+  "kana": "ろくに",
+  "display": "碌に",
+  "meanings_zh": [
+    "很好地",
+    "令人满意地正经地"
+  ],
+  "meanings_en": [
+    "well",
+    "enough",
+    "sufficient"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

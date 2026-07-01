@@ -1,0 +1,37 @@
+{
+  "id": "n1-2909",
+  "jlpt": "N1",
+  "kanji": "風習",
+  "kana": "ふうしゅう",
+  "display": "風習",
+  "meanings_zh": [
+    "风俗习惯",
+    "习惯",
+    "风俗"
+  ],
+  "meanings_en": [
+    "custom"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その風習はすたれつつある。",
+      "en": "That custom is on the decrease."
+    },
+    {
+      "ja": "時代が変われば風習も変わる。",
+      "en": "Other times, other manners."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

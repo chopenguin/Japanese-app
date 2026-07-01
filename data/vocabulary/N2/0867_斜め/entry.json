@@ -1,0 +1,38 @@
+{
+  "id": "n2-0867",
+  "jlpt": "N2",
+  "kanji": "斜め",
+  "kana": "ななめ",
+  "display": "斜め",
+  "meanings_zh": [
+    "歪",
+    "斜",
+    "倾斜",
+    "情绪不好"
+  ],
+  "meanings_en": [
+    "obliqueness"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女はご機嫌斜めだ。",
+      "en": "She is in a mood."
+    },
+    {
+      "ja": "布を斜めに切ります。",
+      "en": "Cut the cloth diagonally."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

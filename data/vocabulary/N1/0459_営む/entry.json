@@ -1,0 +1,39 @@
+{
+  "id": "n1-0459",
+  "jlpt": "N1",
+  "kanji": "営む",
+  "kana": "いとなむ",
+  "display": "営む",
+  "meanings_zh": [
+    "营",
+    "办",
+    "从事",
+    "经营"
+  ],
+  "meanings_en": [
+    "to carry on (e.g. in ceremony)",
+    "to run a business"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その島には漁業を営む人たちが住んでいた。",
+      "en": "The island was inhabited by a fishing people."
+    },
+    {
+      "ja": "彼はとどまって父親の商売を営むことにした。",
+      "en": "He decided to stay and carry on his father's business."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

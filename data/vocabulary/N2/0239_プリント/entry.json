@@ -1,0 +1,39 @@
+{
+  "id": "n2-0239",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "プリント",
+  "display": "プリント",
+  "meanings_zh": [
+    "印刷",
+    "印刷品",
+    "油印",
+    "油印品"
+  ],
+  "meanings_en": [
+    "print",
+    "handout"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "先生は生徒たちにプリントを配布した。",
+      "en": "The teacher distributed the handouts to the students."
+    },
+    {
+      "ja": "ミスプリントのないような本はほとんどない。",
+      "en": "There are few books without misprints."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

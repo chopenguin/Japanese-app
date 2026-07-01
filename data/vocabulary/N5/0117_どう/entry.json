@@ -1,0 +1,34 @@
+{
+  "id": "n5-0117",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "どう",
+  "display": "どう",
+  "meanings_zh": [],
+  "meanings_en": [
+    "how",
+    "in what way"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "是非どうぞ。",
+      "en": "By all means."
+    },
+    {
+      "ja": "景気はどう？",
+      "en": "How goes it?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n2-0100",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "こっそり",
+  "display": "こっそり",
+  "meanings_zh": [
+    "悄悄",
+    "偷偷",
+    "探头探脑",
+    "鸆手鸆脚"
+  ],
+  "meanings_en": [
+    "stealthily",
+    "secretly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "こっそり家に忍び込む。",
+      "en": "I steal into the house."
+    },
+    {
+      "ja": "彼はこっそりささやいた。",
+      "en": "He whispered slyly to me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

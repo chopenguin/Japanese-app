@@ -1,0 +1,35 @@
+{
+  "id": "n1-1008",
+  "jlpt": "N1",
+  "kanji": "区々",
+  "kana": "まちまち",
+  "display": "区々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "1.  several",
+    "various",
+    "divergent",
+    "conflicting",
+    "different",
+    "diverse",
+    "2.  trivial"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この点については意見が区々に分かれている。",
+      "en": "Opinion is divided on this point."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

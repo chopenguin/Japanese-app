@@ -1,0 +1,38 @@
+{
+  "id": "n5-0653",
+  "jlpt": "N5",
+  "kanji": "冷たい",
+  "kana": "つめたい",
+  "display": "冷たい",
+  "meanings_zh": [
+    "冷",
+    "凉",
+    "冰凉",
+    "冷淡"
+  ],
+  "meanings_en": [
+    "cold to the touch"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "冷たいなあ。",
+      "en": "That's a bit cold."
+    },
+    {
+      "ja": "床は冷たい。",
+      "en": "The floor is cold."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "n2-1018",
+  "jlpt": "N2",
+  "kanji": "心得る",
+  "kana": "こころえる",
+  "display": "心得る",
+  "meanings_zh": [
+    "懂得",
+    "明白",
+    "理解",
+    "领会"
+  ],
+  "meanings_en": [
+    "to be informed",
+    "to have thorough knowledge"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

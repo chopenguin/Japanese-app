@@ -1,0 +1,33 @@
+{
+  "id": "n1-2229",
+  "jlpt": "N1",
+  "kanji": "打付ける",
+  "kana": "ぶつける",
+  "display": "打付ける",
+  "meanings_zh": [
+    "扔",
+    "投",
+    "掷",
+    "打"
+  ],
+  "meanings_en": [
+    "to knock",
+    "to run into",
+    "to nail on",
+    "to strike hard",
+    "to hit and attack"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

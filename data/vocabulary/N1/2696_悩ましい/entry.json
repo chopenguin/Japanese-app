@@ -1,0 +1,40 @@
+{
+  "id": "n1-2696",
+  "jlpt": "N1",
+  "kanji": "悩ましい",
+  "kana": "なやましい",
+  "display": "悩ましい",
+  "meanings_zh": [
+    "难过",
+    "难受",
+    "痛苦",
+    "苦恼"
+  ],
+  "meanings_en": [
+    "seductive",
+    "melancholy",
+    "languid"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は悩ましい目つきで僕を見た。",
+      "en": "She looked at me seductively."
+    },
+    {
+      "ja": "自分の名前をネットで検索したら、初めの５ページは私のことじゃないのよ。それって誇りに思うべきか恥ずべきか。悩ましいわ。",
+      "en": "I wonder if I should be proud that the first five pages of search results from searching for my name on the internet aren't about me, or if I should be ashamed."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

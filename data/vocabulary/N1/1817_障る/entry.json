@@ -1,0 +1,42 @@
+{
+  "id": "n1-1817",
+  "jlpt": "N1",
+  "kanji": "障る",
+  "kana": "さわる",
+  "display": "障る",
+  "meanings_zh": [
+    "妨碍",
+    "障碍",
+    "阻碍",
+    "有坏影响"
+  ],
+  "meanings_en": [
+    "to hinder",
+    "to interfere with",
+    "to affect",
+    "to do one harm",
+    "to be harmful to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "咲桜の話し方って、癇に障るのよ。",
+      "en": "Sakura's way of speaking gets on my nerves."
+    },
+    {
+      "ja": "どうしてだろうね。癪に障るのよね。",
+      "en": "I wonder why, right. It irritates, do you agree?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

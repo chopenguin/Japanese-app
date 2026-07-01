@@ -1,0 +1,38 @@
+{
+  "id": "n1-0228",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "トラブル",
+  "display": "トラブル",
+  "meanings_zh": [
+    "纠纷",
+    "纠葛",
+    "纷争",
+    "麻烦"
+  ],
+  "meanings_en": [
+    "trouble (sometimes used as a verb)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私はトラブルに巻き込まれた。",
+      "en": "I was involved in the trouble."
+    },
+    {
+      "ja": "彼らのトラブルとは無関係だ。",
+      "en": "I have nothing to do with their troubles."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

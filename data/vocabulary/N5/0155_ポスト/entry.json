@@ -1,0 +1,38 @@
+{
+  "id": "n5-0155",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ポスト",
+  "display": "ポスト",
+  "meanings_zh": [
+    "邮筒",
+    "信筒",
+    "信箱",
+    "地位"
+  ],
+  "meanings_en": [
+    "post"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ポスト争いは厳しい。",
+      "en": "Competition for the position is very intense."
+    },
+    {
+      "ja": "彼はそのポストに適任だ。",
+      "en": "He is adequate for the post."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

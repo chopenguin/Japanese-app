@@ -1,0 +1,29 @@
+{
+  "id": "n1-0690",
+  "jlpt": "N1",
+  "kanji": "隔たる",
+  "kana": "へだたる",
+  "display": "隔たる",
+  "meanings_zh": [
+    "相隔",
+    "离",
+    "距",
+    "不同"
+  ],
+  "meanings_en": [
+    "to be distant"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

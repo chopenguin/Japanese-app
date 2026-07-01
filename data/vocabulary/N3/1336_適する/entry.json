@@ -1,0 +1,30 @@
+{
+  "id": "n3-1336",
+  "jlpt": "N3",
+  "kanji": "適する",
+  "kana": "てきする",
+  "display": "適する",
+  "meanings_zh": [
+    "适合",
+    "适应",
+    "适于",
+    "适当"
+  ],
+  "meanings_en": [
+    "to fit",
+    "to suit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

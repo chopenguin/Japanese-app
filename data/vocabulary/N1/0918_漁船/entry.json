@@ -1,0 +1,33 @@
+{
+  "id": "n1-0918",
+  "jlpt": "N1",
+  "kanji": "漁船",
+  "kana": "ぎょせん",
+  "display": "漁船",
+  "meanings_zh": [],
+  "meanings_en": [
+    "fishing boat"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "たった今漁船が陸を離れた。",
+      "en": "A fishing boat put off just now."
+    },
+    {
+      "ja": "大型船が漁船に衝突しました。",
+      "en": "The big ship rammed the fishing boat."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

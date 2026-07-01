@@ -1,0 +1,40 @@
+{
+  "id": "n1-1772",
+  "jlpt": "N1",
+  "kanji": "勝る",
+  "kana": "まさる",
+  "display": "勝る",
+  "meanings_zh": [
+    "比～～好",
+    "胜过",
+    "强过",
+    "凌驾"
+  ],
+  "meanings_en": [
+    "to excel",
+    "to surpass",
+    "to outrival"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "文は武に勝る。",
+      "en": "The pen is mightier than the sword."
+    },
+    {
+      "ja": "知恵は富に勝る。",
+      "en": "Wisdom is better than riches."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

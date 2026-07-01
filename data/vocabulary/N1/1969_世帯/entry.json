@@ -1,0 +1,33 @@
+{
+  "id": "n1-1969",
+  "jlpt": "N1",
+  "kanji": "世帯",
+  "kana": "せたい",
+  "display": "世帯",
+  "meanings_zh": [],
+  "meanings_en": [
+    "household"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "火事で４世帯が焼死した。",
+      "en": "Four families were killed in the fire."
+    },
+    {
+      "ja": "この村に５０世帯がいます。",
+      "en": "There are fifty families in this village."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

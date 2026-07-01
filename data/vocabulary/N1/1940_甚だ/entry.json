@@ -1,0 +1,40 @@
+{
+  "id": "n1-1940",
+  "jlpt": "N1",
+  "kanji": "甚だ",
+  "kana": "はなはだ",
+  "display": "甚だ",
+  "meanings_zh": [
+    "很",
+    "甚",
+    "非常",
+    "极其"
+  ],
+  "meanings_en": [
+    "very",
+    "greatly",
+    "exceedingly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "フランス料理は私の甚だ好む所だ。",
+      "en": "I like French food very much."
+    },
+    {
+      "ja": "あんなことを彼女に言うなんて非常識も甚だしい。",
+      "en": "It's quite absurd of you to tell her that sort of thing."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

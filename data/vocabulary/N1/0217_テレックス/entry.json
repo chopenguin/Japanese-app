@@ -1,0 +1,34 @@
+{
+  "id": "n1-0217",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "テレックス",
+  "display": "テレックス",
+  "meanings_zh": [
+    "电传",
+    "用户电报",
+    "直通电报"
+  ],
+  "meanings_en": [
+    "telex",
+    "teletypewriter exchange"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "テレックスでご返事ください。",
+      "en": "Please answer by telex."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

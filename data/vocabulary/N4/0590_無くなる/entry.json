@@ -1,0 +1,39 @@
+{
+  "id": "n4-0590",
+  "jlpt": "N4",
+  "kanji": "無くなる",
+  "kana": "なくなる",
+  "display": "無くなる",
+  "meanings_zh": [
+    "丢",
+    "丢失",
+    "遗失",
+    "丧失"
+  ],
+  "meanings_en": [
+    "to disappear",
+    "to get lost"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "会議は恐らく無くなるよ。",
+      "en": "The meeting will probably be canceled."
+    },
+    {
+      "ja": "金は持っていると無くなる。",
+      "en": "Ready money will away."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

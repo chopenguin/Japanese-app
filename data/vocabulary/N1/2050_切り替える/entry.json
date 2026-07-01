@@ -1,0 +1,35 @@
+{
+  "id": "n1-2050",
+  "jlpt": "N1",
+  "kanji": "切り替える",
+  "kana": "きりかえる",
+  "display": "切り替える",
+  "meanings_zh": [
+    "转换",
+    "改换",
+    "掉换",
+    "兑换"
+  ],
+  "meanings_en": [
+    "to change",
+    "to exchange",
+    "to convert",
+    "to renew",
+    "to throw a switch",
+    "to replace",
+    "to switch over"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

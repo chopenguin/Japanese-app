@@ -1,0 +1,40 @@
+{
+  "id": "n3-0373",
+  "jlpt": "N3",
+  "kanji": "加える",
+  "kana": "くわえる",
+  "display": "加える",
+  "meanings_zh": [
+    "加",
+    "加上",
+    "增加",
+    "添加"
+  ],
+  "meanings_en": [
+    "to append",
+    "to sum up",
+    "to add (up)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は必要な変更を加える。",
+      "en": "He makes necessary changes."
+    },
+    {
+      "ja": "仕上げの筆を少し加える。",
+      "en": "I add a few finishing touches."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

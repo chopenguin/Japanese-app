@@ -1,0 +1,32 @@
+{
+  "id": "n1-2186",
+  "jlpt": "N1",
+  "kanji": "即する",
+  "kana": "そくする",
+  "display": "即する",
+  "meanings_zh": [
+    "就",
+    "适应",
+    "结合",
+    "符合"
+  ],
+  "meanings_en": [
+    "to conform to",
+    "to agree with",
+    "to be adapted to",
+    "to be based on"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n3-0145",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "チャンス",
+  "display": "チャンス",
+  "meanings_zh": [
+    "机会",
+    "良机"
+  ],
+  "meanings_en": [
+    "chance",
+    "opportunity"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "最後のチャンス！",
+      "en": "Last call!"
+    },
+    {
+      "ja": "チャンスを逃すな。",
+      "en": "Don't let opportunities pass by."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

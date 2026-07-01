@@ -1,0 +1,36 @@
+{
+  "id": "n2-1751",
+  "jlpt": "N2",
+  "kanji": "量る",
+  "kana": "はかる",
+  "display": "量る",
+  "meanings_zh": [
+    "称",
+    "量",
+    "衡量",
+    "测量"
+  ],
+  "meanings_en": [
+    "to measure",
+    "to weigh",
+    "to survey"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今日から毎日体重量ることにした。",
+      "en": "I have decided to weigh myself every day starting today."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

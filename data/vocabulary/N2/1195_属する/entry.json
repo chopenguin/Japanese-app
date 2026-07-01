@@ -1,0 +1,41 @@
+{
+  "id": "n2-1195",
+  "jlpt": "N2",
+  "kanji": "属する",
+  "kana": "ぞくする",
+  "display": "属する",
+  "meanings_zh": [
+    "属于",
+    "归于",
+    "从属于",
+    "隶属"
+  ],
+  "meanings_en": [
+    "to belong to",
+    "to come under",
+    "to be affiliated with",
+    "to be subject to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は上流階級に属する。",
+      "en": "He belongs to the upper class."
+    },
+    {
+      "ja": "鯨は哺乳動物に属する。",
+      "en": "Whales come under mammals."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

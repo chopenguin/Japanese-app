@@ -1,0 +1,30 @@
+{
+  "id": "n1-2266",
+  "jlpt": "N1",
+  "kanji": "退ける",
+  "kana": "しりぞける",
+  "display": "退ける",
+  "meanings_zh": [
+    "斥退",
+    "退去",
+    "退下",
+    "击退"
+  ],
+  "meanings_en": [
+    "to repel",
+    "to drive away"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

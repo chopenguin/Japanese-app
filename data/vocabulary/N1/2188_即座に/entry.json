@@ -1,0 +1,34 @@
+{
+  "id": "n1-2188",
+  "jlpt": "N1",
+  "kanji": "即座に",
+  "kana": "そくざに",
+  "display": "即座に",
+  "meanings_zh": [],
+  "meanings_en": [
+    "immediately",
+    "right away"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は即座に承知した。",
+      "en": "He consented on the spot."
+    },
+    {
+      "ja": "即座に同意しました。",
+      "en": "I agreed immediately."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

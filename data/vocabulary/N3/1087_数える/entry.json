@@ -1,0 +1,38 @@
+{
+  "id": "n3-1087",
+  "jlpt": "N3",
+  "kanji": "数える",
+  "kana": "かぞえる",
+  "display": "数える",
+  "meanings_zh": [
+    "数",
+    "计算",
+    "列举",
+    "枚举"
+  ],
+  "meanings_en": [
+    "to count"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ひなを数えるな。",
+      "en": "Don't count your chickens."
+    },
+    {
+      "ja": "10数えるまで待ってて。",
+      "en": "Wait till I count to ten."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

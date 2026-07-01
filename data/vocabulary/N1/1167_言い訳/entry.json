@@ -1,0 +1,34 @@
+{
+  "id": "n1-1167",
+  "jlpt": "N1",
+  "kanji": "言い訳",
+  "kana": "いいわけ",
+  "display": "言い訳",
+  "meanings_zh": [],
+  "meanings_en": [
+    "excuse",
+    "explanation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は言い訳を始めた。",
+      "en": "He began to make excuses."
+    },
+    {
+      "ja": "彼は言い訳がうまい。",
+      "en": "He is clever at making excuses."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

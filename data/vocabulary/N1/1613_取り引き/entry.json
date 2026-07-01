@@ -1,0 +1,35 @@
+{
+  "id": "n1-1613",
+  "jlpt": "N1",
+  "kanji": "取り引き",
+  "kana": "とりひき",
+  "display": "取り引き",
+  "meanings_zh": [],
+  "meanings_en": [
+    "transactions",
+    "dealings",
+    "business"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あなたと取り引きします。",
+      "en": "I make you a deal."
+    },
+    {
+      "ja": "その銀行に取り引きがある。",
+      "en": "We have an account with the bank."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

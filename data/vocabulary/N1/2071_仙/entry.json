@@ -1,0 +1,34 @@
+{
+  "id": "n1-2071",
+  "jlpt": "N1",
+  "kanji": "仙",
+  "kana": "せん",
+  "display": "仙",
+  "meanings_zh": [],
+  "meanings_en": [
+    "hermit",
+    "wizard"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女はこの春仙台へ行く。",
+      "en": "She is going to Sendai this spring."
+    },
+    {
+      "ja": "仙台では七月に雨が多い。",
+      "en": "In Sendai we have much rain in July."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

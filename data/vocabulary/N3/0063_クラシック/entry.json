@@ -1,0 +1,38 @@
+{
+  "id": "n3-0063",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "クラシック",
+  "display": "クラシック",
+  "meanings_zh": [
+    "古典",
+    "古典音乐",
+    "(西方的)传统音乐",
+    "古典的"
+  ],
+  "meanings_en": [
+    "classic(s)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "クラシックはありません。",
+      "en": "I don't have any classical music."
+    },
+    {
+      "ja": "私はクラシックが好きです。",
+      "en": "I like classical music."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

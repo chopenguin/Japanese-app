@@ -1,0 +1,37 @@
+{
+  "id": "n2-0244",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ベテラン",
+  "display": "ベテラン",
+  "meanings_zh": [
+    "老手",
+    "老把式",
+    "老练的人"
+  ],
+  "meanings_en": [
+    "veteran"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ベテランさんに聞いてみて。",
+      "en": "Ask an expert."
+    },
+    {
+      "ja": "彼はベテランのドライバーだ。",
+      "en": "He is an expert driver."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "n3-1161",
+  "jlpt": "N3",
+  "kanji": "全て",
+  "kana": "すべて",
+  "display": "全て",
+  "meanings_zh": [
+    "一切",
+    "全部",
+    "所有",
+    "总共"
+  ],
+  "meanings_en": [
+    "all",
+    "the whole",
+    "entirely",
+    "in general",
+    "wholly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "潮の全てはひく。",
+      "en": "Every tide has its ebb."
+    },
+    {
+      "ja": "全て嫌いである。",
+      "en": "I like none of them."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

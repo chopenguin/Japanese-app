@@ -1,0 +1,39 @@
+{
+  "id": "n5-0590",
+  "jlpt": "N5",
+  "kanji": "並ぶ",
+  "kana": "ならぶ",
+  "display": "並ぶ",
+  "meanings_zh": [
+    "排",
+    "排成",
+    "列队",
+    "比得上"
+  ],
+  "meanings_en": [
+    "to line up",
+    "to stand in a line"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "英国人は列を作って並ぶのに慣れている。",
+      "en": "British people are used to standing in queues."
+    },
+    {
+      "ja": "秋の味覚が店頭に並ぶ季節となりました。",
+      "en": "It was the time of year when the tastes of autumn were lined up in the storefront."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

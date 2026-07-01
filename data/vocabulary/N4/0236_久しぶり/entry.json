@@ -1,0 +1,33 @@
+{
+  "id": "n4-0236",
+  "jlpt": "N4",
+  "kanji": "久しぶり",
+  "kana": "ひさしぶり",
+  "display": "久しぶり",
+  "meanings_zh": [],
+  "meanings_en": [
+    "after a long time"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お久しぶり。",
+      "en": "Long time, no see."
+    },
+    {
+      "ja": "よう、久しぶり。",
+      "en": "Hey, long time no see."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

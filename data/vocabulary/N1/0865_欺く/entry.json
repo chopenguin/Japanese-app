@@ -1,0 +1,38 @@
+{
+  "id": "n1-0865",
+  "jlpt": "N1",
+  "kanji": "欺く",
+  "kana": "あざむく",
+  "display": "欺く",
+  "meanings_zh": [
+    "欺",
+    "骗",
+    "赛过",
+    "胜似"
+  ],
+  "meanings_en": [
+    "to deceive"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "自分を欺くのはやめましょう。",
+      "en": "Stop deluding yourself."
+    },
+    {
+      "ja": "彼は他人を欺くようなことはしない。",
+      "en": "He is above deceiving others."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

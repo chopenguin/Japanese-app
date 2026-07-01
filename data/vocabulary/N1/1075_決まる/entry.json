@@ -1,0 +1,40 @@
+{
+  "id": "n1-1075",
+  "jlpt": "N1",
+  "kanji": "決まる",
+  "kana": "きまる",
+  "display": "決まる",
+  "meanings_zh": [
+    "定",
+    "决定",
+    "规定",
+    "一定"
+  ],
+  "meanings_en": [
+    "to be decided",
+    "to be settled",
+    "to look good in (clothes)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "仕事が決まるといいね。",
+      "en": "I hope you get the job."
+    },
+    {
+      "ja": "価格はコストと需要で決まる。",
+      "en": "Price depends on costs and demand."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

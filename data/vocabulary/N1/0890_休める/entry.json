@@ -1,0 +1,40 @@
+{
+  "id": "n1-0890",
+  "jlpt": "N1",
+  "kanji": "休める",
+  "kana": "やすめる",
+  "display": "休める",
+  "meanings_zh": [
+    "可以休息",
+    "能够休息",
+    "使休息",
+    "使停歇"
+  ],
+  "meanings_en": [
+    "to rest",
+    "to suspend",
+    "to give relief"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "明日って、仕事休める？",
+      "en": "Can you get off work tomorrow?"
+    },
+    {
+      "ja": "この仕事がすんだらたっぷり休める。",
+      "en": "I can take a good long rest when this work is finished."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

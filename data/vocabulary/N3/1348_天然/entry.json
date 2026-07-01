@@ -1,0 +1,37 @@
+{
+  "id": "n3-1348",
+  "jlpt": "N3",
+  "kanji": "天然",
+  "kana": "てんねん",
+  "display": "天然",
+  "meanings_zh": [
+    "天然",
+    "自然"
+  ],
+  "meanings_en": [
+    "nature",
+    "spontaneity"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女の髪は天然パーマだ。",
+      "en": "Her hair is naturally curly."
+    },
+    {
+      "ja": "日本は天然資源に乏しい。",
+      "en": "Japan is poor in natural resources."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

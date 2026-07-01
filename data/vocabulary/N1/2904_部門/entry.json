@@ -1,0 +1,42 @@
+{
+  "id": "n1-2904",
+  "jlpt": "N1",
+  "kanji": "部門",
+  "kana": "ぶもん",
+  "display": "部門",
+  "meanings_zh": [
+    "部门",
+    "部类",
+    "方面"
+  ],
+  "meanings_en": [
+    "class",
+    "group",
+    "category",
+    "department",
+    "field",
+    "branch"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "代数は数学の１部門です。",
+      "en": "Algebra is a branch of mathematics."
+    },
+    {
+      "ja": "私は営業部門の一員です。",
+      "en": "I am a member of the sales department."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

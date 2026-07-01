@@ -1,0 +1,36 @@
+{
+  "id": "n1-1035",
+  "jlpt": "N1",
+  "kanji": "傾く",
+  "kana": "かたぶく",
+  "display": "傾く",
+  "meanings_zh": [
+    "倾",
+    "倾斜",
+    "偏",
+    "歪"
+  ],
+  "meanings_en": [
+    "to incline toward",
+    "to slant",
+    "to lurch",
+    "to heel over",
+    "to be disposed to",
+    "to trend toward",
+    "to be prone to",
+    "to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

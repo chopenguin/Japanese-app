@@ -1,0 +1,30 @@
+{
+  "id": "n4-0082",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "すっと",
+  "display": "すっと",
+  "meanings_zh": [
+    "迅速地",
+    "轻快地",
+    "一下子",
+    "悠地"
+  ],
+  "meanings_en": [
+    "straight",
+    "all of a sudden"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

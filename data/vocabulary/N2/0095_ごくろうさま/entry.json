@@ -1,0 +1,29 @@
+{
+  "id": "n2-0095",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ごくろうさま",
+  "display": "ごくろうさま",
+  "meanings_zh": [],
+  "meanings_en": [
+    "Thank you very much for your...."
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ごくろうさまでした。",
+      "en": "Thanks for the hard work."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

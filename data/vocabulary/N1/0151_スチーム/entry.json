@@ -1,0 +1,37 @@
+{
+  "id": "n1-0151",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "スチーム",
+  "display": "スチーム",
+  "meanings_zh": [
+    "蒸汽",
+    "水蒸气",
+    "暖气(设备)"
+  ],
+  "meanings_en": [
+    "steam"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は私達のテニスチームに入っている。",
+      "en": "He belongs to our tennis team."
+    },
+    {
+      "ja": "スチームショベルは片方に三階建て、もう片方に四階建ての地下を掘りました。",
+      "en": "The steam shovels dug down three stories on one side and four stories on the other side."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

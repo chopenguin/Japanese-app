@@ -1,0 +1,44 @@
+{
+  "id": "n1-1669",
+  "jlpt": "N1",
+  "kanji": "収まる",
+  "kana": "おさまる",
+  "display": "収まる",
+  "meanings_zh": [
+    "容纳",
+    "收纳",
+    "缴纳",
+    "心满意足"
+  ],
+  "meanings_en": [
+    "to be obtained",
+    "to end",
+    "to settle into",
+    "to fit into",
+    "to be settled",
+    "to be paid",
+    "to be delivered"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "収まる気配が一切ない。",
+      "en": "There's no end in sight."
+    },
+    {
+      "ja": "最後にはうまく収まるだろう。",
+      "en": "It'll come right in the end."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

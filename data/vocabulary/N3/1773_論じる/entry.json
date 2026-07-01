@@ -1,0 +1,35 @@
+{
+  "id": "n3-1773",
+  "jlpt": "N3",
+  "kanji": "論じる",
+  "kana": "ろんじる",
+  "display": "論じる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to argue",
+    "to discuss",
+    "to debate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は単に議論のために論じる。",
+      "en": "She argues just for the sake of arguing."
+    },
+    {
+      "ja": "われわれがその問題を論じるには、３時間は短すぎます。",
+      "en": "Three hours is too short for us to discuss that matter."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

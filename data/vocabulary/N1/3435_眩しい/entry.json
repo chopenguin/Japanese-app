@@ -1,0 +1,35 @@
+{
+  "id": "n1-3435",
+  "jlpt": "N1",
+  "kanji": "眩しい",
+  "kana": "まぶしい",
+  "display": "眩しい",
+  "meanings_zh": [
+    "晃眼",
+    "耀眼",
+    "光辉耀眼",
+    "光彩夺目"
+  ],
+  "meanings_en": [
+    "dazzling",
+    "radiant"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "寝転がると、天井の照明が思いの外眩しい。",
+      "en": "As I lay down to sleep, the ceiling lights were unexpectedly bright."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

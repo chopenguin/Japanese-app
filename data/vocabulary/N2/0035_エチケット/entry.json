@@ -1,0 +1,38 @@
+{
+  "id": "n2-0035",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "エチケット",
+  "display": "エチケット",
+  "meanings_zh": [
+    "礼貌",
+    "礼节",
+    "礼仪",
+    "规矩"
+  ],
+  "meanings_en": [
+    "etiquette"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それはエチケットの問題だ。",
+      "en": "It's a matter of etiquette."
+    },
+    {
+      "ja": "彼らがエチケットを知らないことに彼女はがっかりした。",
+      "en": "She was dismayed at their ignorance in etiquette."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

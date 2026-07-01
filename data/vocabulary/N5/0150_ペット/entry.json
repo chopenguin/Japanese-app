@@ -1,0 +1,38 @@
+{
+  "id": "n5-0150",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ペット",
+  "display": "ペット",
+  "meanings_zh": [
+    "宠物",
+    "心爱物",
+    "玩赏动物",
+    "宠儿"
+  ],
+  "meanings_en": [
+    "pet"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はペットに優しい。",
+      "en": "He's gentle with our pets."
+    },
+    {
+      "ja": "ペット持ち込み禁止。",
+      "en": "No pets allowed."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

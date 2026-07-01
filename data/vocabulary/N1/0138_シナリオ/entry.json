@@ -1,0 +1,36 @@
+{
+  "id": "n1-0138",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "シナリオ",
+  "display": "シナリオ",
+  "meanings_zh": [
+    "剧本",
+    "脚本"
+  ],
+  "meanings_en": [
+    "scenario"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "最悪のシナリオは何ですか？",
+      "en": "What's the worst case scenario?"
+    },
+    {
+      "ja": "映画のシナリオみたいですね。",
+      "en": "That's something like a movie scenario."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

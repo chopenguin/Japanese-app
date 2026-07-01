@@ -1,0 +1,29 @@
+{
+  "id": "n2-0926",
+  "jlpt": "N2",
+  "kanji": "縮れる",
+  "kana": "ちぢれる",
+  "display": "縮れる",
+  "meanings_zh": [
+    "卷曲",
+    "起皱",
+    "出褶"
+  ],
+  "meanings_en": [
+    "to be wavy",
+    "to be curled"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "n1-0115",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "コントラスト",
+  "display": "コントラスト",
+  "meanings_zh": [
+    "对比",
+    "对照",
+    "反差",
+    "对比度"
+  ],
+  "meanings_en": [
+    "contrast"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その洋服は赤と白のコントラストが美しい。",
+      "en": "The dress has a beautiful contrast between red and white."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

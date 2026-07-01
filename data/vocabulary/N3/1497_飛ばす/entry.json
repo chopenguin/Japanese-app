@@ -1,0 +1,39 @@
+{
+  "id": "n3-1497",
+  "jlpt": "N3",
+  "kanji": "飛ばす",
+  "kana": "とばす",
+  "display": "飛ばす",
+  "meanings_zh": [
+    "放",
+    "吹跑",
+    "吹起",
+    "迸"
+  ],
+  "meanings_en": [
+    "to skip over",
+    "to omit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "テストで解らないところは飛ばす。",
+      "en": "Skip the parts you don't understand on the test."
+    },
+    {
+      "ja": "凧を飛ばすのは危険になることがある。",
+      "en": "Flying kites can be dangerous."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

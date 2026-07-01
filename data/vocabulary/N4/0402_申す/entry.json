@@ -1,0 +1,30 @@
+{
+  "id": "n4-0402",
+  "jlpt": "N4",
+  "kanji": "申す",
+  "kana": "もうす",
+  "display": "申す",
+  "meanings_zh": [
+    "说",
+    "讲",
+    "告诉",
+    "叫做"
+  ],
+  "meanings_en": [
+    "(humble) to be called",
+    "to say"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

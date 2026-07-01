@@ -1,0 +1,42 @@
+{
+  "id": "n3-0137",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "だって",
+  "display": "だって",
+  "meanings_zh": [
+    "可是",
+    "但是",
+    "(就是)～～也",
+    "即便是"
+  ],
+  "meanings_en": [
+    "but",
+    "because",
+    "even",
+    "also",
+    "too"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "９時だってさ。",
+      "en": "He said, \"It's nine o'clock.\""
+    },
+    {
+      "ja": "着すぎだって。",
+      "en": "You're dressed too warmly."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

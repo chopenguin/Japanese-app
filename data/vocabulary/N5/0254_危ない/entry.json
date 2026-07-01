@@ -1,0 +1,38 @@
+{
+  "id": "n5-0254",
+  "jlpt": "N5",
+  "kanji": "危ない",
+  "kana": "あぶない",
+  "display": "危ない",
+  "meanings_zh": [
+    "危险",
+    "不安全",
+    "危殆",
+    "危笃"
+  ],
+  "meanings_en": [
+    "dangerous"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "危ない空模様だ。",
+      "en": "The weather is threatening."
+    },
+    {
+      "ja": "彼の命が危ない。",
+      "en": "His life is in danger."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n2-0531",
+  "jlpt": "N2",
+  "kanji": "気を付ける",
+  "kana": "きをつける",
+  "display": "気を付ける",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to be careful",
+    "to pay attention",
+    "to take care"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あの男には気を付けるんだぞ。",
+      "en": "Watch out for that man."
+    },
+    {
+      "ja": "もっと気を付けるようにするよ。",
+      "en": "I'll be more careful."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

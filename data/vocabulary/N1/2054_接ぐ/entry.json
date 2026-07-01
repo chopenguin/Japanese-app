@@ -1,0 +1,34 @@
+{
+  "id": "n1-2054",
+  "jlpt": "N1",
+  "kanji": "接ぐ",
+  "kana": "つぐ",
+  "display": "接ぐ",
+  "meanings_zh": [
+    "接"
+  ],
+  "meanings_en": [
+    "to join",
+    "to piece together",
+    "to set (bones)",
+    "to graft (trees)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "枝が伸び、実が成ることを想定して接ぐ場所を選びましょう。",
+      "en": "Select the graft point after imagining how the branches will extend and fruit grow."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

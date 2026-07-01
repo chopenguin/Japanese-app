@@ -1,0 +1,36 @@
+{
+  "id": "n3-0082",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "コンピューター",
+  "display": "コンピューター",
+  "meanings_zh": [
+    "(电子)计算机",
+    "电脑"
+  ],
+  "meanings_en": [
+    "computer"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "コンピューターが落ちた。",
+      "en": "The computer fell."
+    },
+    {
+      "ja": "彼はコンピューターに詳しい。",
+      "en": "He is familiar with computers."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

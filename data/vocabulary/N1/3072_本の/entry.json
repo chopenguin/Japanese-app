@@ -1,0 +1,40 @@
+{
+  "id": "n1-3072",
+  "jlpt": "N1",
+  "kanji": "本の",
+  "kana": "ほんの",
+  "display": "本の",
+  "meanings_zh": [
+    "实在",
+    "不过",
+    "仅仅",
+    "一点点"
+  ],
+  "meanings_en": [
+    "mere",
+    "only",
+    "just"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "日本の人形です。",
+      "en": "This is a Japanese doll."
+    },
+    {
+      "ja": "君は本の虫だね。",
+      "en": "You're a bookworm."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

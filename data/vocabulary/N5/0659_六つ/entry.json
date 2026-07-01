@@ -1,0 +1,38 @@
+{
+  "id": "n5-0659",
+  "jlpt": "N5",
+  "kanji": "六つ",
+  "kana": "むっつ",
+  "display": "六つ",
+  "meanings_zh": [
+    "六",
+    "六个",
+    "六岁",
+    "卯时"
+  ],
+  "meanings_en": [
+    "six"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "一つ、二つ、三つ、四つ、五つ、六つ、七つ、八つ、九つ、十。",
+      "en": "One, two, three, four, five, six, seven, eight, nine, ten."
+    },
+    {
+      "ja": "そして次に、州についてですが、どんな州でもいいですから、その州が五つか六つの地域に分かれていると考えてください。",
+      "en": "And now, think about a county, any county, and imagine this county divided into five or six different areas."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

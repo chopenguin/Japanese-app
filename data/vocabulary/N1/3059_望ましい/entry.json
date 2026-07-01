@@ -1,0 +1,37 @@
+{
+  "id": "n1-3059",
+  "jlpt": "N1",
+  "kanji": "望ましい",
+  "kana": "のぞましい",
+  "display": "望ましい",
+  "meanings_zh": [
+    "最好",
+    "最理想的"
+  ],
+  "meanings_en": [
+    "desirable",
+    "hoped for"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女はひとりでやるのが望ましい。",
+      "en": "It is preferable that she do it alone."
+    },
+    {
+      "ja": "誰もけがをしないことが望ましい。",
+      "en": "It is desirable that nobody should be hurt."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

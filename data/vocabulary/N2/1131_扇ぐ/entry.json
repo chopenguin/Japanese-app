@@ -1,0 +1,28 @@
+{
+  "id": "n2-1131",
+  "jlpt": "N2",
+  "kanji": "扇ぐ",
+  "kana": "あおぐ",
+  "display": "扇ぐ",
+  "meanings_zh": [
+    "扇",
+    "煽动"
+  ],
+  "meanings_en": [
+    "to fan",
+    "to flap"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

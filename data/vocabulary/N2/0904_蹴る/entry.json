@@ -1,0 +1,38 @@
+{
+  "id": "n2-0904",
+  "jlpt": "N2",
+  "kanji": "蹴る",
+  "kana": "ける",
+  "display": "蹴る",
+  "meanings_zh": [
+    "踢",
+    "冲破",
+    "拒绝",
+    "驳回"
+  ],
+  "meanings_en": [
+    "to kick"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼が私を蹴るんです。",
+      "en": "He kicks me."
+    },
+    {
+      "ja": "ジムは大変上手にボールを蹴る。",
+      "en": "Jim kicks a ball very well."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

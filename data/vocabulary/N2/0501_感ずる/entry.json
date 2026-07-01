@@ -1,0 +1,30 @@
+{
+  "id": "n2-0501",
+  "jlpt": "N2",
+  "kanji": "感ずる",
+  "kana": "かんずる",
+  "display": "感ずる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to feel",
+    "to sense"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "人生から非常な喜びを感ずる。",
+      "en": "I get a kick out of life."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n1-0558",
+  "jlpt": "N1",
+  "kanji": "何時までも",
+  "kana": "いつまでも",
+  "display": "何時までも",
+  "meanings_zh": [
+    "到什么时候也",
+    "永远",
+    "始终",
+    "老"
+  ],
+  "meanings_en": [
+    "forever",
+    "for good",
+    "eternally",
+    "as long as one likes",
+    "indefinitely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

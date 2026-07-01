@@ -1,0 +1,35 @@
+{
+  "id": "n2-1596",
+  "jlpt": "N2",
+  "kanji": "飽くまで",
+  "kana": "あくまで",
+  "display": "飽くまで",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to the end",
+    "to the last",
+    "stubbornly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "わが党はこれに飽くまで反対します。",
+      "en": "Our party will resist to the bitter end."
+    },
+    {
+      "ja": "彼はそうなっても飽くまで落胆しなかった。",
+      "en": "Even then he did not allow himself to be discouraged."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

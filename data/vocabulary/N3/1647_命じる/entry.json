@@ -1,0 +1,31 @@
+{
+  "id": "n3-1647",
+  "jlpt": "N3",
+  "kanji": "命じる",
+  "kana": "めいじる",
+  "display": "命じる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to order",
+    "to command",
+    "to appoint"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "回れ右を命じる。",
+      "en": "I order you to turn right."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

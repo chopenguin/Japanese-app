@@ -1,0 +1,36 @@
+{
+  "id": "n4-0444",
+  "jlpt": "N4",
+  "kanji": "増える",
+  "kana": "ふえる",
+  "display": "増える",
+  "meanings_zh": [
+    "增加",
+    "增多"
+  ],
+  "meanings_en": [
+    "to increase"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これで私の悩みが増える。",
+      "en": "This adds to my troubles."
+    },
+    {
+      "ja": "このために費用が増える。",
+      "en": "This adds to the expense."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

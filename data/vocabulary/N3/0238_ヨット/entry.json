@@ -1,0 +1,36 @@
+{
+  "id": "n3-0238",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ヨット",
+  "display": "ヨット",
+  "meanings_zh": [
+    "帆船",
+    "游艇"
+  ],
+  "meanings_en": [
+    "yacht"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ヨットはブイを回った。",
+      "en": "The yacht sailed around a buoy."
+    },
+    {
+      "ja": "私はヨット部に入っている。",
+      "en": "I belong to the sailing club."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n1-1443",
+  "jlpt": "N1",
+  "kanji": "仕える",
+  "kana": "つかえる",
+  "display": "仕える",
+  "meanings_zh": [
+    "服侍",
+    "侍奉",
+    "伺候",
+    "做官"
+  ],
+  "meanings_en": [
+    "to serve",
+    "to work for"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼には彼に仕える召し使いが３人いた。",
+      "en": "He had three servants to wait on him."
+    },
+    {
+      "ja": "彼には仕える使用人が１人しかいない。",
+      "en": "He has only one servant to attend on him."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

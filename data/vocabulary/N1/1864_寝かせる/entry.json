@@ -1,0 +1,35 @@
+{
+  "id": "n1-1864",
+  "jlpt": "N1",
+  "kanji": "寝かせる",
+  "kana": "ねかせる",
+  "display": "寝かせる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to put to bed",
+    "to lay down",
+    "to ferment"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女はその人形をベッドに寝かせるだろう。",
+      "en": "She will lay the doll on her bed."
+    },
+    {
+      "ja": "折角寝かしつけたのに、起こさないでよ。この子、寝かせるの大変なのよ。",
+      "en": "Don't wake him. I've just put him to sleep. It's not easy getting this child to sleep."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

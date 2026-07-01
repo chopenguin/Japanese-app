@@ -1,0 +1,30 @@
+{
+  "id": "n1-0948",
+  "jlpt": "N1",
+  "kanji": "怯える",
+  "kana": "おびえる",
+  "display": "怯える",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to become frightened",
+    "to have a nightmare"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ニューヨーク州バッファロー出身の水牛に怯える同じ出身の水牛は、同時に同じ州の別の水牛を怯えさせている。",
+      "en": "Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

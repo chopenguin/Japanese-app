@@ -1,0 +1,39 @@
+{
+  "id": "n2-1002",
+  "jlpt": "N2",
+  "kanji": "飾り",
+  "kana": "かざり",
+  "display": "飾り",
+  "meanings_zh": [
+    "装饰",
+    "装饰品",
+    "徒饰表面",
+    "华而不实",
+    "粉饰"
+  ],
+  "meanings_en": [
+    "decoration"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は飾り気の無い人だ。",
+      "en": "He is a plain, modest person."
+    },
+    {
+      "ja": "それは飾りにすぎない。",
+      "en": "It is merely an ornament."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n1-0177",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ソックス",
+  "display": "ソックス",
+  "meanings_zh": [
+    "短袜",
+    "短筒袜子"
+  ],
+  "meanings_en": [
+    "socks"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ソックス、裏返しよ。",
+      "en": "Your socks are inside out."
+    },
+    {
+      "ja": "ソックスを脱ぎなさい。",
+      "en": "Take off your socks."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

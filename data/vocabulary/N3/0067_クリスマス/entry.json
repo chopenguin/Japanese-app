@@ -1,0 +1,35 @@
+{
+  "id": "n3-0067",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "クリスマス",
+  "display": "クリスマス",
+  "meanings_zh": [
+    "圣诞节"
+  ],
+  "meanings_en": [
+    "Christmas"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "メリークリスマス！",
+      "en": "Merry Christmas!"
+    },
+    {
+      "ja": "明日はクリスマスだ。",
+      "en": "Tomorrow is Christmas Day."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

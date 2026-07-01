@@ -1,0 +1,40 @@
+{
+  "id": "n2-0439",
+  "jlpt": "N2",
+  "kanji": "悔しい",
+  "kana": "くやしい",
+  "display": "悔しい",
+  "meanings_zh": [
+    "令人懊悔",
+    "令人气愤",
+    "遗憾",
+    "窝心"
+  ],
+  "meanings_en": [
+    "regrettable",
+    "mortifying",
+    "vexing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "決勝戦で負けるほど悔しいものはない。",
+      "en": "Nothing is more disappointing than to lose in the finals."
+    },
+    {
+      "ja": "監督はチームをトーナメント優勝に今一歩という所までもっていったのに悔しいことだった。",
+      "en": "It was annoying, as the manager took his team to a near-miss in the tournament."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

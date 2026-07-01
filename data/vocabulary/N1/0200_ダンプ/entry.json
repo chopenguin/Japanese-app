@@ -1,0 +1,33 @@
+{
+  "id": "n1-0200",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ダンプ",
+  "display": "ダンプ",
+  "meanings_zh": [
+    "清除",
+    "(内存信息)转储(方法)",
+    "切断电源"
+  ],
+  "meanings_en": [
+    "dump"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ダンプカーと正面衝突したタクシーはぐしゃぐしゃになった。",
+      "en": "The taxi collided head-on with a dump truck and was badly crushed."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

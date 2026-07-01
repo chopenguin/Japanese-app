@@ -1,0 +1,32 @@
+{
+  "id": "n1-1177",
+  "jlpt": "N1",
+  "kanji": "呼び止める",
+  "kana": "よびとめる",
+  "display": "呼び止める",
+  "meanings_zh": [
+    "招呼使站住"
+  ],
+  "meanings_en": [
+    "to challenge",
+    "to call somebody to halt"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "タクシーを呼び止めるために手をあげた。",
+      "en": "I hailed a taxi."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

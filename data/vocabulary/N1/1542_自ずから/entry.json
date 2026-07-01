@@ -1,0 +1,29 @@
+{
+  "id": "n1-1542",
+  "jlpt": "N1",
+  "kanji": "自ずから",
+  "kana": "おのずから",
+  "display": "自ずから",
+  "meanings_zh": [
+    "自",
+    "自然",
+    "自然而然地"
+  ],
+  "meanings_en": [
+    "naturally",
+    "as a matter of course"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

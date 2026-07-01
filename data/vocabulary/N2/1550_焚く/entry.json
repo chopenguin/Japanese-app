@@ -1,0 +1,35 @@
+{
+  "id": "n2-1550",
+  "jlpt": "N2",
+  "kanji": "焚く",
+  "kana": "たく",
+  "display": "焚く",
+  "meanings_zh": [
+    "煮",
+    "烧",
+    "生"
+  ],
+  "meanings_en": [
+    "to burn",
+    "to kindle",
+    "to build a fire"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ハワイってさ、暖炉つきの家が多いじゃない？あっちも朝夕は冷えるから、寒がりの人は暖炉を焚くんだ。",
+      "en": "Hawaii, y'know, has a lot of houses with fireplaces, doesn't it? The mornings and evenings over there get cold as well so people who feel the cold light fires."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

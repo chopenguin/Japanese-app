@@ -1,0 +1,40 @@
+{
+  "id": "n1-0532",
+  "jlpt": "N1",
+  "kanji": "化ける",
+  "kana": "ばける",
+  "display": "化ける",
+  "meanings_zh": [
+    "化",
+    "变",
+    "化装",
+    "乔装"
+  ],
+  "meanings_en": [
+    "to appear in disguise",
+    "to take the form of",
+    "to change for the worse"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "猫は化けると言われる。",
+      "en": "It is said that cats can change shape."
+    },
+    {
+      "ja": "大器晩成の大物と言われて久しいけど、彼、いつになったら化けるのかね。",
+      "en": "I haven't heard anyone call him a late bloomer in a while. But I do wonder when he's going to grow up."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

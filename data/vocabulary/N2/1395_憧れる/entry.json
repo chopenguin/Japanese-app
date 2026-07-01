@@ -1,0 +1,38 @@
+{
+  "id": "n2-1395",
+  "jlpt": "N2",
+  "kanji": "憧れる",
+  "kana": "あこがれる",
+  "display": "憧れる",
+  "meanings_zh": [
+    "憧憬",
+    "向往"
+  ],
+  "meanings_en": [
+    "to long for",
+    "to yearn after",
+    "to admire"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "すべての芸術はたえず音楽の状態に憧れる。",
+      "en": "All art constantly aspires towards the condition of music."
+    },
+    {
+      "ja": "死に憧れる者は惨めであるが、死を恐れる者はさらに惨めである。",
+      "en": "One who longs for death is miserable, but more miserable is he who fears it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

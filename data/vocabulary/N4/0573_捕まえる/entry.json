@@ -1,0 +1,39 @@
+{
+  "id": "n4-0573",
+  "jlpt": "N4",
+  "kanji": "捕まえる",
+  "kana": "つかまえる",
+  "display": "捕まえる",
+  "meanings_zh": [
+    "抓住",
+    "揪住",
+    "捉住",
+    "逮住",
+    "捕捉"
+  ],
+  "meanings_en": [
+    "to seize"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "虫を捕まえる。",
+      "en": "I capture insects."
+    },
+    {
+      "ja": "ネコはネズミを捕まえる。",
+      "en": "Cats catch mice."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

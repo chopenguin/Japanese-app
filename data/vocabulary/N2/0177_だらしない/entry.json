@@ -1,0 +1,36 @@
+{
+  "id": "n2-0177",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "だらしない",
+  "display": "だらしない",
+  "meanings_zh": [
+    "不检点",
+    "散漫",
+    "放荡",
+    "没规矩"
+  ],
+  "meanings_en": [
+    "slovenly",
+    "loose",
+    "a slut"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は服装がだらしない。",
+      "en": "He is untidily dressed."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

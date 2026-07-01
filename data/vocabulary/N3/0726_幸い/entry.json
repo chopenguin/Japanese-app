@@ -1,0 +1,39 @@
+{
+  "id": "n3-0726",
+  "jlpt": "N3",
+  "kanji": "幸い",
+  "kana": "さいわい",
+  "display": "幸い",
+  "meanings_zh": [
+    "幸福",
+    "幸运",
+    "有利",
+    "有帮助"
+  ],
+  "meanings_en": [
+    "happiness",
+    "blessedness"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "幸い天気は良かった。",
+      "en": "Fortunately, the weather was good."
+    },
+    {
+      "ja": "不幸の裏には幸いあり。",
+      "en": "Every cloud has a silver lining."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

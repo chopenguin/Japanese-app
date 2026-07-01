@@ -1,0 +1,37 @@
+{
+  "id": "n3-0612",
+  "jlpt": "N3",
+  "kanji": "繰り返す",
+  "kana": "くりかえす",
+  "display": "繰り返す",
+  "meanings_zh": [
+    "反复",
+    "重复"
+  ],
+  "meanings_en": [
+    "to repeat",
+    "to do something over again"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "歴史は繰り返す。",
+      "en": "History repeats itself."
+    },
+    {
+      "ja": "おなじ間違いを繰り返すな。",
+      "en": "Don't make the same mistake again."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

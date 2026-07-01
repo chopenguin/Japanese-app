@@ -1,0 +1,38 @@
+{
+  "id": "n2-1724",
+  "jlpt": "N2",
+  "kanji": "欲張り",
+  "kana": "よくばり",
+  "display": "欲張り",
+  "meanings_zh": [
+    "贪婪",
+    "贪得无厌"
+  ],
+  "meanings_en": [
+    "avarice",
+    "covetousness",
+    "greed"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "持てば持つほど、欲張りになる。",
+      "en": "The more you have, the more you want."
+    },
+    {
+      "ja": "欲張りすぎると、あとで痛い目にあうよね。",
+      "en": "It hurts to be too greedy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

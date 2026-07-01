@@ -1,0 +1,33 @@
+{
+  "id": "n1-0229",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "トランジスター",
+  "display": "トランジスター",
+  "meanings_zh": [
+    "晶体(三极)管",
+    "半导体管",
+    "小型"
+  ],
+  "meanings_en": [
+    "transistor"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トランジスターの発明は新時代を画した。",
+      "en": "The invention of the transistor marked a new era."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

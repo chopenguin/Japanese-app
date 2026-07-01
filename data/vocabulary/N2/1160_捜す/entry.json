@@ -1,0 +1,40 @@
+{
+  "id": "n2-1160",
+  "jlpt": "N2",
+  "kanji": "捜す",
+  "kana": "さがす",
+  "display": "捜す",
+  "meanings_zh": [
+    "寻找",
+    "寻求",
+    "追求",
+    "搜寻"
+  ],
+  "meanings_en": [
+    "to search",
+    "to seek",
+    "to look for"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "鍵を捜すのを手伝ってくれませんか。",
+      "en": "Would you help me look for my keys?"
+    },
+    {
+      "ja": "私達は駐車場を捜すのに多くの時間を費やした。",
+      "en": "We spent a lot of time looking for a parking lot."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

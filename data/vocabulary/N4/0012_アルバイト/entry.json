@@ -1,0 +1,38 @@
+{
+  "id": "n4-0012",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "アルバイト",
+  "display": "アルバイト",
+  "meanings_zh": [
+    "(课余的)副业",
+    "工读",
+    "课余搞副业的人",
+    "工读生"
+  ],
+  "meanings_en": [
+    "part-time job"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私もアルバイトしたいなあ。",
+      "en": "I want to have a part-time job, too."
+    },
+    {
+      "ja": "アルバイトを見つけなくては。",
+      "en": "I'll have to find a part-time job."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

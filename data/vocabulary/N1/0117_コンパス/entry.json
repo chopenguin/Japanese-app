@@ -1,0 +1,38 @@
+{
+  "id": "n1-0117",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "コンパス",
+  "display": "コンパス",
+  "meanings_zh": [
+    "圆规",
+    "分线规",
+    "罗盘",
+    "罗盘仪"
+  ],
+  "meanings_en": [
+    "compass"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "コンパスは北を示す。",
+      "en": "Compasses point north."
+    },
+    {
+      "ja": "彼女はコンパスを使った。",
+      "en": "She used a compass."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

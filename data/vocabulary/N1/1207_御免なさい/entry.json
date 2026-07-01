@@ -1,0 +1,30 @@
+{
+  "id": "n1-1207",
+  "jlpt": "N1",
+  "kanji": "御免なさい",
+  "kana": "ごめんなさい",
+  "display": "御免なさい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "I beg your pardon",
+    "excuse me"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "御免なさい。",
+      "en": "I'm sorry."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n1-0011",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "あら",
+  "display": "あら",
+  "meanings_zh": [
+    "唉呀",
+    "哎哟"
+  ],
+  "meanings_en": [
+    "oh",
+    "ah",
+    "saw-edged perch (Niphon spinosus)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あらあらあら。",
+      "en": "Well, well, well."
+    },
+    {
+      "ja": "姿をあらわせ！",
+      "en": "Show yourself."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

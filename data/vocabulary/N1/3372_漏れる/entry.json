@@ -1,0 +1,43 @@
+{
+  "id": "n1-3372",
+  "jlpt": "N1",
+  "kanji": "漏れる",
+  "kana": "もれる",
+  "display": "漏れる",
+  "meanings_zh": [
+    "漏",
+    "漏出",
+    "透出",
+    "泄露"
+  ],
+  "meanings_en": [
+    "to leak out",
+    "to escape",
+    "to come through",
+    "to shine through",
+    "to filter out",
+    "to be omitted"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "カーテンから光が漏れる。",
+      "en": "Light is coming through the curtains."
+    },
+    {
+      "ja": "その話が漏れると私は困ったことになる。",
+      "en": "I'll be in trouble if the story gets out."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

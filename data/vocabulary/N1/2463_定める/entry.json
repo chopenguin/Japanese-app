@@ -1,0 +1,36 @@
+{
+  "id": "n1-2463",
+  "jlpt": "N1",
+  "kanji": "定める",
+  "kana": "さだめる",
+  "display": "定める",
+  "meanings_zh": [
+    "定",
+    "决定",
+    "规定",
+    "制定"
+  ],
+  "meanings_en": [
+    "to decide",
+    "to establish",
+    "to determine"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "職員の選考に関する規則を次のように定める。",
+      "en": "Rules in connection with staff selection are set as follows."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "n2-1722",
+  "jlpt": "N2",
+  "kanji": "陽射",
+  "kana": "ひざし",
+  "display": "陽射",
+  "meanings_zh": [],
+  "meanings_en": [
+    "sunlight",
+    "rays of the sun"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "陽射しが強いので帽子をかぶろう。",
+      "en": "It's a good idea to cover up when the sun is this strong."
+    },
+    {
+      "ja": "あふれんばかりの美しい陽射しであった。",
+      "en": "The sun was shining in all its splendid beauty."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

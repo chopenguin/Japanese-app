@@ -1,0 +1,39 @@
+{
+  "id": "n2-0749",
+  "jlpt": "N2",
+  "kanji": "混ぜる",
+  "kana": "まぜる",
+  "display": "混ぜる",
+  "meanings_zh": [
+    "搀和",
+    "搀混",
+    "对",
+    "加上"
+  ],
+  "meanings_en": [
+    "to mix",
+    "to stir"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "混ぜると味をごまかせる。",
+      "en": "If you mix it in, it'll mask the flavor."
+    },
+    {
+      "ja": "赤と青を混ぜると紫になる。",
+      "en": "Red and blue paint mixed together give us purple."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "n2-0876",
+  "jlpt": "N2",
+  "kanji": "酌む",
+  "kana": "くむ",
+  "display": "酌む",
+  "meanings_zh": [
+    "打",
+    "汲",
+    "斟",
+    "倒",
+    "取"
+  ],
+  "meanings_en": [
+    "to serve sake"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

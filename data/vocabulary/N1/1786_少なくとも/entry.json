@@ -1,0 +1,33 @@
+{
+  "id": "n1-1786",
+  "jlpt": "N1",
+  "kanji": "少なくとも",
+  "kana": "すくなくとも",
+  "display": "少なくとも",
+  "meanings_zh": [],
+  "meanings_en": [
+    "at least"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は少なくとも３０歳だ。",
+      "en": "She is not less than thirty."
+    },
+    {
+      "ja": "少なくとも仕事は済んだよ。",
+      "en": "At least the work is done."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

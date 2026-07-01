@@ -1,0 +1,40 @@
+{
+  "id": "n3-0631",
+  "jlpt": "N3",
+  "kanji": "計る",
+  "kana": "はかる",
+  "display": "計る",
+  "meanings_zh": [
+    "谋求",
+    "商量",
+    "推测",
+    "揣测"
+  ],
+  "meanings_en": [
+    "to measure",
+    "to weigh",
+    "to survey"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "事を計るは人、事を成すは神。",
+      "en": "Man plans things, but the gods decide."
+    },
+    {
+      "ja": "金銭は成功を計る基準にはならない。",
+      "en": "Money is not a criterion of success."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n1-1632",
+  "jlpt": "N1",
+  "kanji": "手掛かり",
+  "kana": "てがかり",
+  "display": "手掛かり",
+  "meanings_zh": [],
+  "meanings_en": [
+    "contact",
+    "trail",
+    "scent",
+    "on hand",
+    "hand hold",
+    "clue",
+    "key"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ここの下りも手掛かりがないので危険だ。",
+      "en": "The downclimb here is also dangerous as there are no handholds."
+    },
+    {
+      "ja": "この手紙が、謎を解く唯一の手掛かりだ。",
+      "en": "This letter is the only key to the mystery."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

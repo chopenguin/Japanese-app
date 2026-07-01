@@ -1,0 +1,34 @@
+{
+  "id": "n4-0303",
+  "jlpt": "N4",
+  "kanji": "差し上げる",
+  "kana": "さしあげる",
+  "display": "差し上げる",
+  "meanings_zh": [
+    "举",
+    "举起",
+    "给",
+    "赠给"
+  ],
+  "meanings_en": [
+    "(polite) to give"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "突然にかような奇怪な手紙を差し上げる非礼をお許し下さい。",
+      "en": "Please forgive my impoliteness in sending you suddenly such a strange letter."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

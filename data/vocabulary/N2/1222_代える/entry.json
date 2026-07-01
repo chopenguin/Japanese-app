@@ -1,0 +1,30 @@
+{
+  "id": "n2-1222",
+  "jlpt": "N2",
+  "kanji": "代える",
+  "kana": "かえる",
+  "display": "代える",
+  "meanings_zh": [
+    "代替",
+    "替换"
+  ],
+  "meanings_en": [
+    "to exchange",
+    "to interchange",
+    "to substitute",
+    "to replace"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

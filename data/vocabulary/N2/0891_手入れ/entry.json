@@ -1,0 +1,39 @@
+{
+  "id": "n2-0891",
+  "jlpt": "N2",
+  "kanji": "手入れ",
+  "kana": "ていれ",
+  "display": "手入れ",
+  "meanings_zh": [
+    "拾掇",
+    "修整",
+    "维修",
+    "修剪"
+  ],
+  "meanings_en": [
+    "repairs",
+    "maintenance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "家の手入れしないと。",
+      "en": "You need to take good care of your house."
+    },
+    {
+      "ja": "肌のお手入れは大切よ。",
+      "en": "It's important to take care of your skin."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

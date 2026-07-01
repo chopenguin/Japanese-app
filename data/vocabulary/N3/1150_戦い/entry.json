@@ -1,0 +1,41 @@
+{
+  "id": "n3-1150",
+  "jlpt": "N3",
+  "kanji": "戦い",
+  "kana": "たたかい",
+  "display": "戦い",
+  "meanings_zh": [
+    "战争",
+    "战役",
+    "战斗",
+    "斗争"
+  ],
+  "meanings_en": [
+    "battle",
+    "fight",
+    "struggle",
+    "conflict"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "戦いに勝つ。",
+      "en": "We will win the day."
+    },
+    {
+      "ja": "戦いは終わった。",
+      "en": "The fight is over."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

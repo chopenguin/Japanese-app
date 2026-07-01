@@ -1,0 +1,36 @@
+{
+  "id": "n1-2251",
+  "jlpt": "N1",
+  "kanji": "待ち遠しい",
+  "kana": "まちどおしい",
+  "display": "待ち遠しい",
+  "meanings_zh": [
+    "急切等待",
+    "盼望"
+  ],
+  "meanings_en": [
+    "looking forward to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "待ち遠しいな！",
+      "en": "I can't wait!"
+    },
+    {
+      "ja": "待ち遠しいよ。",
+      "en": "I can't wait."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

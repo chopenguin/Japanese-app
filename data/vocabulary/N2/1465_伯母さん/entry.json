@@ -1,0 +1,29 @@
+{
+  "id": "n2-1465",
+  "jlpt": "N2",
+  "kanji": "伯母さん",
+  "kana": "おばさん",
+  "display": "伯母さん",
+  "meanings_zh": [
+    "姑妈",
+    "姑姑",
+    "姨妈",
+    "大娘"
+  ],
+  "meanings_en": [
+    "(hon) aunt"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

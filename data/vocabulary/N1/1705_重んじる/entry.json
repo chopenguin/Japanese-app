@@ -1,0 +1,41 @@
+{
+  "id": "n1-1705",
+  "jlpt": "N1",
+  "kanji": "重んじる",
+  "kana": "おもんじる",
+  "display": "重んじる",
+  "meanings_zh": [
+    "重视",
+    "注重",
+    "尊重",
+    "器重"
+  ],
+  "meanings_en": [
+    "to respect",
+    "to honor",
+    "to esteem",
+    "to prize"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は量よりも質を重んじる。",
+      "en": "I prefer quality to quantity."
+    },
+    {
+      "ja": "彼は道義を重んじる人です。",
+      "en": "He is a man of honour."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

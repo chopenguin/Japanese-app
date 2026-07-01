@@ -1,0 +1,33 @@
+{
+  "id": "n1-1454",
+  "jlpt": "N1",
+  "kanji": "仕舞う",
+  "kana": "しまう",
+  "display": "仕舞う",
+  "meanings_zh": [
+    "做完",
+    "搞完",
+    "结束",
+    "收拾起来"
+  ],
+  "meanings_en": [
+    "to finish",
+    "to close",
+    "to do something completely",
+    "to put away",
+    "to put an end to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

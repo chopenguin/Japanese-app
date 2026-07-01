@@ -1,0 +1,33 @@
+{
+  "id": "n5-0028",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "おもしろい",
+  "display": "おもしろい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "interesting"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "探偵小説はおもしろい。",
+      "en": "Detective stories are amusing."
+    },
+    {
+      "ja": "その映画はおもしろい。",
+      "en": "That movie is exciting."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

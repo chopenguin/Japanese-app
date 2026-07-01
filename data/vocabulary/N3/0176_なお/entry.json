@@ -1,0 +1,36 @@
+{
+  "id": "n3-0176",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "なお",
+  "display": "なお",
+  "meanings_zh": [],
+  "meanings_en": [
+    "straight",
+    "mischief",
+    "ordinary",
+    "common"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "余計なお節介だ。",
+      "en": "Go about your business."
+    },
+    {
+      "ja": "大きなお世話だ。",
+      "en": "Mind your own business!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

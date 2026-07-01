@@ -1,0 +1,30 @@
+{
+  "id": "n1-2791",
+  "jlpt": "N1",
+  "kanji": "煩わしい",
+  "kana": "わずらわしい",
+  "display": "煩わしい",
+  "meanings_zh": [
+    "腻烦",
+    "麻烦",
+    "烦琐"
+  ],
+  "meanings_en": [
+    "troublesome",
+    "annoying",
+    "complicated"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

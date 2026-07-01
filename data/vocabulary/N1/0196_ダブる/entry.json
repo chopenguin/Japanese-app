@@ -1,0 +1,36 @@
+{
+  "id": "n1-0196",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ダブる",
+  "display": "ダブる",
+  "meanings_zh": [
+    "重复",
+    "留级",
+    "双杀",
+    "并杀"
+  ],
+  "meanings_en": [
+    "to coincide (fall on the same day)",
+    "to have two of something",
+    "to repeat a school year after failing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "祭日が日曜にダブると月曜が休みになる。",
+      "en": "When a holiday falls on Sunday, we have an extra holiday on Monday."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

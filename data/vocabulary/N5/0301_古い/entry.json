@@ -1,0 +1,38 @@
+{
+  "id": "n5-0301",
+  "jlpt": "N5",
+  "kanji": "古い",
+  "kana": "ふるい",
+  "display": "古い",
+  "meanings_zh": [
+    "已往",
+    "年久",
+    "古老",
+    "陈旧"
+  ],
+  "meanings_en": [
+    "old (not used for people)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "母は頭が古い。",
+      "en": "Mother has old-fashioned ideas."
+    },
+    {
+      "ja": "私の机は古い。",
+      "en": "My desk is old."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

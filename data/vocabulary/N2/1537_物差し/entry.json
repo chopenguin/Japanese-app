@@ -1,0 +1,35 @@
+{
+  "id": "n2-1537",
+  "jlpt": "N2",
+  "kanji": "物差し",
+  "kana": "ものさし",
+  "display": "物差し",
+  "meanings_zh": [
+    "尺子",
+    "尺",
+    "尺度",
+    "标准"
+  ],
+  "meanings_en": [
+    "ruler",
+    "measure"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "物差しを使って線を引きなさい。",
+      "en": "Draw a line with a ruler."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

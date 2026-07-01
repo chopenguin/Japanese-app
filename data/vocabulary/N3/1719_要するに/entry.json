@@ -1,0 +1,40 @@
+{
+  "id": "n3-1719",
+  "jlpt": "N3",
+  "kanji": "要するに",
+  "kana": "ようするに",
+  "display": "要するに",
+  "meanings_zh": [
+    "总之",
+    "总而言之",
+    "总归"
+  ],
+  "meanings_en": [
+    "in a word",
+    "after all",
+    "the point is ..",
+    "in short .."
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "要するに人生は短い。",
+      "en": "In a word, life is short."
+    },
+    {
+      "ja": "要するに私は首になったのだ。",
+      "en": "The long and the short of it is that I was fired."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

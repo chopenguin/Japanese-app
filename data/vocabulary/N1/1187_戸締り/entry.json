@@ -1,0 +1,34 @@
+{
+  "id": "n1-1187",
+  "jlpt": "N1",
+  "kanji": "戸締り",
+  "kana": "とじまり",
+  "display": "戸締り",
+  "meanings_zh": [],
+  "meanings_en": [
+    "closing up",
+    "fastening the doors"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あと、戸締りよろしくな。",
+      "en": "I'll leave you to lock up."
+    },
+    {
+      "ja": "ちゃんと戸締りはしたか？",
+      "en": "Did you lock all the doors?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

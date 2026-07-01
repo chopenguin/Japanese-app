@@ -1,0 +1,38 @@
+{
+  "id": "n5-0531",
+  "jlpt": "N5",
+  "kanji": "道",
+  "kana": "みち",
+  "display": "道",
+  "meanings_zh": [
+    "道路",
+    "道",
+    "道义",
+    "道德"
+  ],
+  "meanings_en": [
+    "street"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "旅は道連れ。",
+      "en": "Good company on the road is the shortest cut."
+    },
+    {
+      "ja": "道楽しよう。",
+      "en": "Let's live it up!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

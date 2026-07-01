@@ -1,0 +1,39 @@
+{
+  "id": "n2-1353",
+  "jlpt": "N2",
+  "kanji": "転がる",
+  "kana": "ころがる",
+  "display": "転がる",
+  "meanings_zh": [
+    "滚转",
+    "倒下",
+    "躺下",
+    "摆着"
+  ],
+  "meanings_en": [
+    "to roll",
+    "to tumble"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "転がる石に苔むさず。",
+      "en": "A rolling stone gathers no moss."
+    },
+    {
+      "ja": "すぐに、止まって、倒れて、転がるんだ！",
+      "en": "Quick, stop, drop, and roll!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n4-0272",
+  "jlpt": "N4",
+  "kanji": "見つかる",
+  "kana": "みつかる",
+  "display": "見つかる",
+  "meanings_zh": [
+    "被看到",
+    "被发现",
+    "能找出",
+    "找到"
+  ],
+  "meanings_en": [
+    "to be discovered"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "簡単に見つかると思う。",
+      "en": "I'm sure it'll be easy to find a place."
+    },
+    {
+      "ja": "北斗七星は簡単に見つかる。",
+      "en": "You can find the Big Dipper easily."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

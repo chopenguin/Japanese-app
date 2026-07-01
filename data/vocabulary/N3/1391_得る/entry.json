@@ -1,0 +1,40 @@
+{
+  "id": "n3-1391",
+  "jlpt": "N3",
+  "kanji": "得る",
+  "kana": "える",
+  "display": "得る",
+  "meanings_zh": [
+    "得",
+    "得到",
+    "取得",
+    "获得"
+  ],
+  "meanings_en": [
+    "to get",
+    "to gain",
+    "to win"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それもあり得る。",
+      "en": "It's possible."
+    },
+    {
+      "ja": "私はコマンドを得る。",
+      "en": "I'm taking command."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

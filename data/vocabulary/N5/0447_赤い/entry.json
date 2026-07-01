@@ -1,0 +1,38 @@
+{
+  "id": "n5-0447",
+  "jlpt": "N5",
+  "kanji": "赤い",
+  "kana": "あかい",
+  "display": "赤い",
+  "meanings_zh": [
+    "红",
+    "红色",
+    "革命",
+    "左倾"
+  ],
+  "meanings_en": [
+    "red"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "顔が赤いよ。",
+      "en": "Your face is red."
+    },
+    {
+      "ja": "私の車は赤い。",
+      "en": "My car is red."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

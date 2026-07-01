@@ -1,0 +1,44 @@
+{
+  "id": "n3-1317",
+  "jlpt": "N3",
+  "kanji": "通り",
+  "kana": "とおり",
+  "display": "通り",
+  "meanings_zh": [
+    "大街",
+    "马路",
+    "来往",
+    "通行 种类",
+    "种",
+    "套",
+    "组"
+  ],
+  "meanings_en": [
+    "in accordance with ~",
+    "following ~",
+    "~ Street",
+    "~ Avenue"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "通りを渡れ。",
+      "en": "Cross the street."
+    },
+    {
+      "ja": "通りを歩いた。",
+      "en": "We walked along the street."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

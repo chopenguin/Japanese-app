@@ -1,0 +1,41 @@
+{
+  "id": "n3-1600",
+  "jlpt": "N3",
+  "kanji": "抱く",
+  "kana": "いだく",
+  "display": "抱く",
+  "meanings_zh": [
+    "抱",
+    "搂",
+    "怀有",
+    "怀抱"
+  ],
+  "meanings_en": [
+    "(sl) to embrace",
+    "to hug",
+    "to harbour",
+    "to entertain"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "不満を抱く部下も多かった。",
+      "en": "There were many subordinates who harbored complaints."
+    },
+    {
+      "ja": "めんどりは卵がかえるまで抱く。",
+      "en": "The hen sits on her eggs until they hatch."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

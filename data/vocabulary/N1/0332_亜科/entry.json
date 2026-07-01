@@ -1,0 +1,27 @@
+{
+  "id": "n1-0332",
+  "jlpt": "N1",
+  "kanji": "亜科",
+  "kana": "あか",
+  "display": "亜科",
+  "meanings_zh": [
+    "亚目"
+  ],
+  "meanings_en": [
+    "suborder",
+    "subfamily"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

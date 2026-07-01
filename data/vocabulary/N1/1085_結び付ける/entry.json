@@ -1,0 +1,41 @@
+{
+  "id": "n1-1085",
+  "jlpt": "N1",
+  "kanji": "結び付ける",
+  "kana": "むすびつける",
+  "display": "結び付ける",
+  "meanings_zh": [
+    "结牢",
+    "结上",
+    "系上",
+    "拴上"
+  ],
+  "meanings_en": [
+    "to combine",
+    "to join",
+    "to tie on",
+    "to attach with a knot"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "理論と実際を結び付けるべきだ。",
+      "en": "You should combine theory with practice."
+    },
+    {
+      "ja": "仕事と遊びを結び付けるのは難しい。",
+      "en": "It is hard to combine business with pleasure."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

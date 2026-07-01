@@ -1,0 +1,38 @@
+{
+  "id": "n5-0182",
+  "jlpt": "N5",
+  "kanji": "暗い",
+  "kana": "くらい",
+  "display": "暗い",
+  "meanings_zh": [
+    "暗",
+    "昏暗",
+    "黑暗",
+    "发黑"
+  ],
+  "meanings_en": [
+    "gloomy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "戸外は暗い。",
+      "en": "It is dark out of doors."
+    },
+    {
+      "ja": "もう暗いよ。",
+      "en": "It is already dark."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

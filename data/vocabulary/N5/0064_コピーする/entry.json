@@ -1,0 +1,33 @@
+{
+  "id": "n5-0064",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "コピーする",
+  "display": "コピーする",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to copy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "著者の許可なしに本をコピーすることは違法です。",
+      "en": "It is illegal to copy from books without the author's permission."
+    },
+    {
+      "ja": "コピーするページに付箋をつけておいてください。",
+      "en": "Put a tag on the pages you want copied."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

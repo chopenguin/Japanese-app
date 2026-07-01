@@ -1,0 +1,39 @@
+{
+  "id": "n1-2502",
+  "jlpt": "N1",
+  "kanji": "纏め",
+  "kana": "まとめ",
+  "display": "纏め",
+  "meanings_zh": [
+    "总结",
+    "概括",
+    "归纳",
+    "汇集"
+  ],
+  "meanings_en": [
+    "settlement",
+    "conclusion"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は日本の民話を教科書用に纏めた。",
+      "en": "He compiled a Japanese folklore anthology for use in schools."
+    },
+    {
+      "ja": "それについて、決められた字数以内に作文を纏める。",
+      "en": "Compile an essay on that topic within a fixed number of letters."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

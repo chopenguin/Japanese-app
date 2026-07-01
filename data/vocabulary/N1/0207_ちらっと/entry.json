@@ -1,0 +1,34 @@
+{
+  "id": "n1-0207",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ちらっと",
+  "display": "ちらっと",
+  "meanings_zh": [],
+  "meanings_en": [
+    "at a glance",
+    "by accident"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼をちらっと見た。",
+      "en": "I caught a glimpse of him."
+    },
+    {
+      "ja": "彼は彼女をちらっと見た。",
+      "en": "He glanced at her."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

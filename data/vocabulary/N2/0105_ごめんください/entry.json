@@ -1,0 +1,33 @@
+{
+  "id": "n2-0105",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ごめんください",
+  "display": "ごめんください",
+  "meanings_zh": [],
+  "meanings_en": [
+    "May I come in?"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ごめんください。どなたかいらっしゃいませんか？",
+      "en": "Excuse me. Is anyone home?"
+    },
+    {
+      "ja": "ごめんください、山田です。ご主人にお目にかかりたいのですが。",
+      "en": "Excuse me, I'm Mr. Yamada. I would like to meet with your husband, if I may."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

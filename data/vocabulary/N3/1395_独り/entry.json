@@ -1,0 +1,39 @@
+{
+  "id": "n3-1395",
+  "jlpt": "N3",
+  "kanji": "独り",
+  "kana": "ひとり",
+  "display": "独り",
+  "meanings_zh": [
+    "一人",
+    "一个人",
+    "单身",
+    "独身"
+  ],
+  "meanings_en": [
+    "alone",
+    "unmarried"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "独り身だよね？",
+      "en": "You're single, aren't you?"
+    },
+    {
+      "ja": "独り言をいいます。",
+      "en": "I talk to myself."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

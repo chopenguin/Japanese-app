@@ -1,0 +1,30 @@
+{
+  "id": "n1-0988",
+  "jlpt": "N1",
+  "kanji": "勤まる",
+  "kana": "つとまる",
+  "display": "勤まる",
+  "meanings_zh": [
+    "能担任",
+    "胜任",
+    "干得来"
+  ],
+  "meanings_en": [
+    "to be fit for",
+    "to be equal to",
+    "to function properly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

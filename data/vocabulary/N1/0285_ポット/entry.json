@@ -1,0 +1,36 @@
+{
+  "id": "n1-0285",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ポット",
+  "display": "ポット",
+  "meanings_zh": [
+    "壶",
+    "热水瓶"
+  ],
+  "meanings_en": [
+    "pot"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "スポットも行ったの？",
+      "en": "Did Spot go, too?"
+    },
+    {
+      "ja": "砂糖はポットにありますか。",
+      "en": "Is there any sugar in the pot?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

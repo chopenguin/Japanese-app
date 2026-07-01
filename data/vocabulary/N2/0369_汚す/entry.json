@@ -1,0 +1,43 @@
+{
+  "id": "n2-0369",
+  "jlpt": "N2",
+  "kanji": "汚す",
+  "kana": "よごす",
+  "display": "汚す",
+  "meanings_zh": [
+    "弄脏",
+    "搀和",
+    "拌和"
+  ],
+  "meanings_en": [
+    "(1) to disgrace",
+    "to dishonour",
+    "(2) to pollute",
+    "to contaminate",
+    "to soil",
+    "to make dirty",
+    "to stain"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "いくつかの工場は環境を汚す。",
+      "en": "Some factories pollute the environment."
+    },
+    {
+      "ja": "タバコの煙は部屋の空気を汚す。",
+      "en": "Cigarette smoke fouls the air in a room."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

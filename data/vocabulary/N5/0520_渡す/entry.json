@@ -1,0 +1,38 @@
+{
+  "id": "n5-0520",
+  "jlpt": "N5",
+  "kanji": "渡す",
+  "kana": "わたす",
+  "display": "渡す",
+  "meanings_zh": [
+    "渡",
+    "送过河",
+    "架",
+    "搭"
+  ],
+  "meanings_en": [
+    "to hand over"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "君に渡す物がある。",
+      "en": "I have something to give you."
+    },
+    {
+      "ja": "見渡す限り海だった。",
+      "en": "There was nothing but the ocean as far as the eye could see."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n3-0993",
+  "jlpt": "N3",
+  "kanji": "笑い",
+  "kana": "わらい",
+  "display": "笑い",
+  "meanings_zh": [
+    "笑",
+    "嘲笑",
+    "冷笑"
+  ],
+  "meanings_en": [
+    "laugh",
+    "laughter",
+    "smile"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "笑いは移る。",
+      "en": "Laughter is infectious."
+    },
+    {
+      "ja": "笑いは百薬の長。",
+      "en": "Laughter is the best medicine."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

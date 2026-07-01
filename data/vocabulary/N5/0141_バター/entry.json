@@ -1,0 +1,35 @@
+{
+  "id": "n5-0141",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "バター",
+  "display": "バター",
+  "meanings_zh": [
+    "黄油"
+  ],
+  "meanings_en": [
+    "butter"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "バターはどこ？",
+      "en": "Where's the butter?"
+    },
+    {
+      "ja": "そのアバターやだ。",
+      "en": "I don't like your avatar."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

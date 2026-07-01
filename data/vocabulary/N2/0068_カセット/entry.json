@@ -1,0 +1,37 @@
+{
+  "id": "n2-0068",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "カセット",
+  "display": "カセット",
+  "meanings_zh": [
+    "盒",
+    "盒式录音(磁)带",
+    "盒式胶卷"
+  ],
+  "meanings_en": [
+    "cassette (tape)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "このカセット、聴いてみようよ。",
+      "en": "Let's listen to this cassette."
+    },
+    {
+      "ja": "カセットテープを買うつもりです。",
+      "en": "I will buy cassette tapes."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

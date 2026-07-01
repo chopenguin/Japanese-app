@@ -1,0 +1,41 @@
+{
+  "id": "n3-0236",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "よい",
+  "display": "よい",
+  "meanings_zh": [
+    "容易",
+    "好",
+    "易",
+    "得"
+  ],
+  "meanings_en": [
+    "good",
+    "nice",
+    "pleasant",
+    "ok"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "気分がよい。",
+      "en": "I'm feeling fine now."
+    },
+    {
+      "ja": "よい週末を！",
+      "en": "Have a good weekend!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

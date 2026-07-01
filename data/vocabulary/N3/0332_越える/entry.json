@@ -1,0 +1,40 @@
+{
+  "id": "n3-0332",
+  "jlpt": "N3",
+  "kanji": "越える",
+  "kana": "こえる",
+  "display": "越える",
+  "meanings_zh": [
+    "越过",
+    "渡过",
+    "超过",
+    "超出"
+  ],
+  "meanings_en": [
+    "to exceed",
+    "to cross over",
+    "to cross"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "どうにか乗り越えるよ。",
+      "en": "I'll get over it somehow."
+    },
+    {
+      "ja": "笑顔は言葉の壁を越える。",
+      "en": "Everyone smiles in the same language."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

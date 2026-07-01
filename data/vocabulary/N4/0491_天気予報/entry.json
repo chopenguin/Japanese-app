@@ -1,0 +1,33 @@
+{
+  "id": "n4-0491",
+  "jlpt": "N4",
+  "kanji": "天気予報",
+  "kana": "てんきよほう",
+  "display": "天気予報",
+  "meanings_zh": [],
+  "meanings_en": [
+    "weather forecast"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "天気予報が当たったよ。",
+      "en": "The weather forecast was right."
+    },
+    {
+      "ja": "天気予報はどうですか？",
+      "en": "What is the weather forecast?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

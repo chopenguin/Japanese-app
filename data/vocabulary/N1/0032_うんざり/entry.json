@@ -1,0 +1,39 @@
+{
+  "id": "n1-0032",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "うんざり",
+  "display": "うんざり",
+  "meanings_zh": [
+    "腻",
+    "厌腻",
+    "厌烦"
+  ],
+  "meanings_en": [
+    "tedious",
+    "boring",
+    "being fed up with"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "うんざりだわ！",
+      "en": "I'm sick of it!"
+    },
+    {
+      "ja": "魚はうんざりだよ。",
+      "en": "I'm sick of eating fish."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

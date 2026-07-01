@@ -1,0 +1,39 @@
+{
+  "id": "n3-1650",
+  "jlpt": "N3",
+  "kanji": "明ける",
+  "kana": "あける",
+  "display": "明ける",
+  "meanings_zh": [
+    "明",
+    "亮",
+    "过年",
+    "结束"
+  ],
+  "meanings_en": [
+    "to dawn",
+    "to become daylight"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "夜が明ける。",
+      "en": "Day breaks."
+    },
+    {
+      "ja": "梅雨はいつ明けるの？",
+      "en": "When will the rainy season be over?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

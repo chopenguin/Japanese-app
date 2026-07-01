@@ -1,0 +1,46 @@
+{
+  "id": "n3-1021",
+  "jlpt": "N3",
+  "kanji": "触れる",
+  "kana": "ふれる",
+  "display": "触れる",
+  "meanings_zh": [
+    "触",
+    "碰",
+    "接触",
+    "涉及"
+  ],
+  "meanings_en": [
+    "to touch",
+    "to be touched",
+    "to touch on a subject",
+    "to feel",
+    "to violate (law",
+    "copyright",
+    "etc.)",
+    "to perceive",
+    "t"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "手を触れるな。",
+      "en": "Don't touch."
+    },
+    {
+      "ja": "商品に触れるな。",
+      "en": "Don't touch the goods."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

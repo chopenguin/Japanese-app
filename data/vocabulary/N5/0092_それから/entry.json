@@ -1,0 +1,38 @@
+{
+  "id": "n5-0092",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "それから",
+  "display": "それから",
+  "meanings_zh": [
+    "还有",
+    "然后",
+    "从那时起",
+    "从那里起"
+  ],
+  "meanings_en": [
+    "after that"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それから家に急いだ。",
+      "en": "Then she hurried home."
+    },
+    {
+      "ja": "それから10年が経った。",
+      "en": "10 years have passed since then."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

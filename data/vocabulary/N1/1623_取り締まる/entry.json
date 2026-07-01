@@ -1,0 +1,40 @@
+{
+  "id": "n1-1623",
+  "jlpt": "N1",
+  "kanji": "取り締まる",
+  "kana": "とりしまる",
+  "display": "取り締まる",
+  "meanings_zh": [
+    "管束",
+    "约束",
+    "管理",
+    "管制"
+  ],
+  "meanings_en": [
+    "to manage",
+    "to control",
+    "to supervise"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "不正アクセスは、法律で取り締まるべき。",
+      "en": "There should be a law against computer hacking."
+    },
+    {
+      "ja": "暴力を取り締まるのは、政府の責任である。",
+      "en": "It is up to the government to take action on violence."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

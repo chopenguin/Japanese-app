@@ -1,0 +1,40 @@
+{
+  "id": "n3-0280",
+  "jlpt": "N3",
+  "kanji": "移す",
+  "kana": "うつす",
+  "display": "移す",
+  "meanings_zh": [
+    "移",
+    "挪",
+    "搬",
+    "迁"
+  ],
+  "meanings_en": [
+    "to remove",
+    "to transfer",
+    "to infect"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "風邪を人に移すと治るって本当？",
+      "en": "Is it true that you recover from colds when you give them to someone else?"
+    },
+    {
+      "ja": "考えを実行に移すのは、難しい。",
+      "en": "Putting ideas into practice is difficult."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

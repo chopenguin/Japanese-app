@@ -1,0 +1,40 @@
+{
+  "id": "n1-1428",
+  "jlpt": "N1",
+  "kanji": "産む",
+  "kana": "うむ",
+  "display": "産む",
+  "meanings_zh": [
+    "生",
+    "产",
+    "下",
+    "产生"
+  ],
+  "meanings_en": [
+    "to give birth",
+    "to deliver",
+    "to produce"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "鳥は卵を産む。",
+      "en": "Birds lay eggs."
+    },
+    {
+      "ja": "案ずるより産むが易し。",
+      "en": "Fear often exaggerates danger."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

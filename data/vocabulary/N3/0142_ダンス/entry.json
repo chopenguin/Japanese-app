@@ -1,0 +1,36 @@
+{
+  "id": "n3-0142",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ダンス",
+  "display": "ダンス",
+  "meanings_zh": [
+    "跳舞",
+    "交际舞"
+  ],
+  "meanings_en": [
+    "dance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ダンスを学びたい。",
+      "en": "I want to learn to dance."
+    },
+    {
+      "ja": "ダンスは好きですか。",
+      "en": "Do you like dancing?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

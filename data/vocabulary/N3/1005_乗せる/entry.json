@@ -1,0 +1,40 @@
+{
+  "id": "n3-1005",
+  "jlpt": "N3",
+  "kanji": "乗せる",
+  "kana": "のせる",
+  "display": "乗せる",
+  "meanings_zh": [
+    "装上",
+    "装载",
+    "载运",
+    "搭乘"
+  ],
+  "meanings_en": [
+    "to place on (something)",
+    "to take on board",
+    "to give a ride"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "バスは乗客を乗せるために止まった。",
+      "en": "The bus stopped to take up passengers."
+    },
+    {
+      "ja": "彼の母親が彼を車に乗せるために来た。",
+      "en": "His mother came to pick him up."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

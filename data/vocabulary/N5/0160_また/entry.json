@@ -1,0 +1,34 @@
+{
+  "id": "n5-0160",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "また",
+  "display": "また",
+  "meanings_zh": [],
+  "meanings_en": [
+    "again",
+    "and"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "じゃまたね。",
+      "en": "I'll see you later."
+    },
+    {
+      "ja": "また明後日。",
+      "en": "See you in two days."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

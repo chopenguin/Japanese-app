@@ -1,0 +1,36 @@
+{
+  "id": "n1-2668",
+  "jlpt": "N1",
+  "kanji": "如何しても",
+  "kana": "どうしても",
+  "display": "如何しても",
+  "meanings_zh": [
+    "怎么也",
+    "无论如何也",
+    "怎么也得～～",
+    "无论如何也要～～"
+  ],
+  "meanings_en": [
+    "by all means",
+    "at any cost",
+    "no matter what",
+    "after all",
+    "in the long run",
+    "cravingly",
+    "at any rate",
+    "surely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

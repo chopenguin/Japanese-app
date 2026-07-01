@@ -1,0 +1,35 @@
+{
+  "id": "n2-0060",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "オルガン",
+  "display": "オルガン",
+  "meanings_zh": [
+    "风琴"
+  ],
+  "meanings_en": [
+    "organ"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "オルガンは弾けますか？",
+      "en": "Can you play the organ?"
+    },
+    {
+      "ja": "教会には普通オルガンがあります。",
+      "en": "There is usually an organ in a church."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

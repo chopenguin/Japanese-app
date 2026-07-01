@@ -1,0 +1,38 @@
+{
+  "id": "n1-0291",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "マーク",
+  "display": "マーク",
+  "meanings_zh": [
+    "(划)记号",
+    "符号",
+    "(打)印记",
+    "标记"
+  ],
+  "meanings_en": [
+    "mark"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "デンマークは監獄だ。",
+      "en": "Denmark’s a prison."
+    },
+    {
+      "ja": "デンマーク出身です。",
+      "en": "I'm from Denmark."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

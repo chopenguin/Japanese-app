@@ -1,0 +1,38 @@
+{
+  "id": "n1-3048",
+  "jlpt": "N1",
+  "kanji": "訪れる",
+  "kana": "おとずれる",
+  "display": "訪れる",
+  "meanings_zh": [
+    "访问",
+    "过访",
+    "到来",
+    "来临"
+  ],
+  "meanings_en": [
+    "to visit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "春は冬と夏の間に訪れる。",
+      "en": "Spring comes between winter and summer."
+    },
+    {
+      "ja": "死はすべての人に訪れる。",
+      "en": "Death comes to all men."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

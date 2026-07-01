@@ -1,0 +1,33 @@
+{
+  "id": "n2-0893",
+  "jlpt": "N2",
+  "kanji": "受け持つ",
+  "kana": "うけもつ",
+  "display": "受け持つ",
+  "meanings_zh": [
+    "掌管",
+    "担任",
+    "负责"
+  ],
+  "meanings_en": [
+    "to take (be in) charge of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "費用を受け持つ者に決定権がある。",
+      "en": "He who pays the piper calls the tune."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

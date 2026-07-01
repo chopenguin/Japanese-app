@@ -1,0 +1,29 @@
+{
+  "id": "n1-1144",
+  "jlpt": "N1",
+  "kanji": "原っぱ",
+  "kana": "はらっぱ",
+  "display": "原っぱ",
+  "meanings_zh": [
+    "空地",
+    "草地"
+  ],
+  "meanings_en": [
+    "open field",
+    "empty lot",
+    "plain"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

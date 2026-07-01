@@ -1,0 +1,29 @@
+{
+  "id": "n2-1588",
+  "jlpt": "N2",
+  "kanji": "放れる",
+  "kana": "はなれる",
+  "display": "放れる",
+  "meanings_zh": [
+    "脱开",
+    "脱离"
+  ],
+  "meanings_en": [
+    "to leave",
+    "to get free",
+    "to cut oneself off"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

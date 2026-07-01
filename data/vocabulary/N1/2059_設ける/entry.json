@@ -1,0 +1,39 @@
+{
+  "id": "n1-2059",
+  "jlpt": "N1",
+  "kanji": "設ける",
+  "kana": "もうける",
+  "display": "設ける",
+  "meanings_zh": [
+    "预备",
+    "准备",
+    "设置",
+    "设立"
+  ],
+  "meanings_en": [
+    "to create",
+    "to establish"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ホールは仕切りを設ける前は千人収容できた。",
+      "en": "The hall could seat a thousand people before it was partitioned."
+    },
+    {
+      "ja": "最悪・・・入場制限を設けるしかないでしょう。整理券の配布とかで。",
+      "en": "What a mess... I suppose there's nothing for it but restricting admissions. Handing out numbered tickets or something."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

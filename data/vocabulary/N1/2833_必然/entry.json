@@ -1,0 +1,36 @@
+{
+  "id": "n1-2833",
+  "jlpt": "N1",
+  "kanji": "必然",
+  "kana": "ひつぜん",
+  "display": "必然",
+  "meanings_zh": [
+    "必然"
+  ],
+  "meanings_en": [
+    "inevitable",
+    "necessary"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らの出会いは必然だった。",
+      "en": "Their meeting was inevitable."
+    },
+    {
+      "ja": "偶然も３度重なれば必然になる。",
+      "en": "In addition, coincidences inevitably come in threes."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

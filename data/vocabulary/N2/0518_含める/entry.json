@@ -1,0 +1,40 @@
+{
+  "id": "n2-0518",
+  "jlpt": "N2",
+  "kanji": "含める",
+  "kana": "ふくめる",
+  "display": "含める",
+  "meanings_zh": [
+    "包含",
+    "包括",
+    "嘱咐",
+    "告知"
+  ],
+  "meanings_en": [
+    "to include",
+    "to instruct",
+    "to make one understand"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "少し気になる…まで含めると７０％を越える方が毛穴や肌理の粗さを気にしています。",
+      "en": "Including responses up to 'It bothers me a bit', over 70% of respondents said that they were concerned about their pores and skin texture."
+    },
+    {
+      "ja": "解答には理由を付してください。さらに、あなた自身の知識もしくは経験から、関連する事例を含めるようにしてください。",
+      "en": "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

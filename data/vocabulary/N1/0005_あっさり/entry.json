@@ -1,0 +1,40 @@
+{
+  "id": "n1-0005",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "あっさり",
+  "display": "あっさり",
+  "meanings_zh": [
+    "清淡",
+    "素气",
+    "朴素",
+    "不花哨"
+  ],
+  "meanings_en": [
+    "easily",
+    "readily",
+    "quickly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女はあっさりと答えた。",
+      "en": "She answered easily."
+    },
+    {
+      "ja": "彼はあっさり罪を白状した。",
+      "en": "He confessed his crime frankly."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

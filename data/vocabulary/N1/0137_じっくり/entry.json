@@ -1,0 +1,34 @@
+{
+  "id": "n1-0137",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "じっくり",
+  "display": "じっくり",
+  "meanings_zh": [],
+  "meanings_en": [
+    "deliberately",
+    "carefully"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "物事をじっくり考える慎重派です。",
+      "en": "I'm the type who likes to think things over very carefully."
+    },
+    {
+      "ja": "じっくり彼に耳を貸す者はいない。",
+      "en": "No one stops to listen to him."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

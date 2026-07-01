@@ -1,0 +1,36 @@
+{
+  "id": "n2-0298",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "レベル",
+  "display": "レベル",
+  "meanings_zh": [
+    "水平",
+    "水准"
+  ],
+  "meanings_en": [
+    "level"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その学校のレベルは高い。",
+      "en": "The level of the school is high."
+    },
+    {
+      "ja": "このレベルを守りましょう。",
+      "en": "Let's keep this level."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

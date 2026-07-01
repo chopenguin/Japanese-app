@@ -1,0 +1,39 @@
+{
+  "id": "n3-1349",
+  "jlpt": "N3",
+  "kanji": "転ぶ",
+  "kana": "ころぶ",
+  "display": "転ぶ",
+  "meanings_zh": [
+    "滚",
+    "滚转",
+    "倒下",
+    "跌倒"
+  ],
+  "meanings_en": [
+    "to fall down",
+    "to fall over"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "赤ん坊はよく転ぶ。",
+      "en": "Babies often fall down."
+    },
+    {
+      "ja": "氷の上で滑って転ぶなよ。",
+      "en": "Don't slip on the ice."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

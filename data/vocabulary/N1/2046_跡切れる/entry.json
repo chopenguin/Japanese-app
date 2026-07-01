@@ -1,0 +1,29 @@
+{
+  "id": "n1-2046",
+  "jlpt": "N1",
+  "kanji": "跡切れる",
+  "kana": "とぎれる",
+  "display": "跡切れる",
+  "meanings_zh": [
+    "间断",
+    "中断",
+    "断绝"
+  ],
+  "meanings_en": [
+    "to pause",
+    "to be interrupted"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

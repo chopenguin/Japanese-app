@@ -1,0 +1,39 @@
+{
+  "id": "n2-0217",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ハンドル",
+  "display": "ハンドル",
+  "meanings_zh": [
+    "方向盘",
+    "舵轮",
+    "车把",
+    "手柄"
+  ],
+  "meanings_en": [
+    "handle",
+    "steering wheel"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "日本車は右ハンドルです。",
+      "en": "Japanese cars are right-hand drive."
+    },
+    {
+      "ja": "彼はハンドルを逆に切った。",
+      "en": "He turned the steering wheel the other way about."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

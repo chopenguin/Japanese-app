@@ -1,0 +1,38 @@
+{
+  "id": "n1-0185",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "タイトル",
+  "display": "タイトル",
+  "meanings_zh": [
+    "题目",
+    "标题",
+    "官衔",
+    "头衔"
+  ],
+  "meanings_en": [
+    "title"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その本のタイトルは何ですか。",
+      "en": "What is the title of the book?"
+    },
+    {
+      "ja": "この写真にタイトルをつけて。",
+      "en": "Put a caption on this photo."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

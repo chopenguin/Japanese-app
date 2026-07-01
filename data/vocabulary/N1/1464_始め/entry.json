@@ -1,0 +1,43 @@
+{
+  "id": "n1-1464",
+  "jlpt": "N1",
+  "kanji": "始め",
+  "kana": "はじめ",
+  "display": "始め",
+  "meanings_zh": [
+    "以～～为首",
+    "～～以及",
+    "第一次体验",
+    "第一次 开始",
+    "开头",
+    "起因",
+    "起源"
+  ],
+  "meanings_en": [
+    "beginning",
+    "start",
+    "origin"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "始めが肝心。",
+      "en": "A good beginning makes a good ending."
+    },
+    {
+      "ja": "始めました。",
+      "en": "It has begun."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

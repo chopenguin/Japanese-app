@@ -1,0 +1,42 @@
+{
+  "id": "n1-0603",
+  "jlpt": "N1",
+  "kanji": "華やか",
+  "kana": "はなやか",
+  "display": "華やか",
+  "meanings_zh": [
+    "华丽",
+    "华美",
+    "华贵",
+    "辉煌"
+  ],
+  "meanings_en": [
+    "gay",
+    "showy",
+    "brilliant",
+    "gorgeous",
+    "florid"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "華やかだこと。",
+      "en": "It's gorgeous."
+    },
+    {
+      "ja": "彼女はとても華やかだね。",
+      "en": "She's quite gorgeous."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "n2-0213",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "はめる",
+  "display": "はめる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(col) to get in",
+    "to insert",
+    "to put on",
+    "to make love"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムは結婚指輪をはめるの？",
+      "en": "Does Tom wear a wedding ring?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

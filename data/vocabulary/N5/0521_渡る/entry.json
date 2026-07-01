@@ -1,0 +1,38 @@
+{
+  "id": "n5-0521",
+  "jlpt": "N5",
+  "kanji": "渡る",
+  "kana": "わたる",
+  "display": "渡る",
+  "meanings_zh": [
+    "渡",
+    "过",
+    "迁徙",
+    "渡世"
+  ],
+  "meanings_en": [
+    "to go across"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "通りを渡るな。",
+      "en": "Don't cross the street!"
+    },
+    {
+      "ja": "この橋を渡るの？",
+      "en": "Are we going to cross this bridge?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

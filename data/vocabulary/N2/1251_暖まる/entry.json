@@ -1,0 +1,39 @@
+{
+  "id": "n2-1251",
+  "jlpt": "N2",
+  "kanji": "暖まる",
+  "kana": "あたたまる",
+  "display": "暖まる",
+  "meanings_zh": [
+    "暖",
+    "暖和",
+    "感到心情温暖",
+    "宽绰"
+  ],
+  "meanings_en": [
+    "to warm up",
+    "to get warm"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この部屋はすぐに暖まる。",
+      "en": "This room will soon heat up."
+    },
+    {
+      "ja": "暖まるまでエンジンをかけておきなさい。",
+      "en": "Run the engine till it gets warm."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n4-0076",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ずいぶん",
+  "display": "ずいぶん",
+  "meanings_zh": [
+    "相当厉害",
+    "非常",
+    "很",
+    "颇"
+  ],
+  "meanings_en": [
+    "extremely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ずいぶんと古いな。",
+      "en": "It's very old."
+    },
+    {
+      "ja": "ずいぶんと暗いな。",
+      "en": "It's so dark."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

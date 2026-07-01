@@ -1,0 +1,38 @@
+{
+  "id": "n5-0154",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ポケット",
+  "display": "ポケット",
+  "meanings_zh": [
+    "口袋",
+    "衣袋",
+    "衣兜",
+    "兜儿"
+  ],
+  "meanings_en": [
+    "pocket"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ポケットを見せろ。",
+      "en": "Show me your pockets."
+    },
+    {
+      "ja": "ポケットを確認して。",
+      "en": "Check your pockets."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n2-1020",
+  "jlpt": "N2",
+  "kanji": "振舞う",
+  "kana": "ふるまう",
+  "display": "振舞う",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to behave",
+    "to conduct oneself",
+    "to entertain (vt)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はとても奇妙に振舞う。",
+      "en": "He behaves in a very strange fashion."
+    },
+    {
+      "ja": "彼は、人前でどう振舞うかを知っている。",
+      "en": "He knows how to behave in public."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

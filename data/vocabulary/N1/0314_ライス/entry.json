@@ -1,0 +1,36 @@
+{
+  "id": "n1-0314",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ライス",
+  "display": "ライス",
+  "meanings_zh": [
+    "大米",
+    "米饭"
+  ],
+  "meanings_en": [
+    "rice"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "オムライスを食べた。",
+      "en": "I ate an Omurice."
+    },
+    {
+      "ja": "私はカレーライスが好きだ。",
+      "en": "I like curry and rice."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n1-3113",
+  "jlpt": "N1",
+  "kanji": "密か",
+  "kana": "ひそか",
+  "display": "密か",
+  "meanings_zh": [],
+  "meanings_en": [
+    "secret",
+    "private",
+    "surreptitious"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "まさか秘密か？",
+      "en": "Is it a secret?"
+    },
+    {
+      "ja": "密かに会ってました。",
+      "en": "We met in secret."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

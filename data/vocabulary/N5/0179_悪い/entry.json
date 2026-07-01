@@ -1,0 +1,38 @@
+{
+  "id": "n5-0179",
+  "jlpt": "N5",
+  "kanji": "悪い",
+  "kana": "わるい",
+  "display": "悪い",
+  "meanings_zh": [
+    "坏",
+    "不好",
+    "恶性",
+    "恶劣"
+  ],
+  "meanings_en": [
+    "bad"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "体に悪いよ。",
+      "en": "It's not healthy for you."
+    },
+    {
+      "ja": "気分が悪い。",
+      "en": "I'm feeling sick."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

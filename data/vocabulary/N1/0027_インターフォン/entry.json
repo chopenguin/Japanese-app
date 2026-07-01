@@ -1,0 +1,27 @@
+{
+  "id": "n1-0027",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "インターフォン",
+  "display": "インターフォン",
+  "meanings_zh": [
+    "内线电话(机)",
+    "内部对讲电话机"
+  ],
+  "meanings_en": [
+    "intercom"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

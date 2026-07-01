@@ -1,0 +1,36 @@
+{
+  "id": "n1-0687",
+  "jlpt": "N1",
+  "kanji": "確立",
+  "kana": "かくりつ",
+  "display": "確立",
+  "meanings_zh": [
+    "确立",
+    "确定"
+  ],
+  "meanings_en": [
+    "establishment"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "保安官は、その町の秩序を確立した。",
+      "en": "The sheriff established order in the town."
+    },
+    {
+      "ja": "彼は原住民との友好関係を確立した。",
+      "en": "He established a friendly relationship with the natives."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n3-1196",
+  "jlpt": "N3",
+  "kanji": "続き",
+  "kana": "つづき",
+  "display": "続き",
+  "meanings_zh": [
+    "继续",
+    "接续",
+    "下文",
+    "续编"
+  ],
+  "meanings_en": [
+    "sequel",
+    "continuation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "悪事続きだ。",
+      "en": "When it rains, it pours."
+    },
+    {
+      "ja": "続きがあるのだ。",
+      "en": "There is a continuation."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

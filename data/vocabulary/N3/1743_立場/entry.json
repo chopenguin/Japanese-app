@@ -1,0 +1,35 @@
+{
+  "id": "n3-1743",
+  "jlpt": "N3",
+  "kanji": "立場",
+  "kana": "たちば",
+  "display": "立場",
+  "meanings_zh": [],
+  "meanings_en": [
+    "standpoint",
+    "position",
+    "situation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私の立場になってくれ。",
+      "en": "Please put yourself in my place."
+    },
+    {
+      "ja": "私達は困難な立場にある。",
+      "en": "We are in a difficult situation."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

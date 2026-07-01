@@ -1,0 +1,39 @@
+{
+  "id": "n3-0672",
+  "jlpt": "N3",
+  "kanji": "見舞い",
+  "kana": "みまい",
+  "display": "見舞い",
+  "meanings_zh": [
+    "问候",
+    "探望",
+    "慰问"
+  ],
+  "meanings_en": [
+    "enquiry",
+    "expression of sympathy",
+    "expression of concern"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お見舞いありがとう。",
+      "en": "Thank you for coming."
+    },
+    {
+      "ja": "友人を見舞いに行く所です。",
+      "en": "I'm on my way to visit a friend in the hospital."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

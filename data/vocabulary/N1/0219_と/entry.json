@@ -1,0 +1,39 @@
+{
+  "id": "n1-0219",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "と",
+  "display": "と",
+  "meanings_zh": [
+    "和",
+    "同",
+    "跟",
+    "与"
+  ],
+  "meanings_en": [
+    "1.  if (conjunction)",
+    "2.  promoted pawn (shogi) (abbr)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "美徳と悪徳。",
+      "en": "Virtue and vice."
+    },
+    {
+      "ja": "誰と行くの。",
+      "en": "Who will you go with?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

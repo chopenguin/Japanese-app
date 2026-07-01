@@ -1,0 +1,43 @@
+{
+  "id": "n2-0955",
+  "jlpt": "N2",
+  "kanji": "助かる",
+  "kana": "たすかる",
+  "display": "助かる",
+  "meanings_zh": [
+    "得救",
+    "脱险",
+    "彆偗 [偨偡偗] /// 帮助",
+    "援助",
+    "救助",
+    "救济"
+  ],
+  "meanings_en": [
+    "to be saved",
+    "to be rescued",
+    "to survive",
+    "to be helpful"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それはとても助かる。",
+      "en": "That will save me a lot of trouble."
+    },
+    {
+      "ja": "元気を出せ、私たちはきっと助かる。",
+      "en": "Cheer up! I'm sure we'll be saved."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

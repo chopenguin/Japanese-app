@@ -1,0 +1,29 @@
+{
+  "id": "n1-0901",
+  "jlpt": "N1",
+  "kanji": "朽ちる",
+  "kana": "くちる",
+  "display": "朽ちる",
+  "meanings_zh": [
+    "腐朽",
+    "腐烂",
+    "腐坏",
+    "默默无闻而终"
+  ],
+  "meanings_en": [
+    "to rot"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

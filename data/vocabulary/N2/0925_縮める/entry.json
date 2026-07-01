@@ -1,0 +1,37 @@
+{
+  "id": "n2-0925",
+  "jlpt": "N2",
+  "kanji": "縮める",
+  "kana": "ちぢめる",
+  "display": "縮める",
+  "meanings_zh": [
+    "缩",
+    "缩短",
+    "缩小",
+    "截短"
+  ],
+  "meanings_en": [
+    "to shorten",
+    "to reduce",
+    "to boil down",
+    "to shrink"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "すさんだ生活を送るのは、命を縮めるようなものだ。",
+      "en": "Living life in the fast lane is like burning the candle at both ends."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

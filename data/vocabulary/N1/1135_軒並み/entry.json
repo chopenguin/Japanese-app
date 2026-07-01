@@ -1,0 +1,29 @@
+{
+  "id": "n1-1135",
+  "jlpt": "N1",
+  "kanji": "軒並み",
+  "kana": "のきなみ",
+  "display": "軒並み",
+  "meanings_zh": [
+    "屋檐栉比",
+    "成排的屋檐",
+    "每家",
+    "家家户户"
+  ],
+  "meanings_en": [
+    "row of houses"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

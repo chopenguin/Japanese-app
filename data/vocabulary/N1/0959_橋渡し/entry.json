@@ -1,0 +1,30 @@
+{
+  "id": "n1-0959",
+  "jlpt": "N1",
+  "kanji": "橋渡し",
+  "kana": "はしわたし",
+  "display": "橋渡し",
+  "meanings_zh": [
+    "架桥",
+    "桥梁",
+    "中人",
+    "搭桥"
+  ],
+  "meanings_en": [
+    "bridge building",
+    "mediation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "n2-0708",
+  "jlpt": "N2",
+  "kanji": "広々",
+  "kana": "ひろびろ",
+  "display": "広々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "extensive",
+    "spacious"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "人々は広々とした庭園を歩きまわった。",
+      "en": "People walked about in the wide garden."
+    },
+    {
+      "ja": "彼らの家の食堂はとても広々としている。",
+      "en": "Their dining room is very spacious."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

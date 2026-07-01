@@ -1,0 +1,37 @@
+{
+  "id": "n4-0339",
+  "jlpt": "N4",
+  "kanji": "治る",
+  "kana": "なおる",
+  "display": "治る",
+  "meanings_zh": [
+    "病医好",
+    "痊愈"
+  ],
+  "meanings_en": [
+    "to be cured",
+    "to heal"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "早く治るといいですね。",
+      "en": "I hope you'll recover quickly."
+    },
+    {
+      "ja": "風邪早く治るといいね。",
+      "en": "I hope you'll get over your cold soon."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

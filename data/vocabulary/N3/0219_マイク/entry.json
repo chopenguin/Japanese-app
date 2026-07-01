@@ -1,0 +1,33 @@
+{
+  "id": "n3-0219",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "マイク",
+  "display": "マイク",
+  "meanings_zh": [],
+  "meanings_en": [
+    "mike"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "マイクは笑った。",
+      "en": "Mike smiled."
+    },
+    {
+      "ja": "マイクが笑います。",
+      "en": "Mike laughs."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

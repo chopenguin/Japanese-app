@@ -1,0 +1,41 @@
+{
+  "id": "n1-2999",
+  "jlpt": "N1",
+  "kanji": "捕らえる",
+  "kana": "とらえる",
+  "display": "捕らえる",
+  "meanings_zh": [
+    "捉住",
+    "逮住",
+    "逮捕",
+    "紧捉住"
+  ],
+  "meanings_en": [
+    "to seize",
+    "to grasp",
+    "to capture",
+    "to arrest"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "なんであれ物事の本体を捕らえる事が肝心だ。",
+      "en": "No matter what the problem is, it's essential to get at the heart of the matter."
+    },
+    {
+      "ja": "テレビ観戦者はカメラが捕らえるものしか見られない。",
+      "en": "Television viewers see only what the camera shows."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

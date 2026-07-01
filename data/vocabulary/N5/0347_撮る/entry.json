@@ -1,0 +1,38 @@
+{
+  "id": "n5-0347",
+  "jlpt": "N5",
+  "kanji": "撮る",
+  "kana": "とる",
+  "display": "撮る",
+  "meanings_zh": [
+    "摄影",
+    "摄象",
+    "照相",
+    "拍"
+  ],
+  "meanings_en": [
+    "to take a photo or record a film"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "写真撮るの、好き好き。",
+      "en": "I love to take pictures."
+    },
+    {
+      "ja": "写真を撮るのが好きです。",
+      "en": "I'm fond of taking pictures."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

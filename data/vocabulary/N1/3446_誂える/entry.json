@@ -1,0 +1,28 @@
+{
+  "id": "n1-3446",
+  "jlpt": "N1",
+  "kanji": "誂える",
+  "kana": "あつらえる",
+  "display": "誂える",
+  "meanings_zh": [
+    "定",
+    "订做"
+  ],
+  "meanings_en": [
+    "to give an order",
+    "to place an order"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

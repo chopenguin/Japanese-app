@@ -1,0 +1,39 @@
+{
+  "id": "n3-0114",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "すると",
+  "display": "すると",
+  "meanings_zh": [
+    "于是",
+    "于是乎",
+    "那",
+    "那么"
+  ],
+  "meanings_en": [
+    "thereupon",
+    "hereupon"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は遅刻すると思う。",
+      "en": "I suppose he will be late."
+    },
+    {
+      "ja": "登校するところです。",
+      "en": "I am going to school."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

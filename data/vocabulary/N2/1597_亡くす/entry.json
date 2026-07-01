@@ -1,0 +1,30 @@
+{
+  "id": "n2-1597",
+  "jlpt": "N2",
+  "kanji": "亡くす",
+  "kana": "なくす",
+  "display": "亡くす",
+  "meanings_zh": [
+    "死",
+    "丧"
+  ],
+  "meanings_en": [
+    "to lose someone",
+    "wife",
+    "child",
+    "etc"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

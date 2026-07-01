@@ -1,0 +1,40 @@
+{
+  "id": "n3-0124",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "そのうち",
+  "display": "そのうち",
+  "meanings_zh": [
+    "不久",
+    "过几天",
+    "过一会儿",
+    "其中"
+  ],
+  "meanings_en": [
+    "eventually",
+    "sooner or later",
+    "of the previously mentioned"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そのうち分かるよ。",
+      "en": "You'll understand sooner or later."
+    },
+    {
+      "ja": "そのうち何とかなるさ。",
+      "en": "It will soon come out all right."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "n2-1743",
+  "jlpt": "N2",
+  "kanji": "溜める",
+  "kana": "ためる",
+  "display": "溜める",
+  "meanings_zh": [
+    "积",
+    "蓄",
+    "储",
+    "存"
+  ],
+  "meanings_en": [
+    "to amass",
+    "to accumulate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

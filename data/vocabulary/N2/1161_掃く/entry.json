@@ -1,0 +1,40 @@
+{
+  "id": "n2-1161",
+  "jlpt": "N2",
+  "kanji": "掃く",
+  "kana": "はく",
+  "display": "掃く",
+  "meanings_zh": [
+    "扫",
+    "打扫",
+    "轻涂",
+    "扫集"
+  ],
+  "meanings_en": [
+    "to sweep",
+    "to brush",
+    "to gather up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "台所をきれいに掃くのを忘れないように。",
+      "en": "Don't forget to sweep the kitchen clean."
+    },
+    {
+      "ja": "支配人は、全ての部屋をできるだけ早くきれいに掃くように命じた。",
+      "en": "The manager ordered all the rooms to be swept clean as soon as possible."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

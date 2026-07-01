@@ -1,0 +1,40 @@
+{
+  "id": "n2-1745",
+  "jlpt": "N2",
+  "kanji": "留まる",
+  "kana": "とどまる",
+  "display": "留まる",
+  "meanings_zh": [
+    "停",
+    "停止",
+    "停下",
+    "止住"
+  ],
+  "meanings_en": [
+    "(1) to be fixed",
+    "(2) to abide",
+    "to stay (in the one place)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "行くも留まるも君次第だよ。",
+      "en": "You can go or stay, as you wish."
+    },
+    {
+      "ja": "行くも留まるも自由にしなさい。",
+      "en": "You may go or stay at will."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

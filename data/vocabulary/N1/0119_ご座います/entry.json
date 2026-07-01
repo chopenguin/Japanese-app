@@ -1,0 +1,30 @@
+{
+  "id": "n1-0119",
+  "jlpt": "N1",
+  "kanji": "ご座います",
+  "kana": "ございます",
+  "display": "ご座います",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to be (polite)",
+    "to exist"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "「ありがとうご座います」「どう致しまして」",
+      "en": "\"Thank you.\" \"You're welcome.\""
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

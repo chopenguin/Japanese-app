@@ -1,0 +1,33 @@
+{
+  "id": "n1-1169",
+  "jlpt": "N1",
+  "kanji": "言論",
+  "kana": "げんろん",
+  "display": "言論",
+  "meanings_zh": [],
+  "meanings_en": [
+    "discussion"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私はあらゆる言論の自由に賛成だ。",
+      "en": "I stand for freedom of speech for everyone."
+    },
+    {
+      "ja": "言論の自由は厳しく制限されていた。",
+      "en": "Freedom of speech was tightly restricted."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

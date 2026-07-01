@@ -1,0 +1,38 @@
+{
+  "id": "n1-0233",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ナプキン",
+  "display": "ナプキン",
+  "meanings_zh": [
+    "餐巾",
+    "揩嘴布",
+    "口布",
+    "(妇女)卫生巾"
+  ],
+  "meanings_en": [
+    "napkin"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ナプキンを頂けますか。",
+      "en": "May I have a napkin, please?"
+    },
+    {
+      "ja": "ナプキンがありません。",
+      "en": "There is a napkin missing."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

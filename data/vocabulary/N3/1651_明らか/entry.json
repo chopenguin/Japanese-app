@@ -1,0 +1,40 @@
+{
+  "id": "n3-1651",
+  "jlpt": "N3",
+  "kanji": "明らか",
+  "kana": "あきらか",
+  "display": "明らか",
+  "meanings_zh": [
+    "明亮",
+    "明显",
+    "显然",
+    "清楚"
+  ],
+  "meanings_en": [
+    "obvious",
+    "evident",
+    "clear"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "証拠は明らかだ。",
+      "en": "The evidence is clear."
+    },
+    {
+      "ja": "それは明らかだよ。",
+      "en": "That's clear."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

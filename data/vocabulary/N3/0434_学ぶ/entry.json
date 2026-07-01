@@ -1,0 +1,39 @@
+{
+  "id": "n3-0434",
+  "jlpt": "N3",
+  "kanji": "学ぶ",
+  "kana": "まなぶ",
+  "display": "学ぶ",
+  "meanings_zh": [
+    "学",
+    "模仿",
+    "学习"
+  ],
+  "meanings_en": [
+    "to study (in depth)",
+    "to learn",
+    "to take lessons in"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "人は経験から学ぶ。",
+      "en": "People learn from experience."
+    },
+    {
+      "ja": "学ぶのに年は関係ない。",
+      "en": "One is never too old to learn."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

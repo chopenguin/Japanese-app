@@ -1,0 +1,36 @@
+{
+  "id": "n4-0091",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ソフト",
+  "display": "ソフト",
+  "meanings_zh": [
+    "柔软",
+    "柔和"
+  ],
+  "meanings_en": [
+    "soft"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ソフトクリーム食べたい。",
+      "en": "I want to eat soft serve ice cream."
+    },
+    {
+      "ja": "このソフトはフリーです。",
+      "en": "This software is free."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

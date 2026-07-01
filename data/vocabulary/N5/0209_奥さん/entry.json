@@ -1,0 +1,33 @@
+{
+  "id": "n5-0209",
+  "jlpt": "N5",
+  "kanji": "奥さん",
+  "kana": "おくさん",
+  "display": "奥さん",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(honorable) wife"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "奥さんはお元気？",
+      "en": "How is the wife?"
+    },
+    {
+      "ja": "いい奥さんになるよ。",
+      "en": "You will make a good wife."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

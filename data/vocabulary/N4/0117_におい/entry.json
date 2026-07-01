@@ -1,0 +1,33 @@
+{
+  "id": "n4-0117",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "におい",
+  "display": "におい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "a smell"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "家においで。",
+      "en": "Come to my house."
+    },
+    {
+      "ja": "家においでよ。",
+      "en": "Come over!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

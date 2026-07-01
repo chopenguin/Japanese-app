@@ -1,0 +1,33 @@
+{
+  "id": "n5-0436",
+  "jlpt": "N5",
+  "kanji": "水曜日",
+  "kana": "すいようび",
+  "display": "水曜日",
+  "meanings_zh": [],
+  "meanings_en": [
+    "Wednesday"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今日は水曜日です。",
+      "en": "Today is Wednesday."
+    },
+    {
+      "ja": "今日って、水曜日よね？",
+      "en": "It's Wednesday today, isn't it?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n2-1500",
+  "jlpt": "N2",
+  "kanji": "必需品",
+  "kana": "ひつじゅひん",
+  "display": "必需品",
+  "meanings_zh": [],
+  "meanings_en": [
+    "necessities",
+    "necessary article",
+    "requisite",
+    "essential"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "カメラは私の必需品でした。",
+      "en": "The camera was essential for me."
+    },
+    {
+      "ja": "芸術は贅沢品ではない、必需品だ。",
+      "en": "Art is not a luxury, but a necessity."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

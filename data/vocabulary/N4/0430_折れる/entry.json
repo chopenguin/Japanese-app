@@ -1,0 +1,38 @@
+{
+  "id": "n4-0430",
+  "jlpt": "N4",
+  "kanji": "折れる",
+  "kana": "おれる",
+  "display": "折れる",
+  "meanings_zh": [
+    "折",
+    "断",
+    "拐弯",
+    "转弯"
+  ],
+  "meanings_en": [
+    "to break or be folded"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "折れるより曲がれ。",
+      "en": "Better to bend than break."
+    },
+    {
+      "ja": "英語を学ぶのは骨が折れる。",
+      "en": "Learning English is hard work."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

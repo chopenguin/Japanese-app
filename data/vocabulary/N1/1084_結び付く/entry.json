@@ -1,0 +1,30 @@
+{
+  "id": "n1-1084",
+  "jlpt": "N1",
+  "kanji": "結び付く",
+  "kana": "むすびつく",
+  "display": "結び付く",
+  "meanings_zh": [
+    "有关系",
+    "有联系",
+    "有关联",
+    "结成一体"
+  ],
+  "meanings_en": [
+    "to be connected or related",
+    "to join together"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

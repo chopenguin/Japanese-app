@@ -1,0 +1,40 @@
+{
+  "id": "n3-1251",
+  "jlpt": "N3",
+  "kanji": "単に",
+  "kana": "たんに",
+  "display": "単に",
+  "meanings_zh": [
+    "仅",
+    "只",
+    "单"
+  ],
+  "meanings_en": [
+    "simply",
+    "merely",
+    "only",
+    "solely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "簡単に直ったよ。",
+      "en": "It was easy to fix."
+    },
+    {
+      "ja": "鉛は簡単に曲がる。",
+      "en": "Lead bends easily."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n3-0475",
+  "jlpt": "N3",
+  "kanji": "関する",
+  "kana": "かんする",
+  "display": "関する",
+  "meanings_zh": [
+    "有关",
+    "关于"
+  ],
+  "meanings_en": [
+    "to concern",
+    "to be related"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は中国に関する権威だ。",
+      "en": "He is an authority on China."
+    },
+    {
+      "ja": "君の関する事柄ではない。",
+      "en": "That is no business of yours."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

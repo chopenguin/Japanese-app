@@ -1,0 +1,40 @@
+{
+  "id": "n3-0708",
+  "jlpt": "N3",
+  "kanji": "語る",
+  "kana": "かたる",
+  "display": "語る",
+  "meanings_zh": [
+    "谈",
+    "讲",
+    "讲述",
+    "说唱"
+  ],
+  "meanings_en": [
+    "to talk",
+    "to tell",
+    "to recite"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "夢は真実を語る。",
+      "en": "Dreams speak the truth."
+    },
+    {
+      "ja": "語る価値さえない。",
+      "en": "It's not even worth mentioning."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

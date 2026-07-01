@@ -1,0 +1,38 @@
+{
+  "id": "n4-0538",
+  "jlpt": "N4",
+  "kanji": "比べる",
+  "kana": "くらべる",
+  "display": "比べる",
+  "meanings_zh": [
+    "比",
+    "比较",
+    "对比",
+    "对照"
+  ],
+  "meanings_en": [
+    "to compare"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "以前と比べるとよくなった。",
+      "en": "It's better than it was before."
+    },
+    {
+      "ja": "太陽に比べると地球は小さい。",
+      "en": "The earth is small compared with the sun."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

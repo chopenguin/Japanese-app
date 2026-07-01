@@ -1,0 +1,41 @@
+{
+  "id": "n2-0635",
+  "jlpt": "N2",
+  "kanji": "見送る",
+  "kana": "みおくる",
+  "display": "見送る",
+  "meanings_zh": [
+    "目送",
+    "送行",
+    "送别",
+    "送"
+  ],
+  "meanings_en": [
+    "(1) to see off",
+    "to farewell",
+    "(2) to escort",
+    "(3) to let pass"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らを見送る必要は無い。",
+      "en": "There's no need to see them off."
+    },
+    {
+      "ja": "友達を見送るため駅に行ったんだ。",
+      "en": "I went to the station to see my friend off."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

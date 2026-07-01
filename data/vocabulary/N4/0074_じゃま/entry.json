@@ -1,0 +1,34 @@
+{
+  "id": "n4-0074",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "じゃま",
+  "display": "じゃま",
+  "meanings_zh": [],
+  "meanings_en": [
+    "hindrance",
+    "intrusion"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "じゃまたね。",
+      "en": "I'll see you later."
+    },
+    {
+      "ja": "じゃましないで。",
+      "en": "Stop bugging me!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

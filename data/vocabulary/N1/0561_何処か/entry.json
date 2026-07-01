@@ -1,0 +1,40 @@
+{
+  "id": "n1-0561",
+  "jlpt": "N1",
+  "kanji": "何処か",
+  "kana": "どこか",
+  "display": "何処か",
+  "meanings_zh": [
+    "哪里",
+    "什么地方",
+    "有的地方",
+    "某点"
+  ],
+  "meanings_en": [
+    "somewhere",
+    "anywhere",
+    "in some respects"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何処か行ってた？",
+      "en": "Have you been away?"
+    },
+    {
+      "ja": "あなたは何処から来ましたか。",
+      "en": "Where do you come from?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

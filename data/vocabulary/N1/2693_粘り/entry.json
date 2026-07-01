@@ -1,0 +1,39 @@
+{
+  "id": "n1-2693",
+  "jlpt": "N1",
+  "kanji": "粘り",
+  "kana": "ねばり",
+  "display": "粘り",
+  "meanings_zh": [
+    "粘",
+    "粘性",
+    "粘度",
+    "坚韧顽强"
+  ],
+  "meanings_en": [
+    "stickyness",
+    "viscosity"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "最後まで粘り抜いてね。",
+      "en": "Stick it out."
+    },
+    {
+      "ja": "彼は粘り強い精神の持ち主だ。",
+      "en": "He has a spirit of tenacity."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

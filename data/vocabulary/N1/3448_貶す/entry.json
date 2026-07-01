@@ -1,0 +1,29 @@
+{
+  "id": "n1-3448",
+  "jlpt": "N1",
+  "kanji": "貶す",
+  "kana": "けなす",
+  "display": "貶す",
+  "meanings_zh": [
+    "贬低",
+    "贬斥",
+    "讥诮",
+    "诽谤"
+  ],
+  "meanings_en": [
+    "to speak ill of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

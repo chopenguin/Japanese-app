@@ -1,0 +1,36 @@
+{
+  "id": "n3-0836",
+  "jlpt": "N3",
+  "kanji": "支払う",
+  "kana": "しはらう",
+  "display": "支払う",
+  "meanings_zh": [
+    "支付",
+    "付款"
+  ],
+  "meanings_en": [
+    "to pay"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "小切手で支払う。",
+      "en": "I will pay for it by check."
+    },
+    {
+      "ja": "罰金は現金で支払うべし。",
+      "en": "The fine shall be paid in cash."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

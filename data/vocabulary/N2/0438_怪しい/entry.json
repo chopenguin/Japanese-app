@@ -1,0 +1,40 @@
+{
+  "id": "n2-0438",
+  "jlpt": "N2",
+  "kanji": "怪しい",
+  "kana": "あやしい",
+  "display": "怪しい",
+  "meanings_zh": [
+    "可疑",
+    "奇异",
+    "奇怪",
+    "特别"
+  ],
+  "meanings_en": [
+    "suspicious",
+    "dubious",
+    "doubtful"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼が怪しい。",
+      "en": "He looks suspicious."
+    },
+    {
+      "ja": "空模様が怪しい。",
+      "en": "The sky looks angry."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

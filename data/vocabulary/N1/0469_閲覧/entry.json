@@ -1,0 +1,36 @@
+{
+  "id": "n1-0469",
+  "jlpt": "N1",
+  "kanji": "閲覧",
+  "kana": "えつらん",
+  "display": "閲覧",
+  "meanings_zh": [
+    "阅览"
+  ],
+  "meanings_en": [
+    "inspection",
+    "reading"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "定期雑誌類は閲覧室より帯出禁止。",
+      "en": "Periodicals may not be removed from the reading room."
+    },
+    {
+      "ja": "お前の好きなインターネット閲覧ソフトはなんだ。",
+      "en": "What's your favorite web browser?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

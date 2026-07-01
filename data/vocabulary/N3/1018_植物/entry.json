@@ -1,0 +1,36 @@
+{
+  "id": "n3-1018",
+  "jlpt": "N3",
+  "kanji": "植物",
+  "kana": "しょくぶつ",
+  "display": "植物",
+  "meanings_zh": [
+    "植物"
+  ],
+  "meanings_en": [
+    "plant",
+    "vegetation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "植物が生える。",
+      "en": "Plants grow."
+    },
+    {
+      "ja": "植物は土壌で育つ。",
+      "en": "Plants are nourished by earth."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

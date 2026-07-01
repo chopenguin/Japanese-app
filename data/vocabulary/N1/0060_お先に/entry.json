@@ -1,0 +1,35 @@
+{
+  "id": "n1-0060",
+  "jlpt": "N1",
+  "kanji": "お先に",
+  "kana": "おさきに",
+  "display": "お先に",
+  "meanings_zh": [],
+  "meanings_en": [
+    "before",
+    "ahead",
+    "previously"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お先にどうぞ。",
+      "en": "After you."
+    },
+    {
+      "ja": "どうぞ、お先に！",
+      "en": "Go ahead."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

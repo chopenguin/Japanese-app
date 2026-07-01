@@ -1,0 +1,39 @@
+{
+  "id": "n2-0232",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "フライパン",
+  "display": "フライパン",
+  "meanings_zh": [
+    "长柄平锅",
+    "扁锅",
+    "平底炒菜锅",
+    "煎锅"
+  ],
+  "meanings_en": [
+    "fry pan",
+    "frying pan"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私はフライパンで野菜を炒めた。",
+      "en": "I pan-fried vegetables."
+    },
+    {
+      "ja": "鍋とフライパンは、トムが洗ったよ。",
+      "en": "Tom washed the pots and pans."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "n1-0664",
+  "jlpt": "N1",
+  "kanji": "害する",
+  "kana": "がいする",
+  "display": "害する",
+  "meanings_zh": [
+    "伤害",
+    "损害",
+    "毁坏",
+    "妨碍"
+  ],
+  "meanings_en": [
+    "to injure",
+    "to damage",
+    "to harm",
+    "to kill",
+    "to hinder"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は他人の私事を妨害する。",
+      "en": "He invades the privacy of others."
+    },
+    {
+      "ja": "トムに殺害すると脅された。",
+      "en": "Tom threatened to kill me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

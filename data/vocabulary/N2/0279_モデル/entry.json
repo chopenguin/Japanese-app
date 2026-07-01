@@ -1,0 +1,38 @@
+{
+  "id": "n2-0279",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "モデル",
+  "display": "モデル",
+  "meanings_zh": [
+    "模型",
+    "雏型",
+    "型(式)",
+    "模范"
+  ],
+  "meanings_en": [
+    "model"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "モデルさんなの？",
+      "en": "Are you a model?"
+    },
+    {
+      "ja": "モデルガンっぽいね。",
+      "en": "That sounds like a model gun."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

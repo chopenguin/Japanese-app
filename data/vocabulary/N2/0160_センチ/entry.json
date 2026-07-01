@@ -1,0 +1,38 @@
+{
+  "id": "n2-0160",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "センチ",
+  "display": "センチ",
+  "meanings_zh": [
+    "百分之一",
+    "厘"
+  ],
+  "meanings_en": [
+    "centimeter",
+    "centi-",
+    "10^-2"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "身長何センチ？",
+      "en": "How tall are you?"
+    },
+    {
+      "ja": "今、身長何センチ？",
+      "en": "How tall are you now?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

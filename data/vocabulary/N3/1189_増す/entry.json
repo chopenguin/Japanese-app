@@ -1,0 +1,39 @@
+{
+  "id": "n3-1189",
+  "jlpt": "N3",
+  "kanji": "増す",
+  "kana": "ます",
+  "display": "増す",
+  "meanings_zh": [
+    "增加",
+    "增多",
+    "增大",
+    "增长"
+  ],
+  "meanings_en": [
+    "to increase",
+    "to grow"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "離れてみれば尊敬は増す。",
+      "en": "Respect is greater from a distance."
+    },
+    {
+      "ja": "知識を増す者は悲哀を増す。",
+      "en": "He that increases knowledge increases sorrows."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

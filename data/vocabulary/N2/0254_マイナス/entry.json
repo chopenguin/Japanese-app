@@ -1,0 +1,38 @@
+{
+  "id": "n2-0254",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "マイナス",
+  "display": "マイナス",
+  "meanings_zh": [
+    "减",
+    "减号",
+    "负号",
+    "负"
+  ],
+  "meanings_en": [
+    "minus"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "気温はマイナス6度です。",
+      "en": "It's six degrees below zero."
+    },
+    {
+      "ja": "経済はマイナス成長を記録した。",
+      "en": "The economy recorded a negative growth."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

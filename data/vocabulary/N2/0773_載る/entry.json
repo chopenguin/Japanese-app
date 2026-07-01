@@ -1,0 +1,39 @@
+{
+  "id": "n2-0773",
+  "jlpt": "N2",
+  "kanji": "載る",
+  "kana": "のる",
+  "display": "載る",
+  "meanings_zh": [
+    "放",
+    "登载",
+    "记载",
+    "载"
+  ],
+  "meanings_en": [
+    "to appear (in print)",
+    "to be recorded"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "選挙の結果は夕刊に載るでしょう。",
+      "en": "The results of the election will appear in the evening paper."
+    },
+    {
+      "ja": "君が次に分かることは君が新聞に載るってことだ。",
+      "en": "Next thing you know, you'll be in the papers."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

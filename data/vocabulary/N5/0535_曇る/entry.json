@@ -1,0 +1,35 @@
+{
+  "id": "n5-0535",
+  "jlpt": "N5",
+  "kanji": "曇る",
+  "kana": "くもる",
+  "display": "曇る",
+  "meanings_zh": [
+    "阴天",
+    "变模糊不清",
+    "朦胧",
+    "暗淡"
+  ],
+  "meanings_en": [
+    "to become cloudy",
+    "to become dim"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "マスクをつけると眼鏡が曇る。",
+      "en": "When I wear a mask, my glasses get steamed up."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

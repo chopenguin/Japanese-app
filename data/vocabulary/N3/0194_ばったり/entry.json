@@ -1,0 +1,36 @@
+{
+  "id": "n3-0194",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ばったり",
+  "display": "ばったり",
+  "meanings_zh": [],
+  "meanings_en": [
+    "with a clash (thud)",
+    "with a bang",
+    "plump",
+    "flop"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は横にばったり倒れた。",
+      "en": "He fell flat on the floor."
+    },
+    {
+      "ja": "彼とはそこでばったり会う。",
+      "en": "I'm always meeting him there."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

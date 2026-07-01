@@ -1,0 +1,39 @@
+{
+  "id": "n3-0183",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "のんびり",
+  "display": "のんびり",
+  "meanings_zh": [
+    "悠闲自在",
+    "逍遥自在",
+    "无拘无束",
+    "舒舒服服"
+  ],
+  "meanings_en": [
+    "carefree",
+    "at leisure"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "のんびり行こう。",
+      "en": "Take it easy."
+    },
+    {
+      "ja": "のんびりいこうよ。",
+      "en": "Let's take it easy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

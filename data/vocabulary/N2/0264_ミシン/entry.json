@@ -1,0 +1,35 @@
+{
+  "id": "n2-0264",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ミシン",
+  "display": "ミシン",
+  "meanings_zh": [
+    "缝纫机"
+  ],
+  "meanings_en": [
+    "sewing machine"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ミシンが必要ね。",
+      "en": "I need a sewing machine."
+    },
+    {
+      "ja": "母がミシンをくれた。",
+      "en": "My mother gave me a sewing machine."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

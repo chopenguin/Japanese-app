@@ -1,0 +1,30 @@
+{
+  "id": "n1-1591",
+  "jlpt": "N1",
+  "kanji": "若しかすると",
+  "kana": "もしかすると",
+  "display": "若しかすると",
+  "meanings_zh": [
+    "也许",
+    "或许",
+    "可能"
+  ],
+  "meanings_en": [
+    "perhaps",
+    "maybe",
+    "by some chance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

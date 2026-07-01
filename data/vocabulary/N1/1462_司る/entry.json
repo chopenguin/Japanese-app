@@ -1,0 +1,36 @@
+{
+  "id": "n1-1462",
+  "jlpt": "N1",
+  "kanji": "司る",
+  "kana": "つかさどる",
+  "display": "司る",
+  "meanings_zh": [
+    "掌管",
+    "管理",
+    "主持",
+    "担任"
+  ],
+  "meanings_en": [
+    "to rule",
+    "to govern",
+    "to administer"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "市長は市政を司る。",
+      "en": "The mayor administers the affairs of the city."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

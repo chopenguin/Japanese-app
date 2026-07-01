@@ -1,0 +1,33 @@
+{
+  "id": "n5-0099",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "たぶん",
+  "display": "たぶん",
+  "meanings_zh": [],
+  "meanings_en": [
+    "probably"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "たぶん遅れる。",
+      "en": "I may be late."
+    },
+    {
+      "ja": "たぶん大丈夫だ。",
+      "en": "I guess that would be all right."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

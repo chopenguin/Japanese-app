@@ -1,0 +1,34 @@
+{
+  "id": "n2-0877",
+  "jlpt": "N2",
+  "kanji": "若々しい",
+  "kana": "わかわかしい",
+  "display": "若々しい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "youthful",
+    "young"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は相変わらず若々しい。",
+      "en": "She looks as young as ever."
+    },
+    {
+      "ja": "彼は年をとっていてもまだ若々しい。",
+      "en": "He is old, but he's worn well."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

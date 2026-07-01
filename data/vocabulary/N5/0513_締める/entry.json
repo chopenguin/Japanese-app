@@ -1,0 +1,38 @@
+{
+  "id": "n5-0513",
+  "jlpt": "N5",
+  "kanji": "締める",
+  "kana": "しめる",
+  "display": "締める",
+  "meanings_zh": [
+    "勒紧",
+    "系紧",
+    "束紧",
+    "绷紧"
+  ],
+  "meanings_en": [
+    "to tie"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "口と財布は締めるが得。",
+      "en": "Keep your purse and your mouth closed."
+    },
+    {
+      "ja": "運転手はベルトを締めるべきだ。",
+      "en": "Drivers should wear seat belts."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "n1-0946",
+  "jlpt": "N1",
+  "kanji": "強請る",
+  "kana": "ねだる",
+  "display": "強請る",
+  "meanings_zh": [
+    "敲诈",
+    "勒索"
+  ],
+  "meanings_en": [
+    "to tease",
+    "to coax",
+    "to solicit",
+    "to demand"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n5-0497",
+  "jlpt": "N5",
+  "kanji": "遅い",
+  "kana": "おそい",
+  "display": "遅い",
+  "meanings_zh": [
+    "慢",
+    "迟缓",
+    "不快",
+    "晚"
+  ],
+  "meanings_en": [
+    "late",
+    "slow"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムは遅い。",
+      "en": "Tom's late."
+    },
+    {
+      "ja": "脈が遅いです。",
+      "en": "My pulse is slow."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

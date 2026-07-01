@@ -1,0 +1,35 @@
+{
+  "id": "n2-0051",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "おとなしい",
+  "display": "おとなしい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "obedient",
+    "docile",
+    "quiet"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は性格がおとなしい。",
+      "en": "He has a mild nature."
+    },
+    {
+      "ja": "この犬は、おとなしい。",
+      "en": "This dog is obedient."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

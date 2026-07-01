@@ -1,0 +1,38 @@
+{
+  "id": "n1-2352",
+  "jlpt": "N1",
+  "kanji": "恥じる",
+  "kana": "はじる",
+  "display": "恥じる",
+  "meanings_zh": [
+    "害羞",
+    "羞愧",
+    "惭愧",
+    "败坏名誉"
+  ],
+  "meanings_en": [
+    "to feel ashamed"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あなたは恥じるべきだ。",
+      "en": "You ought to be ashamed of yourself."
+    },
+    {
+      "ja": "貧乏であることを恥じるな。",
+      "en": "Don't be ashamed of being poor."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

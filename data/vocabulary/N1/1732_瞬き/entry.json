@@ -1,0 +1,33 @@
+{
+  "id": "n1-1732",
+  "jlpt": "N1",
+  "kanji": "瞬き",
+  "kana": "またたき",
+  "display": "瞬き",
+  "meanings_zh": [
+    "眨眼"
+  ],
+  "meanings_en": [
+    "wink",
+    "twinkling (of stars)",
+    "flicker (of light)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "人って、1分間に平均何回瞬きをするの？",
+      "en": "On average, how many times per minute does a person blink?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

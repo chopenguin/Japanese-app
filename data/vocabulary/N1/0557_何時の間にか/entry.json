@@ -1,0 +1,31 @@
+{
+  "id": "n1-0557",
+  "jlpt": "N1",
+  "kanji": "何時の間にか",
+  "kana": "いつのまにか",
+  "display": "何時の間にか",
+  "meanings_zh": [],
+  "meanings_en": [
+    "before one knows",
+    "unnoticed",
+    "unawares"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何時の間にか暗くなった。",
+      "en": "It became dark before I knew it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

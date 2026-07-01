@@ -1,0 +1,38 @@
+{
+  "id": "n5-0551",
+  "jlpt": "N5",
+  "kanji": "熱い",
+  "kana": "あつい",
+  "display": "熱い",
+  "meanings_zh": [
+    "热",
+    "烫",
+    "热中",
+    "热心"
+  ],
+  "meanings_en": [
+    "hot to the touch"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "卵がまだ熱い。",
+      "en": "The eggs are still hot."
+    },
+    {
+      "ja": "お出汁、熱いよ。",
+      "en": "The broth is hot."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

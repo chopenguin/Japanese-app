@@ -1,0 +1,28 @@
+{
+  "id": "n1-3084",
+  "jlpt": "N1",
+  "kanji": "凡ゆる",
+  "kana": "あらゆる",
+  "display": "凡ゆる",
+  "meanings_zh": [
+    "所有",
+    "一切"
+  ],
+  "meanings_en": [
+    "all",
+    "every"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

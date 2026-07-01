@@ -1,0 +1,42 @@
+{
+  "id": "n1-0861",
+  "jlpt": "N1",
+  "kanji": "宜しく",
+  "kana": "よろしく",
+  "display": "宜しく",
+  "meanings_zh": [
+    "适当地",
+    "请问好",
+    "请致意",
+    "请关照"
+  ],
+  "meanings_en": [
+    "well",
+    "properly",
+    "suitably",
+    "best regards",
+    "please remember me"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お父さんに宜しく。",
+      "en": "Remember me to your father."
+    },
+    {
+      "ja": "宜しくお願いします。",
+      "en": "Please take care of me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

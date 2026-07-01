@@ -1,0 +1,40 @@
+{
+  "id": "n3-1373",
+  "jlpt": "N3",
+  "kanji": "当たる",
+  "kana": "あたる",
+  "display": "当たる",
+  "meanings_zh": [
+    "碰上",
+    "撞上",
+    "中",
+    "命中"
+  ],
+  "meanings_en": [
+    "to be hit",
+    "to be successful",
+    "to be equivalent to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "思い当たる節はない。",
+      "en": "That doesn't ring a bell."
+    },
+    {
+      "ja": "果物は日に当たると腐る。",
+      "en": "Fruits decay in the sun."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

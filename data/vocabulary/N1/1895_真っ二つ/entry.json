@@ -1,0 +1,32 @@
+{
+  "id": "n1-1895",
+  "jlpt": "N1",
+  "kanji": "真っ二つ",
+  "kana": "まっぷたつ",
+  "display": "真っ二つ",
+  "meanings_zh": [
+    "两半儿",
+    "两派"
+  ],
+  "meanings_en": [
+    "in two equal parts"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムはリンゴを真っ二つに切った。",
+      "en": "Tom cut the apple in half."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

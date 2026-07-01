@@ -1,0 +1,39 @@
+{
+  "id": "n2-1024",
+  "jlpt": "N2",
+  "kanji": "深まる",
+  "kana": "ふかまる",
+  "display": "深まる",
+  "meanings_zh": [
+    "加深",
+    "变深",
+    "深起来"
+  ],
+  "meanings_en": [
+    "to deepen",
+    "to heighten",
+    "to intensify"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "謎は深まるばかり。",
+      "en": "The mystery continues to deepen."
+    },
+    {
+      "ja": "心の傷は深まるばかり。",
+      "en": "The pain in my heart just gets worse."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

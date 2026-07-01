@@ -1,0 +1,37 @@
+{
+  "id": "n2-1047",
+  "jlpt": "N2",
+  "kanji": "人通り",
+  "kana": "ひとどおり",
+  "display": "人通り",
+  "meanings_zh": [
+    "人来人往",
+    "通行",
+    "来往行人"
+  ],
+  "meanings_en": [
+    "pedestrian traffic"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "夜は人通りが無くなった。",
+      "en": "The streets emptied in the night."
+    },
+    {
+      "ja": "その道路は人通りはなかった。",
+      "en": "The road was clear of traffic."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

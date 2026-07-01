@@ -1,0 +1,41 @@
+{
+  "id": "n3-0991",
+  "jlpt": "N3",
+  "kanji": "省く",
+  "kana": "はぶく",
+  "display": "省く",
+  "meanings_zh": [
+    "省",
+    "节省",
+    "减去",
+    "从略"
+  ],
+  "meanings_en": [
+    "to omit",
+    "to eliminate",
+    "to curtail",
+    "to economize"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この２行は省くべきだ。",
+      "en": "You should leave out these two lines."
+    },
+    {
+      "ja": "機械は多くの人手を省く。",
+      "en": "Machinery dispenses with much labor."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

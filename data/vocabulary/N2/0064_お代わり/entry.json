@@ -1,0 +1,37 @@
+{
+  "id": "n2-0064",
+  "jlpt": "N2",
+  "kanji": "お代わり",
+  "kana": "おかわり",
+  "display": "お代わり",
+  "meanings_zh": [
+    "再来一份",
+    "再添一碗"
+  ],
+  "meanings_en": [
+    "second helping",
+    "another cup"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "水のお代わりを下さい。",
+      "en": "I would like some more water."
+    },
+    {
+      "ja": "ケーキのお代わりはいかが？",
+      "en": "Would you like some more cake?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

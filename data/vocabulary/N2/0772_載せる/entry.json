@@ -1,0 +1,40 @@
+{
+  "id": "n2-0772",
+  "jlpt": "N2",
+  "kanji": "載せる",
+  "kana": "のせる",
+  "display": "載せる",
+  "meanings_zh": [
+    "放",
+    "搁",
+    "托",
+    "记载"
+  ],
+  "meanings_en": [
+    "to place on (something)",
+    "to take on board",
+    "to give a ride"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この荷物をトラックに載せるの手伝って。",
+      "en": "Help me get this luggage into the truck."
+    },
+    {
+      "ja": "払わないんなら、お前の写真インターネットに載せるぞ。",
+      "en": "If you don't pay me, I'll post your photos on the Internet."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n5-0022",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ええ",
+  "display": "ええ",
+  "meanings_zh": [
+    "啊",
+    "诶",
+    "好吧",
+    "嗯"
+  ],
+  "meanings_en": [
+    "yes"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ええと。。。",
+      "en": "Er..."
+    },
+    {
+      "ja": "ええ、喜んで。",
+      "en": "I'll be glad to."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

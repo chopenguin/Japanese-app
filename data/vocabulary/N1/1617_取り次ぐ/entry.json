@@ -1,0 +1,30 @@
+{
+  "id": "n1-1617",
+  "jlpt": "N1",
+  "kanji": "取り次ぐ",
+  "kana": "とりつぐ",
+  "display": "取り次ぐ",
+  "meanings_zh": [
+    "传达",
+    "转达",
+    "通报"
+  ],
+  "meanings_en": [
+    "to act as an agent for",
+    "to announce (someone)",
+    "to convey (a message)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

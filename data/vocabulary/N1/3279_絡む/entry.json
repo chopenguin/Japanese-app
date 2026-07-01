@@ -1,0 +1,30 @@
+{
+  "id": "n1-3279",
+  "jlpt": "N1",
+  "kanji": "絡む",
+  "kana": "からむ",
+  "display": "絡む",
+  "meanings_zh": [
+    "缠在～～上",
+    "找茬儿纠缠",
+    "胡搅蛮缠",
+    "无理取闹"
+  ],
+  "meanings_en": [
+    "to entangle",
+    "to entwine"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

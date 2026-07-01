@@ -1,0 +1,33 @@
+{
+  "id": "n2-0240",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ブローチ",
+  "display": "ブローチ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "brooch"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女はブローチをつけている。",
+      "en": "She is wearing a brooch."
+    },
+    {
+      "ja": "このブローチはあなたのセーターによく合う。",
+      "en": "This brooch goes well with your sweater."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

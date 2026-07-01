@@ -1,0 +1,37 @@
+{
+  "id": "n1-0170",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "セール",
+  "display": "セール",
+  "meanings_zh": [
+    "廉售",
+    "贱卖",
+    "大减价"
+  ],
+  "meanings_en": [
+    "sale"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "夏物は今セール中です。",
+      "en": "The summer goods are now on sale."
+    },
+    {
+      "ja": "半額セールに目がない。",
+      "en": "I really love half-price sales."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

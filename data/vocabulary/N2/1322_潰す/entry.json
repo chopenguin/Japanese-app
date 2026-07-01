@@ -1,0 +1,39 @@
+{
+  "id": "n2-1322",
+  "jlpt": "N2",
+  "kanji": "潰す",
+  "kana": "つぶす",
+  "display": "潰す",
+  "meanings_zh": [
+    "弄碎",
+    "研碎",
+    "捣碎",
+    "压碎"
+  ],
+  "meanings_en": [
+    "to smash",
+    "to waste"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "このバナナケースを使うと、バナナを潰すことなく持ち運べます。",
+      "en": "By using this banana case, you can transport bananas without squashing them."
+    },
+    {
+      "ja": "あの子ったら、ほんとによく食べるわね。財産を食い潰す気かしら！",
+      "en": "That boy of mine! He'll eat me out of house and home!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

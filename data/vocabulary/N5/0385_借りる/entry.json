@@ -1,0 +1,38 @@
+{
+  "id": "n5-0385",
+  "jlpt": "N5",
+  "kanji": "借りる",
+  "kana": "かりる",
+  "display": "借りる",
+  "meanings_zh": [
+    "借",
+    "借助",
+    "租",
+    "赊"
+  ],
+  "meanings_en": [
+    "to borrow"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "道具を借りる事が出来ますか。",
+      "en": "Is it possible to rent equipment?"
+    },
+    {
+      "ja": "金を借りるのも貸すのも嫌だ。",
+      "en": "I don't want to lend or borrow."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

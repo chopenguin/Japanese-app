@@ -1,0 +1,38 @@
+{
+  "id": "n2-0192",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "どっと",
+  "display": "どっと",
+  "meanings_zh": [
+    "一齐",
+    "哄堂(大笑)",
+    "一下子(拥来)",
+    "病重"
+  ],
+  "meanings_en": [
+    "suddenly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "群集はどっと笑った。",
+      "en": "The crowd broke out in hearty laughter."
+    },
+    {
+      "ja": "彼らはみなどっと笑った。",
+      "en": "They all burst out laughing."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

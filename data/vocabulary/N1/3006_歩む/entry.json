@@ -1,0 +1,39 @@
+{
+  "id": "n1-3006",
+  "jlpt": "N1",
+  "kanji": "歩む",
+  "kana": "あゆむ",
+  "display": "歩む",
+  "meanings_zh": [
+    "行",
+    "走",
+    "前进",
+    "进展"
+  ],
+  "meanings_en": [
+    "to walk",
+    "to go on foot"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "学び続けるのは成功の道を歩む人だ。",
+      "en": "People who keep on learning are those who follow the path of success."
+    },
+    {
+      "ja": "焦らず、一歩一歩歩むことが大切です。",
+      "en": "Without being hasty, it's important to move onwards step by step."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

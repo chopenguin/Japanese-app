@@ -1,0 +1,38 @@
+{
+  "id": "n1-0301",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "メッセージ",
+  "display": "メッセージ",
+  "meanings_zh": [
+    "电文",
+    "通讯",
+    "消息",
+    "音信"
+  ],
+  "meanings_en": [
+    "message"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "メッセージ残しておいたよ。",
+      "en": "I left you a message."
+    },
+    {
+      "ja": "彼女にメッセージを送ってくれ。",
+      "en": "Send her a message."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

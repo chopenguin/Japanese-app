@@ -1,0 +1,33 @@
+{
+  "id": "n5-0143",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ハンカチ",
+  "display": "ハンカチ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "handkerchief"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はハンカチを取り出した。",
+      "en": "He took out his handkerchief."
+    },
+    {
+      "ja": "彼はハンカチで鼻をかんだ。",
+      "en": "He blew his nose in a handkerchief."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

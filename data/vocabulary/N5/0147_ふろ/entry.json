@@ -1,0 +1,33 @@
+{
+  "id": "n5-0147",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ふろ",
+  "display": "ふろ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "bath"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はふろに水を入れた。",
+      "en": "He ran water into the bathtub."
+    },
+    {
+      "ja": "私は毎日１回おふろに入ります。",
+      "en": "I have a bath every day."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

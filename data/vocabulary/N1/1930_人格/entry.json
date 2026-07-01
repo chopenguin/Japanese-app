@@ -1,0 +1,35 @@
+{
+  "id": "n1-1930",
+  "jlpt": "N1",
+  "kanji": "人格",
+  "kana": "じんかく",
+  "display": "人格",
+  "meanings_zh": [],
+  "meanings_en": [
+    "personality",
+    "character",
+    "individuality"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は人格者だ。",
+      "en": "He is a man of character."
+    },
+    {
+      "ja": "彼は二重人格者だ。",
+      "en": "He has a dual personality."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

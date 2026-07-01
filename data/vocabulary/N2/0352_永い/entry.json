@@ -1,0 +1,34 @@
+{
+  "id": "n2-0352",
+  "jlpt": "N2",
+  "kanji": "永い",
+  "kana": "ながい",
+  "display": "永い",
+  "meanings_zh": [
+    "长",
+    "长久",
+    "长远"
+  ],
+  "meanings_en": [
+    "long",
+    "lengthy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "われわれは一度だけ死ぬ、そしてそんなにも永い間死ぬ。",
+      "en": "We die only once, and for such a long time."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n2-0191",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "とっくに",
+  "display": "とっくに",
+  "meanings_zh": [],
+  "meanings_en": [
+    "long ago",
+    "already",
+    "a long time ago"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "とっくに知ってたよ。",
+      "en": "I already knew it."
+    },
+    {
+      "ja": "皿はとっくに洗ったよ。",
+      "en": "I washed the dishes long ago."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

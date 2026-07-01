@@ -1,0 +1,36 @@
+{
+  "id": "n3-0229",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "メンバー",
+  "display": "メンバー",
+  "meanings_zh": [
+    "(团体的)成员",
+    "分子"
+  ],
+  "meanings_en": [
+    "member"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムはメンバーですか？",
+      "en": "Is Tom a member?"
+    },
+    {
+      "ja": "メンバー全員が出席していた。",
+      "en": "All the members were present."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

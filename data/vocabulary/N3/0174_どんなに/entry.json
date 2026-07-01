@@ -1,0 +1,35 @@
+{
+  "id": "n3-0174",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "どんなに",
+  "display": "どんなに",
+  "meanings_zh": [
+    "多么",
+    "无论怎么样",
+    "无论如何～～也",
+    "不拘怎样～～也～～"
+  ],
+  "meanings_en": [
+    "how",
+    "how much"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "車があればどんなによいだろう。",
+      "en": "How I wish I had a car."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

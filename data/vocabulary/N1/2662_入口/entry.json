@@ -1,0 +1,36 @@
+{
+  "id": "n1-2662",
+  "jlpt": "N1",
+  "kanji": "入口",
+  "kana": "いりくち",
+  "display": "入口",
+  "meanings_zh": [],
+  "meanings_en": [
+    "entrance",
+    "gate",
+    "approach",
+    "mouth"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "入口の側で立った。",
+      "en": "He stood by the entrance."
+    },
+    {
+      "ja": "ここは入口ではありません。",
+      "en": "This is not the entrance."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

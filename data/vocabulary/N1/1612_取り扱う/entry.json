@@ -1,0 +1,40 @@
+{
+  "id": "n1-1612",
+  "jlpt": "N1",
+  "kanji": "取り扱う",
+  "kana": "とりあつかう",
+  "display": "取り扱う",
+  "meanings_zh": [
+    "待",
+    "对待",
+    "接待",
+    "待遇"
+  ],
+  "meanings_en": [
+    "to treat",
+    "to handle",
+    "to deal in"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "算数は数を取り扱う。",
+      "en": "Arithmetic deals with numbers."
+    },
+    {
+      "ja": "科学者は主として物質の問題を取り扱う。",
+      "en": "Scientists deal mainly with physical matters."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n3-0244",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "レポート",
+  "display": "レポート",
+  "meanings_zh": [
+    "报告",
+    "报道",
+    "通讯",
+    "报告书"
+  ],
+  "meanings_en": [
+    "report",
+    "paper"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はレポートを書いた。",
+      "en": "He wrote the report."
+    },
+    {
+      "ja": "レポートを昨日提出した。",
+      "en": "I handed in my report yesterday."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n4-0557",
+  "jlpt": "N4",
+  "kanji": "払う",
+  "kana": "はらう",
+  "display": "払う",
+  "meanings_zh": [
+    "拂",
+    "掸",
+    "支付",
+    "赶"
+  ],
+  "meanings_en": [
+    "to pay"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今日払うよ。",
+      "en": "I'll pay today."
+    },
+    {
+      "ja": "私が払う番？",
+      "en": "Is it my turn to pay?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n1-0756",
+  "jlpt": "N1",
+  "kanji": "甘える",
+  "kana": "あまえる",
+  "display": "甘える",
+  "meanings_zh": [
+    "撒娇",
+    "恃宠故意作态",
+    "装小孩儿",
+    "趁"
+  ],
+  "meanings_en": [
+    "to behave like a spoiled child",
+    "to fawn on"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お言葉に甘えるね。",
+      "en": "If you insist."
+    },
+    {
+      "ja": "甘えるのも大概にしろ！",
+      "en": "Do limit your spoilt behaviour!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

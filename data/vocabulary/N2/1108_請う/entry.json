@@ -1,0 +1,38 @@
+{
+  "id": "n2-1108",
+  "jlpt": "N2",
+  "kanji": "請う",
+  "kana": "こう",
+  "display": "請う",
+  "meanings_zh": [
+    "请求",
+    "乞求",
+    "希望"
+  ],
+  "meanings_en": [
+    "to ask",
+    "to request"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はわたしに赦しを請うた。",
+      "en": "He asked my pardon."
+    },
+    {
+      "ja": "犯人は裁判官に慈悲を請うた。",
+      "en": "The criminal begged the judge for mercy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

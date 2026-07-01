@@ -1,0 +1,38 @@
+{
+  "id": "n5-0595",
+  "jlpt": "N5",
+  "kanji": "返す",
+  "kana": "かえす",
+  "display": "返す",
+  "meanings_zh": [
+    "还给",
+    "归还",
+    "退掉",
+    "送回"
+  ],
+  "meanings_en": [
+    "to return something"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "歴史は繰り返す。",
+      "en": "History repeats itself."
+    },
+    {
+      "ja": "恩を仇で返すな。",
+      "en": "Never bite the hand that feeds you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n1-3019",
+  "jlpt": "N1",
+  "kanji": "倣",
+  "kana": "ほう",
+  "display": "倣",
+  "meanings_zh": [],
+  "meanings_en": [
+    "imitate",
+    "follow",
+    "emulate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "全ての子供には、尊敬し模倣する人が必要だ。",
+      "en": "Every child needs someone to look up to and copy."
+    },
+    {
+      "ja": "特別な技能を必要とする分野を除けば、彼らは彼のスタイルをあらゆる点で模倣した。",
+      "en": "They have imitated his style in all areas except those that require special skill."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

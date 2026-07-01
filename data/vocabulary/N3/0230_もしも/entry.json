@@ -1,0 +1,33 @@
+{
+  "id": "n3-0230",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "もしも",
+  "display": "もしも",
+  "meanings_zh": [],
+  "meanings_en": [
+    "if"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "もしもし。小川ですが。",
+      "en": "Hello. This is Ogawa speaking."
+    },
+    {
+      "ja": "もしもし、山田医院です。",
+      "en": "Hello, this is Dr Yamada's surgery."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

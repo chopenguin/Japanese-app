@@ -1,0 +1,38 @@
+{
+  "id": "n1-2820",
+  "jlpt": "N1",
+  "kanji": "備わる",
+  "kana": "そなわる",
+  "display": "備わる",
+  "meanings_zh": [
+    "设有",
+    "具有",
+    "具备"
+  ],
+  "meanings_en": [
+    "to be furnished with",
+    "to be endowed with",
+    "to possess",
+    "to be among",
+    "to be one of",
+    "to be possessed of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "間近から見ると、ものごとはその欠点や本来備わる醜さを露わにする傾向がある。",
+      "en": "Seen close-up, things have a way of showing their defects, their innate ugliness."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

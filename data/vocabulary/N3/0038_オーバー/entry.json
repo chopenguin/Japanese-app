@@ -1,0 +1,39 @@
+{
+  "id": "n3-0038",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "オーバー",
+  "display": "オーバー",
+  "meanings_zh": [
+    "超过",
+    "越过",
+    "夸大",
+    "夸张"
+  ],
+  "meanings_en": [
+    "(1) overcoat",
+    "(2) over"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はオーバーを脱いだ。",
+      "en": "He took off his overcoat."
+    },
+    {
+      "ja": "彼女、オーバーだよね？",
+      "en": "She's overreacting, isn't she?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

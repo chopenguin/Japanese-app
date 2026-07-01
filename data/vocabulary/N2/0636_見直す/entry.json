@@ -1,0 +1,39 @@
+{
+  "id": "n2-0636",
+  "jlpt": "N2",
+  "kanji": "見直す",
+  "kana": "みなおす",
+  "display": "見直す",
+  "meanings_zh": [
+    "见起色",
+    "渐好",
+    "重看",
+    "重新看"
+  ],
+  "meanings_en": [
+    "to look again",
+    "to get a better opinion of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "レポートを見直す時間がなかった。",
+      "en": "I didn't have time to proofread my report."
+    },
+    {
+      "ja": "犬を見てたんだけど、見直すと猫になってた。",
+      "en": "I was looking at a dog. However, when I looked again, it had turned into a cat."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

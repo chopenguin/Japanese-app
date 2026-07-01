@@ -1,0 +1,38 @@
+{
+  "id": "n2-0133",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "しゃぶる",
+  "display": "しゃぶる",
+  "meanings_zh": [
+    "放进嘴里舔",
+    "含",
+    "嗍"
+  ],
+  "meanings_en": [
+    "to suck",
+    "to chew"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は夏は凍った棒アイスクリームをしゃぶるのが好きです。",
+      "en": "I like to suck on frozen ice cream bars in the summer."
+    },
+    {
+      "ja": "子供はおさないときに母をしゃぶり、大きくなって父親をしゃぶる。",
+      "en": "Children suck the mother when they are young, and the father when they are old."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

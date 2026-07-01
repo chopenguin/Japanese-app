@@ -1,0 +1,39 @@
+{
+  "id": "n3-1222",
+  "jlpt": "N3",
+  "kanji": "貸し",
+  "kana": "かし",
+  "display": "貸し",
+  "meanings_zh": [
+    "借出",
+    "贷与",
+    "出租",
+    "欠"
+  ],
+  "meanings_en": [
+    "loan",
+    "lending"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "貸し間あり。",
+      "en": "Room for rent."
+    },
+    {
+      "ja": "耳を貸して下さい。",
+      "en": "Lend me your ears!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

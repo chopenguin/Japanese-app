@@ -1,0 +1,38 @@
+{
+  "id": "n3-1578",
+  "jlpt": "N3",
+  "kanji": "別れ",
+  "kana": "わかれ",
+  "display": "別れ",
+  "meanings_zh": [
+    "离别",
+    "辞别"
+  ],
+  "meanings_en": [
+    "parting",
+    "separation",
+    "farewell"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムと別れるの？",
+      "en": "Are you breaking up with Tom?"
+    },
+    {
+      "ja": "ここでお別れだ。",
+      "en": "Here it's goodbye then."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

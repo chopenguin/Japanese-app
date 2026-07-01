@@ -1,0 +1,39 @@
+{
+  "id": "n4-0095",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "そろそろ",
+  "display": "そろそろ",
+  "meanings_zh": [
+    "慢慢地",
+    "徐徐地",
+    "就要",
+    "快要"
+  ],
+  "meanings_en": [
+    "gradually",
+    "soon"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そろそろ時間だ。",
+      "en": "It's about time."
+    },
+    {
+      "ja": "そろそろ寝るね。",
+      "en": "It's about time to sleep."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

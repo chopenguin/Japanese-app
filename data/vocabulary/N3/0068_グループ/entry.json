@@ -1,0 +1,38 @@
+{
+  "id": "n3-0068",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "グループ",
+  "display": "グループ",
+  "meanings_zh": [
+    "群",
+    "组",
+    "集团",
+    "团体"
+  ],
+  "meanings_en": [
+    "group"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はグループからはぐれた。",
+      "en": "He strayed from his group."
+    },
+    {
+      "ja": "君の好きな音楽グループは何？",
+      "en": "What's your favorite music group?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

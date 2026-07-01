@@ -1,0 +1,36 @@
+{
+  "id": "n3-0742",
+  "jlpt": "N3",
+  "kanji": "行儀",
+  "kana": "ぎょうぎ",
+  "display": "行儀",
+  "meanings_zh": [
+    "举止",
+    "礼貌"
+  ],
+  "meanings_en": [
+    "manners"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "行儀よくしなさい。",
+      "en": "Behave yourself."
+    },
+    {
+      "ja": "彼は行儀の悪い男だ。",
+      "en": "He is an ill-mannered man."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n4-0199",
+  "jlpt": "N4",
+  "kanji": "回る",
+  "kana": "まわる",
+  "display": "回る",
+  "meanings_zh": [
+    "转",
+    "旋转",
+    "回转",
+    "转动"
+  ],
+  "meanings_en": [
+    "to go around"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "蜂が飛び回る。",
+      "en": "Bees are flying around."
+    },
+    {
+      "ja": "目が回るほど忙しいよ。",
+      "en": "I'm frantic!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n2-0399",
+  "jlpt": "N2",
+  "kanji": "仮名遣い",
+  "kana": "かなづかい",
+  "display": "仮名遣い",
+  "meanings_zh": [
+    "假名用法",
+    "假名拼写法"
+  ],
+  "meanings_en": [
+    "kana orthography",
+    "syllabary spelling"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "祖父は古い仮名遣いで書くことがあるの。",
+      "en": "My grandfather sometimes writes in the old kana orthography."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

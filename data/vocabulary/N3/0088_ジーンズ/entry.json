@@ -1,0 +1,36 @@
+{
+  "id": "n3-0088",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ジーンズ",
+  "display": "ジーンズ",
+  "meanings_zh": [
+    "斜纹(棉)布",
+    "细长工装裤"
+  ],
+  "meanings_en": [
+    "jeans"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ジーンズは完売しました。",
+      "en": "We're sold out of jeans."
+    },
+    {
+      "ja": "彼はジーンズをはいていた。",
+      "en": "He had jeans on."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

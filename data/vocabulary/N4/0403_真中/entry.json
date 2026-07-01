@@ -1,0 +1,33 @@
+{
+  "id": "n4-0403",
+  "jlpt": "N4",
+  "kanji": "真中",
+  "kana": "まんなか",
+  "display": "真中",
+  "meanings_zh": [],
+  "meanings_en": [
+    "middle"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "湖の真中に、その島がある。",
+      "en": "In the middle of the lake lies the island."
+    },
+    {
+      "ja": "交差点の真中でガス欠になった。",
+      "en": "We ran out of gas in the middle of the intersection."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

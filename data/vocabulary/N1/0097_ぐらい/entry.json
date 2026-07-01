@@ -1,0 +1,33 @@
+{
+  "id": "n1-0097",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ぐらい",
+  "display": "ぐらい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "approximately"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何時ぐらい？",
+      "en": "About what time?"
+    },
+    {
+      "ja": "5時ぐらいだよ。",
+      "en": "It's about five o'clock."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

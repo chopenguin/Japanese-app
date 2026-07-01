@@ -1,0 +1,40 @@
+{
+  "id": "n3-0806",
+  "jlpt": "N3",
+  "kanji": "札",
+  "kana": "さつ",
+  "display": "札",
+  "meanings_zh": [
+    "纸币",
+    "钞票",
+    "票子"
+  ],
+  "meanings_en": [
+    "(1) token",
+    "label",
+    "(2) ticket",
+    "(3) charm"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "値札を見た。",
+      "en": "I looked at the price tag."
+    },
+    {
+      "ja": "値札を見て。",
+      "en": "Look at the price tag."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

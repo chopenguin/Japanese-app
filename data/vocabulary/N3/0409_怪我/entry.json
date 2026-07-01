@@ -1,0 +1,39 @@
+{
+  "id": "n3-0409",
+  "jlpt": "N3",
+  "kanji": "怪我",
+  "kana": "けが",
+  "display": "怪我",
+  "meanings_zh": [
+    "伤",
+    "受伤",
+    "负伤",
+    "过失"
+  ],
+  "meanings_en": [
+    "injury (to animate object)",
+    "hurt"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "怪我はない？",
+      "en": "Are you hurt?"
+    },
+    {
+      "ja": "怪我をするよ。",
+      "en": "You will hurt yourself."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n1-2322",
+  "jlpt": "N1",
+  "kanji": "箪笥",
+  "kana": "たんす",
+  "display": "箪笥",
+  "meanings_zh": [],
+  "meanings_en": [
+    "chest of drawers"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "大きいクモが箪笥の後ろにいるよ。",
+      "en": "A big spider lives behind the chest of drawers."
+    },
+    {
+      "ja": "彼女は部屋の新しい装飾に合わせて古い箪笥に漆を塗ることにしたんだ。",
+      "en": "She decided to japan her old dresser to match the new decor in her room."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

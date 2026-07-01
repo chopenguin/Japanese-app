@@ -1,0 +1,39 @@
+{
+  "id": "n1-2569",
+  "jlpt": "N1",
+  "kanji": "答え",
+  "kana": "こたえ",
+  "display": "答え",
+  "meanings_zh": [
+    "回答",
+    "答复",
+    "答应",
+    "解答"
+  ],
+  "meanings_en": [
+    "answer",
+    "response"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何問答えた？",
+      "en": "How many questions did you answer?"
+    },
+    {
+      "ja": "何て答えたの？",
+      "en": "What did you answer?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

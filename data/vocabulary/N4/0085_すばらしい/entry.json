@@ -1,0 +1,38 @@
+{
+  "id": "n4-0085",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "すばらしい",
+  "display": "すばらしい",
+  "meanings_zh": [
+    "极好",
+    "绝佳",
+    "非常好",
+    "极美"
+  ],
+  "meanings_en": [
+    "wonderful"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "まあ、すばらしいわ。",
+      "en": "My, but you're nice."
+    },
+    {
+      "ja": "すばらしい日ですね。",
+      "en": "It's a nice day, isn't it?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n1-2774",
+  "jlpt": "N1",
+  "kanji": "反り",
+  "kana": "そり",
+  "display": "反り",
+  "meanings_zh": [
+    "弯曲",
+    "翘曲",
+    "弯度"
+  ],
+  "meanings_en": [
+    "warp",
+    "curvature",
+    "curve",
+    "arch"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "イエス振反りて、その從ひ來たるを見て言ひ給ふ「何を求むるか」。",
+      "en": "Turning around, Jesus saw them following and asked, \"What do you want?\""
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

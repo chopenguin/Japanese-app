@@ -1,0 +1,31 @@
+{
+  "id": "n1-3408",
+  "jlpt": "N1",
+  "kanji": "囀る",
+  "kana": "さえずる",
+  "display": "囀る",
+  "meanings_zh": [
+    "婉转地叫",
+    "唧唧喳喳地叫",
+    "歌唱",
+    "鸣啭"
+  ],
+  "meanings_en": [
+    "to sing",
+    "to chirp",
+    "to twitter"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

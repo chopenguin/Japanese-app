@@ -1,0 +1,37 @@
+{
+  "id": "n2-0081",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "クーラー",
+  "display": "クーラー",
+  "meanings_zh": [
+    "冷气设备",
+    "(携带式)冰箱"
+  ],
+  "meanings_en": [
+    "cooler",
+    "air conditioner"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "クーラーつけすぎ。",
+      "en": "The air conditioner is being used too much."
+    },
+    {
+      "ja": "クーラーが故障してしまった。",
+      "en": "The air conditioner has got out of order."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "n1-0075",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "がっしり",
+  "display": "がっしり",
+  "meanings_zh": [
+    "粗壮",
+    "健壮",
+    "坚实",
+    "坚固"
+  ],
+  "meanings_en": [
+    "firmly",
+    "solidly",
+    "tough"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n2-1410",
+  "jlpt": "N2",
+  "kanji": "突く",
+  "kana": "つく",
+  "display": "突く",
+  "meanings_zh": [
+    "扎",
+    "刺",
+    "戳",
+    "撞"
+  ],
+  "meanings_en": [
+    "(1) to thrust",
+    "to strike",
+    "(2) to poke"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "もうすぐ、トムの貯金が底を突く。",
+      "en": "Tom's savings will soon run out."
+    },
+    {
+      "ja": "テーブルにひじを突くのはやめなさい。",
+      "en": "Stop resting your elbows on the table."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

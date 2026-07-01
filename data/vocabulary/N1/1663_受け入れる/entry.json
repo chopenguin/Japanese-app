@@ -1,0 +1,39 @@
+{
+  "id": "n1-1663",
+  "jlpt": "N1",
+  "kanji": "受け入れる",
+  "kana": "うけいれる",
+  "display": "受け入れる",
+  "meanings_zh": [
+    "收",
+    "收进",
+    "接纳",
+    "收容"
+  ],
+  "meanings_en": [
+    "to accept",
+    "to receive"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "国籍に関係なく誰でも受け入れる。",
+      "en": "We accept anybody, irrespective of nationality."
+    },
+    {
+      "ja": "彼女は運命を受け入れるしかなかった。",
+      "en": "She had no choice but to accept her fate."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

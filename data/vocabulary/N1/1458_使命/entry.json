@@ -1,0 +1,38 @@
+{
+  "id": "n1-1458",
+  "jlpt": "N1",
+  "kanji": "使命",
+  "kana": "しめい",
+  "display": "使命",
+  "meanings_zh": [
+    "使命",
+    "任务"
+  ],
+  "meanings_en": [
+    "mission",
+    "errand",
+    "message"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は使命を果たした。",
+      "en": "He accomplished his mission."
+    },
+    {
+      "ja": "彼らは使命を果たした。",
+      "en": "They accomplished their mission."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

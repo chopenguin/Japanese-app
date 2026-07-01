@@ -1,0 +1,38 @@
+{
+  "id": "n4-0267",
+  "jlpt": "N4",
+  "kanji": "建てる",
+  "kana": "たてる",
+  "display": "建てる",
+  "meanings_zh": [
+    "盖",
+    "建造",
+    "创立",
+    "建立"
+  ],
+  "meanings_en": [
+    "to build"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "父は壁を建てるのに忙しい。",
+      "en": "Father is busy putting up a wall."
+    },
+    {
+      "ja": "彼らは自分たちで家を建てる。",
+      "en": "They build their house for themselves."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

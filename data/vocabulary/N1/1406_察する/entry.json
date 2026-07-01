@@ -1,0 +1,42 @@
+{
+  "id": "n1-1406",
+  "jlpt": "N1",
+  "kanji": "察する",
+  "kana": "さっする",
+  "display": "察する",
+  "meanings_zh": [
+    "推察",
+    "推测",
+    "揣测",
+    "想象"
+  ],
+  "meanings_en": [
+    "to guess",
+    "to sense",
+    "to presume",
+    "to judge",
+    "to sympathize with"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は人を観察するのが趣味だ。",
+      "en": "He finds pleasure in watching people."
+    },
+    {
+      "ja": "野鳥を観察するのはとても面白い。",
+      "en": "Watching wild birds is great fun."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

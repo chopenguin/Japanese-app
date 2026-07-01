@@ -1,0 +1,33 @@
+{
+  "id": "n5-0122",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "どちら",
+  "display": "どちら",
+  "meanings_zh": [],
+  "meanings_en": [
+    "which of two"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "どちら様ですか。",
+      "en": "Who is this, please?"
+    },
+    {
+      "ja": "どちらでもどうぞ。",
+      "en": "Take whichever one you like."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

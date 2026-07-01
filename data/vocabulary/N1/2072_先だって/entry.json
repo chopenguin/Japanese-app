@@ -1,0 +1,39 @@
+{
+  "id": "n1-2072",
+  "jlpt": "N1",
+  "kanji": "先だって",
+  "kana": "せんだって",
+  "display": "先だって",
+  "meanings_zh": [
+    "前几天",
+    "前些日子",
+    "那一天",
+    "那一回"
+  ],
+  "meanings_en": [
+    "recently",
+    "the other day"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "先だって彼にあったときには、彼はとても元気だった。",
+      "en": "Last I met him, he was very well."
+    },
+    {
+      "ja": "先だって、ごく短期間だが、久方ぶりにヨーロッパへ行った。",
+      "en": "Recently, I got to go to Europe for the first time in a while, although it wasn't for very long."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

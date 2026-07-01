@@ -1,0 +1,37 @@
+{
+  "id": "n2-0632",
+  "jlpt": "N2",
+  "kanji": "見掛け",
+  "kana": "みかけ",
+  "display": "見掛け",
+  "meanings_zh": [
+    "外观",
+    "外表",
+    "外貌"
+  ],
+  "meanings_en": [
+    "outward appearance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "人は見掛けによらぬもの。",
+      "en": "Men are not always what they seem to be."
+    },
+    {
+      "ja": "私はあなたを時々見掛ける。",
+      "en": "I see you every now and then."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

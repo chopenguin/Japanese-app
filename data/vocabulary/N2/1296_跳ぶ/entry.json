@@ -1,0 +1,28 @@
+{
+  "id": "n2-1296",
+  "jlpt": "N2",
+  "kanji": "跳ぶ",
+  "kana": "とぶ",
+  "display": "跳ぶ",
+  "meanings_zh": [
+    "跳"
+  ],
+  "meanings_en": [
+    "to jump",
+    "to fly",
+    "to leap"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

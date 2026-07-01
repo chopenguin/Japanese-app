@@ -1,0 +1,39 @@
+{
+  "id": "n3-1323",
+  "jlpt": "N3",
+  "kanji": "掴む",
+  "kana": "つかむ",
+  "display": "掴む",
+  "meanings_zh": [
+    "抓",
+    "抓住",
+    "揪住"
+  ],
+  "meanings_en": [
+    "to seize",
+    "to catch",
+    "to grasp"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "雲を掴むような話だな。",
+      "en": "What you are saying doesn't make sense."
+    },
+    {
+      "ja": "溺れる者は藁をも掴む。",
+      "en": "Drowning men clutch at straws."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n3-0510",
+  "jlpt": "N3",
+  "kanji": "気付く",
+  "kana": "きづく",
+  "display": "気付く",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to notice",
+    "to recognize",
+    "to become aware of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "子どもは一日に千回も違いに気付く。",
+      "en": "He notices a thousand times a day the difference."
+    },
+    {
+      "ja": "まもなく彼は誤りに、気付くだろう。",
+      "en": "It won't be long before he realizes the mistake."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

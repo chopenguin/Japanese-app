@@ -1,0 +1,38 @@
+{
+  "id": "n4-0061",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "これから",
+  "display": "これから",
+  "meanings_zh": [
+    "从现在起",
+    "今后",
+    "以后",
+    "现在"
+  ],
+  "meanings_en": [
+    "after this"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これから帰ります。",
+      "en": "I'm going home now."
+    },
+    {
+      "ja": "これからよろしく。",
+      "en": "I look forward to working with you from now on."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

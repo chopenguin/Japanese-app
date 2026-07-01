@@ -1,0 +1,40 @@
+{
+  "id": "n2-1439",
+  "jlpt": "N2",
+  "kanji": "捻る",
+  "kana": "ひねる",
+  "display": "捻る",
+  "meanings_zh": [
+    "拈",
+    "捻",
+    "拧",
+    "扭"
+  ],
+  "meanings_en": [
+    "to turn (a switch) on or off",
+    "to twist",
+    "to puzzle over"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼をやり込めるくらい、赤子の手を捻るより簡単だよ。",
+      "en": "Cornering him in an argument is easy—like taking candy from a baby."
+    },
+    {
+      "ja": "そんな事は、彼にとっては赤子の手を捻るようなものだ。",
+      "en": "For him, that will be like taking candy from a baby."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

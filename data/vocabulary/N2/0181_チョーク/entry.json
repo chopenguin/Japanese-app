@@ -1,0 +1,34 @@
+{
+  "id": "n2-0181",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "チョーク",
+  "display": "チョーク",
+  "meanings_zh": [],
+  "meanings_en": [
+    "chock",
+    "chalk"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "チョークを一本下さい。",
+      "en": "Give me a piece of chalk."
+    },
+    {
+      "ja": "チョークを手に取った。",
+      "en": "He picked up a piece of chalk."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "n1-1330",
+  "jlpt": "N1",
+  "kanji": "此れ等",
+  "kana": "これら",
+  "display": "此れ等",
+  "meanings_zh": [
+    "这些"
+  ],
+  "meanings_en": [
+    "these"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

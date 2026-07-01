@@ -1,0 +1,38 @@
+{
+  "id": "n4-0537",
+  "jlpt": "N4",
+  "kanji": "悲しい",
+  "kana": "かなしい",
+  "display": "悲しい",
+  "meanings_zh": [
+    "悲哀",
+    "悲伤",
+    "悲愁",
+    "可悲"
+  ],
+  "meanings_en": [
+    "sad"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "悲しいです。",
+      "en": "I'm sad."
+    },
+    {
+      "ja": "ああ悲しい。",
+      "en": "Ah, me!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

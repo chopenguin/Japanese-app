@@ -1,0 +1,40 @@
+{
+  "id": "n3-0723",
+  "jlpt": "N3",
+  "kanji": "好み",
+  "kana": "このみ",
+  "display": "好み",
+  "meanings_zh": [
+    "趣味",
+    "爱好",
+    "口味",
+    "嗜好"
+  ],
+  "meanings_en": [
+    "liking",
+    "taste",
+    "choice"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "好みの問題だ。",
+      "en": "It's a question of personal taste."
+    },
+    {
+      "ja": "人の好みは異なる。",
+      "en": "Tastes differ."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

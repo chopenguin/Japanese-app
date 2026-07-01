@@ -1,0 +1,40 @@
+{
+  "id": "n1-2039",
+  "jlpt": "N1",
+  "kanji": "惜しむ",
+  "kana": "おしむ",
+  "display": "惜しむ",
+  "meanings_zh": [
+    "惜",
+    "吝惜",
+    "舍不得",
+    "惋惜"
+  ],
+  "meanings_en": [
+    "to be frugal",
+    "to value",
+    "to regret"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "鞭を惜しむと子供は駄目になる。",
+      "en": "Spare the rod and spoil the child."
+    },
+    {
+      "ja": "行く秋を惜しむ気持でいっぱいだ。",
+      "en": "The passing autumn fills me with a feeling of grief."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

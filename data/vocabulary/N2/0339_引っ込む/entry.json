@@ -1,0 +1,40 @@
+{
+  "id": "n2-0339",
+  "jlpt": "N2",
+  "kanji": "引っ込む",
+  "kana": "ひっこむ",
+  "display": "引っ込む",
+  "meanings_zh": [
+    "隐退",
+    "退居",
+    "深居",
+    "畏缩"
+  ],
+  "meanings_en": [
+    "to draw back",
+    "to sink",
+    "to cave in"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "無理が通れば道理が引っ込む。",
+      "en": "Might makes right."
+    },
+    {
+      "ja": "無理が通れば、道理が引っ込む。",
+      "en": "Reason retires once the unreasonable gets its way."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

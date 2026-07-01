@@ -1,0 +1,34 @@
+{
+  "id": "n1-2587",
+  "jlpt": "N1",
+  "kanji": "働",
+  "kana": "どう",
+  "display": "働",
+  "meanings_zh": [],
+  "meanings_en": [
+    "work",
+    "labor"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "働いてたよ。",
+      "en": "I was working."
+    },
+    {
+      "ja": "黙って働け！",
+      "en": "Shut up and keep working!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

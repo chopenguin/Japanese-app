@@ -1,0 +1,33 @@
+{
+  "id": "n4-0038",
+  "jlpt": "N4",
+  "kanji": "お土産",
+  "kana": "おみやげ",
+  "display": "お土産",
+  "meanings_zh": [],
+  "meanings_en": [
+    "souvenir"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これはお土産です。",
+      "en": "This is a little gift for you."
+    },
+    {
+      "ja": "お土産何買ったの？",
+      "en": "What kind of souvenirs did you buy?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

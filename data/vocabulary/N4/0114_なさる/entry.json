@@ -1,0 +1,33 @@
+{
+  "id": "n4-0114",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "なさる",
+  "display": "なさる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(respectful) to do"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "病気が全快なさるように。",
+      "en": "I hope you will be completely cured."
+    },
+    {
+      "ja": "何をなさるつもりですか。",
+      "en": "What are you driving at?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

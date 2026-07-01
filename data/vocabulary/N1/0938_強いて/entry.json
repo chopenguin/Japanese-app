@@ -1,0 +1,34 @@
+{
+  "id": "n1-0938",
+  "jlpt": "N1",
+  "kanji": "強いて",
+  "kana": "しいて",
+  "display": "強いて",
+  "meanings_zh": [
+    "强逼",
+    "强迫",
+    "勉强",
+    "一定～～"
+  ],
+  "meanings_en": [
+    "by force"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これと言って趣味はないんですが、強いて言えば、音楽鑑賞ですかね。",
+      "en": "I don't know if you'd call it a hobby, but to stretch it a little, you could say music appreciation is my hobby."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

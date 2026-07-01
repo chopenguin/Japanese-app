@@ -1,0 +1,36 @@
+{
+  "id": "n2-0843",
+  "jlpt": "N2",
+  "kanji": "治める",
+  "kana": "おさめる",
+  "display": "治める",
+  "meanings_zh": [
+    "治",
+    "治理",
+    "处理",
+    "统治"
+  ],
+  "meanings_en": [
+    "(1) to govern",
+    "to manage",
+    "(2) to subdue"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は自分の家族すら取りしきれないのに、まして一国を治めるなんて！",
+      "en": "He can't run his own family, let alone a nation!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

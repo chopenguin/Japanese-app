@@ -1,0 +1,39 @@
+{
+  "id": "n1-2042",
+  "jlpt": "N1",
+  "kanji": "赤ちゃん",
+  "kana": "あかちゃん",
+  "display": "赤ちゃん",
+  "meanings_zh": [
+    "小宝宝",
+    "小宝贝",
+    "小娃娃",
+    "婴儿"
+  ],
+  "meanings_en": [
+    "baby",
+    "infant"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "赤ちゃんは大丈夫？",
+      "en": "Is the baby OK?"
+    },
+    {
+      "ja": "赤ちゃんできたの？",
+      "en": "Are you pregnant?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

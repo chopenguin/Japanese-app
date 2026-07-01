@@ -1,0 +1,38 @@
+{
+  "id": "n1-1121",
+  "jlpt": "N1",
+  "kanji": "見合い",
+  "kana": "みあい",
+  "display": "見合い",
+  "meanings_zh": [
+    "相抵",
+    "平衡",
+    "相称",
+    "相亲"
+  ],
+  "meanings_en": [
+    "formal marriage interview"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私の両親はお見合い結婚でした。",
+      "en": "My parents had an arranged marriage."
+    },
+    {
+      "ja": "トムとメアリーはお見合いで結婚した。",
+      "en": "Tom and Mary had an arranged marriage."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

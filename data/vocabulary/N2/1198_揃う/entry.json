@@ -1,0 +1,32 @@
+{
+  "id": "n2-1198",
+  "jlpt": "N2",
+  "kanji": "揃う",
+  "kana": "そろう",
+  "display": "揃う",
+  "meanings_zh": [
+    "齐全",
+    "成双",
+    "成对",
+    "成套"
+  ],
+  "meanings_en": [
+    "to become complete",
+    "to be equal",
+    "to be all present",
+    "to gather"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

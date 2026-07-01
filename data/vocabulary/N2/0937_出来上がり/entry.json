@@ -1,0 +1,41 @@
+{
+  "id": "n2-0937",
+  "jlpt": "N2",
+  "kanji": "出来上がり",
+  "kana": "できあがり",
+  "display": "出来上がり",
+  "meanings_zh": [
+    "做出来",
+    "做好",
+    "做得",
+    "做出来的结果"
+  ],
+  "meanings_en": [
+    "be finished",
+    "ready",
+    "made for",
+    "cut out"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "図面が出来上がりました。",
+      "en": "The plans have been drawn up."
+    },
+    {
+      "ja": "顧客候補のリストは出来上がりました。",
+      "en": "Potential customers have been listed."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n1-0107",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "こだわる",
+  "display": "こだわる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to fuss over",
+    "to be particular about",
+    "to be concerned about"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "細かいことにこだわるな。",
+      "en": "Don't split hairs."
+    },
+    {
+      "ja": "彼は自分の習慣にこだわる。",
+      "en": "He clings to his customs."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

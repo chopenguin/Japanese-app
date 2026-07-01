@@ -1,0 +1,41 @@
+{
+  "id": "n2-0526",
+  "jlpt": "N2",
+  "kanji": "寄せる",
+  "kana": "よせる",
+  "display": "寄せる",
+  "meanings_zh": [
+    "使～～靠近",
+    "使～～挨近",
+    "移近",
+    "挪近"
+  ],
+  "meanings_en": [
+    "to collect",
+    "to gather",
+    "to add",
+    "to put aside"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "インターネットで願書を取り寄せるといいよ。",
+      "en": "Have them send you an application form over the Internet."
+    },
+    {
+      "ja": "警察官は、私に車を路肩に寄せるよう指示した。",
+      "en": "The patrolman motioned me to pull over."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

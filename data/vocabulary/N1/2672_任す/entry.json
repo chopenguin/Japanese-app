@@ -1,0 +1,34 @@
+{
+  "id": "n1-2672",
+  "jlpt": "N1",
+  "kanji": "任す",
+  "kana": "まかす",
+  "display": "任す",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to entrust",
+    "to leave to a person"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "君は潔く辞任すべきだ。",
+      "en": "You should do the honorable thing and resign."
+    },
+    {
+      "ja": "彼は近く辞任するといううわさだ。",
+      "en": "It is rumored that he will shortly resign."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

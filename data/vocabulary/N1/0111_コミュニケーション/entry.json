@@ -1,0 +1,38 @@
+{
+  "id": "n1-0111",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "コミュニケーション",
+  "display": "コミュニケーション",
+  "meanings_zh": [
+    "通信",
+    "报导",
+    "沟通",
+    "交流"
+  ],
+  "meanings_en": [
+    "communication"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "コミュニケーションは、大切よ。",
+      "en": "Communication is important."
+    },
+    {
+      "ja": "コミュニケーションがとりにくい。",
+      "en": "It's hard to communicate."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

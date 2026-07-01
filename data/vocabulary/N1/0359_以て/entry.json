@@ -1,0 +1,42 @@
+{
+  "id": "n1-0359",
+  "jlpt": "N1",
+  "kanji": "以て",
+  "kana": "もって",
+  "display": "以て",
+  "meanings_zh": [
+    "以",
+    "用",
+    "拿",
+    "因为"
+  ],
+  "meanings_en": [
+    "with",
+    "by",
+    "by means of",
+    "because",
+    "in view of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "毒を以て毒を制す。",
+      "en": "Diamond cuts diamond."
+    },
+    {
+      "ja": "その状況は戦争を以てしか決着できない。",
+      "en": "The situation could only be settled by war."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

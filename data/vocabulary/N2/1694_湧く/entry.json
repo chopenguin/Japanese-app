@@ -1,0 +1,37 @@
+{
+  "id": "n2-1694",
+  "jlpt": "N2",
+  "kanji": "湧く",
+  "kana": "わく",
+  "display": "湧く",
+  "meanings_zh": [
+    "涌出",
+    "冒出",
+    "喷出",
+    "涌现"
+  ],
+  "meanings_en": [
+    "to boil",
+    "to grow hot",
+    "to get excited",
+    "to gush forth"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "胡麻をするというのはイメージが湧くけど、すりおろすっていうのはイメージしにくいな。",
+      "en": "I can imagine grinding sesame seeds, but it's hard for me to picture grating them."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

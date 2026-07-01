@@ -1,0 +1,41 @@
+{
+  "id": "n1-3153",
+  "jlpt": "N1",
+  "kanji": "明かす",
+  "kana": "あかす",
+  "display": "明かす",
+  "meanings_zh": [
+    "说出",
+    "揭露",
+    "揭破",
+    "过夜"
+  ],
+  "meanings_en": [
+    "to pass",
+    "spend",
+    "to reveal",
+    "to divulge"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "さあ、一晩飲み明かすぞ。",
+      "en": "Let's drink the night away."
+    },
+    {
+      "ja": "記者はその情報源を明かすことを拒んだ。",
+      "en": "The reporter refused to name his sources."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

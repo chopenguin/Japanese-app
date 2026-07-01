@@ -1,0 +1,43 @@
+{
+  "id": "n1-2446",
+  "jlpt": "N1",
+  "kanji": "痛める",
+  "kana": "いためる",
+  "display": "痛める",
+  "meanings_zh": [
+    "使疼痛",
+    "损伤",
+    "使痛苦"
+  ],
+  "meanings_en": [
+    "to hurt",
+    "to injure",
+    "to cause pain",
+    "to worry",
+    "to bother",
+    "to afflict",
+    "to be grieved over"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この明かりで字を読もうとすれば目を痛めるよ。",
+      "en": "You'll strain your eyes trying to read in this light."
+    },
+    {
+      "ja": "この写真は心を痛めることなしには見られない。",
+      "en": "I can't look at this photo without feeling very sad."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

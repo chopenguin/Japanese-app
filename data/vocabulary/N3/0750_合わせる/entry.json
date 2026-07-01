@@ -1,0 +1,41 @@
+{
+  "id": "n3-0750",
+  "jlpt": "N3",
+  "kanji": "合わせる",
+  "kana": "あわせる",
+  "display": "合わせる",
+  "meanings_zh": [
+    "合起",
+    "合并",
+    "加在一起",
+    "混合"
+  ],
+  "meanings_en": [
+    "to join together",
+    "to be opposite",
+    "to face",
+    "to unite"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私には合わせる顔がない。",
+      "en": "I have no face to turn to."
+    },
+    {
+      "ja": "２．身頃の肩を縫い合わせる。",
+      "en": "2. Sew together the shoulder of the garment body."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

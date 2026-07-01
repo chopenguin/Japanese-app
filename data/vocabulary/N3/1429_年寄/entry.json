@@ -1,0 +1,34 @@
+{
+  "id": "n3-1429",
+  "jlpt": "N3",
+  "kanji": "年寄",
+  "kana": "としより",
+  "display": "年寄",
+  "meanings_zh": [],
+  "meanings_en": [
+    "old people",
+    "the aged"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "年寄りを優先しろ。",
+      "en": "Do make older people the priority!"
+    },
+    {
+      "ja": "年寄りの犬が吠えた。",
+      "en": "The old dog barked."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

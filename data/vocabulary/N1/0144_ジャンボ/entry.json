@@ -1,0 +1,37 @@
+{
+  "id": "n1-0144",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ジャンボ",
+  "display": "ジャンボ",
+  "meanings_zh": [
+    "巨型坑道掘进机",
+    "高效率自动放大冲洗机",
+    "巨大的"
+  ],
+  "meanings_en": [
+    "jumbo"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私はジャンボ機が離陸するのを見た。",
+      "en": "I saw a jumbo jet take off."
+    },
+    {
+      "ja": "ジャンボ機は轟音を立てて着陸した。",
+      "en": "The jumbo jet touched down thundering."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

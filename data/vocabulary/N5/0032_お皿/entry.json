@@ -1,0 +1,34 @@
+{
+  "id": "n5-0032",
+  "jlpt": "N5",
+  "kanji": "お皿",
+  "kana": "おさら",
+  "display": "お皿",
+  "meanings_zh": [],
+  "meanings_en": [
+    "plate",
+    "dish"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お皿洗って。",
+      "en": "Wash the dishes."
+    },
+    {
+      "ja": "お皿がいるよ。",
+      "en": "I need a plate."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

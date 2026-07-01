@@ -1,0 +1,30 @@
+{
+  "id": "n1-1631",
+  "jlpt": "N1",
+  "kanji": "手回し",
+  "kana": "てまわし",
+  "display": "手回し",
+  "meanings_zh": [
+    "准备",
+    "预先筹划",
+    "布置",
+    "安排"
+  ],
+  "meanings_en": [
+    "preparations",
+    "arrangements"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n1-0500",
+  "jlpt": "N1",
+  "kanji": "汚らわしい",
+  "kana": "けがらわしい",
+  "display": "汚らわしい",
+  "meanings_zh": [
+    "污秽",
+    "肮脏",
+    "讨厌",
+    "卑鄙"
+  ],
+  "meanings_en": [
+    "filthy",
+    "unfair"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "離してよ。汚らわしい。",
+      "en": "Get your dirty paws off me."
+    },
+    {
+      "ja": "触らないで、汚らわしい！",
+      "en": "Don't you touch me, you'll make me dirty!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

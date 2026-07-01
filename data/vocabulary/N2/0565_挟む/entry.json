@@ -1,0 +1,40 @@
+{
+  "id": "n2-0565",
+  "jlpt": "N2",
+  "kanji": "挟む",
+  "kana": "はさむ",
+  "display": "挟む",
+  "meanings_zh": [
+    "隔",
+    "夹",
+    "掖",
+    "插"
+  ],
+  "meanings_en": [
+    "to interpose",
+    "to hold between",
+    "to insert"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は会話の最中に口を挟むことがよくある。",
+      "en": "He often breaks into the middle of a conversation."
+    },
+    {
+      "ja": "私が口を挟むことではないのは分かってます。",
+      "en": "I know this is none of my business."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n3-1560",
+  "jlpt": "N3",
+  "kanji": "分ける",
+  "kana": "わける",
+  "display": "分ける",
+  "meanings_zh": [
+    "分",
+    "分开",
+    "划分",
+    "划开"
+  ],
+  "meanings_en": [
+    "to divide",
+    "to separate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は音楽を聞き分ける力がない。",
+      "en": "I have no ear for music."
+    },
+    {
+      "ja": "善悪を見分けることは簡単です。",
+      "en": "It's easy to distinguish good from evil."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

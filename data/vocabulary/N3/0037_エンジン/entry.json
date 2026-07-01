@@ -1,0 +1,36 @@
+{
+  "id": "n3-0037",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "エンジン",
+  "display": "エンジン",
+  "meanings_zh": [
+    "发动机",
+    "引擎"
+  ],
+  "meanings_en": [
+    "engine"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "エンジンを止めろ！",
+      "en": "Stop the engine!"
+    },
+    {
+      "ja": "エンジンが止まった。",
+      "en": "The engine died."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

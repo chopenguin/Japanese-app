@@ -1,0 +1,38 @@
+{
+  "id": "n1-0082",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "がる",
+  "display": "がる",
+  "meanings_zh": [
+    "觉得",
+    "感觉",
+    "自以为",
+    "认为"
+  ],
+  "meanings_en": [
+    "feel"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "温度が下がる。",
+      "en": "The temperature falls."
+    },
+    {
+      "ja": "何で強がるの？",
+      "en": "Why are you pretending to be tough?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

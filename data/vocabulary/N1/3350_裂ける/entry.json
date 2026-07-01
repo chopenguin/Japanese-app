@@ -1,0 +1,39 @@
+{
+  "id": "n1-3350",
+  "jlpt": "N1",
+  "kanji": "裂ける",
+  "kana": "さける",
+  "display": "裂ける",
+  "meanings_zh": [
+    "裂",
+    "裂开",
+    "破裂"
+  ],
+  "meanings_en": [
+    "to split",
+    "to tear",
+    "to burst"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "眦が裂けるほど目を見張る。",
+      "en": "He opens his eyes so widely they tear at the corners."
+    },
+    {
+      "ja": "胸が張り裂けるような話だった。",
+      "en": "It was a heartbreaking story."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

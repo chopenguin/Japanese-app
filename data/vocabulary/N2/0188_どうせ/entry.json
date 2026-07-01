@@ -1,0 +1,40 @@
+{
+  "id": "n2-0188",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "どうせ",
+  "display": "どうせ",
+  "meanings_zh": [
+    "反正",
+    "横竖",
+    "总归",
+    "终归"
+  ],
+  "meanings_en": [
+    "anyhow",
+    "in any case",
+    "at any rate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "どうせお前は。",
+      "en": "You're only foolin' round."
+    },
+    {
+      "ja": "どうせ行くんでしょ。",
+      "en": "I daresay you are going to go no matter what."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

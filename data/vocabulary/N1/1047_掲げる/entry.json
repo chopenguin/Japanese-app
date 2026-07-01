@@ -1,0 +1,45 @@
+{
+  "id": "n1-1047",
+  "jlpt": "N1",
+  "kanji": "掲げる",
+  "kana": "かかげる",
+  "display": "掲げる",
+  "meanings_zh": [
+    "悬",
+    "挂",
+    "升起",
+    "举起"
+  ],
+  "meanings_en": [
+    "to publish",
+    "to print",
+    "to carry (an article)",
+    "to put up",
+    "to hang out",
+    "to hoist",
+    "to fly (a sail)",
+    "to float (a"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "以下に掲げる人が合格です。",
+      "en": "The following persons passed the examination."
+    },
+    {
+      "ja": "安全のために機械の前に掲示を掲げるつもりだ。",
+      "en": "We will set up a notice in front of the machine for safety's sake."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

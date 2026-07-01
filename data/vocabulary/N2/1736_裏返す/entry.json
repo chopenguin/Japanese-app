@@ -1,0 +1,28 @@
+{
+  "id": "n2-1736",
+  "jlpt": "N2",
+  "kanji": "裏返す",
+  "kana": "うらがえす",
+  "display": "裏返す",
+  "meanings_zh": [
+    "翻里作面",
+    "翻过来"
+  ],
+  "meanings_en": [
+    "to turn inside out",
+    "to turn (something) over"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

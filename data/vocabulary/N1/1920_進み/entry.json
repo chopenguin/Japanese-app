@@ -1,0 +1,38 @@
+{
+  "id": "n1-1920",
+  "jlpt": "N1",
+  "kanji": "進み",
+  "kana": "すすみ",
+  "display": "進み",
+  "meanings_zh": [
+    "进度",
+    "进展",
+    "进前进",
+    "进步"
+  ],
+  "meanings_en": [
+    "progress"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "一歩前に進みなさい。",
+      "en": "Move forward one step."
+    },
+    {
+      "ja": "パーティの進み具合は？",
+      "en": "How did the party go?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

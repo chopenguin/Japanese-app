@@ -1,0 +1,35 @@
+{
+  "id": "n2-0087",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "くどい",
+  "display": "くどい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "verbose",
+    "importunate",
+    "heavy (taste)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あくどい事をするな。",
+      "en": "Don't do wicked things."
+    },
+    {
+      "ja": "まわりくどいことをいうな。",
+      "en": "Stop beating around the bush."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

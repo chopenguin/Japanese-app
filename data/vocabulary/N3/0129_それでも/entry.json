@@ -1,0 +1,41 @@
+{
+  "id": "n3-0129",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "それでも",
+  "display": "それでも",
+  "meanings_zh": [
+    "虽然那样",
+    "即使那样",
+    "尽管如此"
+  ],
+  "meanings_en": [
+    "but (still)",
+    "and yet",
+    "nevertheless",
+    "even so",
+    "notwithstanding"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それでもよかった。",
+      "en": "Even so, it was nice."
+    },
+    {
+      "ja": "それでも地球は動く！",
+      "en": "Even so, the Earth moves!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

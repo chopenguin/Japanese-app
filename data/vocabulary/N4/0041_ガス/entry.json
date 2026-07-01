@@ -1,0 +1,38 @@
+{
+  "id": "n4-0041",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ガス",
+  "display": "ガス",
+  "meanings_zh": [
+    "气",
+    "气体",
+    "煤气",
+    "瓦斯"
+  ],
+  "meanings_en": [
+    "petrol"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ガス欠です。",
+      "en": "I'm out of gas."
+    },
+    {
+      "ja": "ガスを止めろ。",
+      "en": "Turn off the gas."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

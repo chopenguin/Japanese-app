@@ -1,0 +1,45 @@
+{
+  "id": "n1-2210",
+  "jlpt": "N1",
+  "kanji": "損なう",
+  "kana": "そこなう",
+  "display": "損なう",
+  "meanings_zh": [
+    "损坏",
+    "破损",
+    "伤害",
+    "损害 没成功",
+    "失败",
+    "错误",
+    "～～坏"
+  ],
+  "meanings_en": [
+    "to harm",
+    "to hurt",
+    "to injure",
+    "to damage",
+    "to fail in doing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "夜更かししていると健康を損なうよ。",
+      "en": "You must not stay up late, or you will hurt your health."
+    },
+    {
+      "ja": "注意しなくては駄目だよ、さもないとまたやり損なうよ。",
+      "en": "You've got to be careful or else you'll miss it again."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

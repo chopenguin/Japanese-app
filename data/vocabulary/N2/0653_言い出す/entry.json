@@ -1,0 +1,41 @@
+{
+  "id": "n2-0653",
+  "jlpt": "N2",
+  "kanji": "言い出す",
+  "kana": "いいだす",
+  "display": "言い出す",
+  "meanings_zh": [
+    "开始说",
+    "说出口"
+  ],
+  "meanings_en": [
+    "to start talking",
+    "to speak",
+    "to tell",
+    "to propose",
+    "to suggest",
+    "to break the ice"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何を言い出すかな？",
+      "en": "What will they say?"
+    },
+    {
+      "ja": "そんな事言い出すとは思わなかったよ。",
+      "en": "I didn't expect that to come from you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n3-0483",
+  "jlpt": "N3",
+  "kanji": "願い",
+  "kana": "ねがい",
+  "display": "願い",
+  "meanings_zh": [
+    "愿望",
+    "意愿",
+    "心愿",
+    "志愿"
+  ],
+  "meanings_en": [
+    "desire",
+    "wish",
+    "request"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "星に願いを。",
+      "en": "Let me wish upon a shooting star."
+    },
+    {
+      "ja": "君の願いは何？",
+      "en": "What's your wish?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

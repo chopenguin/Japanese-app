@@ -1,0 +1,40 @@
+{
+  "id": "n1-1598",
+  "jlpt": "N1",
+  "kanji": "弱る",
+  "kana": "よわる",
+  "display": "弱る",
+  "meanings_zh": [
+    "软弱",
+    "衰弱",
+    "减弱",
+    "困窘"
+  ],
+  "meanings_en": [
+    "to weaken",
+    "to be troubled",
+    "to be downcast",
+    "to be emaciated",
+    "to be dejected",
+    "to be perplexed",
+    "to impair"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "良さそうにみえる馬でも時には弱ることもある。",
+      "en": "A good-looking horse may sometimes break down."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

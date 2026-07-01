@@ -1,0 +1,34 @@
+{
+  "id": "n1-1005",
+  "jlpt": "N1",
+  "kanji": "金槌",
+  "kana": "かなづち",
+  "display": "金槌",
+  "meanings_zh": [],
+  "meanings_en": [
+    "1.  (iron) hammer",
+    "2.  punishment"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "俺、金槌なんだ。",
+      "en": "I can't swim at all."
+    },
+    {
+      "ja": "彼女は彼を金槌で殴った。",
+      "en": "She hit him with a hammer."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

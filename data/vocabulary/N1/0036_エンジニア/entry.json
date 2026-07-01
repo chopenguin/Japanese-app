@@ -1,0 +1,36 @@
+{
+  "id": "n1-0036",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "エンジニア",
+  "display": "エンジニア",
+  "meanings_zh": [
+    "工程师",
+    "技师"
+  ],
+  "meanings_en": [
+    "engineer"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私はエンジニアです。",
+      "en": "I am an engineer."
+    },
+    {
+      "ja": "トムはエンジニアです。",
+      "en": "Tom is an engineer."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

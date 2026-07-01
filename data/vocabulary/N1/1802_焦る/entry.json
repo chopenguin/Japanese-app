@@ -1,0 +1,38 @@
+{
+  "id": "n1-1802",
+  "jlpt": "N1",
+  "kanji": "焦る",
+  "kana": "あせる",
+  "display": "焦る",
+  "meanings_zh": [
+    "焦躁",
+    "急躁",
+    "着急"
+  ],
+  "meanings_en": [
+    "to be in a hurry",
+    "to be impatient"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そんなに焦るな。",
+      "en": "Don't be so impatient."
+    },
+    {
+      "ja": "焦るな。落ち着いて選んで。",
+      "en": "Don't rush. Choose calmly."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

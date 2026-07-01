@@ -1,0 +1,42 @@
+{
+  "id": "n3-0181",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "（感）",
+  "display": "ね",
+  "meanings_zh": [
+    "喂",
+    "吧",
+    "啊",
+    "呀"
+  ],
+  "meanings_en": [
+    "value",
+    "price",
+    "cost",
+    "worth",
+    "merit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "連絡してね。",
+      "en": "Keep in touch."
+    },
+    {
+      "ja": "立派ですね。",
+      "en": "It's magnificent."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

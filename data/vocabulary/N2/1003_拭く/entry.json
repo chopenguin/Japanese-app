@@ -1,0 +1,39 @@
+{
+  "id": "n2-1003",
+  "jlpt": "N2",
+  "kanji": "拭く",
+  "kana": "ふく",
+  "display": "拭く",
+  "meanings_zh": [
+    "擦",
+    "抹",
+    "揩",
+    "拭"
+  ],
+  "meanings_en": [
+    "to wipe",
+    "to dry"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "窓を拭くの忘れないでね。",
+      "en": "I request that you not forget to wipe the windows."
+    },
+    {
+      "ja": "「お皿、洗おうっと」「じゃぁ、俺、拭くよ」",
+      "en": "\"I'll wash the dishes.\" \"OK, I'll dry then.\""
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

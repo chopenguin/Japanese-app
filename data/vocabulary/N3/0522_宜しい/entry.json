@@ -1,0 +1,45 @@
+{
+  "id": "n3-0522",
+  "jlpt": "N3",
+  "kanji": "宜しい",
+  "kana": "よろしい",
+  "display": "宜しい",
+  "meanings_zh": [
+    "好",
+    "恰好",
+    "适当",
+    "没关系"
+  ],
+  "meanings_en": [
+    "(hon) good",
+    "OK",
+    "all right",
+    "fine",
+    "very well",
+    "will do",
+    "may",
+    "can"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "窓を開けても宜しいですか。",
+      "en": "Can I open the window?"
+    },
+    {
+      "ja": "ナイフを借りても宜しいでしょうか。",
+      "en": "May I borrow your knife?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

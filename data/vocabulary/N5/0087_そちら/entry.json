@@ -1,0 +1,33 @@
+{
+  "id": "n5-0087",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "そちら",
+  "display": "そちら",
+  "meanings_zh": [],
+  "meanings_en": [
+    "over there"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そちらこそお疲れ。",
+      "en": "Thank you for your work as well."
+    },
+    {
+      "ja": "そちらは暑いですか。",
+      "en": "Is it hot over there?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

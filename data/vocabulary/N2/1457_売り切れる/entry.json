@@ -1,0 +1,32 @@
+{
+  "id": "n2-1457",
+  "jlpt": "N2",
+  "kanji": "売り切れる",
+  "kana": "うりきれる",
+  "display": "売り切れる",
+  "meanings_zh": [
+    "全部售完",
+    "售罄"
+  ],
+  "meanings_en": [
+    "to be sold out"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そのケーキはすぐに売り切れるでしょう。",
+      "en": "The cakes may be sold out soon."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

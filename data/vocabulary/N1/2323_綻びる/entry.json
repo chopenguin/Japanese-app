@@ -1,0 +1,30 @@
+{
+  "id": "n1-2323",
+  "jlpt": "N1",
+  "kanji": "綻びる",
+  "kana": "ほころびる",
+  "display": "綻びる",
+  "meanings_zh": [
+    "开绽",
+    "绽线",
+    "张开"
+  ],
+  "meanings_en": [
+    "to come apart at the seams",
+    "to begin to open",
+    "to smile broadly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

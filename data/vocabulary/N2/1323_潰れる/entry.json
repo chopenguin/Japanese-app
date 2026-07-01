@@ -1,0 +1,30 @@
+{
+  "id": "n2-1323",
+  "jlpt": "N2",
+  "kanji": "潰れる",
+  "kana": "つぶれる",
+  "display": "潰れる",
+  "meanings_zh": [
+    "压坏",
+    "挤破",
+    "压碎",
+    "倒塌"
+  ],
+  "meanings_en": [
+    "to be smashed",
+    "to go bankrupt"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

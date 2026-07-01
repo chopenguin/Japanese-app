@@ -1,0 +1,40 @@
+{
+  "id": "n3-1484",
+  "jlpt": "N3",
+  "kanji": "悲しむ",
+  "kana": "かなしむ",
+  "display": "悲しむ",
+  "meanings_zh": [
+    "悲伤",
+    "悲哀",
+    "悲痛",
+    "可叹"
+  ],
+  "meanings_en": [
+    "to be sad",
+    "to mourn for",
+    "to regret"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "なんでそんなに悲しむの。",
+      "en": "Why should you be so sad?"
+    },
+    {
+      "ja": "悲しむことなんてないでしょう。",
+      "en": "Why should you be sad?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n1-0542",
+  "jlpt": "N1",
+  "kanji": "何て",
+  "kana": "なんて",
+  "display": "何て",
+  "meanings_zh": [
+    "什么的",
+    "～～之类的话",
+    "说是～～",
+    "叫什么～～之类的"
+  ],
+  "meanings_en": [
+    "how...!",
+    "what...!"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何てこった。",
+      "en": "Holy cow!"
+    },
+    {
+      "ja": "何てことだ！",
+      "en": "Oh no!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

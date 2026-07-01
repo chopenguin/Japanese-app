@@ -1,0 +1,34 @@
+{
+  "id": "n1-0159",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "スプリング",
+  "display": "スプリング",
+  "meanings_zh": [
+    "春天",
+    "弹簧",
+    "跳跃",
+    "弹跳"
+  ],
+  "meanings_en": [
+    "spring"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ホワイト氏はスプリングフィールドのあるホテルの支配人でした。",
+      "en": "Mr White was the manager of a hotel in Springfield."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

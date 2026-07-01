@@ -1,0 +1,34 @@
+{
+  "id": "n1-2667",
+  "jlpt": "N1",
+  "kanji": "如何して",
+  "kana": "どうして",
+  "display": "如何して",
+  "meanings_zh": [
+    "怎么样",
+    "怎么(办)",
+    "如何",
+    "怎么"
+  ],
+  "meanings_en": [
+    "why?",
+    "for what reason",
+    "how",
+    "in what way",
+    "for what purpose",
+    "what for"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

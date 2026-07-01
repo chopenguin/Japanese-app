@@ -1,0 +1,33 @@
+{
+  "id": "n1-1452",
+  "jlpt": "N1",
+  "kanji": "仕付ける",
+  "kana": "しつける",
+  "display": "仕付ける",
+  "meanings_zh": [
+    "插秧",
+    "种植",
+    "绷上",
+    "做惯"
+  ],
+  "meanings_en": [
+    "to be used to a job",
+    "to begin to do",
+    "to baste",
+    "to tack",
+    "to plant"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

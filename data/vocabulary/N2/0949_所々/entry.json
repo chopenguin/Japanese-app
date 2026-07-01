@@ -1,0 +1,34 @@
+{
+  "id": "n2-0949",
+  "jlpt": "N2",
+  "kanji": "所々",
+  "kana": "ところどころ",
+  "display": "所々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "here and there",
+    "some parts (of something)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その本は所々非常にすばらしい。",
+      "en": "Parts of the book are quite good."
+    },
+    {
+      "ja": "その習慣は今なお日本の所々で行われている。",
+      "en": "The practice still prevails locally in parts of Japan."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

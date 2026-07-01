@@ -1,0 +1,31 @@
+{
+  "id": "n2-1197",
+  "jlpt": "N2",
+  "kanji": "卒直",
+  "kana": "そっちょく",
+  "display": "卒直",
+  "meanings_zh": [],
+  "meanings_en": [
+    "frankness",
+    "candour",
+    "openheartedness"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それでは卒直に話し合おうか。",
+      "en": "Well, let's talk turkey."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

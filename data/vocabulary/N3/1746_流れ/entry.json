@@ -1,0 +1,39 @@
+{
+  "id": "n3-1746",
+  "jlpt": "N3",
+  "kanji": "流れ",
+  "kana": "ながれ",
+  "display": "流れ",
+  "meanings_zh": [
+    "流",
+    "流动",
+    "河流",
+    "流水"
+  ],
+  "meanings_en": [
+    "stream",
+    "current"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "河童の川流れ。",
+      "en": "The best swimmers are oftenest drowned."
+    },
+    {
+      "ja": "あ、流れ星だ！",
+      "en": "Look! There goes a shooting star."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n4-0078",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "スーツケース",
+  "display": "スーツケース",
+  "meanings_zh": [
+    "旅行用(缄捏及)衣箱"
+  ],
+  "meanings_en": [
+    "suitcase"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そのスーツケース重い？",
+      "en": "Are your suitcases heavy?"
+    },
+    {
+      "ja": "スーツケースはこちらへ。",
+      "en": "Put your suitcase over here."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

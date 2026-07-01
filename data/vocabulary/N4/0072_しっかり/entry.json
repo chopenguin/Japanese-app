@@ -1,0 +1,34 @@
+{
+  "id": "n4-0072",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "しっかり",
+  "display": "しっかり",
+  "meanings_zh": [],
+  "meanings_en": [
+    "firmly",
+    "steadily"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "しっかりしろ。",
+      "en": "Get a hold of yourself."
+    },
+    {
+      "ja": "しっかり食べなさい。",
+      "en": "Eat well."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

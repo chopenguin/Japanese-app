@@ -1,0 +1,29 @@
+{
+  "id": "n2-1542",
+  "jlpt": "N2",
+  "kanji": "分る",
+  "kana": "わかる",
+  "display": "分る",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to be understood"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この事実から彼の無実が分る。",
+      "en": "This fact shows that he is innocent."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

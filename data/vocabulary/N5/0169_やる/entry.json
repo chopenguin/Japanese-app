@@ -1,0 +1,33 @@
+{
+  "id": "n5-0169",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "やる",
+  "display": "やる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to do"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "訴えてやる！",
+      "en": "I'll sue you."
+    },
+    {
+      "ja": "明日やるの？",
+      "en": "Will you be doing that tomorrow?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

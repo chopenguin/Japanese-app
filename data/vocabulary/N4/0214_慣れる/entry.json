@@ -1,0 +1,38 @@
+{
+  "id": "n4-0214",
+  "jlpt": "N4",
+  "kanji": "慣れる",
+  "kana": "なれる",
+  "display": "慣れる",
+  "meanings_zh": [
+    "习惯",
+    "习以为常",
+    "熟练",
+    "惯"
+  ],
+  "meanings_en": [
+    "to grow accustomed to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "すぐに慣れるわ。",
+      "en": "You'll get used to it in no time."
+    },
+    {
+      "ja": "騒音にはすぐ慣れるよ。",
+      "en": "You'll soon get used to the noise."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

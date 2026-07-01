@@ -1,0 +1,32 @@
+{
+  "id": "n1-3397",
+  "jlpt": "N1",
+  "kanji": "凭れる",
+  "kana": "もたれる",
+  "display": "凭れる",
+  "meanings_zh": [
+    "凭靠",
+    "倚靠",
+    "积食",
+    "存食"
+  ],
+  "meanings_en": [
+    "to lean against",
+    "to lean on",
+    "to recline on",
+    "to lie heavy (on the stomach)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

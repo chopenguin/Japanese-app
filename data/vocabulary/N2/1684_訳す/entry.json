@@ -1,0 +1,38 @@
+{
+  "id": "n2-1684",
+  "jlpt": "N2",
+  "kanji": "訳す",
+  "kana": "やくす",
+  "display": "訳す",
+  "meanings_zh": [
+    "译",
+    "翻",
+    "翻译",
+    "解释"
+  ],
+  "meanings_en": [
+    "to translate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "したことを言い訳するな。",
+      "en": "Don't excuse what you have done."
+    },
+    {
+      "ja": "さあ、訳すのを始めよう！",
+      "en": "Let's start translating!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

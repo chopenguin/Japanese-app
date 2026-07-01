@@ -1,0 +1,38 @@
+{
+  "id": "n2-0253",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "まあまあ",
+  "display": "まあまあ",
+  "meanings_zh": [
+    "得了",
+    "好了好了",
+    "行了行了",
+    "哎哎"
+  ],
+  "meanings_en": [
+    "so-so"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼の英語はまあまあだ。",
+      "en": "His English is quite good."
+    },
+    {
+      "ja": "まあまあ、落ち着けよ。",
+      "en": "Now, now, just calm down."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

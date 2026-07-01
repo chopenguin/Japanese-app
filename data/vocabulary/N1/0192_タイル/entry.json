@@ -1,0 +1,36 @@
+{
+  "id": "n1-0192",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "タイル",
+  "display": "タイル",
+  "meanings_zh": [
+    "花砖",
+    "瓷砖"
+  ],
+  "meanings_en": [
+    "tile"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "タイルはぴかぴか。",
+      "en": "The tiles are shiny."
+    },
+    {
+      "ja": "彼はスタイルがいい。",
+      "en": "He has a nice build."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

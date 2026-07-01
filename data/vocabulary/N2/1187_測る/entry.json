@@ -1,0 +1,40 @@
+{
+  "id": "n2-1187",
+  "jlpt": "N2",
+  "kanji": "測る",
+  "kana": "はかる",
+  "display": "測る",
+  "meanings_zh": [
+    "称",
+    "量",
+    "衡量",
+    "测量"
+  ],
+  "meanings_en": [
+    "to measure",
+    "to weigh",
+    "to survey"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "馬の斤量を測る。",
+      "en": "I will measure the weight of the horse."
+    },
+    {
+      "ja": "温度計は温度を測る器具です。",
+      "en": "The thermometer is an instrument for measuring temperature."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

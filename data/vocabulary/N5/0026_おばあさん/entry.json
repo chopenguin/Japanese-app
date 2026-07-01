@@ -1,0 +1,39 @@
+{
+  "id": "n5-0026",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "おばあさん",
+  "display": "おばあさん",
+  "meanings_zh": [
+    "祖母",
+    "奶奶",
+    "外祖母",
+    "外婆"
+  ],
+  "meanings_en": [
+    "grandmother",
+    "female senior-citizen"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "おばあさんはバスから降りた。",
+      "en": "The old lady got down from the bus."
+    },
+    {
+      "ja": "おばあさんが隣に越してきた。",
+      "en": "An old lady moved into the place next door."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

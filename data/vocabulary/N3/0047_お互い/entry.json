@@ -1,0 +1,38 @@
+{
+  "id": "n3-0047",
+  "jlpt": "N3",
+  "kanji": "お互い",
+  "kana": "おたがい",
+  "display": "お互い",
+  "meanings_zh": [
+    "彼此",
+    "互相"
+  ],
+  "meanings_en": [
+    "mutual",
+    "reciprocal",
+    "each other"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お互い仇同士だ。",
+      "en": "They are bitter enemies."
+    },
+    {
+      "ja": "お互いさまだろ。",
+      "en": "It seems we are in the same boat."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n1-2763",
+  "jlpt": "N1",
+  "kanji": "伐",
+  "kana": "ばつ",
+  "display": "伐",
+  "meanings_zh": [],
+  "meanings_en": [
+    "strike",
+    "attack",
+    "punish"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は木の伐採をしている。",
+      "en": "He fells trees."
+    },
+    {
+      "ja": "マダガスカルの熱帯林の９０％以上が伐採されました。",
+      "en": "More than 90 percent of Madagascar's rainforests have been destroyed."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

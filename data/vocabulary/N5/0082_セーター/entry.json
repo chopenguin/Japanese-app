@@ -1,0 +1,37 @@
+{
+  "id": "n5-0082",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "セーター",
+  "display": "セーター",
+  "meanings_zh": [
+    "毛衣",
+    "毛线上衣"
+  ],
+  "meanings_en": [
+    "sweater",
+    "jumper"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "セーター後ろ前だよ。",
+      "en": "Your sweater is on backwards."
+    },
+    {
+      "ja": "彼女はセーターを着た。",
+      "en": "She pulled her sweater on."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

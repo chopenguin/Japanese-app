@@ -1,0 +1,36 @@
+{
+  "id": "n2-1351",
+  "jlpt": "N2",
+  "kanji": "纏める",
+  "kana": "まとめる",
+  "display": "纏める",
+  "meanings_zh": [
+    "解决",
+    "了结",
+    "商定",
+    "谈妥"
+  ],
+  "meanings_en": [
+    "to put in order",
+    "to collect",
+    "to bring to a conclusion"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それについて、決められた字数以内に作文を纏める。",
+      "en": "Compile an essay on that topic within a fixed number of letters."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

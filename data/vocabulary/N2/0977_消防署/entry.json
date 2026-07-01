@@ -1,0 +1,33 @@
+{
+  "id": "n2-0977",
+  "jlpt": "N2",
+  "kanji": "消防署",
+  "kana": "しょうぼうしょ",
+  "display": "消防署",
+  "meanings_zh": [],
+  "meanings_en": [
+    "fire station"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "消防署に連絡してください。",
+      "en": "Please call the fire department."
+    },
+    {
+      "ja": "消防署は警察署の隣にあります。",
+      "en": "The fire station is next to the police station."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

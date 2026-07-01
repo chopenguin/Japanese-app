@@ -1,0 +1,32 @@
+{
+  "id": "n2-0979",
+  "jlpt": "N2",
+  "kanji": "焦がす",
+  "kana": "こがす",
+  "display": "焦がす",
+  "meanings_zh": [
+    "弄煳",
+    "烧煳",
+    "烤焦",
+    "熏"
+  ],
+  "meanings_en": [
+    "to burn",
+    "to scorch",
+    "to singe",
+    "to char"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

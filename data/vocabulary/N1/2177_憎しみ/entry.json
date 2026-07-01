@@ -1,0 +1,36 @@
+{
+  "id": "n1-2177",
+  "jlpt": "N1",
+  "kanji": "憎しみ",
+  "kana": "にくしみ",
+  "display": "憎しみ",
+  "meanings_zh": [
+    "憎恶",
+    "憎恨"
+  ],
+  "meanings_en": [
+    "hatred"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "恋は盲目。憎しみもまたしかり。",
+      "en": "Love is blind. Hatred is also blind."
+    },
+    {
+      "ja": "彼女は憎しみをこめて彼を見た。",
+      "en": "She looked at him with hatred."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

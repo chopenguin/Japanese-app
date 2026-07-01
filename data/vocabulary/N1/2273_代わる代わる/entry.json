@@ -1,0 +1,37 @@
+{
+  "id": "n1-2273",
+  "jlpt": "N1",
+  "kanji": "代わる代わる",
+  "kana": "かわるがわる",
+  "display": "代わる代わる",
+  "meanings_zh": [
+    "轮流",
+    "轮换",
+    "轮班"
+  ],
+  "meanings_en": [
+    "alternately"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私たちは代わる代わる寝た。",
+      "en": "We slept by turns."
+    },
+    {
+      "ja": "私たちは代わる代わる馬の世話をした。",
+      "en": "We took care of our horses by turns."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

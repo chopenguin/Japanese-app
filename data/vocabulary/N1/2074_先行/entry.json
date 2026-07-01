@@ -1,0 +1,39 @@
+{
+  "id": "n1-2074",
+  "jlpt": "N1",
+  "kanji": "先行",
+  "kana": "せんこう",
+  "display": "先行",
+  "meanings_zh": [
+    "先行",
+    "走在前头",
+    "领先",
+    "占先"
+  ],
+  "meanings_en": [
+    "preceding",
+    "going first"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "稲光は雷の音に先行する。",
+      "en": "The flash of lightning precedes the sound of thunder."
+    },
+    {
+      "ja": "トム先行ってて。すぐ追いつくから。",
+      "en": "You go ahead, Tom. I'll catch up soon."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

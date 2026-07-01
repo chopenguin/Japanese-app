@@ -1,0 +1,45 @@
+{
+  "id": "n1-0894",
+  "jlpt": "N1",
+  "kanji": "及ぶ",
+  "kana": "およぶ",
+  "display": "及ぶ",
+  "meanings_zh": [
+    "达到",
+    "及于",
+    "普及",
+    "涉及"
+  ],
+  "meanings_en": [
+    "to reach",
+    "to come up to",
+    "to amount to",
+    "to befall",
+    "to happen to",
+    "to extend",
+    "to match",
+    "to equal"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私の力が及ぶ限り援助します。",
+      "en": "I'll help you to the best of my power."
+    },
+    {
+      "ja": "損失額は１億ドルに及ぶだろう。",
+      "en": "The loss will amount to one hundred million dollars."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

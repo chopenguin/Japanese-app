@@ -1,0 +1,41 @@
+{
+  "id": "n1-3265",
+  "jlpt": "N1",
+  "kanji": "遥か",
+  "kana": "はるか",
+  "display": "遥か",
+  "meanings_zh": [
+    "遥远",
+    "远远",
+    "远为～～"
+  ],
+  "meanings_en": [
+    "far",
+    "far-away",
+    "distant",
+    "remote",
+    "far off"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "遥か遠くに住んでいます。",
+      "en": "I live too far away."
+    },
+    {
+      "ja": "鉄は金より遥かに役に立つ。",
+      "en": "Iron is much more useful than gold."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

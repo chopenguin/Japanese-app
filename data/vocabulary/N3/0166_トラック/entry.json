@@ -1,0 +1,34 @@
+{
+  "id": "n3-0166",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "トラック",
+  "display": "トラック",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(1) truck",
+    "(2) (running) track"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "車がトラックに衝突した。",
+      "en": "The car collided with a truck."
+    },
+    {
+      "ja": "犬がトラックにひかれた。",
+      "en": "A dog was run over by a truck."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

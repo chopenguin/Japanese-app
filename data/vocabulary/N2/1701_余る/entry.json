@@ -1,0 +1,41 @@
+{
+  "id": "n2-1701",
+  "jlpt": "N2",
+  "kanji": "余る",
+  "kana": "あまる",
+  "display": "余る",
+  "meanings_zh": [
+    "余",
+    "剩",
+    "剩下",
+    "过分"
+  ],
+  "meanings_en": [
+    "to remain",
+    "to be left over",
+    "to be in excess",
+    "to be too many"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "身に余る栄光。",
+      "en": "The honor you are giving me is more than I deserve."
+    },
+    {
+      "ja": "それは私の手に余る。",
+      "en": "It's beyond me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

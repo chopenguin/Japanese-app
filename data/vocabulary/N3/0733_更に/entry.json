@@ -1,0 +1,42 @@
+{
+  "id": "n3-0733",
+  "jlpt": "N3",
+  "kanji": "更に",
+  "kana": "さらに",
+  "display": "更に",
+  "meanings_zh": [
+    "更",
+    "更加",
+    "更进一步",
+    "并且"
+  ],
+  "meanings_en": [
+    "furthermore",
+    "again",
+    "after all",
+    "more and more",
+    "moreover"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "更に質問がありますか。",
+      "en": "Do you have any further questions?"
+    },
+    {
+      "ja": "私は更に５０ページ読んだ。",
+      "en": "I read fifty pages further."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

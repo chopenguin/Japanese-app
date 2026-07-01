@@ -1,0 +1,38 @@
+{
+  "id": "n4-0246",
+  "jlpt": "N4",
+  "kanji": "驚く",
+  "kana": "おどろく",
+  "display": "驚く",
+  "meanings_zh": [
+    "吓",
+    "惊恐",
+    "惊惧",
+    "害怕"
+  ],
+  "meanings_en": [
+    "to be surprised"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女はきっと驚く。",
+      "en": "She is certain to be surprised."
+    },
+    {
+      "ja": "彼の博識には驚く。",
+      "en": "His extensive knowledge surprises me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

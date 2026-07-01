@@ -1,0 +1,39 @@
+{
+  "id": "n2-0576",
+  "jlpt": "N2",
+  "kanji": "近寄る",
+  "kana": "ちかよる",
+  "display": "近寄る",
+  "meanings_zh": [
+    "挨近",
+    "靠近",
+    "走近",
+    "接近"
+  ],
+  "meanings_en": [
+    "to approach",
+    "to draw near"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "犬に近寄るな。",
+      "en": "Don't go near the dog."
+    },
+    {
+      "ja": "俺に近寄るな。",
+      "en": "Don't come near me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

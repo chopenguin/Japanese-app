@@ -1,0 +1,36 @@
+{
+  "id": "n2-0218",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ぴかぴか",
+  "display": "ぴかぴか",
+  "meanings_zh": [
+    "闪闪发光"
+  ],
+  "meanings_en": [
+    "glitter",
+    "sparkle"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "タイルはぴかぴか。",
+      "en": "The tiles are shiny."
+    },
+    {
+      "ja": "彼女の車はぴかぴかに磨いてある。",
+      "en": "Her car has a nice polish."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

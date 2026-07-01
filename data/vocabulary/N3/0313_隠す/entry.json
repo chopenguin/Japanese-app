@@ -1,0 +1,39 @@
+{
+  "id": "n3-0313",
+  "jlpt": "N3",
+  "kanji": "隠す",
+  "kana": "かくす",
+  "display": "隠す",
+  "meanings_zh": [
+    "掩盖",
+    "掩饰",
+    "遮盖",
+    "藏"
+  ],
+  "meanings_en": [
+    "to hide",
+    "to conceal"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "能ある鷹は爪を隠す。",
+      "en": "A smart falcon hides its talons."
+    },
+    {
+      "ja": "誤りを隠すことないよ。",
+      "en": "You don't have to cover your mistake."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

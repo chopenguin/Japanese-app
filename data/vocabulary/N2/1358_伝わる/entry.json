@@ -1,0 +1,39 @@
+{
+  "id": "n2-1358",
+  "jlpt": "N2",
+  "kanji": "伝わる",
+  "kana": "つたわる",
+  "display": "伝わる",
+  "meanings_zh": [
+    "传",
+    "流传",
+    "传说"
+  ],
+  "meanings_en": [
+    "to be handed down",
+    "to be introduced",
+    "to be transmitted"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "音はとても早く伝わる。",
+      "en": "Sound travels very quickly."
+    },
+    {
+      "ja": "光や音は波の形で伝わる。",
+      "en": "Light and sound travel in waves."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

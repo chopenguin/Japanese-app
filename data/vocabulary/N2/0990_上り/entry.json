@@ -1,0 +1,39 @@
+{
+  "id": "n2-0990",
+  "jlpt": "N2",
+  "kanji": "上り",
+  "kana": "のぼり",
+  "display": "上り",
+  "meanings_zh": [
+    "上",
+    "登",
+    "攀登",
+    "上坡"
+  ],
+  "meanings_en": [
+    "up-train (going to Tokyo)",
+    "ascent"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "車は上り坂にかかった。",
+      "en": "Our car pulled uphill."
+    },
+    {
+      "ja": "彼らは丘を上りはじめた。",
+      "en": "They began to climb the hill."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

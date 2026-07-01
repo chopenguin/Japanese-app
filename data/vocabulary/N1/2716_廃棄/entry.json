@@ -1,0 +1,41 @@
+{
+  "id": "n1-2716",
+  "jlpt": "N1",
+  "kanji": "廃棄",
+  "kana": "はいき",
+  "display": "廃棄",
+  "meanings_zh": [
+    "废弃",
+    "废除"
+  ],
+  "meanings_en": [
+    "annullment",
+    "disposal",
+    "abandon",
+    "scrap",
+    "discarding",
+    "repeal"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "産業廃棄物が地球を汚染する。",
+      "en": "Industrial wastes pollute the earth."
+    },
+    {
+      "ja": "工場廃棄物で海は汚染された。",
+      "en": "Factory waste has polluted the sea."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

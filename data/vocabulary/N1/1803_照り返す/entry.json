@@ -1,0 +1,28 @@
+{
+  "id": "n1-1803",
+  "jlpt": "N1",
+  "kanji": "照り返す",
+  "kana": "てりかえす",
+  "display": "照り返す",
+  "meanings_zh": [
+    "反射",
+    "反照"
+  ],
+  "meanings_en": [
+    "to reflect",
+    "to throw back light"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

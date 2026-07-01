@@ -1,0 +1,40 @@
+{
+  "id": "n2-1756",
+  "jlpt": "N2",
+  "kanji": "例える",
+  "kana": "たとえる",
+  "display": "例える",
+  "meanings_zh": [
+    "比喻",
+    "比方"
+  ],
+  "meanings_en": [
+    "to compare",
+    "to liken",
+    "to speak figuratively",
+    "to illustrate",
+    "to use a simile"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "読書は旅に例えることができる。",
+      "en": "Reading a book can be compared to making a journey."
+    },
+    {
+      "ja": "人生を一つの物語に例える人もいます。",
+      "en": "Some people compare life to a story."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

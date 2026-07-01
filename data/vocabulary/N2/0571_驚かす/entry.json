@@ -1,0 +1,31 @@
+{
+  "id": "n2-0571",
+  "jlpt": "N2",
+  "kanji": "驚かす",
+  "kana": "おどろかす",
+  "display": "驚かす",
+  "meanings_zh": [
+    "惊动",
+    "震动",
+    "轰动",
+    "使惊讶"
+  ],
+  "meanings_en": [
+    "to surprise",
+    "to frighten",
+    "to create a stir"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

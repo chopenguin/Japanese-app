@@ -1,0 +1,42 @@
+{
+  "id": "n3-0814",
+  "jlpt": "N3",
+  "kanji": "残す",
+  "kana": "のこす",
+  "display": "残す",
+  "meanings_zh": [
+    "留下",
+    "剩下",
+    "保留",
+    "存留"
+  ],
+  "meanings_en": [
+    "to leave (behind",
+    "over)",
+    "to bequeath",
+    "to save",
+    "to reserve"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "仕事はやり残すなよ。",
+      "en": "Don't leave your work unfinished."
+    },
+    {
+      "ja": "これで何も思い残すことはないよ。",
+      "en": "Now I can die happy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

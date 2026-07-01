@@ -1,0 +1,43 @@
+{
+  "id": "n1-1220",
+  "jlpt": "N1",
+  "kanji": "交わる",
+  "kana": "まじわる",
+  "display": "交わる",
+  "meanings_zh": [
+    "混杂",
+    "搀杂",
+    "交往",
+    "交际"
+  ],
+  "meanings_en": [
+    "to cross",
+    "to intersect",
+    "to associate with",
+    "to mingle with",
+    "to interest",
+    "to join"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らと交わるな。",
+      "en": "Don't associate with them."
+    },
+    {
+      "ja": "二つの通りがここで交わる。",
+      "en": "The two roads meet here."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

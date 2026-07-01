@@ -1,0 +1,38 @@
+{
+  "id": "n1-2694",
+  "jlpt": "N1",
+  "kanji": "粘る",
+  "kana": "ねばる",
+  "display": "粘る",
+  "meanings_zh": [
+    "发粘",
+    "坚持",
+    "有耐性",
+    "顽强到底"
+  ],
+  "meanings_en": [
+    "to be sticky",
+    "to be adhesive",
+    "to persevere",
+    "to persist",
+    "to stick to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムはマラソン大会で最後まで粘るも、ライバルに敗れた。",
+      "en": "Even though Tom stuck it out to the end of the marathon, he lost to his rival."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

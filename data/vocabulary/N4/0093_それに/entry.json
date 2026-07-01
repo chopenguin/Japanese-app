@@ -1,0 +1,36 @@
+{
+  "id": "n4-0093",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "それに",
+  "display": "それに",
+  "meanings_zh": [
+    "更兼",
+    "而且"
+  ],
+  "meanings_en": [
+    "moreover"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それに触るな。",
+      "en": "Don't touch it."
+    },
+    {
+      "ja": "それに近づくな！",
+      "en": "Keep away from that."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "n1-2223",
+  "jlpt": "N1",
+  "kanji": "打ち合わせる",
+  "kana": "うちあわせる",
+  "display": "打ち合わせる",
+  "meanings_zh": [
+    "使～～相碰",
+    "互击",
+    "对打",
+    "商量"
+  ],
+  "meanings_en": [
+    "to knock together",
+    "to arrange"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

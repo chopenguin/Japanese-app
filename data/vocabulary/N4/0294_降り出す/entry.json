@@ -1,0 +1,36 @@
+{
+  "id": "n4-0294",
+  "jlpt": "N4",
+  "kanji": "降り出す",
+  "kana": "ふりだす",
+  "display": "降り出す",
+  "meanings_zh": [
+    "下起来",
+    "开始下"
+  ],
+  "meanings_en": [
+    "to start to rain"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "まもなく雪が降り出すだろう。",
+      "en": "It will begin snowing before long."
+    },
+    {
+      "ja": "私は雨が降り出す前に学校に着いた。",
+      "en": "I reached school before the rain started."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

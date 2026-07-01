@@ -1,0 +1,40 @@
+{
+  "id": "n2-1791",
+  "jlpt": "N2",
+  "kanji": "睨む",
+  "kana": "にらむ",
+  "display": "睨む",
+  "meanings_zh": [
+    "盯视",
+    "瞪眼",
+    "怒目而视",
+    "注视"
+  ],
+  "meanings_en": [
+    "to glare at",
+    "to scowl at",
+    "to keep an eye on"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "吸血鬼は睨むだけで人を金縛りにする。",
+      "en": "A vampire can paralyze people just by looking at them."
+    },
+    {
+      "ja": "審判の方をちらりと睨むが、審判は涼しい顔して鼻クソをほじっていやがった。「ちくしょう、八百長かよ・・・」",
+      "en": "I shot a look in the referee's direction, but he was putting on a calm face while picking his nose. \"Dammit, the fight's a fixup!?\""
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

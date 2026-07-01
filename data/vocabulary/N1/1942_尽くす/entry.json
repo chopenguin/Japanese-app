@@ -1,0 +1,41 @@
+{
+  "id": "n1-1942",
+  "jlpt": "N1",
+  "kanji": "尽くす",
+  "kana": "つくす",
+  "display": "尽くす",
+  "meanings_zh": [
+    "尽",
+    "竭",
+    "尽力",
+    "竭力"
+  ],
+  "meanings_en": [
+    "to exhaust",
+    "to run out",
+    "to serve (a person)",
+    "to befriend"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "全力を尽くすんだよ。",
+      "en": "Do your very best."
+    },
+    {
+      "ja": "最善を尽くすつもりだ。",
+      "en": "I will do my best."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

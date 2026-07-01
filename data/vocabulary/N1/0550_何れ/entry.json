@@ -1,0 +1,39 @@
+{
+  "id": "n1-0550",
+  "jlpt": "N1",
+  "kanji": "何れ",
+  "kana": "いずれ",
+  "display": "何れ",
+  "meanings_zh": [
+    "哪个",
+    "哪一方面",
+    "反正",
+    "左右"
+  ],
+  "meanings_en": [
+    "where",
+    "which",
+    "who",
+    "anyway",
+    "anyhow",
+    "at any rate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何れにせよありがとう。",
+      "en": "Thank you all the same."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

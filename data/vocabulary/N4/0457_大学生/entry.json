@@ -1,0 +1,33 @@
+{
+  "id": "n4-0457",
+  "jlpt": "N4",
+  "kanji": "大学生",
+  "kana": "だいがくせい",
+  "display": "大学生",
+  "meanings_zh": [],
+  "meanings_en": [
+    "university student"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "大学生です。",
+      "en": "I am a university student."
+    },
+    {
+      "ja": "大学生ですか。",
+      "en": "Are you a college student?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

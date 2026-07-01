@@ -1,0 +1,38 @@
+{
+  "id": "n2-1536",
+  "jlpt": "N2",
+  "kanji": "物語る",
+  "kana": "ものがたる",
+  "display": "物語る",
+  "meanings_zh": [
+    "讲",
+    "谈",
+    "说明"
+  ],
+  "meanings_en": [
+    "to tell",
+    "to indicate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "統計はすべてを物語るとは限らない。",
+      "en": "Statistics don't always tell the whole story."
+    },
+    {
+      "ja": "子供が健康だということは母親の育て方が立派であるということを物語る。",
+      "en": "The child's good health says a great deal for maternal care."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n3-0117",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "そう",
+  "display": "そう",
+  "meanings_zh": [
+    "那样",
+    "是",
+    "不错",
+    "那样地"
+  ],
+  "meanings_en": [
+    "so"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "本当にそう。",
+      "en": "You can't be so sure."
+    },
+    {
+      "ja": "晴れそうだ。",
+      "en": "The sky is likely to clear up."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

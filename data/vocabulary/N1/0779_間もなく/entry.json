@@ -1,0 +1,35 @@
+{
+  "id": "n1-0779",
+  "jlpt": "N1",
+  "kanji": "間もなく",
+  "kana": "まもなく",
+  "display": "間もなく",
+  "meanings_zh": [],
+  "meanings_en": [
+    "soon",
+    "before long",
+    "in a short time"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "間もなく日没だ。",
+      "en": "The sunset is soon."
+    },
+    {
+      "ja": "彼は間もなくよくなった。",
+      "en": "It was not long before he got well."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

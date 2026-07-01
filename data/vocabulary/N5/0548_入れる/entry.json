@@ -1,0 +1,38 @@
+{
+  "id": "n5-0548",
+  "jlpt": "N5",
+  "kanji": "入れる",
+  "kana": "いれる",
+  "display": "入れる",
+  "meanings_zh": [
+    "装进",
+    "放入",
+    "送进",
+    "收容"
+  ],
+  "meanings_en": [
+    "to put in"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "氷は入れる？",
+      "en": "Would you like ice?"
+    },
+    {
+      "ja": "風呂に湯を入れる。",
+      "en": "Run hot water into the bath."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

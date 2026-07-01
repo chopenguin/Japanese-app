@@ -1,0 +1,37 @@
+{
+  "id": "n1-0820",
+  "jlpt": "N1",
+  "kanji": "期日",
+  "kana": "きじつ",
+  "display": "期日",
+  "meanings_zh": [
+    "日期",
+    "期限"
+  ],
+  "meanings_en": [
+    "fixed date",
+    "settlement date"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "試験期日を照会してみる必要がある。",
+      "en": "We need to make inquiries about the date of the examination."
+    },
+    {
+      "ja": "お支払いの期日を二ヶ月間延長していただけませんでしょうか。",
+      "en": "May we therefore ask you for a two months' extension of credit?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

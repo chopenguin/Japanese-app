@@ -1,0 +1,38 @@
+{
+  "id": "n4-0023",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "うん",
+  "display": "うん",
+  "meanings_zh": [
+    "嗯",
+    "哦",
+    "喔",
+    "哼"
+  ],
+  "meanings_en": [
+    "(informal) yes"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "うん、君は？",
+      "en": "Fine. And you?"
+    },
+    {
+      "ja": "どう違うんだ？",
+      "en": "What's the difference?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

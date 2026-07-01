@@ -1,0 +1,29 @@
+{
+  "id": "n1-2043",
+  "jlpt": "N1",
+  "kanji": "赤らむ",
+  "kana": "あからむ",
+  "display": "赤らむ",
+  "meanings_zh": [
+    "变红",
+    "红起来"
+  ],
+  "meanings_en": [
+    "to become red",
+    "to redden",
+    "to blush"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

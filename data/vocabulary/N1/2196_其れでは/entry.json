@@ -1,0 +1,30 @@
+{
+  "id": "n1-2196",
+  "jlpt": "N1",
+  "kanji": "其れでは",
+  "kana": "それでは",
+  "display": "其れでは",
+  "meanings_zh": [
+    "那么",
+    "那么说",
+    "那就",
+    "如果是那样"
+  ],
+  "meanings_en": [
+    "in that situation",
+    "well then ..."
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

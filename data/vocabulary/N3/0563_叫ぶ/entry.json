@@ -1,0 +1,38 @@
+{
+  "id": "n3-0563",
+  "jlpt": "N3",
+  "kanji": "叫ぶ",
+  "kana": "さけぶ",
+  "display": "叫ぶ",
+  "meanings_zh": [
+    "大声叫",
+    "喊叫",
+    "呼喊"
+  ],
+  "meanings_en": [
+    "to shout",
+    "to cry"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "野原で叫ぶ声がした。",
+      "en": "There was a voice crying in the field."
+    },
+    {
+      "ja": "彼女が叫ぶのを聞いた。",
+      "en": "We heard her cry."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

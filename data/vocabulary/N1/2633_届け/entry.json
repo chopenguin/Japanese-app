@@ -1,0 +1,39 @@
+{
+  "id": "n1-2633",
+  "jlpt": "N1",
+  "kanji": "届け",
+  "kana": "とどけ",
+  "display": "届け",
+  "meanings_zh": [
+    "报告",
+    "申请",
+    "假条"
+  ],
+  "meanings_en": [
+    "report",
+    "notification",
+    "registration"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "家に届けていただけますか。",
+      "en": "Can you deliver it to my house?"
+    },
+    {
+      "ja": "1週間以内にお届けします。",
+      "en": "We are able to deliver within a week."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

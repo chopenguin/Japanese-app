@@ -1,0 +1,36 @@
+{
+  "id": "n2-0868",
+  "jlpt": "N2",
+  "kanji": "煮える",
+  "kana": "にえる",
+  "display": "煮える",
+  "meanings_zh": [
+    "煮",
+    "煮熟",
+    "煮烂",
+    "烧开"
+  ],
+  "meanings_en": [
+    "to boil",
+    "to cook",
+    "to be cooked"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "タマネギはジャガイモよりはやく煮える。",
+      "en": "Onions cook more quickly than potatoes."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

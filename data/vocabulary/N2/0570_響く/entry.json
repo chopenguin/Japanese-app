@@ -1,0 +1,38 @@
+{
+  "id": "n2-0570",
+  "jlpt": "N2",
+  "kanji": "響く",
+  "kana": "ひびく",
+  "display": "響く",
+  "meanings_zh": [
+    "响",
+    "发出回音",
+    "有回响",
+    "震响"
+  ],
+  "meanings_en": [
+    "to resound"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はいいね。打てば響くようにすぐ動いてくれるよ。",
+      "en": "He's a good kid - very quick on the uptake and he does whatever needs to be done."
+    },
+    {
+      "ja": "シンと静まった部室。響くのは、クロッキー帳に擦れる鉛筆の音だけ。",
+      "en": "The club room returned to quiet. All that could be heard was the sound of pencil on sketchpad."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

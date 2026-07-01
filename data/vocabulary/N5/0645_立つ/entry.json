@@ -1,0 +1,38 @@
+{
+  "id": "n5-0645",
+  "jlpt": "N5",
+  "kanji": "立つ",
+  "kana": "たつ",
+  "display": "立つ",
+  "meanings_zh": [
+    "立",
+    "站",
+    "冒",
+    "升"
+  ],
+  "meanings_en": [
+    "to stand"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "林に竹が目立つ。",
+      "en": "Bamboo stands out in the woods."
+    },
+    {
+      "ja": "役に立つはずだ。",
+      "en": "That ought to help."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

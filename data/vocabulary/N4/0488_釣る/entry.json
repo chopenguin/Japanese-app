@@ -1,0 +1,34 @@
+{
+  "id": "n4-0488",
+  "jlpt": "N4",
+  "kanji": "釣る",
+  "kana": "つる",
+  "display": "釣る",
+  "meanings_zh": [
+    "钓",
+    "勾引",
+    "引诱",
+    "诱骗"
+  ],
+  "meanings_en": [
+    "to fish"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "海老で鯛を釣る。",
+      "en": "Throw a sprat to catch a whale."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

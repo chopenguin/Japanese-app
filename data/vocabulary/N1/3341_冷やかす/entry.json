@@ -1,0 +1,38 @@
+{
+  "id": "n1-3341",
+  "jlpt": "N1",
+  "kanji": "冷やかす",
+  "kana": "ひやかす",
+  "display": "冷やかす",
+  "meanings_zh": [
+    "镇",
+    "冷却",
+    "使～～凉",
+    "嘲弄"
+  ],
+  "meanings_en": [
+    "to banter",
+    "to make fun of",
+    "to jeer at",
+    "to cool",
+    "to refrigerate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "人前で彼を冷やかすなんて君は意地悪だ。",
+      "en": "It is mean of you to ridicule him in public."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

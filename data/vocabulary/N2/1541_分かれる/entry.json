@@ -1,0 +1,44 @@
+{
+  "id": "n2-1541",
+  "jlpt": "N2",
+  "kanji": "分かれる",
+  "kana": "わかれる",
+  "display": "分かれる",
+  "meanings_zh": [
+    "分开",
+    "分歧",
+    "区分",
+    "划分"
+  ],
+  "meanings_en": [
+    "to branch off",
+    "to diverge from",
+    "to fork",
+    "to split",
+    "to dispense",
+    "to scatter",
+    "to divide into"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "シェイクスピアの劇は四期に分かれる。",
+      "en": "The plays of Shakespeare fall into four periods."
+    },
+    {
+      "ja": "道が２つの小道に分かれるところへ来た。",
+      "en": "We came to a place where the road branched into two lanes."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

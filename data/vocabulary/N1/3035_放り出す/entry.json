@@ -1,0 +1,39 @@
+{
+  "id": "n1-3035",
+  "jlpt": "N1",
+  "kanji": "放り出す",
+  "kana": "ほうりだす",
+  "display": "放り出す",
+  "meanings_zh": [
+    "抛出去",
+    "扔出去",
+    "放弃",
+    "丢开"
+  ],
+  "meanings_en": [
+    "to throw out",
+    "to fire",
+    "to expel",
+    "to give up",
+    "to abandon",
+    "to neglect"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "静かにしていろ。さもないとここから放り出すぞ。",
+      "en": "Keep silent, or I will throw you out of here."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

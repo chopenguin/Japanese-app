@@ -1,0 +1,38 @@
+{
+  "id": "n5-0444",
+  "jlpt": "N5",
+  "kanji": "青い",
+  "kana": "あおい",
+  "display": "青い",
+  "meanings_zh": [
+    "青",
+    "蓝",
+    "绿",
+    "发青"
+  ],
+  "meanings_en": [
+    "blue"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "顔が青いよ。",
+      "en": "You look pale."
+    },
+    {
+      "ja": "彼らは青い。",
+      "en": "They're green."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

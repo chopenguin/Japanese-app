@@ -1,0 +1,38 @@
+{
+  "id": "n2-1442",
+  "jlpt": "N2",
+  "kanji": "納める",
+  "kana": "おさめる",
+  "display": "納める",
+  "meanings_zh": [
+    "缴纳",
+    "交纳",
+    "献纳",
+    "卖给"
+  ],
+  "meanings_en": [
+    "to obtain",
+    "to reap",
+    "to pay",
+    "to supply",
+    "to accept"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "税金を納めるのは私たちの義務だと思っています。",
+      "en": "We think that it's our duty to pay taxes."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

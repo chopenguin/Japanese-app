@@ -1,0 +1,36 @@
+{
+  "id": "n1-2740",
+  "jlpt": "N1",
+  "kanji": "売れ行き",
+  "kana": "うれゆき",
+  "display": "売れ行き",
+  "meanings_zh": [
+    "销路",
+    "销售"
+  ],
+  "meanings_en": [
+    "sales"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "料理本は売れ行きがいいよ。",
+      "en": "Cookbooks sell well."
+    },
+    {
+      "ja": "売れ行きはものすごく活発だ。",
+      "en": "Sales are amazingly brisk."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

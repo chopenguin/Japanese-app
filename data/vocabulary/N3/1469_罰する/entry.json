@@ -1,0 +1,39 @@
+{
+  "id": "n3-1469",
+  "jlpt": "N3",
+  "kanji": "罰する",
+  "kana": "ばっする",
+  "display": "罰する",
+  "meanings_zh": [
+    "处罚",
+    "责罚",
+    "惩罚",
+    "处分"
+  ],
+  "meanings_en": [
+    "to punish",
+    "to penalize"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "罪に比例して罰するべきだ。",
+      "en": "The punishment should be in proportion to the crime."
+    },
+    {
+      "ja": "君が彼を罰するのは筋違いだと思った。",
+      "en": "We thought it wrong that you should punish him."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

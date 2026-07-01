@@ -1,0 +1,32 @@
+{
+  "id": "n1-2715",
+  "jlpt": "N1",
+  "kanji": "廃れる",
+  "kana": "すたれる",
+  "display": "廃れる",
+  "meanings_zh": [
+    "成为废物",
+    "变成无用",
+    "废除",
+    "过时"
+  ],
+  "meanings_en": [
+    "to go out of use",
+    "to become obsolete",
+    "to die out",
+    "to go out of fashion"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

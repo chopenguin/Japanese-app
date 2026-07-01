@@ -1,0 +1,38 @@
+{
+  "id": "n2-0212",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ばね",
+  "display": "ばね",
+  "meanings_zh": [
+    "发条",
+    "弹簧",
+    "弹力"
+  ],
+  "meanings_en": [
+    "spring (e.g. coil",
+    "leaf)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "雪さえ降らなければね！",
+      "en": "As long as it doesn't snow!"
+    },
+    {
+      "ja": "ねばねばした鼻汁です。",
+      "en": "The mucus is thick."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

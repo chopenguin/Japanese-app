@@ -1,0 +1,41 @@
+{
+  "id": "n3-1747",
+  "jlpt": "N3",
+  "kanji": "流れる",
+  "kana": "ながれる",
+  "display": "流れる",
+  "meanings_zh": [
+    "流",
+    "流动",
+    "漂动",
+    "传播"
+  ],
+  "meanings_en": [
+    "to stream",
+    "to flow",
+    "to run (ink)",
+    "to be washed away"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "水は低きに流れる。",
+      "en": "Water finds its own level."
+    },
+    {
+      "ja": "流れる水は腐らず。",
+      "en": "Flowing water does not stagnate."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

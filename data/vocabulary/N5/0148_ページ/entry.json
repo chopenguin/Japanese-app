@@ -1,0 +1,35 @@
+{
+  "id": "n5-0148",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ページ",
+  "display": "ページ",
+  "meanings_zh": [
+    "页"
+  ],
+  "meanings_en": [
+    "page"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "１ページ足りない。",
+      "en": "There is a page missing."
+    },
+    {
+      "ja": "30ページからね。",
+      "en": "We'll start on page 30."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

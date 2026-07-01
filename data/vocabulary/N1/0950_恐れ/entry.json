@@ -1,0 +1,38 @@
+{
+  "id": "n1-0950",
+  "jlpt": "N1",
+  "kanji": "恐れ",
+  "kana": "おそれ",
+  "display": "恐れ",
+  "meanings_zh": [
+    "畏惧",
+    "害怕",
+    "恐惧"
+  ],
+  "meanings_en": [
+    "fear",
+    "horror"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "恐れ入ります。",
+      "en": "Excuse me."
+    },
+    {
+      "ja": "失敗を恐れるな。",
+      "en": "Don't be afraid of making mistakes."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

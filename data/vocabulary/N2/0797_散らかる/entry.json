@@ -1,0 +1,29 @@
+{
+  "id": "n2-0797",
+  "jlpt": "N2",
+  "kanji": "散らかる",
+  "kana": "ちらかる",
+  "display": "散らかる",
+  "meanings_zh": [
+    "零乱",
+    "放得乱七八糟",
+    "到处都是～～"
+  ],
+  "meanings_en": [
+    "to be in disorder",
+    "to lie scattered around"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

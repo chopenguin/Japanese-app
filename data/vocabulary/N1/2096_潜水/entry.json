@@ -1,0 +1,35 @@
+{
+  "id": "n1-2096",
+  "jlpt": "N1",
+  "kanji": "潜水",
+  "kana": "せんすい",
+  "display": "潜水",
+  "meanings_zh": [
+    "潜水"
+  ],
+  "meanings_en": [
+    "diving"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "潜水して泳げるかい。",
+      "en": "Can you swim underwater?"
+    },
+    {
+      "ja": "潜水艦は沈んで二度と浮上しなかった。",
+      "en": "The submarine sank, never to rise again."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

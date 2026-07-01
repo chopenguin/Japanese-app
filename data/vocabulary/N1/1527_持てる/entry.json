@@ -1,0 +1,39 @@
+{
+  "id": "n1-1527",
+  "jlpt": "N1",
+  "kanji": "持てる",
+  "kana": "もてる",
+  "display": "持てる",
+  "meanings_zh": [
+    "能拿",
+    "能有",
+    "能保持",
+    "受欢迎"
+  ],
+  "meanings_en": [
+    "to be well liked",
+    "to be popular"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "誰でも車が持てるわけではない。",
+      "en": "Not everyone can afford a car."
+    },
+    {
+      "ja": "その箱は子供が持てるほど軽い。",
+      "en": "The box is light enough for a child to carry."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

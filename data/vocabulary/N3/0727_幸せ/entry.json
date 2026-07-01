@@ -1,0 +1,41 @@
+{
+  "id": "n3-0727",
+  "jlpt": "N3",
+  "kanji": "幸せ",
+  "kana": "しあわせ",
+  "display": "幸せ",
+  "meanings_zh": [
+    "运气",
+    "侥幸",
+    "幸福",
+    "幸运"
+  ],
+  "meanings_en": [
+    "happiness",
+    "good fortune",
+    "luck",
+    "blessing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は幸せだ。",
+      "en": "He is happy."
+    },
+    {
+      "ja": "私は幸せだ。",
+      "en": "I feel happy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

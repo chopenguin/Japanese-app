@@ -1,0 +1,41 @@
+{
+  "id": "n1-2325",
+  "jlpt": "N1",
+  "kanji": "鍛える",
+  "kana": "きたえる",
+  "display": "鍛える",
+  "meanings_zh": [
+    "锻",
+    "锤炼",
+    "锻炼"
+  ],
+  "meanings_en": [
+    "to forge",
+    "to drill",
+    "to temper",
+    "to train",
+    "to discipline"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "運動が筋肉を鍛える。",
+      "en": "Exercise trains the muscles."
+    },
+    {
+      "ja": "体を鍛えるのが好きなんです。",
+      "en": "I like working out."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

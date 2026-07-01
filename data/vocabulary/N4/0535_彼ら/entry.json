@@ -1,0 +1,33 @@
+{
+  "id": "n4-0535",
+  "jlpt": "N4",
+  "kanji": "彼ら",
+  "kana": "かれら",
+  "display": "彼ら",
+  "meanings_zh": [],
+  "meanings_en": [
+    "they"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らは青い。",
+      "en": "They're green."
+    },
+    {
+      "ja": "彼らは勝った。",
+      "en": "They won the day."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

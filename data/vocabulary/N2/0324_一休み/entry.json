@@ -1,0 +1,36 @@
+{
+  "id": "n2-0324",
+  "jlpt": "N2",
+  "kanji": "一休み",
+  "kana": "ひとやすみ",
+  "display": "一休み",
+  "meanings_zh": [
+    "休息片刻",
+    "歇一会儿"
+  ],
+  "meanings_en": [
+    "a rest"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "一休みしよう。",
+      "en": "Let's take a rest."
+    },
+    {
+      "ja": "一休みしませんか。",
+      "en": "How about taking a rest?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

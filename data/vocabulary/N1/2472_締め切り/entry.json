@@ -1,0 +1,43 @@
+{
+  "id": "n1-2472",
+  "jlpt": "N1",
+  "kanji": "締め切り",
+  "kana": "しめきり",
+  "display": "締め切り",
+  "meanings_zh": [
+    "截止",
+    "届满",
+    "封死",
+    "封闭"
+  ],
+  "meanings_en": [
+    "closing",
+    "cut-off",
+    "end",
+    "deadline",
+    "Closed",
+    "No Entrance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "締め切りはいつですか？",
+      "en": "When is the deadline?"
+    },
+    {
+      "ja": "締め切りは今日の2時半です。",
+      "en": "The deadline is today at 2:30."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

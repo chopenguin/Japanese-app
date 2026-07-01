@@ -1,0 +1,33 @@
+{
+  "id": "n4-0165",
+  "jlpt": "N4",
+  "kanji": "一生懸命",
+  "kana": "いっしょうけんめい",
+  "display": "一生懸命",
+  "meanings_zh": [],
+  "meanings_en": [
+    "with utmost effort"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "一生懸命働いた。",
+      "en": "He worked hard."
+    },
+    {
+      "ja": "一生懸命走った。",
+      "en": "I ran as fast as I could."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

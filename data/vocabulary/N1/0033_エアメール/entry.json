@@ -1,0 +1,36 @@
+{
+  "id": "n1-0033",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "エアメール",
+  "display": "エアメール",
+  "meanings_zh": [
+    "航空邮件",
+    "航空信"
+  ],
+  "meanings_en": [
+    "air mail"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は手紙をエアメールした。",
+      "en": "She sent the letter by airmail."
+    },
+    {
+      "ja": "エアメールだといくらですか？",
+      "en": "What's the airmail rate?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

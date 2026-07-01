@@ -1,0 +1,41 @@
+{
+  "id": "n1-2111",
+  "jlpt": "N1",
+  "kanji": "善し悪し",
+  "kana": "よしあし",
+  "display": "善し悪し",
+  "meanings_zh": [
+    "善恶",
+    "好歹",
+    "好坏",
+    "很难说是好是坏"
+  ],
+  "meanings_en": [
+    "good or bad",
+    "merits or demerits",
+    "quality",
+    "suitability"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女には事の善し悪しがわからない。",
+      "en": "She can't tell the good from the bad."
+    },
+    {
+      "ja": "彼は馬の善し悪しを見る目は確かだ。",
+      "en": "He is a good judge of horses."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

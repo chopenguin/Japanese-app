@@ -1,0 +1,38 @@
+{
+  "id": "n3-0807",
+  "jlpt": "N3",
+  "kanji": "殺す",
+  "kana": "ころす",
+  "display": "殺す",
+  "meanings_zh": [
+    "杀死",
+    "致死",
+    "弄死",
+    "宰"
+  ],
+  "meanings_en": [
+    "to kill"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "寸鉄人を殺す。",
+      "en": "The tongue stings."
+    },
+    {
+      "ja": "汝殺すなかれ。",
+      "en": "Thou shalt not kill."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

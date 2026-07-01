@@ -1,0 +1,39 @@
+{
+  "id": "n3-0369",
+  "jlpt": "N3",
+  "kanji": "何でも",
+  "kana": "なんでも",
+  "display": "何でも",
+  "meanings_zh": [
+    "不管什么",
+    "什么都～～",
+    "任何",
+    "无论怎样"
+  ],
+  "meanings_en": [
+    "by all means",
+    "everything"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何でもない。",
+      "en": "Never mind!"
+    },
+    {
+      "ja": "何が何でも！",
+      "en": "Whatever it takes!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

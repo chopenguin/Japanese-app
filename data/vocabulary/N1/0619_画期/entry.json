@@ -1,0 +1,33 @@
+{
+  "id": "n1-0619",
+  "jlpt": "N1",
+  "kanji": "画期",
+  "kana": "かっき",
+  "display": "画期",
+  "meanings_zh": [],
+  "meanings_en": [
+    "epoch-making"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "当時としちゃ画期的な発明だったね。",
+      "en": "It was a groundbreaking invention at the time."
+    },
+    {
+      "ja": "これは、画期的な発明だから教科書に載るかもよ。",
+      "en": "This invention is so revolutionary, it might make it into the textbooks."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

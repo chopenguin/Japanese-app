@@ -1,0 +1,47 @@
+{
+  "id": "n1-0268",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ぶらぶら",
+  "display": "ぶらぶら",
+  "meanings_zh": [
+    "(悬空的东西)摇晃",
+    "摆动",
+    "晃荡",
+    "溜达"
+  ],
+  "meanings_en": [
+    "dangle heavily",
+    "swing",
+    "sway to and fro",
+    "aimlessly",
+    "idly",
+    "lazily",
+    "loiter",
+    "loaf",
+    "be idle",
+    "stroll idly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "暇潰しに街をぶらぶらした。",
+      "en": "I strolled along the streets to kill time."
+    },
+    {
+      "ja": "ぶらぶら寄り道していこうよ。",
+      "en": "Let's just wander and see where it takes us."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

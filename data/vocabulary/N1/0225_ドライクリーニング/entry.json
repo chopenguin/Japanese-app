@@ -1,0 +1,29 @@
+{
+  "id": "n1-0225",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ドライクリーニング",
+  "display": "ドライクリーニング",
+  "meanings_zh": [],
+  "meanings_en": [
+    "dry cleaning"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "タールがどうしても落ちない。このスカートはドライクリーニングに出さなきゃならないだろう。",
+      "en": "The tar won't come off. I'm going to have to take this skirt to the dry cleaner."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

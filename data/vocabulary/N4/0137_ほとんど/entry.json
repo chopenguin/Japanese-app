@@ -1,0 +1,33 @@
+{
+  "id": "n4-0137",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ほとんど",
+  "display": "ほとんど",
+  "meanings_zh": [],
+  "meanings_en": [
+    "mostly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "本はほとんどない。",
+      "en": "They have few books."
+    },
+    {
+      "ja": "ほとんど話せない。",
+      "en": "She can hardly speak."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

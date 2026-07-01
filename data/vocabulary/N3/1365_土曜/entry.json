@@ -1,0 +1,33 @@
+{
+  "id": "n3-1365",
+  "jlpt": "N3",
+  "kanji": "土曜",
+  "kana": "どよう",
+  "display": "土曜",
+  "meanings_zh": [],
+  "meanings_en": [
+    "Saturday"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "土曜日だよ。",
+      "en": "It is Saturday."
+    },
+    {
+      "ja": "土曜の夜だった。",
+      "en": "It was Saturday night."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

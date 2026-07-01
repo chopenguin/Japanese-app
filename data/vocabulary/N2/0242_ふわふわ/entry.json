@@ -1,0 +1,39 @@
+{
+  "id": "n2-0242",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ふわふわ",
+  "display": "ふわふわ",
+  "meanings_zh": [
+    "轻飘飘",
+    "不沉着",
+    "暄暄",
+    "暄腾腾"
+  ],
+  "meanings_en": [
+    "light",
+    "soft"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "羊の毛は、ふわふわです。",
+      "en": "Sheep wool is fluffy."
+    },
+    {
+      "ja": "雪は柔らかくてふわふわしてた。",
+      "en": "The snow was soft and fluffy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

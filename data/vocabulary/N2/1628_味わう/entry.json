@@ -1,0 +1,40 @@
+{
+  "id": "n2-1628",
+  "jlpt": "N2",
+  "kanji": "味わう",
+  "kana": "あじわう",
+  "display": "味わう",
+  "meanings_zh": [
+    "尝",
+    "品味",
+    "玩味",
+    "鉴赏"
+  ],
+  "meanings_en": [
+    "to taste",
+    "to savor",
+    "to relish"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "鳥の囀りが聞こえる中、淹れたてのコーヒーを味わう。",
+      "en": "As I hear the birds chirp away in the background, I take a sip of my freshly-brewed coffee."
+    },
+    {
+      "ja": "あの人たちは、スリルを味わうためだけにやってるんだよ。",
+      "en": "They do it just for the thrill of it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

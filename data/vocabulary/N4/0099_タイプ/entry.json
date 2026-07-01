@@ -1,0 +1,39 @@
+{
+  "id": "n4-0099",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "タイプ",
+  "display": "タイプ",
+  "meanings_zh": [
+    "型",
+    "型式",
+    "类型",
+    "打字"
+  ],
+  "meanings_en": [
+    "type",
+    "style"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼って私のタイプ！",
+      "en": "He is my type!"
+    },
+    {
+      "ja": "トムって、タイプ？",
+      "en": "Is Tom your type?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

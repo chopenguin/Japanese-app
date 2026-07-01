@@ -1,0 +1,41 @@
+{
+  "id": "n3-0533",
+  "jlpt": "N3",
+  "kanji": "逆らう",
+  "kana": "さからう",
+  "display": "逆らう",
+  "meanings_zh": [
+    "逆",
+    "反",
+    "违背",
+    "背逆"
+  ],
+  "meanings_en": [
+    "to go against",
+    "to oppose",
+    "to disobey",
+    "to defy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼に逆らうな。",
+      "en": "Don't oppose him."
+    },
+    {
+      "ja": "忠言耳に逆らう。",
+      "en": "Good advice grates on the ear."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

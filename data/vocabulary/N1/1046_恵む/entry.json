@@ -1,0 +1,30 @@
+{
+  "id": "n1-1046",
+  "jlpt": "N1",
+  "kanji": "恵む",
+  "kana": "めぐむ",
+  "display": "恵む",
+  "meanings_zh": [
+    "施恩惠",
+    "施舍",
+    "救济",
+    "怜恤"
+  ],
+  "meanings_en": [
+    "to bless",
+    "to show mercy to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

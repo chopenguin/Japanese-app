@@ -1,0 +1,34 @@
+{
+  "id": "n2-1354",
+  "jlpt": "N2",
+  "kanji": "点々",
+  "kana": "てんてん",
+  "display": "点々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "here and there",
+    "little by little"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "池に落ち葉が点々と浮かんでいた。",
+      "en": "The pond was dotted with fallen leaves."
+    },
+    {
+      "ja": "地図上のこの点々は何を表しているのですか。",
+      "en": "What do these dots represent on the map?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

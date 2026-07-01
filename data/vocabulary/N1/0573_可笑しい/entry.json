@@ -1,0 +1,37 @@
+{
+  "id": "n1-0573",
+  "jlpt": "N1",
+  "kanji": "可笑しい",
+  "kana": "おかしい",
+  "display": "可笑しい",
+  "meanings_zh": [
+    "可笑",
+    "滑稽",
+    "奇怪",
+    "不正常"
+  ],
+  "meanings_en": [
+    "strange",
+    "funny",
+    "amusing",
+    "ridiculous"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "一日中勃ちっぱなしっていうのは、やっぱり可笑しいよね。",
+      "en": "After all, having an erection the entire day is strange, isn't it?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

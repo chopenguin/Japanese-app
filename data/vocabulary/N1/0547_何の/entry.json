@@ -1,0 +1,39 @@
+{
+  "id": "n1-0547",
+  "jlpt": "N1",
+  "kanji": "何の",
+  "kana": "どの",
+  "display": "何の",
+  "meanings_zh": [
+    "什么",
+    "多少",
+    "几许",
+    "什么的"
+  ],
+  "meanings_en": [
+    "which",
+    "what"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何のために？",
+      "en": "For what?"
+    },
+    {
+      "ja": "今の何の音？",
+      "en": "What was that sound?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

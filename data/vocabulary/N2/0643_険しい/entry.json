@@ -1,0 +1,39 @@
+{
+  "id": "n2-0643",
+  "jlpt": "N2",
+  "kanji": "険しい",
+  "kana": "けわしい",
+  "display": "険しい",
+  "meanings_zh": [
+    "险峻",
+    "陡峭",
+    "崎岖",
+    "险恶"
+  ],
+  "meanings_en": [
+    "inaccessible place",
+    "sharp eyes"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らは険しい北面を登った。",
+      "en": "They climbed the rugged north face."
+    },
+    {
+      "ja": "私たちは険しい山を登った。",
+      "en": "We climbed up the steep mountain."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

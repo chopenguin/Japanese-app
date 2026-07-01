@@ -1,0 +1,38 @@
+{
+  "id": "n5-0388",
+  "jlpt": "N5",
+  "kanji": "取る",
+  "kana": "とる",
+  "display": "取る",
+  "meanings_zh": [
+    "拿",
+    "取",
+    "执",
+    "握"
+  ],
+  "meanings_en": [
+    "to take something"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "どっち取る？",
+      "en": "Which one do you take?"
+    },
+    {
+      "ja": "出席を取るぞ。",
+      "en": "I'll take attendance."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n4-0081",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "すっかり",
+  "display": "すっかり",
+  "meanings_zh": [
+    "全",
+    "都",
+    "全都",
+    "完全"
+  ],
+  "meanings_en": [
+    "completely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "すっかり忘れたよ。",
+      "en": "I've clean forgotten."
+    },
+    {
+      "ja": "すっかり忘れてた。",
+      "en": "I completely forgot it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

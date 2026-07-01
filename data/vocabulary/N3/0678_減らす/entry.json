@@ -1,0 +1,41 @@
+{
+  "id": "n3-0678",
+  "jlpt": "N3",
+  "kanji": "減らす",
+  "kana": "へらす",
+  "display": "減らす",
+  "meanings_zh": [
+    "减",
+    "减少",
+    "缩减",
+    "削减"
+  ],
+  "meanings_en": [
+    "to abate",
+    "to decrease",
+    "to diminish",
+    "to shorten"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "包装は腐敗を減らす。",
+      "en": "Food packaging reduces spoilage."
+    },
+    {
+      "ja": "体重を減らすのは簡単じゃないよ。",
+      "en": "It's not easy to lose weight."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

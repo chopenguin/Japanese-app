@@ -1,0 +1,38 @@
+{
+  "id": "n2-0268",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "めちゃくちゃ",
+  "display": "めちゃくちゃ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "absurd",
+    "unreasonable",
+    "excessive",
+    "messed up",
+    "spoiled",
+    "wreaked"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "髪がめちゃくちゃ。",
+      "en": "My hair is a mess."
+    },
+    {
+      "ja": "髪がめちゃくちゃ！！",
+      "en": "My hair is so messy!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

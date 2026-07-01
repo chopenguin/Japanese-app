@@ -1,0 +1,40 @@
+{
+  "id": "n3-0071",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "けち",
+  "display": "けち",
+  "meanings_zh": [
+    "吝啬",
+    "小气",
+    "卑鄙",
+    "下贱"
+  ],
+  "meanings_en": [
+    "stinginess",
+    "miser",
+    "miserliness"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はとてもけちだ。",
+      "en": "He is very stingy with his money."
+    },
+    {
+      "ja": "雪がとけちゃった。",
+      "en": "The snow melted."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

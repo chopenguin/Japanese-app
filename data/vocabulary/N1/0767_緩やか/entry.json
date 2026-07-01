@@ -1,0 +1,38 @@
+{
+  "id": "n1-0767",
+  "jlpt": "N1",
+  "kanji": "緩やか",
+  "kana": "ゆるやか",
+  "display": "緩やか",
+  "meanings_zh": [
+    "缓慢",
+    "缓和",
+    "宽松",
+    "宽大"
+  ],
+  "meanings_en": [
+    "lenient"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この学校は規律がやや緩やかだ。",
+      "en": "Discipline is rather mild at this school."
+    },
+    {
+      "ja": "その道は緩やかに西にカーブしている。",
+      "en": "The road curves gently towards the west."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

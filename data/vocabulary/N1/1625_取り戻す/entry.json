@@ -1,0 +1,39 @@
+{
+  "id": "n1-1625",
+  "jlpt": "N1",
+  "kanji": "取り戻す",
+  "kana": "とりもどす",
+  "display": "取り戻す",
+  "meanings_zh": [
+    "取回",
+    "收回",
+    "拿回",
+    "挽回"
+  ],
+  "meanings_en": [
+    "to take back",
+    "to regain"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムから取り戻すよ。",
+      "en": "I will get it back from Tom."
+    },
+    {
+      "ja": "健康を取り戻すのに丸一年かかった。",
+      "en": "It took me a whole year to recover my health."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

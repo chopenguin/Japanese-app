@@ -1,0 +1,34 @@
+{
+  "id": "n1-2713",
+  "jlpt": "N1",
+  "kanji": "馬鹿らしい",
+  "kana": "ばからしい",
+  "display": "馬鹿らしい",
+  "meanings_zh": [
+    "愚蠢",
+    "无聊",
+    "不值得",
+    "划不来"
+  ],
+  "meanings_en": [
+    "absurd"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は馬鹿らしい質問をされていらいらした。",
+      "en": "She got rattled by the stupid question."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

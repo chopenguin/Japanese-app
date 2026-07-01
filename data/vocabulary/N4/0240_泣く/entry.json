@@ -1,0 +1,38 @@
+{
+  "id": "n4-0240",
+  "jlpt": "N4",
+  "kanji": "泣く",
+  "kana": "なく",
+  "display": "泣く",
+  "meanings_zh": [
+    "哭",
+    "啼哭",
+    "哭泣",
+    "感觉为难"
+  ],
+  "meanings_en": [
+    "to weep"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "泣くもんか。",
+      "en": "I won't cry."
+    },
+    {
+      "ja": "外で泣くな。",
+      "en": "Don't cry in public."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

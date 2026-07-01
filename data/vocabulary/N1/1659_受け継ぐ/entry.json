@@ -1,0 +1,38 @@
+{
+  "id": "n1-1659",
+  "jlpt": "N1",
+  "kanji": "受け継ぐ",
+  "kana": "うけつぐ",
+  "display": "受け継ぐ",
+  "meanings_zh": [
+    "继承",
+    "承继"
+  ],
+  "meanings_en": [
+    "to inherit",
+    "to succeed",
+    "to take over"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はその財産を受け継ぐ資格はない。",
+      "en": "He has no claim to the property."
+    },
+    {
+      "ja": "私が父の事業を受け継ぐことになっている。",
+      "en": "I am to take over my father's business."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

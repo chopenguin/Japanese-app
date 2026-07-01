@@ -1,0 +1,38 @@
+{
+  "id": "n1-0601",
+  "jlpt": "N1",
+  "kanji": "荷造り",
+  "kana": "にづくり",
+  "display": "荷造り",
+  "meanings_zh": [
+    "捆行李",
+    "包装"
+  ],
+  "meanings_en": [
+    "packing",
+    "baling",
+    "crating"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "荷造りできてる？",
+      "en": "Are your bags packed?"
+    },
+    {
+      "ja": "バッグを荷造りなさい。",
+      "en": "Pack your bags."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

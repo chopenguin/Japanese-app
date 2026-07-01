@@ -1,0 +1,37 @@
+{
+  "id": "n1-3236",
+  "jlpt": "N1",
+  "kanji": "夕暮れ",
+  "kana": "ゆうぐれ",
+  "display": "夕暮れ",
+  "meanings_zh": [
+    "黄昏",
+    "傍晚"
+  ],
+  "meanings_en": [
+    "evening",
+    "(evening) twilight"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "夕暮れが谷間に迫っていた。",
+      "en": "Evening was closing in on the valley."
+    },
+    {
+      "ja": "もう、夕暮れのようである。",
+      "en": "It already appears to be dusk."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

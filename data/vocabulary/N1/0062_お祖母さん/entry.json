@@ -1,0 +1,39 @@
+{
+  "id": "n1-0062",
+  "jlpt": "N1",
+  "kanji": "お祖母さん",
+  "kana": "おばあさん",
+  "display": "お祖母さん",
+  "meanings_zh": [
+    "祖母",
+    "奶奶",
+    "外祖母",
+    "外婆"
+  ],
+  "meanings_en": [
+    "grandmother",
+    "female senior-citizen"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お祖母さんの昔話は耳にたこができるほど聞かされた。",
+      "en": "I've heard my grandma's stories so often that I'm heartily sick of them."
+    },
+    {
+      "ja": "お祖母さんが座布団の上にちんまりとすわっていました。",
+      "en": "The old woman was snugly sitting on a cushion."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

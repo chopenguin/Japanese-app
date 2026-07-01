@@ -1,0 +1,39 @@
+{
+  "id": "n3-0549",
+  "jlpt": "N3",
+  "kanji": "去る",
+  "kana": "さる",
+  "display": "去る",
+  "meanings_zh": [
+    "离去",
+    "离开",
+    "过去",
+    "经过"
+  ],
+  "meanings_en": [
+    "to leave",
+    "to go away"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "時は飛び去る。",
+      "en": "Time flies."
+    },
+    {
+      "ja": "何で早めに去るの？",
+      "en": "Why are you leaving early?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

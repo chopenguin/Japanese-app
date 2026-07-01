@@ -1,0 +1,35 @@
+{
+  "id": "n1-2016",
+  "jlpt": "N1",
+  "kanji": "生臭い",
+  "kana": "なまぐさい",
+  "display": "生臭い",
+  "meanings_zh": [
+    "腥",
+    "膻",
+    "腥臊",
+    "血腥"
+  ],
+  "meanings_en": [
+    "smelling of fish or blood",
+    "fish or meat"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "まな板が生臭いです。",
+      "en": "The chopping board smells fishy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

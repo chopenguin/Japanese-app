@@ -1,0 +1,40 @@
+{
+  "id": "n3-1542",
+  "jlpt": "N3",
+  "kanji": "負け",
+  "kana": "まけ",
+  "display": "負け",
+  "meanings_zh": [
+    "输",
+    "败",
+    "败北",
+    "减价"
+  ],
+  "meanings_en": [
+    "defeat",
+    "loss",
+    "losing (a game)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私の負けだ。",
+      "en": "I give in."
+    },
+    {
+      "ja": "負けるが勝ち。",
+      "en": "When you lose, you actually win."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

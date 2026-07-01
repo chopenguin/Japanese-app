@@ -1,0 +1,39 @@
+{
+  "id": "n1-0194",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "たった",
+  "display": "たった",
+  "meanings_zh": [
+    "只",
+    "仅"
+  ],
+  "meanings_en": [
+    "only",
+    "merely",
+    "but",
+    "no more than"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "暑さにあたった。",
+      "en": "I was affected by the summer heat."
+    },
+    {
+      "ja": "１０日間たった。",
+      "en": "Ten days passed by."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

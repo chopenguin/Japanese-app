@@ -1,0 +1,35 @@
+{
+  "id": "n4-0105",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ちゃん",
+  "display": "ちゃん",
+  "meanings_zh": [
+    "爹"
+  ],
+  "meanings_en": [
+    "suffix for familiar female person"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ちゃんとやって。",
+      "en": "Do it right."
+    },
+    {
+      "ja": "ちゃんと座ってろ。",
+      "en": "Sit tight."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

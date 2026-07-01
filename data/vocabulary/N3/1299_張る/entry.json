@@ -1,0 +1,39 @@
+{
+  "id": "n3-1299",
+  "jlpt": "N3",
+  "kanji": "張る",
+  "kana": "はる",
+  "display": "張る",
+  "meanings_zh": [
+    "伸展",
+    "展开",
+    "复盖",
+    "紧张"
+  ],
+  "meanings_en": [
+    "to stick",
+    "to paste"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "引っ張るぞ。",
+      "en": "We're going to pull it."
+    },
+    {
+      "ja": "言い張るな。",
+      "en": "Don't insist."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

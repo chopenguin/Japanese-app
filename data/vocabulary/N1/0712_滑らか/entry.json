@@ -1,0 +1,39 @@
+{
+  "id": "n1-0712",
+  "jlpt": "N1",
+  "kanji": "滑らか",
+  "kana": "なめらか",
+  "display": "滑らか",
+  "meanings_zh": [
+    "光滑",
+    "滑溜",
+    "平滑",
+    "滑润"
+  ],
+  "meanings_en": [
+    "smoothness",
+    "glassiness"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女の肌は滑らかです。",
+      "en": "Her skin is smooth."
+    },
+    {
+      "ja": "車は滑らかに止まった。",
+      "en": "The car came to a smooth stop."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

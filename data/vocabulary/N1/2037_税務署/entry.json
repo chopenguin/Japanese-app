@@ -1,0 +1,33 @@
+{
+  "id": "n1-2037",
+  "jlpt": "N1",
+  "kanji": "税務署",
+  "kana": "ぜいむしょ",
+  "display": "税務署",
+  "meanings_zh": [],
+  "meanings_en": [
+    "tax office"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "税務署は控除を認めた。",
+      "en": "The tax agent allowed the deduction."
+    },
+    {
+      "ja": "税務署は所得税の脱税に目をひからせています。",
+      "en": "Tax officials are zeroing in on income tax evasion."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

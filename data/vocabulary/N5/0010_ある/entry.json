@@ -1,0 +1,34 @@
+{
+  "id": "n5-0010",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ある",
+  "display": "ある",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to be",
+    "to have (used for inanimate objects)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "熱はあるの？",
+      "en": "Do you have a fever?"
+    },
+    {
+      "ja": "今携帯ある？",
+      "en": "Do you have your cell on you?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

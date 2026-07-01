@@ -1,0 +1,36 @@
+{
+  "id": "n2-1287",
+  "jlpt": "N2",
+  "kanji": "彫る",
+  "kana": "ほる",
+  "display": "彫る",
+  "meanings_zh": [
+    "雕刻",
+    "文身",
+    "鶦墨"
+  ],
+  "meanings_en": [
+    "to carve",
+    "to engrave",
+    "to sculpture",
+    "to chisel"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "「これ何？」「これは木を彫る道具で『彫刻刀』っていうんだよ」",
+      "en": "\"What's this?\" \"It's called a 'chisel', it's a tool used for carving wood.\""
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "n1-2198",
+  "jlpt": "N1",
+  "kanji": "其れに",
+  "kana": "それに",
+  "display": "其れに",
+  "meanings_zh": [
+    "更兼",
+    "而且"
+  ],
+  "meanings_en": [
+    "besides",
+    "moreover"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

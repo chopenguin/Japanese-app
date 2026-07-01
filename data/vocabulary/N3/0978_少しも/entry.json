@@ -1,0 +1,37 @@
+{
+  "id": "n3-0978",
+  "jlpt": "N3",
+  "kanji": "少しも",
+  "kana": "すこしも",
+  "display": "少しも",
+  "meanings_zh": [
+    "一点也～～",
+    "丝毫也～～"
+  ],
+  "meanings_en": [
+    "anything of",
+    "not one bit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "水が少しもない。",
+      "en": "There is no water."
+    },
+    {
+      "ja": "いいえ、少しも。",
+      "en": "Not at all."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

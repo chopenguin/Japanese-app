@@ -1,0 +1,38 @@
+{
+  "id": "n2-1738",
+  "jlpt": "N2",
+  "kanji": "略す",
+  "kana": "りゃくす",
+  "display": "略す",
+  "meanings_zh": [
+    "简略",
+    "省略",
+    "略去",
+    "夺取"
+  ],
+  "meanings_en": [
+    "to abbreviate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その文からこの言葉を省略すべきです。",
+      "en": "You should omit this word from the sentence."
+    },
+    {
+      "ja": "他国を侵略することは恥ずべき行為である。",
+      "en": "The invasion of other countries is a shameful action."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

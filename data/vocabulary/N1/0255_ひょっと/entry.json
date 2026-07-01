@@ -1,0 +1,38 @@
+{
+  "id": "n1-0255",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ひょっと",
+  "display": "ひょっと",
+  "meanings_zh": [
+    "忽然",
+    "突然",
+    "偶然"
+  ],
+  "meanings_en": [
+    "possibly",
+    "accidentally"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ひょっとして彼女と会ったの？",
+      "en": "Do you mean you met her!?"
+    },
+    {
+      "ja": "ひょっとしたら明日は雨かも。",
+      "en": "Perhaps it will rain tomorrow."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

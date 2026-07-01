@@ -1,0 +1,36 @@
+{
+  "id": "n5-0425",
+  "jlpt": "N5",
+  "kanji": "食べる",
+  "kana": "たべる",
+  "display": "食べる",
+  "meanings_zh": [
+    "吃",
+    "生活"
+  ],
+  "meanings_en": [
+    "to eat"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "魚を食べる。",
+      "en": "I eat fish."
+    },
+    {
+      "ja": "魚が食べる。",
+      "en": "A fish eats."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

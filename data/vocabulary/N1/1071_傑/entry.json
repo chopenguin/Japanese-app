@@ -1,0 +1,33 @@
+{
+  "id": "n1-1071",
+  "jlpt": "N1",
+  "kanji": "傑",
+  "kana": "けつ",
+  "display": "傑",
+  "meanings_zh": [],
+  "meanings_en": [
+    "excellence"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "まさに傑作だ。",
+      "en": "This is a masterpiece."
+    },
+    {
+      "ja": "この話は傑作だ。",
+      "en": "This conversation is a masterpiece."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

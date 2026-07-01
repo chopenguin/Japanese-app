@@ -1,0 +1,39 @@
+{
+  "id": "n1-0893",
+  "jlpt": "N1",
+  "kanji": "及び",
+  "kana": "および",
+  "display": "及び",
+  "meanings_zh": [
+    "和",
+    "及",
+    "与",
+    "以及"
+  ],
+  "meanings_en": [
+    "and",
+    "as well as"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "礼には及びません。",
+      "en": "Don't mention it."
+    },
+    {
+      "ja": "私の収入は彼のには及びもつかない。",
+      "en": "My income is a far cry from his."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n2-0117",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "サラリーマン",
+  "display": "サラリーマン",
+  "meanings_zh": [
+    "工薪人员",
+    "薪俸生活者",
+    "工资生活者",
+    "职员"
+  ],
+  "meanings_en": [
+    "salary man",
+    "company employee"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は普通のサラリーマンだ。",
+      "en": "He's just an ordinary office worker."
+    },
+    {
+      "ja": "私はしがないサラリーマンです。",
+      "en": "I'm just a plain old office worker."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

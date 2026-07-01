@@ -1,0 +1,34 @@
+{
+  "id": "n1-0853",
+  "jlpt": "N1",
+  "kanji": "貴女",
+  "kana": "あなた",
+  "display": "貴女",
+  "meanings_zh": [],
+  "meanings_en": [
+    "you",
+    "lady"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "貴女は、子供好きですね。",
+      "en": "You love children, don't you?"
+    },
+    {
+      "ja": "貴女に大怪我をさせられたせいで、この子の夏休みの予定は全部おじゃんになってしまったんですよ？",
+      "en": "Thanks to you getting him badly injured, all of that kid's summer plans came to nothing!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

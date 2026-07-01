@@ -1,0 +1,33 @@
+{
+  "id": "n1-0249",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "パトカー",
+  "display": "パトカー",
+  "meanings_zh": [],
+  "meanings_en": [
+    "patrol car"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "パトカーが必要です。",
+      "en": "I need a police car."
+    },
+    {
+      "ja": "トムはパトカーを盗んだ。",
+      "en": "Tom stole a police car."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

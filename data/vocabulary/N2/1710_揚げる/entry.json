@@ -1,0 +1,39 @@
+{
+  "id": "n2-1710",
+  "jlpt": "N2",
+  "kanji": "揚げる",
+  "kana": "あげる",
+  "display": "揚げる",
+  "meanings_zh": [
+    "放",
+    "悬",
+    "起",
+    "炸"
+  ],
+  "meanings_en": [
+    "to lift",
+    "to fry"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "得手に帆を揚げる。",
+      "en": "Hoist your sail when the wind is fair."
+    },
+    {
+      "ja": "凧を揚げるのは危険かもしれない。",
+      "en": "Flying a kite can be dangerous."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

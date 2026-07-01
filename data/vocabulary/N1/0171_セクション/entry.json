@@ -1,0 +1,38 @@
+{
+  "id": "n1-0171",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "セクション",
+  "display": "セクション",
+  "meanings_zh": [
+    "部分",
+    "部门",
+    "区划",
+    "段"
+  ],
+  "meanings_en": [
+    "section"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この論評の最初のセクションでは、脳のプロセスがどのように我々の意識経験を引き起こすかという問題を提起する。",
+      "en": "In the first section of this review I raise the question of how brain processes cause our conscious experiences."
+    },
+    {
+      "ja": "引用した問題ではありませんが、関係代名詞と関係副詞の使い分けを問う問題がリーディングセクションにはあります。",
+      "en": "The problem quoted isn't one, but there are problems in the reading section that ask you to distinguish relative pronouns from relative adverbs."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "n1-0094",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ぐっと",
+  "display": "ぐっと",
+  "meanings_zh": [
+    "使劲儿",
+    "一(口)气地～～",
+    "更加",
+    "～～得多"
+  ],
+  "meanings_en": [
+    "firmly",
+    "fast",
+    "much",
+    "more"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムは悲鳴をぐっと堪えた。",
+      "en": "Tom resisted the urge to scream."
+    },
+    {
+      "ja": "明け方近くは、ぐっと冷え込む。",
+      "en": "It gets extremely cold toward dawn."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

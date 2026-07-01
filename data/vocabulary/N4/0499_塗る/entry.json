@@ -1,0 +1,39 @@
+{
+  "id": "n4-0499",
+  "jlpt": "N4",
+  "kanji": "塗る",
+  "kana": "ぬる",
+  "display": "塗る",
+  "meanings_zh": [
+    "涂",
+    "擦",
+    "抹",
+    "厚厚地擦粉"
+  ],
+  "meanings_en": [
+    "to paint",
+    "to plaster"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "壁を塗るつもりです。",
+      "en": "We're going to paint the wall."
+    },
+    {
+      "ja": "ペンキを塗るからいいわ。",
+      "en": "We'll paint it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

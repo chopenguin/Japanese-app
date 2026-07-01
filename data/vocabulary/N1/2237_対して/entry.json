@@ -1,0 +1,35 @@
+{
+  "id": "n1-2237",
+  "jlpt": "N1",
+  "kanji": "対して",
+  "kana": "たいして",
+  "display": "対して",
+  "meanings_zh": [],
+  "meanings_en": [
+    "for",
+    "in regard to",
+    "per"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "敵に対して寛大だ。",
+      "en": "He is generous to his opponents."
+    },
+    {
+      "ja": "彼は友人に対して寛大だ。",
+      "en": "He is generous to his friends."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

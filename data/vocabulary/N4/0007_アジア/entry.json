@@ -1,0 +1,36 @@
+{
+  "id": "n4-0007",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "アジア",
+  "display": "アジア",
+  "meanings_zh": [
+    "亚洲",
+    "亚细亚"
+  ],
+  "meanings_en": [
+    "Asia"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "日本はアジアにある。",
+      "en": "Japan is situated in Asia."
+    },
+    {
+      "ja": "日本人はアジア人です。",
+      "en": "Japanese are Asians."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n1-2940",
+  "jlpt": "N1",
+  "kanji": "分裂",
+  "kana": "ぶんれつ",
+  "display": "分裂",
+  "meanings_zh": [
+    "分裂",
+    "裂开"
+  ],
+  "meanings_en": [
+    "split",
+    "division",
+    "break up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "党派は二つに分裂した。",
+      "en": "The party was split up into two."
+    },
+    {
+      "ja": "内部分裂した家は倒れる。",
+      "en": "A house divided against itself can't stand."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n4-0223",
+  "jlpt": "N4",
+  "kanji": "寄る",
+  "kana": "よる",
+  "display": "寄る",
+  "meanings_zh": [
+    "靠近",
+    "挨近",
+    "集中",
+    "聚集"
+  ],
+  "meanings_en": [
+    "to visit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "犬に近寄るな。",
+      "en": "Don't go near the dog."
+    },
+    {
+      "ja": "俺に近寄るな。",
+      "en": "Don't come near me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

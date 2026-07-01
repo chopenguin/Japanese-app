@@ -1,0 +1,39 @@
+{
+  "id": "n3-0235",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ゆっくり",
+  "display": "ゆっくり",
+  "meanings_zh": [
+    "慢慢",
+    "不着急",
+    "安安稳稳",
+    "舒适"
+  ],
+  "meanings_en": [
+    "slowly",
+    "at ease"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ゆっくり歩け。",
+      "en": "Walk slowly."
+    },
+    {
+      "ja": "ゆっくりと急げ。",
+      "en": "Make haste slowly."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n2-1297",
+  "jlpt": "N2",
+  "kanji": "長引く",
+  "kana": "ながびく",
+  "display": "長引く",
+  "meanings_zh": [
+    "拖长",
+    "拖延"
+  ],
+  "meanings_en": [
+    "to be prolonged",
+    "to drag on"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その経済学者は長引く不況を予期していた。",
+      "en": "The economist anticipated a prolonged depression."
+    },
+    {
+      "ja": "長引く不況のために、多くの労働者が失業している。",
+      "en": "Because of the protracted depression, many workers are unemployed."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

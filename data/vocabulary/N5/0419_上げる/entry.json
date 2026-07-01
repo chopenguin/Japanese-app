@@ -1,0 +1,38 @@
+{
+  "id": "n5-0419",
+  "jlpt": "N5",
+  "kanji": "上げる",
+  "kana": "あげる",
+  "display": "上げる",
+  "meanings_zh": [
+    "举",
+    "抬",
+    "扬",
+    "悬"
+  ],
+  "meanings_en": [
+    "to give"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "頭を上げるなよ。",
+      "en": "Keep your head down."
+    },
+    {
+      "ja": "大空を見上げる。",
+      "en": "I look up at the sky."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "n1-2073",
+  "jlpt": "N1",
+  "kanji": "先に",
+  "kana": "さきに",
+  "display": "先に",
+  "meanings_zh": [
+    "以前",
+    "以往"
+  ],
+  "meanings_en": [
+    "before",
+    "earlier than",
+    "ahead",
+    "beyond",
+    "away",
+    "previously",
+    "recently"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お先にどうぞ。",
+      "en": "After you."
+    },
+    {
+      "ja": "先にやってよ。",
+      "en": "You go first."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

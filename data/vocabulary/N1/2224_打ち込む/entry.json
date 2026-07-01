@@ -1,0 +1,43 @@
+{
+  "id": "n1-2224",
+  "jlpt": "N1",
+  "kanji": "打ち込む",
+  "kana": "うちこむ",
+  "display": "打ち込む",
+  "meanings_zh": [
+    "打进",
+    "砸进",
+    "射进",
+    "猛烈叩杀"
+  ],
+  "meanings_en": [
+    "to drive in (e.g. nail  stake)",
+    "to devote oneself to",
+    "to shoot into",
+    "to smash",
+    "to throw into",
+    "to cast int"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "基礎に杭を打ち込むのを忘れて、空中に楼閣を建てるとは、あなたも愚かな人だ。",
+      "en": "It is foolish of you to build a castle in the air while forgetting to drive in pilings for its foundation."
+    },
+    {
+      "ja": "ノートパソコンの電源を入れ、ブラウザを立ち上げて、もう覚えてしまったアドレスを打ち込む。",
+      "en": "I switch on my laptop, start up the browser, and type in the address I've already learnt by heart."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

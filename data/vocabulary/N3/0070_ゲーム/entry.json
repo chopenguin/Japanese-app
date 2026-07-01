@@ -1,0 +1,38 @@
+{
+  "id": "n3-0070",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ゲーム",
+  "display": "ゲーム",
+  "meanings_zh": [
+    "竞技",
+    "比赛",
+    "游戏",
+    "游艺"
+  ],
+  "meanings_en": [
+    "game"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ゲームしようよ。",
+      "en": "Let's play a game."
+    },
+    {
+      "ja": "ゲームで負けた。",
+      "en": "I lost the game."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

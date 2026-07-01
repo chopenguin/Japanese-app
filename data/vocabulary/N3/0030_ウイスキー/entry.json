@@ -1,0 +1,35 @@
+{
+  "id": "n3-0030",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ウイスキー",
+  "display": "ウイスキー",
+  "meanings_zh": [
+    "威士忌酒"
+  ],
+  "meanings_en": [
+    "whisky"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "このウイスキーはどう。",
+      "en": "How do you like this whisky?"
+    },
+    {
+      "ja": "このウイスキーは強すぎる。",
+      "en": "This whisky is too strong."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

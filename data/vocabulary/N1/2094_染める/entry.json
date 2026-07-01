@@ -1,0 +1,39 @@
+{
+  "id": "n1-2094",
+  "jlpt": "N1",
+  "kanji": "染める",
+  "kana": "そめる",
+  "display": "染める",
+  "meanings_zh": [
+    "染颜色",
+    "脸发红",
+    "涂上颜色",
+    "沾手"
+  ],
+  "meanings_en": [
+    "to dye",
+    "to colour"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "清廉潔白できこえた彼が、汚職なんかに手を染めるわけない。",
+      "en": "He has a reputation as being straight as an arrow. He'd never get involved in corruption."
+    },
+    {
+      "ja": "目蓋には淡い日の光、ゆるやかな色合いが部屋の中を染める。",
+      "en": "Dim sunbeams on my eyelids, a faint tinge dyes the room."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

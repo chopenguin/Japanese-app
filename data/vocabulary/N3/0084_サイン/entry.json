@@ -1,0 +1,35 @@
+{
+  "id": "n3-0084",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "サイン",
+  "display": "サイン",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(1) autograph",
+    "(2) sign",
+    "(3) sine"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ここでサインして。",
+      "en": "Sign here."
+    },
+    {
+      "ja": "サインはどこにするの？",
+      "en": "Where do I sign?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

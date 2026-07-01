@@ -1,0 +1,35 @@
+{
+  "id": "n3-0133",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "タオル",
+  "display": "タオル",
+  "meanings_zh": [
+    "毛巾"
+  ],
+  "meanings_en": [
+    "(hand) towel"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "タオルとって！",
+      "en": "Give me a towel."
+    },
+    {
+      "ja": "このタオル、臭い。",
+      "en": "This towel is smelly."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

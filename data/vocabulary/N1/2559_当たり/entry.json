@@ -1,0 +1,44 @@
+{
+  "id": "n1-2559",
+  "jlpt": "N1",
+  "kanji": "当たり",
+  "kana": "あたり",
+  "display": "当たり",
+  "meanings_zh": [
+    "打中",
+    "射中",
+    "命中",
+    "中彩 每",
+    "平均"
+  ],
+  "meanings_en": [
+    "hit",
+    "success",
+    "reaching the mark",
+    "per ...",
+    "vicinity",
+    "neighborhood"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "当たり前だ。",
+      "en": "Of course."
+    },
+    {
+      "ja": "当たり前だろ。",
+      "en": "Obviously."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n2-0658",
+  "jlpt": "N2",
+  "kanji": "個所",
+  "kana": "かしょ",
+  "display": "個所",
+  "meanings_zh": [],
+  "meanings_en": [
+    "passage",
+    "place",
+    "point",
+    "part"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "やっとテレビの故障している個所が分かった。",
+      "en": "In the end, I found out what was wrong with my TV."
+    },
+    {
+      "ja": "議論の多くの個所で、アドルノ、ホルクハイマーらの美学論に恩恵を受けている。",
+      "en": "My argument is indebted in a number of places to the aesthetic theories of Adorno, Horkheimer and others."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

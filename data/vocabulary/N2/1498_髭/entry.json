@@ -1,0 +1,35 @@
+{
+  "id": "n2-1498",
+  "jlpt": "N2",
+  "kanji": "髭",
+  "kana": "ひげ",
+  "display": "髭",
+  "meanings_zh": [],
+  "meanings_en": [
+    "moustache",
+    "beard",
+    "whiskers"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は毎朝髭を剃る。",
+      "en": "I shave every morning."
+    },
+    {
+      "ja": "髭剃りがまだなんだ。",
+      "en": "I still haven't shaved."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

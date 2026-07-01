@@ -1,0 +1,38 @@
+{
+  "id": "n2-1600",
+  "jlpt": "N2",
+  "kanji": "坊や",
+  "kana": "ぼうや",
+  "display": "坊や",
+  "meanings_zh": [
+    "小朋友",
+    "小宝宝",
+    "你",
+    "儿子"
+  ],
+  "meanings_en": [
+    "boy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "坊や、おかあさんは何処だい？",
+      "en": "Where is your mother, boy?"
+    },
+    {
+      "ja": "ぐっすり寝てね、ティミー坊や。",
+      "en": "Sleep well, Timmy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

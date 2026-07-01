@@ -1,0 +1,35 @@
+{
+  "id": "n2-0072",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "カラー",
+  "display": "カラー",
+  "meanings_zh": [],
+  "meanings_en": [
+    "collar",
+    "color",
+    "colour"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "カラーフィルムを一本ください。",
+      "en": "I want a roll of color film for prints."
+    },
+    {
+      "ja": "君のカラーにはしみがついている。",
+      "en": "Your collar has a stain on it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

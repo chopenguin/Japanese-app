@@ -1,0 +1,39 @@
+{
+  "id": "n3-0574",
+  "jlpt": "N3",
+  "kanji": "狂う",
+  "kana": "くるう",
+  "display": "狂う",
+  "meanings_zh": [
+    "发狂",
+    "发疯",
+    "疯狂",
+    "沉溺"
+  ],
+  "meanings_en": [
+    "to go mad",
+    "to get out of order"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "一つ間違えば一里も狂う。",
+      "en": "A miss is as good as a mile."
+    },
+    {
+      "ja": "彼女は怒りで気も狂うほどだった。",
+      "en": "She was mad with anger."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

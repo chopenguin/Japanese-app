@@ -1,0 +1,39 @@
+{
+  "id": "n1-3249",
+  "jlpt": "N1",
+  "kanji": "容易い",
+  "kana": "たやすい",
+  "display": "容易い",
+  "meanings_zh": [
+    "容易",
+    "不难",
+    "轻易"
+  ],
+  "meanings_en": [
+    "easy",
+    "simple",
+    "light"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "容易いことじゃない。",
+      "en": "It isn't easy."
+    },
+    {
+      "ja": "物理学を学ぶのは容易いことではない。",
+      "en": "Physics is not easy to learn."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

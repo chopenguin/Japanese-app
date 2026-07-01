@@ -1,0 +1,37 @@
+{
+  "id": "n4-0439",
+  "jlpt": "N4",
+  "kanji": "痩せる",
+  "kana": "やせる",
+  "display": "痩せる",
+  "meanings_zh": [
+    "瘦",
+    "瘠薄",
+    "贫瘠"
+  ],
+  "meanings_en": [
+    "to become thin"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "痩せる必要がないというのは残念だ。",
+      "en": "It's too bad that I don't need to lose weight."
+    },
+    {
+      "ja": "食べすぎさえしなければ、必ず痩せると思います。",
+      "en": "I think that as long as I don't overeat, I will certainly lose weight."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "n1-1715",
+  "jlpt": "N1",
+  "kanji": "出くわす",
+  "kana": "でくわす",
+  "display": "出くわす",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to happen to meet",
+    "to come across"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "明日我々は敵軍に出くわすだろう。",
+      "en": "Tomorrow we will encounter the enemy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

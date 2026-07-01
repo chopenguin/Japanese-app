@@ -1,0 +1,34 @@
+{
+  "id": "n2-0816",
+  "jlpt": "N2",
+  "kanji": "始めに",
+  "kana": "はじめに",
+  "display": "始めに",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to begin with",
+    "first of all"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私の始めに終わりがある。",
+      "en": "In my beginning is my end."
+    },
+    {
+      "ja": "先生は授業の始めに出席をとった。",
+      "en": "Our teacher called the roll at the beginning of the class."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

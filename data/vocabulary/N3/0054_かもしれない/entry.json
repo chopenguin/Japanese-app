@@ -1,0 +1,42 @@
+{
+  "id": "n3-0054",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "かもしれない",
+  "display": "かもしれない",
+  "meanings_zh": [
+    "也许",
+    "可能",
+    "说不定",
+    "恐怕"
+  ],
+  "meanings_en": [
+    "may",
+    "might",
+    "perhaps",
+    "may be",
+    "possibly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "明日は雨かもしれない。",
+      "en": "It may rain tomorrow."
+    },
+    {
+      "ja": "彼は天才かもしれない。",
+      "en": "He may be a genius."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

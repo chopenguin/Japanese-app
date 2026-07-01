@@ -1,0 +1,40 @@
+{
+  "id": "n2-1758",
+  "jlpt": "N2",
+  "kanji": "冷ます",
+  "kana": "さます",
+  "display": "冷ます",
+  "meanings_zh": [
+    "冷却",
+    "弄凉",
+    "弄冷",
+    "泼冷水"
+  ],
+  "meanings_en": [
+    "to cool",
+    "to dampen",
+    "to let cool"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "煮物は一度冷ますと、味が染みこみ美味しくなります。",
+      "en": "If you give simmered food a moment to cool, the flavors will spread throughout the dish, and it'll taste really good."
+    },
+    {
+      "ja": "水分が多く含まれる夏野菜は、体内の熱を冷ます作用があります。",
+      "en": "Summer vegetables that contain a lot of water have the effect of cooling down the body."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

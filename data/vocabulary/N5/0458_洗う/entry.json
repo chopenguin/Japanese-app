@@ -1,0 +1,38 @@
+{
+  "id": "n5-0458",
+  "jlpt": "N5",
+  "kanji": "洗う",
+  "kana": "あらう",
+  "display": "洗う",
+  "meanings_zh": [
+    "洗",
+    "调查",
+    "查",
+    "查明"
+  ],
+  "meanings_en": [
+    "to wash"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "血で血を洗う。",
+      "en": "Blood will have blood."
+    },
+    {
+      "ja": "洗う必要がある。",
+      "en": "It needs washing."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

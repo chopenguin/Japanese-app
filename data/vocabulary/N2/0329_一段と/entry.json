@@ -1,0 +1,36 @@
+{
+  "id": "n2-0329",
+  "jlpt": "N2",
+  "kanji": "一段と",
+  "kana": "いちだんと",
+  "display": "一段と",
+  "meanings_zh": [],
+  "meanings_en": [
+    "greater",
+    "more",
+    "further",
+    "still more"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ゲームで一段と盛り上がった。",
+      "en": "The game added to the fun."
+    },
+    {
+      "ja": "あら、一段と可愛くなったわね。",
+      "en": "Look at you! You've become so much more adorable."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

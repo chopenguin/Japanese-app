@@ -1,0 +1,38 @@
+{
+  "id": "n2-1715",
+  "jlpt": "N2",
+  "kanji": "溶け込む",
+  "kana": "とけこむ",
+  "display": "溶け込む",
+  "meanings_zh": [
+    "融洽",
+    "溶化",
+    "熔化",
+    "溶解"
+  ],
+  "meanings_en": [
+    "to melt into"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "空が海と一つに溶け込むように見えた。",
+      "en": "The sky seemed to blend with the sea."
+    },
+    {
+      "ja": "帰国子女があの組の中に溶け込むのは難しいよ。",
+      "en": "It's difficult for returnees to blend in with that class."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

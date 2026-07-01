@@ -1,0 +1,33 @@
+{
+  "id": "n2-0301",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ロッカー",
+  "display": "ロッカー",
+  "meanings_zh": [],
+  "meanings_en": [
+    "locker"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "本はロッカーの中です。",
+      "en": "My books are in my locker."
+    },
+    {
+      "ja": "どの生徒もロッカーを持っている。",
+      "en": "Each student has a locker."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

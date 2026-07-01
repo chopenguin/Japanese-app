@@ -1,0 +1,38 @@
+{
+  "id": "n2-0143",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "スタート",
+  "display": "スタート",
+  "meanings_zh": [
+    "出发(点)",
+    "起动",
+    "开始",
+    "开端"
+  ],
+  "meanings_en": [
+    "start"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "僕はスタートで一番遅れた。",
+      "en": "I started last in the race."
+    },
+    {
+      "ja": "彼らは一斉にスタートした。",
+      "en": "They started all at once."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

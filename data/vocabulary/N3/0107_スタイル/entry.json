@@ -1,0 +1,38 @@
+{
+  "id": "n3-0107",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "スタイル",
+  "display": "スタイル",
+  "meanings_zh": [
+    "文体",
+    "样式",
+    "型",
+    "式"
+  ],
+  "meanings_en": [
+    "style"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はスタイルがいい。",
+      "en": "He has a nice build."
+    },
+    {
+      "ja": "彼女はスタイルが悪い。",
+      "en": "She has no figure."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n3-1549",
+  "jlpt": "N3",
+  "kanji": "服装",
+  "kana": "ふくそう",
+  "display": "服装",
+  "meanings_zh": [
+    "服装",
+    "服饰",
+    "衣着",
+    "穿着"
+  ],
+  "meanings_en": [
+    "garments"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "夫は服装に無頓着です。",
+      "en": "My husband is indifferent to his clothes."
+    },
+    {
+      "ja": "彼女は服装にうるさい。",
+      "en": "She is particular about what she wears."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

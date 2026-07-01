@@ -1,0 +1,38 @@
+{
+  "id": "n3-1670",
+  "jlpt": "N3",
+  "kanji": "貰う",
+  "kana": "もらう",
+  "display": "貰う",
+  "meanings_zh": [
+    "领取",
+    "取得",
+    "得到",
+    "收到"
+  ],
+  "meanings_en": [
+    "to receive"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "薬はどこで貰うんですか。",
+      "en": "Where can I get the medicine?"
+    },
+    {
+      "ja": "自分がその賞を貰うとはまったく思ってもいなかった。",
+      "en": "Little did I think that I would win the prize."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n5-0319",
+  "jlpt": "N5",
+  "kanji": "広い",
+  "kana": "ひろい",
+  "display": "広い",
+  "meanings_zh": [
+    "广阔",
+    "辽阔",
+    "广大",
+    "宽敞"
+  ],
+  "meanings_en": [
+    "spacious",
+    "wide"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "世界は広い。",
+      "en": "The world is vast."
+    },
+    {
+      "ja": "彼は顔が広い。",
+      "en": "He knows a lot of people."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "n3-0119",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "そこで",
+  "display": "そこで",
+  "meanings_zh": [
+    "于是",
+    "因此",
+    "所以",
+    "那么"
+  ],
+  "meanings_en": [
+    "so (conj)",
+    "accordingly",
+    "now",
+    "then",
+    "thereupon"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そこで止まって。",
+      "en": "Stop there."
+    },
+    {
+      "ja": "そこで待ってて。",
+      "en": "Wait for us there."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

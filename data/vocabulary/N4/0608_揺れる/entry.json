@@ -1,0 +1,39 @@
+{
+  "id": "n4-0608",
+  "jlpt": "N4",
+  "kanji": "揺れる",
+  "kana": "ゆれる",
+  "display": "揺れる",
+  "meanings_zh": [
+    "摇晃",
+    "摇摆",
+    "摆动",
+    "摇荡"
+  ],
+  "meanings_en": [
+    "to shake",
+    "to sway"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "家が揺れるのを感じた。",
+      "en": "I felt the house shake."
+    },
+    {
+      "ja": "私は床が揺れるのを感じた。",
+      "en": "I felt the floor shake."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "n3-0645",
+  "jlpt": "N3",
+  "kanji": "決まり",
+  "kana": "きまり",
+  "display": "決まり",
+  "meanings_zh": [
+    "规定",
+    "决定",
+    "归结",
+    "结束"
+  ],
+  "meanings_en": [
+    "settlement",
+    "conclusion",
+    "regulation",
+    "rule"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これで決まりだ。",
+      "en": "This is it."
+    },
+    {
+      "ja": "ご注文はお決まりですか？",
+      "en": "Are you ready to order?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

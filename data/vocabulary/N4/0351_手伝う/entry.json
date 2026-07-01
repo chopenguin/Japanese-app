@@ -1,0 +1,38 @@
+{
+  "id": "n4-0351",
+  "jlpt": "N4",
+  "kanji": "手伝う",
+  "kana": "てつだう",
+  "display": "手伝う",
+  "meanings_zh": [
+    "帮忙",
+    "帮助",
+    "加上",
+    "还由于"
+  ],
+  "meanings_en": [
+    "to assist"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は手伝うよ。",
+      "en": "I'll help."
+    },
+    {
+      "ja": "私も手伝うわ。",
+      "en": "I'll help you, too."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

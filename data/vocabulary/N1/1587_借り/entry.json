@@ -1,0 +1,40 @@
+{
+  "id": "n1-1587",
+  "jlpt": "N1",
+  "kanji": "借り",
+  "kana": "かり",
+  "display": "借り",
+  "meanings_zh": [
+    "借款",
+    "欠债",
+    "赊帐",
+    "应该报答的恩"
+  ],
+  "meanings_en": [
+    "borrowing",
+    "debt",
+    "loan"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "車は借りたの？",
+      "en": "Did you rent a car?"
+    },
+    {
+      "ja": "ペン借りていい？",
+      "en": "Can I borrow your pen?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

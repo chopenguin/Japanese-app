@@ -1,0 +1,39 @@
+{
+  "id": "n2-0184",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "テーマ",
+  "display": "テーマ",
+  "meanings_zh": [
+    "中心思想",
+    "主题",
+    "题目"
+  ],
+  "meanings_en": [
+    "(n) theme",
+    "project",
+    "topic (de: Thema)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "卒論のテーマ決まった？",
+      "en": "Have you decided on your dissertation topic?"
+    },
+    {
+      "ja": "卒論のテーマは決めましたか。",
+      "en": "Have you decided on the subject of your thesis?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

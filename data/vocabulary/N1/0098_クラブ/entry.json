@@ -1,0 +1,38 @@
+{
+  "id": "n1-0098",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "クラブ",
+  "display": "クラブ",
+  "meanings_zh": [
+    "俱乐部",
+    "球棒",
+    "梅花"
+  ],
+  "meanings_en": [
+    "club",
+    "crab"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "クラブで合宿がある。",
+      "en": "There is a training camp with the club."
+    },
+    {
+      "ja": "クラブに入りたいな。",
+      "en": "I'd like to join the club."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

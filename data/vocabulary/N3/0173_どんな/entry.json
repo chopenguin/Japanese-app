@@ -1,0 +1,39 @@
+{
+  "id": "n3-0173",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "どんな",
+  "display": "どんな",
+  "meanings_zh": [
+    "怎样",
+    "怎么样",
+    "如何",
+    "哪样的"
+  ],
+  "meanings_en": [
+    "what",
+    "what kind of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "どんな方なの？",
+      "en": "What is she like?"
+    },
+    {
+      "ja": "彼ってどんな人？",
+      "en": "What is he like?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

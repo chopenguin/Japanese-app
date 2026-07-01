@@ -1,0 +1,40 @@
+{
+  "id": "n2-1704",
+  "jlpt": "N2",
+  "kanji": "預かる",
+  "kana": "あずかる",
+  "display": "預かる",
+  "meanings_zh": [
+    "收存",
+    "保管",
+    "担任",
+    "管理"
+  ],
+  "meanings_en": [
+    "to keep in custody",
+    "to receive on deposit",
+    "to take charge of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "銀行は人の金を預かる。",
+      "en": "The bank keeps money for people."
+    },
+    {
+      "ja": "トムは、六日間だけ迷子の犬を預かることにしました。",
+      "en": "Tom only looked after the stray for 6 days."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

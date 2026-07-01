@@ -1,0 +1,36 @@
+{
+  "id": "n2-0491",
+  "jlpt": "N2",
+  "kanji": "乾かす",
+  "kana": "かわかす",
+  "display": "乾かす",
+  "meanings_zh": [
+    "晒干",
+    "烤干",
+    "烘干",
+    "晾干"
+  ],
+  "meanings_en": [
+    "to dry (clothes",
+    "etc.)",
+    "to desiccate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "洗濯物を乾かす時間だ。",
+      "en": "It's time to dry the laundry."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

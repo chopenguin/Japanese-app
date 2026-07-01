@@ -1,0 +1,40 @@
+{
+  "id": "n2-1154",
+  "jlpt": "N2",
+  "kanji": "組み立てる",
+  "kana": "くみたてる",
+  "display": "組み立てる",
+  "meanings_zh": [
+    "组织",
+    "构成",
+    "装配",
+    "安装"
+  ],
+  "meanings_en": [
+    "to assemble",
+    "to set up",
+    "to construct"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "僕は機械を組み立てるのが好きだ。",
+      "en": "I like putting machines together."
+    },
+    {
+      "ja": "時計を組み立てるのはちょっと難しい。",
+      "en": "It is rather difficult to assemble a watch."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

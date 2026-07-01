@@ -1,0 +1,39 @@
+{
+  "id": "n3-0417",
+  "jlpt": "N3",
+  "kanji": "外す",
+  "kana": "はずす",
+  "display": "外す",
+  "meanings_zh": [
+    "取下",
+    "卸下",
+    "摘下",
+    "解开"
+  ],
+  "meanings_en": [
+    "to unfasten",
+    "to remove"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "誰にも口外するな。",
+      "en": "This is strictly between us."
+    },
+    {
+      "ja": "トムは値札を外すのを忘れていた。",
+      "en": "Tom forgot to remove the price tag."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

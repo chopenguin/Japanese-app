@@ -1,0 +1,35 @@
+{
+  "id": "n2-1010",
+  "jlpt": "N2",
+  "kanji": "信ずる",
+  "kana": "しんずる",
+  "display": "信ずる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to believe",
+    "to believe in",
+    "to place trust in"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "見ることは信ずることなり。",
+      "en": "Seeing is believing."
+    },
+    {
+      "ja": "信ずるところに従って行動した。",
+      "en": "I acted upon what I believed."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

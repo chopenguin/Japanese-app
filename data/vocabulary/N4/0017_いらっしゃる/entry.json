@@ -1,0 +1,39 @@
+{
+  "id": "n4-0017",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "いらっしゃる",
+  "display": "いらっしゃる",
+  "meanings_zh": [
+    "在",
+    "来",
+    "去",
+    "是"
+  ],
+  "meanings_en": [
+    "(respectful) to be",
+    "to come or to go"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お子さんはいらっしゃるの？",
+      "en": "Do you have any kids?"
+    },
+    {
+      "ja": "長くいらっしゃるつもりですか。",
+      "en": "Are you going to stay long?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

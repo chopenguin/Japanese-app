@@ -1,0 +1,35 @@
+{
+  "id": "n3-1522",
+  "jlpt": "N3",
+  "kanji": "不",
+  "kana": "ふ",
+  "display": "不",
+  "meanings_zh": [],
+  "meanings_en": [
+    "un",
+    "non",
+    "negative prefix"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "不眠症です。",
+      "en": "I can't sleep at night."
+    },
+    {
+      "ja": "不妊症です。",
+      "en": "I'm sterile."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

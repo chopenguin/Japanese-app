@@ -1,0 +1,37 @@
+{
+  "id": "n1-0328",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ロープ",
+  "display": "ロープ",
+  "meanings_zh": [
+    "绳索",
+    "绳缆",
+    "围绳"
+  ],
+  "meanings_en": [
+    "rope"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ロープを放すな。",
+      "en": "Don't let go of the rope."
+    },
+    {
+      "ja": "ロープはどこだ？",
+      "en": "Where's the rope?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

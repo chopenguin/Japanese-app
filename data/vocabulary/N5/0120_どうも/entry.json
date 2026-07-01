@@ -1,0 +1,38 @@
+{
+  "id": "n5-0120",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "どうも",
+  "display": "どうも",
+  "meanings_zh": [
+    "怎么也",
+    "实在",
+    "真",
+    "总觉得"
+  ],
+  "meanings_en": [
+    "thanks"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "どうも失礼。",
+      "en": "I'm sorry."
+    },
+    {
+      "ja": "本当にどうも。",
+      "en": "Many thanks."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

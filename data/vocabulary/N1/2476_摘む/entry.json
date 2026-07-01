@@ -1,0 +1,40 @@
+{
+  "id": "n1-2476",
+  "jlpt": "N1",
+  "kanji": "摘む",
+  "kana": "つまむ",
+  "display": "摘む",
+  "meanings_zh": [
+    "摘",
+    "采",
+    "掐",
+    "剪"
+  ],
+  "meanings_en": [
+    "to pinch",
+    "to hold",
+    "to pick up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "新茶を摘む季節になった。",
+      "en": "This is the season to pick fresh tea."
+    },
+    {
+      "ja": "彼女は雛菊を摘むのをやめた。",
+      "en": "She stopped picking daisies."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n5-0081",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "する",
+  "display": "する",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to do"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "頭痛がする。",
+      "en": "I have a headache."
+    },
+    {
+      "ja": "約束するよ。",
+      "en": "I give you my word."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

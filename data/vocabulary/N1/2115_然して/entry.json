@@ -1,0 +1,34 @@
+{
+  "id": "n1-2115",
+  "jlpt": "N1",
+  "kanji": "然して",
+  "kana": "そして",
+  "display": "然して",
+  "meanings_zh": [
+    "并不",
+    "也不是",
+    "那样",
+    "那么"
+  ],
+  "meanings_en": [
+    "and"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "心配なんて全然してないよ。",
+      "en": "I'm not worried at all."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

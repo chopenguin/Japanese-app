@@ -1,0 +1,38 @@
+{
+  "id": "n1-0812",
+  "jlpt": "N1",
+  "kanji": "奇麗",
+  "kana": "きれい",
+  "display": "奇麗",
+  "meanings_zh": [],
+  "meanings_en": [
+    "pretty",
+    "clean",
+    "nice",
+    "tidy",
+    "beautiful",
+    "fair"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "女の人は奇麗です。",
+      "en": "The woman is beautiful."
+    },
+    {
+      "ja": "顔を奇麗にふきなさい。",
+      "en": "Wipe your face clean."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

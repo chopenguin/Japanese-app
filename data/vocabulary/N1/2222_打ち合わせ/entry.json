@@ -1,0 +1,38 @@
+{
+  "id": "n1-2222",
+  "jlpt": "N1",
+  "kanji": "打ち合わせ",
+  "kana": "うちあわせ",
+  "display": "打ち合わせ",
+  "meanings_zh": [
+    "事先商量",
+    "碰头"
+  ],
+  "meanings_en": [
+    "business meeting",
+    "previous arrangement",
+    "appointment"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "時折打ち合わせがもたれた。",
+      "en": "The meetings were held at intervals."
+    },
+    {
+      "ja": "彼らは会合の打ち合わせをした。",
+      "en": "They arranged a meeting."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

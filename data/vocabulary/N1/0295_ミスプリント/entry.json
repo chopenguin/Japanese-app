@@ -1,0 +1,36 @@
+{
+  "id": "n1-0295",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ミスプリント",
+  "display": "ミスプリント",
+  "meanings_zh": [
+    "印错",
+    "印刷品的错字"
+  ],
+  "meanings_en": [
+    "misprint"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ミスプリントのないような本はほとんどない。",
+      "en": "There are few books without misprints."
+    },
+    {
+      "ja": "この教科書は、急いで印刷したためにミスプリントがたくさんある。",
+      "en": "This textbook, having been printed in haste, has a lot of printing mistakes."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

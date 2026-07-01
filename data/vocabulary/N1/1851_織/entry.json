@@ -1,0 +1,35 @@
+{
+  "id": "n1-1851",
+  "jlpt": "N1",
+  "kanji": "織",
+  "kana": "おり",
+  "display": "織",
+  "meanings_zh": [],
+  "meanings_en": [
+    "weave",
+    "weaving",
+    "woven item"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "計画委員を組織した。",
+      "en": "We organized a project team."
+    },
+    {
+      "ja": "彼らは政党を組織した。",
+      "en": "They organized a political party."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

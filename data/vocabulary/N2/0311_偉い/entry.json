@@ -1,0 +1,45 @@
+{
+  "id": "n2-0311",
+  "jlpt": "N2",
+  "kanji": "偉い",
+  "kana": "えらい",
+  "display": "偉い",
+  "meanings_zh": [
+    "伟大",
+    "卓越",
+    "了不起",
+    "高"
+  ],
+  "meanings_en": [
+    "great",
+    "celebrated",
+    "eminent",
+    "terrible",
+    "awful",
+    "famous",
+    "remarkable",
+    "excellent"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "君は偉いことをやったね。",
+      "en": "You've done it!"
+    },
+    {
+      "ja": "あの偉い坊さんを見ろよ。",
+      "en": "Look at the big shot."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

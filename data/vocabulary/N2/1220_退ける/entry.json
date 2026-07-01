@@ -1,0 +1,30 @@
+{
+  "id": "n2-1220",
+  "jlpt": "N2",
+  "kanji": "退ける",
+  "kana": "どける",
+  "display": "退ける",
+  "meanings_zh": [
+    "挪开",
+    "移开"
+  ],
+  "meanings_en": [
+    "to remove",
+    "to take away",
+    "to dislodge",
+    "to put something out of the way"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n1-3195",
+  "jlpt": "N1",
+  "kanji": "夜更かし",
+  "kana": "よふかし",
+  "display": "夜更かし",
+  "meanings_zh": [
+    "熬夜"
+  ],
+  "meanings_en": [
+    "staying up late",
+    "keeping late hours",
+    "sitting up late at night",
+    "nighthawk"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "夜更かしをする。",
+      "en": "We keep late hours."
+    },
+    {
+      "ja": "彼は夜更かしした。",
+      "en": "He sat up late at night."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

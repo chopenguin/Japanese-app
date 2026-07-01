@@ -1,0 +1,34 @@
+{
+  "id": "n2-0003",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "あいまい",
+  "display": "あいまい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "vague",
+    "ambiguous"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼の説明はあいまいだ。",
+      "en": "His explanation is not clear."
+    },
+    {
+      "ja": "何てあいまいな表現だ。",
+      "en": "What an ambiguous expression!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

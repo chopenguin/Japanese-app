@@ -1,0 +1,31 @@
+{
+  "id": "n1-3457",
+  "jlpt": "N1",
+  "kanji": "迚も",
+  "kana": "とても",
+  "display": "迚も",
+  "meanings_zh": [
+    "无论如何也～～",
+    "怎么也～～",
+    "非常",
+    "很"
+  ],
+  "meanings_en": [
+    "very",
+    "awfully",
+    "exceedingly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

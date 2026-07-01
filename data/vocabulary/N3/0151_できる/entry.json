@@ -1,0 +1,35 @@
+{
+  "id": "n3-0151",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "（可能。出現。発生）",
+  "display": "できる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to be able to",
+    "to be ready",
+    "to occur"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それできる？",
+      "en": "Can you do that?"
+    },
+    {
+      "ja": "想像できる？",
+      "en": "Can you picture it?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

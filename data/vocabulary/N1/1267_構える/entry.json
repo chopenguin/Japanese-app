@@ -1,0 +1,38 @@
+{
+  "id": "n1-1267",
+  "jlpt": "N1",
+  "kanji": "構える",
+  "kana": "かまえる",
+  "display": "構える",
+  "meanings_zh": [
+    "修建",
+    "修筑",
+    "自立门户",
+    "居住"
+  ],
+  "meanings_en": [
+    "to set up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "気長に構える必要があります。",
+      "en": "You have to be patient."
+    },
+    {
+      "ja": "彼らはロンドン郊外に居を構えることに決めた。",
+      "en": "They decided to settle in a suburb of London."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

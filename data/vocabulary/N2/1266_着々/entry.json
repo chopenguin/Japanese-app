@@ -1,0 +1,33 @@
+{
+  "id": "n2-1266",
+  "jlpt": "N2",
+  "kanji": "着々",
+  "kana": "ちゃくちゃく",
+  "display": "着々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "steadily"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "仕事は着々と進んでいる。",
+      "en": "The work is progressing steadily."
+    },
+    {
+      "ja": "工事は着々と完成に近づいている。",
+      "en": "The construction work is steadily nearing completion."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

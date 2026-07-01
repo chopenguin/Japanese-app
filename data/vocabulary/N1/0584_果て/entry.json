@@ -1,0 +1,41 @@
+{
+  "id": "n1-0584",
+  "jlpt": "N1",
+  "kanji": "果て",
+  "kana": "はて",
+  "display": "果て",
+  "meanings_zh": [
+    "边",
+    "边际",
+    "尽头",
+    "最后"
+  ],
+  "meanings_en": [
+    "the end",
+    "the extremity",
+    "the limit(s)",
+    "the result"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "疲れ果てた。",
+      "en": "I am as tired as a dog."
+    },
+    {
+      "ja": "疲れ果てたよ。",
+      "en": "I'm worn out."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

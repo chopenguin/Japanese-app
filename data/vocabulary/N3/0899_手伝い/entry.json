@@ -1,0 +1,40 @@
+{
+  "id": "n3-0899",
+  "jlpt": "N3",
+  "kanji": "手伝い",
+  "kana": "てつだい",
+  "display": "手伝い",
+  "meanings_zh": [
+    "帮忙",
+    "帮助",
+    "帮手",
+    "帮忙者"
+  ],
+  "meanings_en": [
+    "help",
+    "helper",
+    "assistant"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "手伝いますね。",
+      "en": "We'll help you."
+    },
+    {
+      "ja": "手伝いましょう。",
+      "en": "Let me give you a hand."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

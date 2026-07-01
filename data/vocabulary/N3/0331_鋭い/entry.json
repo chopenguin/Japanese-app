@@ -1,0 +1,39 @@
+{
+  "id": "n3-0331",
+  "jlpt": "N3",
+  "kanji": "鋭い",
+  "kana": "するどい",
+  "display": "鋭い",
+  "meanings_zh": [
+    "尖",
+    "锋利",
+    "快",
+    "尖锐"
+  ],
+  "meanings_en": [
+    "pointed",
+    "sharp"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は耳が鋭い。",
+      "en": "He has sharp hearing."
+    },
+    {
+      "ja": "お前、鋭いな。",
+      "en": "You're sharp."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

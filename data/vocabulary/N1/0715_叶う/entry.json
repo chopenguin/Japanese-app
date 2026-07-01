@@ -1,0 +1,36 @@
+{
+  "id": "n1-0715",
+  "jlpt": "N1",
+  "kanji": "叶う",
+  "kana": "かなう",
+  "display": "叶う",
+  "meanings_zh": [
+    "能实现",
+    "能如愿以偿"
+  ],
+  "meanings_en": [
+    "to come true (wish)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "夢は叶うこともある。",
+      "en": "Dreams sometimes come true."
+    },
+    {
+      "ja": "いつか私の夢は叶う。",
+      "en": "Someday my dream will come true."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n1-1966",
+  "jlpt": "N1",
+  "kanji": "澄ます",
+  "kana": "すます",
+  "display": "澄ます",
+  "meanings_zh": [
+    "使澄清",
+    "澄清",
+    "使晶莹",
+    "使清澈"
+  ],
+  "meanings_en": [
+    "to clear",
+    "to make clear",
+    "to be unruffled",
+    "to look unconcerned",
+    "to look demure",
+    "look prim",
+    "put on airs"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

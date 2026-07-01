@@ -1,0 +1,38 @@
+{
+  "id": "n1-1350",
+  "jlpt": "N1",
+  "kanji": "左利き",
+  "kana": "ひだりきき",
+  "display": "左利き",
+  "meanings_zh": [
+    "左撇子",
+    "好喝酒的人"
+  ],
+  "meanings_en": [
+    "left-handedness",
+    "sake drinker",
+    "left-hander"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "左利きなの？",
+      "en": "Are you a lefty?"
+    },
+    {
+      "ja": "左利きなのよ。",
+      "en": "He's left-handed."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

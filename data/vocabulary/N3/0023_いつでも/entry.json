@@ -1,0 +1,36 @@
+{
+  "id": "n3-0023",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "いつでも",
+  "display": "いつでも",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(at) any time",
+    "always",
+    "at all times",
+    "never (neg)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "いつでも来て。",
+      "en": "Come anytime."
+    },
+    {
+      "ja": "いつでも合図して。",
+      "en": "Say the word any time."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

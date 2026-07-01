@@ -1,0 +1,30 @@
+{
+  "id": "n1-0615",
+  "jlpt": "N1",
+  "kanji": "霞む",
+  "kana": "かすむ",
+  "display": "霞む",
+  "meanings_zh": [
+    "有霞",
+    "有薄雾",
+    "眼睛",
+    "看不清楚"
+  ],
+  "meanings_en": [
+    "to grow hazy",
+    "to be misty"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

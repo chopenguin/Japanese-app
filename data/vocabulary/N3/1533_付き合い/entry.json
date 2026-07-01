@@ -1,0 +1,41 @@
+{
+  "id": "n3-1533",
+  "jlpt": "N3",
+  "kanji": "付き合い",
+  "kana": "つきあい",
+  "display": "付き合い",
+  "meanings_zh": [
+    "交际",
+    "交往",
+    "往还",
+    "打交道",
+    "应酬"
+  ],
+  "meanings_en": [
+    "association",
+    "socializing",
+    "fellowship"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は付き合いにくい。",
+      "en": "He is hard to deal with."
+    },
+    {
+      "ja": "一杯付き合いませんか。",
+      "en": "Would you join me in a drink?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n1-1119",
+  "jlpt": "N1",
+  "kanji": "見掛ける",
+  "kana": "みかける",
+  "display": "見掛ける",
+  "meanings_zh": [
+    "刚看",
+    "开始看",
+    "看到",
+    "看见"
+  ],
+  "meanings_en": [
+    "to (happen to) see",
+    "to notice",
+    "to catch sight of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私はあなたを時々見掛ける。",
+      "en": "I see you every now and then."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

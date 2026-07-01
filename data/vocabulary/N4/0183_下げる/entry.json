@@ -1,0 +1,40 @@
+{
+  "id": "n4-0183",
+  "jlpt": "N4",
+  "kanji": "下げる",
+  "kana": "さげる",
+  "display": "下げる",
+  "meanings_zh": [
+    "降低",
+    "降下",
+    "放低",
+    "吊"
+  ],
+  "meanings_en": [
+    "to hang",
+    "to lower",
+    "to move back"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "関税を下げることを望む。",
+      "en": "We hope to lower the tariff."
+    },
+    {
+      "ja": "彼に頭を下げるのはいやだ。",
+      "en": "I don't want to bow down to him."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

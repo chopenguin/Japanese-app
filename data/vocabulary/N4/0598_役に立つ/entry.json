@@ -1,0 +1,33 @@
+{
+  "id": "n4-0598",
+  "jlpt": "N4",
+  "kanji": "役に立つ",
+  "kana": "やくにたつ",
+  "display": "役に立つ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to be helpful"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "役に立つはずだ。",
+      "en": "That ought to help."
+    },
+    {
+      "ja": "役に立つでしょう。",
+      "en": "That should help."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

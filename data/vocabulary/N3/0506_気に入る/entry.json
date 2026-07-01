@@ -1,0 +1,34 @@
+{
+  "id": "n3-0506",
+  "jlpt": "N3",
+  "kanji": "気に入る",
+  "kana": "きにいる",
+  "display": "気に入る",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to be pleased with",
+    "to suit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女、きっと気に入るよ。",
+      "en": "I'm sure she'll like it."
+    },
+    {
+      "ja": "あなたも気に入ると思うわ。",
+      "en": "I think you'll like it, too."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n1-0897",
+  "jlpt": "N1",
+  "kanji": "急かす",
+  "kana": "せかす",
+  "display": "急かす",
+  "meanings_zh": [
+    "催促",
+    "催"
+  ],
+  "meanings_en": [
+    "to hurry",
+    "to urge on"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そんなに急かすなよ。",
+      "en": "Don't be in such a hurry."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

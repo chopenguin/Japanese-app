@@ -1,0 +1,42 @@
+{
+  "id": "n3-0406",
+  "jlpt": "N3",
+  "kanji": "回り",
+  "kana": "まわり",
+  "display": "回り",
+  "meanings_zh": [
+    "周",
+    "圈",
+    "号 转",
+    "旋转",
+    "转动",
+    "走访"
+  ],
+  "meanings_en": [
+    "circumference",
+    "surroundings",
+    "circulation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "車輪が回りだした。",
+      "en": "The wheel began to turn."
+    },
+    {
+      "ja": "回りくどく言うな。",
+      "en": "Don't talk around it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

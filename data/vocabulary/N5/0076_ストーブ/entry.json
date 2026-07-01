@@ -1,0 +1,37 @@
+{
+  "id": "n5-0076",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ストーブ",
+  "display": "ストーブ",
+  "meanings_zh": [
+    "炉子",
+    "火炉",
+    "暖炉"
+  ],
+  "meanings_en": [
+    "heater"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ストーブ切った？",
+      "en": "Did you turn the stove off?"
+    },
+    {
+      "ja": "ストーブをつけた。",
+      "en": "I turned on the stove."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

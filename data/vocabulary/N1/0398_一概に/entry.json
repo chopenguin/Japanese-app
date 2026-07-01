@@ -1,0 +1,36 @@
+{
+  "id": "n1-0398",
+  "jlpt": "N1",
+  "kanji": "一概に",
+  "kana": "いちがいに",
+  "display": "一概に",
+  "meanings_zh": [
+    "一概",
+    "一律",
+    "无差别地",
+    "无例外地",
+    "笼统地"
+  ],
+  "meanings_en": [
+    "unconditionally",
+    "as a rule"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そうですね。一概には言えませんね。",
+      "en": "Yes, well, that depends."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

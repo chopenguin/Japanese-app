@@ -1,0 +1,43 @@
+{
+  "id": "n1-0533",
+  "jlpt": "N1",
+  "kanji": "化する",
+  "kana": "かする",
+  "display": "化する",
+  "meanings_zh": [
+    "化为",
+    "变成",
+    "化",
+    "使化为"
+  ],
+  "meanings_en": [
+    "to change into",
+    "to convert into",
+    "to transform",
+    "to be reduced",
+    "to influence",
+    "to improve (someone)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "年々公害が悪化する。",
+      "en": "From year to year, pollution is worsening."
+    },
+    {
+      "ja": "目的は手段を正当化する。",
+      "en": "The end justifies the means."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

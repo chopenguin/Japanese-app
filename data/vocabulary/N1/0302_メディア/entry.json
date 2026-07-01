@@ -1,0 +1,36 @@
+{
+  "id": "n1-0302",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "メディア",
+  "display": "メディア",
+  "meanings_zh": [
+    "手段",
+    "媒介"
+  ],
+  "meanings_en": [
+    "media"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "メディアが憎悪の痕跡を安売りする。",
+      "en": "The media sells a trace of hatred at bargain prices."
+    },
+    {
+      "ja": "彼女は歌手と言うよりはコメディアンだ。",
+      "en": "She is not so much a singer as a comedian."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

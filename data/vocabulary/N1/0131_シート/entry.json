@@ -1,0 +1,34 @@
+{
+  "id": "n1-0131",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "シート",
+  "display": "シート",
+  "meanings_zh": [],
+  "meanings_en": [
+    "seat",
+    "sheet"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これがレシートです。",
+      "en": "Here's my receipt."
+    },
+    {
+      "ja": "シートベルトはした？",
+      "en": "Did you fasten the seatbelt?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

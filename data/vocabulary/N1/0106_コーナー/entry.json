@@ -1,0 +1,38 @@
+{
+  "id": "n1-0106",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "コーナー",
+  "display": "コーナー",
+  "meanings_zh": [
+    "隅",
+    "角",
+    "角球",
+    "专柜"
+  ],
+  "meanings_en": [
+    "corner"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それから，最終コーナーで全力疾走に入った。",
+      "en": "And then, on the final turn, he began to sprint at full speed."
+    },
+    {
+      "ja": "その本なら、図書館の歴史コーナーにあるよ。",
+      "en": "You'll find that book in the historical section of the library."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

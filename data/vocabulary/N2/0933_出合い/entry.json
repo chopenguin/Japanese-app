@@ -1,0 +1,29 @@
+{
+  "id": "n2-0933",
+  "jlpt": "N2",
+  "kanji": "出合い",
+  "kana": "であい",
+  "display": "出合い",
+  "meanings_zh": [
+    "会合",
+    "碰见",
+    "相遇",
+    "相逢"
+  ],
+  "meanings_en": [
+    "an encounter"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

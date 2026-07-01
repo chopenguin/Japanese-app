@@ -1,0 +1,39 @@
+{
+  "id": "n1-0582",
+  "jlpt": "N1",
+  "kanji": "果たして",
+  "kana": "はたして",
+  "display": "果たして",
+  "meanings_zh": [
+    "果",
+    "果然",
+    "果真",
+    "到底"
+  ],
+  "meanings_en": [
+    "as was expected",
+    "really"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "水を使い果たしてしまった。",
+      "en": "We've run out of water."
+    },
+    {
+      "ja": "世界は石油を使い果たしています。",
+      "en": "The world is running out of oil."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

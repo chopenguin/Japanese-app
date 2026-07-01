@@ -1,0 +1,36 @@
+{
+  "id": "n1-0239",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ニュー",
+  "display": "ニュー",
+  "meanings_zh": [
+    "新",
+    "新式"
+  ],
+  "meanings_en": [
+    "new"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ニュースがもれた。",
+      "en": "The news leaked out."
+    },
+    {
+      "ja": "面白いニュースね。",
+      "en": "It's interesting news."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

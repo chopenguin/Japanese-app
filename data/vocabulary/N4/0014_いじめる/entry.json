@@ -1,0 +1,38 @@
+{
+  "id": "n4-0014",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "いじめる",
+  "display": "いじめる",
+  "meanings_zh": [
+    "欺负",
+    "虐待",
+    "欺侮",
+    "捉弄"
+  ],
+  "meanings_en": [
+    "to tease"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "新人をいじめるな。",
+      "en": "Do not harass the new people!"
+    },
+    {
+      "ja": "いじめるのはやめて！",
+      "en": "Stop bullying me!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

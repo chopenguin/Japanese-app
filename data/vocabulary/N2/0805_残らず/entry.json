@@ -1,0 +1,39 @@
+{
+  "id": "n2-0805",
+  "jlpt": "N2",
+  "kanji": "残らず",
+  "kana": "のこらず",
+  "display": "残らず",
+  "meanings_zh": [
+    "残余",
+    "剩余"
+  ],
+  "meanings_en": [
+    "all",
+    "entirely",
+    "completely",
+    "without exception"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "秘密を残らず打ち明けなさい。",
+      "en": "Make a clean breast of your secrets."
+    },
+    {
+      "ja": "彼は有り金を残らず奪われた。",
+      "en": "He was robbed of all his money."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n3-1705",
+  "jlpt": "N3",
+  "kanji": "予防",
+  "kana": "よぼう",
+  "display": "予防",
+  "meanings_zh": [
+    "预防"
+  ],
+  "meanings_en": [
+    "prevention",
+    "precaution",
+    "protection against"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "治療よりも予防。",
+      "en": "Prevention is better than cure."
+    },
+    {
+      "ja": "予防接種をするの？",
+      "en": "Will you get vaccinated?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

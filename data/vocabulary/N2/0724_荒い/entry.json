@@ -1,0 +1,40 @@
+{
+  "id": "n2-0724",
+  "jlpt": "N2",
+  "kanji": "荒い",
+  "kana": "あらい",
+  "display": "荒い",
+  "meanings_zh": [
+    "粗暴",
+    "剧烈",
+    "凶猛",
+    "乱～～"
+  ],
+  "meanings_en": [
+    "rough",
+    "rude",
+    "wild"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は運転が荒い。",
+      "en": "He drives roughly."
+    },
+    {
+      "ja": "彼は金使いが荒い。",
+      "en": "He is free with his money."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

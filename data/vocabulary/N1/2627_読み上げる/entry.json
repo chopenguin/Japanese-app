@@ -1,0 +1,39 @@
+{
+  "id": "n1-2627",
+  "jlpt": "N1",
+  "kanji": "読み上げる",
+  "kana": "よみあげる",
+  "display": "読み上げる",
+  "meanings_zh": [
+    "宣读",
+    "高声朗读",
+    "读完",
+    "念完"
+  ],
+  "meanings_en": [
+    "to read out loud (and clearly)",
+    "to call a roll"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私がこの本を読み上げるのに約１時間かかった。",
+      "en": "It took me about an hour to read this book through."
+    },
+    {
+      "ja": "私は彼らに向かってそれを読み上げる以外に仕方がなかった。",
+      "en": "I had no choice but to read it out to them."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n2-0019",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "アンテナ",
+  "display": "アンテナ",
+  "meanings_zh": [
+    "天线"
+  ],
+  "meanings_en": [
+    "antenna"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "テレビアンテナが昨夜のあらしでとれた。",
+      "en": "The TV antenna broke away in last night's storm."
+    },
+    {
+      "ja": "その男はアンテナを取り付けようとした。",
+      "en": "The man tried to install his own antenna."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

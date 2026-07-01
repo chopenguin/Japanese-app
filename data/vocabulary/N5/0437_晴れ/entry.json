@@ -1,0 +1,38 @@
+{
+  "id": "n5-0437",
+  "jlpt": "N5",
+  "kanji": "晴れ",
+  "kana": "はれ",
+  "display": "晴れ",
+  "meanings_zh": [
+    "晴",
+    "晴天",
+    "隆重",
+    "盛大"
+  ],
+  "meanings_en": [
+    "clear weather"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "晴れそうだ。",
+      "en": "The sky is likely to clear up."
+    },
+    {
+      "ja": "空が晴れた。",
+      "en": "The sky has become clear."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

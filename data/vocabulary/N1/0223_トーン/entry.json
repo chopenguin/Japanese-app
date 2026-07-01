@@ -1,0 +1,28 @@
+{
+  "id": "n1-0223",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "トーン",
+  "display": "トーン",
+  "meanings_zh": [
+    "调子",
+    "音调",
+    "色调"
+  ],
+  "meanings_en": [
+    "tone"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n3-0005",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "あした",
+  "display": "あした",
+  "meanings_zh": [],
+  "meanings_en": [
+    "tomorrow"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "またあしたね。",
+      "en": "See you tomorrow!"
+    },
+    {
+      "ja": "彼はあした来るかな。",
+      "en": "I wonder if he'll come tomorrow."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

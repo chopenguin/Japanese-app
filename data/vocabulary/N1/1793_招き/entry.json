@@ -1,0 +1,38 @@
+{
+  "id": "n1-1793",
+  "jlpt": "N1",
+  "kanji": "招き",
+  "kana": "まねき",
+  "display": "招き",
+  "meanings_zh": [
+    "招待",
+    "邀请",
+    "招聘",
+    "招揽观众的招牌"
+  ],
+  "meanings_en": [
+    "invitation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "黒猫は悪運を招きます。",
+      "en": "Black cats are bad luck."
+    },
+    {
+      "ja": "彼の妻は客を招きたかった。",
+      "en": "His wife liked inviting guests."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

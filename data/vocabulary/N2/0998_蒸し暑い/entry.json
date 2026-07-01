@@ -1,0 +1,36 @@
+{
+  "id": "n2-0998",
+  "jlpt": "N2",
+  "kanji": "蒸し暑い",
+  "kana": "むしあつい",
+  "display": "蒸し暑い",
+  "meanings_zh": [
+    "闷热"
+  ],
+  "meanings_en": [
+    "humid",
+    "sultry"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今日は蒸し暑い。",
+      "en": "It's a muggy day today."
+    },
+    {
+      "ja": "今日は蒸し暑いね？",
+      "en": "It's muggy today, isn't it?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

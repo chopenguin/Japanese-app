@@ -1,0 +1,39 @@
+{
+  "id": "n3-0541",
+  "jlpt": "N3",
+  "kanji": "救う",
+  "kana": "すくう",
+  "display": "救う",
+  "meanings_zh": [
+    "救",
+    "拯救",
+    "搭救",
+    "救援"
+  ],
+  "meanings_en": [
+    "to rescue from",
+    "to help out of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は彼女を救うために命をかけた。",
+      "en": "He risked his life to save her."
+    },
+    {
+      "ja": "平和しか世界を救うことはできない。",
+      "en": "Nothing but peace can save the world."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

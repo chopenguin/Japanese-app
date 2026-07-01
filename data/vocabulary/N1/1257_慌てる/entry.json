@@ -1,0 +1,38 @@
+{
+  "id": "n1-1257",
+  "jlpt": "N1",
+  "kanji": "慌てる",
+  "kana": "あわてる",
+  "display": "慌てる",
+  "meanings_zh": [
+    "惊慌",
+    "着慌",
+    "慌张",
+    "急急忙忙"
+  ],
+  "meanings_en": [
+    "to become confused (disconcerted  disorganized)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "慌てることは無駄を作る。",
+      "en": "Haste makes waste."
+    },
+    {
+      "ja": "慌てる必要はありません！",
+      "en": "Don't panic!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

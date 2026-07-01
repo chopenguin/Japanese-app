@@ -1,0 +1,42 @@
+{
+  "id": "n3-0241",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "（感）",
+  "display": "よろしく",
+  "meanings_zh": [
+    "适当地",
+    "请问好",
+    "请致意",
+    "请关照"
+  ],
+  "meanings_en": [
+    "well",
+    "properly",
+    "suitably",
+    "best regards",
+    "please remember me"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "よろしくね！",
+      "en": "It's nice to meet you!"
+    },
+    {
+      "ja": "後はよろしく。",
+      "en": "Take care of the rest."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

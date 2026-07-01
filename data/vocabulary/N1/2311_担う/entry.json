@@ -1,0 +1,36 @@
+{
+  "id": "n1-2311",
+  "jlpt": "N1",
+  "kanji": "担う",
+  "kana": "になう",
+  "display": "担う",
+  "meanings_zh": [
+    "担",
+    "挑",
+    "肩负",
+    "担负"
+  ],
+  "meanings_en": [
+    "to carry on shoulder",
+    "to bear (burden)",
+    "to shoulder (gun)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "東南アジアのインフラ整備で日本が中心的役割を担うため、官民一体となった努力が求められている。",
+      "en": "In order for Japan to play a central role in the infrastructural improvement of Southeast Asia, tremendous effort between its government and people is required."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

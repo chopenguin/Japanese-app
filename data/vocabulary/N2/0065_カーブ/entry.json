@@ -1,0 +1,39 @@
+{
+  "id": "n2-0065",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "カーブ",
+  "display": "カーブ",
+  "meanings_zh": [
+    "弯曲",
+    "曲线",
+    "转弯",
+    "拐弯"
+  ],
+  "meanings_en": [
+    "(1) curve",
+    "(2) curve ball (baseball)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は右に急カーブした。",
+      "en": "He made a sharp turn to the right."
+    },
+    {
+      "ja": "球はわずかにカーブした。",
+      "en": "The ball curved slightly."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

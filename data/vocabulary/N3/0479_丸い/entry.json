@@ -1,0 +1,40 @@
+{
+  "id": "n3-0479",
+  "jlpt": "N3",
+  "kanji": "丸い",
+  "kana": "まるい",
+  "display": "丸い",
+  "meanings_zh": [
+    "圆",
+    "圆形",
+    "球形",
+    "圆满"
+  ],
+  "meanings_en": [
+    "round",
+    "circular",
+    "spherical"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "地球は丸い。",
+      "en": "The earth is round."
+    },
+    {
+      "ja": "ボールは丸い。",
+      "en": "Balls are round."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

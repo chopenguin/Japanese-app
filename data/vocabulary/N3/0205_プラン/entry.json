@@ -1,0 +1,38 @@
+{
+  "id": "n3-0205",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "プラン",
+  "display": "プラン",
+  "meanings_zh": [
+    "计划",
+    "方案",
+    "设计图",
+    "平面图"
+  ],
+  "meanings_en": [
+    "plan"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "週末のプランは？",
+      "en": "What are you going to do over the weekend?"
+    },
+    {
+      "ja": "何かプランはあるの？",
+      "en": "Do you have a plan?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n3-0061",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "キロ",
+  "display": "キロ",
+  "meanings_zh": [
+    "千"
+  ],
+  "meanings_en": [
+    "(abbr) kilo-",
+    "kilogram",
+    "kilometre",
+    "10^3"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "体重何キロ？",
+      "en": "How much do you weigh?"
+    },
+    {
+      "ja": "何キロ減ったの？",
+      "en": "How many kilograms did you lose?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

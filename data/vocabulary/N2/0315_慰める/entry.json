@@ -1,0 +1,39 @@
+{
+  "id": "n2-0315",
+  "jlpt": "N2",
+  "kanji": "慰める",
+  "kana": "なぐさめる",
+  "display": "慰める",
+  "meanings_zh": [
+    "安慰",
+    "宽慰",
+    "使快意",
+    "使舒畅"
+  ],
+  "meanings_en": [
+    "to comfort",
+    "to console"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は彼女を慰めることができる。",
+      "en": "I can comfort her."
+    },
+    {
+      "ja": "僕らはトムを慰める必要がある。",
+      "en": "We need to comfort Tom."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

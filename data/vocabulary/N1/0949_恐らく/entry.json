@@ -1,0 +1,39 @@
+{
+  "id": "n1-0949",
+  "jlpt": "N1",
+  "kanji": "恐らく",
+  "kana": "おそらく",
+  "display": "恐らく",
+  "meanings_zh": [
+    "恐怕",
+    "大概",
+    "或许",
+    "很可能",
+    "估计"
+  ],
+  "meanings_en": [
+    "perhaps"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "恐らく時間がない。",
+      "en": "I'm afraid there is no time."
+    },
+    {
+      "ja": "恐らく、私のせいね。",
+      "en": "It's probably my fault."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

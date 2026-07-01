@@ -1,0 +1,39 @@
+{
+  "id": "n2-1163",
+  "jlpt": "N2",
+  "kanji": "掻く",
+  "kana": "かく",
+  "display": "掻く",
+  "meanings_zh": [
+    "搔",
+    "挠",
+    "扫",
+    "耙"
+  ],
+  "meanings_en": [
+    "to scratch",
+    "to perspire"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は頭を掻く癖がある。",
+      "en": "He has the habit of scratching his head."
+    },
+    {
+      "ja": "その社会学者は背中を掻く癖がある。",
+      "en": "The sociologist has a habit of scratching his back."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

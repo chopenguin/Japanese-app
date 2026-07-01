@@ -1,0 +1,39 @@
+{
+  "id": "n1-0609",
+  "jlpt": "N1",
+  "kanji": "過ぎ",
+  "kana": "すぎ",
+  "display": "過ぎ",
+  "meanings_zh": [
+    "超过",
+    "开外",
+    "过度",
+    "太"
+  ],
+  "meanings_en": [
+    "past",
+    "after"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "夏は過ぎた。",
+      "en": "The summer is over."
+    },
+    {
+      "ja": "静か過ぎる。",
+      "en": "It's too quiet."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

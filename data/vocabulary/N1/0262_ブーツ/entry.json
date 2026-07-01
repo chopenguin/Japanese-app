@@ -1,0 +1,35 @@
+{
+  "id": "n1-0262",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ブーツ",
+  "display": "ブーツ",
+  "meanings_zh": [
+    "长筒皮靴"
+  ],
+  "meanings_en": [
+    "boots"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ブーツは脱いで。",
+      "en": "Take off your boots."
+    },
+    {
+      "ja": "これはトムのブーツだ。",
+      "en": "These are Tom's boots."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

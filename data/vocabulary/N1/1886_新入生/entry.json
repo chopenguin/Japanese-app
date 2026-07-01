@@ -1,0 +1,34 @@
+{
+  "id": "n1-1886",
+  "jlpt": "N1",
+  "kanji": "新入生",
+  "kana": "しんにゅうせい",
+  "display": "新入生",
+  "meanings_zh": [],
+  "meanings_en": [
+    "freshman",
+    "first-year student"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は新入生です。",
+      "en": "I am a new student."
+    },
+    {
+      "ja": "君達は新入生です。",
+      "en": "You are new students."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

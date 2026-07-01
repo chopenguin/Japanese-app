@@ -1,0 +1,41 @@
+{
+  "id": "n1-2743",
+  "jlpt": "N1",
+  "kanji": "剥ぐ",
+  "kana": "はぐ",
+  "display": "剥ぐ",
+  "meanings_zh": [
+    "剥下",
+    "揭下",
+    "扒下",
+    "剥夺"
+  ],
+  "meanings_en": [
+    "to tear off",
+    "to peel off",
+    "to rip off",
+    "to strip off",
+    "to skin",
+    "to flay",
+    "to disrobe",
+    "to deprive of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私はその日、彼らが人間の生皮を剥ぐのを見た。",
+      "en": "I watched them skin a human being that day."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n2-1098",
+  "jlpt": "N2",
+  "kanji": "生ずる",
+  "kana": "しょうずる",
+  "display": "生ずる",
+  "meanings_zh": [
+    "生",
+    "长",
+    "产生",
+    "发生"
+  ],
+  "meanings_en": [
+    "to cause",
+    "to arise",
+    "to be generated"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "再開発によって地域に便益が生ずる。",
+      "en": "Benefits accrue to the community from reconstruction."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

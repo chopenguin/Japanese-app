@@ -1,0 +1,38 @@
+{
+  "id": "n4-0200",
+  "jlpt": "N4",
+  "kanji": "壊す",
+  "kana": "こわす",
+  "display": "壊す",
+  "meanings_zh": [
+    "弄坏",
+    "毁坏",
+    "弄碎",
+    "损害"
+  ],
+  "meanings_en": [
+    "to break"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "文化は言語を破壊する。",
+      "en": "Culture destroys language."
+    },
+    {
+      "ja": "彼の政権はきっと崩壊する。",
+      "en": "His regime is bound to collapse."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

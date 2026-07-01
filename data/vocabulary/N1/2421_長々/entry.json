@@ -1,0 +1,35 @@
+{
+  "id": "n1-2421",
+  "jlpt": "N1",
+  "kanji": "長々",
+  "kana": "ながなが",
+  "display": "長々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "long",
+    "drawn-out",
+    "very long"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は床の上に長々と横になった。",
+      "en": "He lay at full length on the floor."
+    },
+    {
+      "ja": "猫が屋根の上に長々と寝そべっていた。",
+      "en": "A cat lay at full length on the roof."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

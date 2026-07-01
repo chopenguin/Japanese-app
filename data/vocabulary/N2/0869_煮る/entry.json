@@ -1,0 +1,38 @@
+{
+  "id": "n2-0869",
+  "jlpt": "N2",
+  "kanji": "煮る",
+  "kana": "にる",
+  "display": "煮る",
+  "meanings_zh": [
+    "煮",
+    "炖",
+    "熬"
+  ],
+  "meanings_en": [
+    "to boil",
+    "to cook"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "くたくたに煮る。",
+      "en": "Reduce to pulp by boiling."
+    },
+    {
+      "ja": "煮るなり焼くなり、好きにしてくれ。",
+      "en": "Do as you please."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

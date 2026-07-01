@@ -1,0 +1,38 @@
+{
+  "id": "n4-0144",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "もちろん",
+  "display": "もちろん",
+  "meanings_zh": [
+    "当然",
+    "不用说",
+    "不消说",
+    "甭说"
+  ],
+  "meanings_en": [
+    "of course"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "もちろんさ。",
+      "en": "Of course."
+    },
+    {
+      "ja": "もちろんだよ！",
+      "en": "Definitely!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

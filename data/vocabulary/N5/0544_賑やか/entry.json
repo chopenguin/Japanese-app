@@ -1,0 +1,39 @@
+{
+  "id": "n5-0544",
+  "jlpt": "N5",
+  "kanji": "賑やか",
+  "kana": "にぎやか",
+  "display": "賑やか",
+  "meanings_zh": [
+    "热闹",
+    "熙熙攘攘",
+    "繁华",
+    "繁盛"
+  ],
+  "meanings_en": [
+    "bustling",
+    "busy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この通りは賑やかだ。",
+      "en": "This street is lively."
+    },
+    {
+      "ja": "彼の店は町の賑やかな区域にある。",
+      "en": "His shop is in a busy section of town."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

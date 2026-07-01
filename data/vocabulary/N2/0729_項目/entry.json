@@ -1,0 +1,33 @@
+{
+  "id": "n2-0729",
+  "jlpt": "N2",
+  "kanji": "項目",
+  "kana": "こうもく",
+  "display": "項目",
+  "meanings_zh": [],
+  "meanings_en": [
+    "item"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これは何の項目に入るか。",
+      "en": "What heading does this come under?"
+    },
+    {
+      "ja": "アンケートの項目が多すぎる。",
+      "en": "There are too many items in the survey."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

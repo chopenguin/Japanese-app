@@ -1,0 +1,33 @@
+{
+  "id": "n1-0110",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "コマーシャル",
+  "display": "コマーシャル",
+  "meanings_zh": [],
+  "meanings_en": [
+    "a commercial"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "テレビ番組にはコマーシャルが入る。",
+      "en": "Television programs are interspersed with commercials."
+    },
+    {
+      "ja": "そのテレビコマーシャルの受けがよい。",
+      "en": "The TV commercial is drawing well."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

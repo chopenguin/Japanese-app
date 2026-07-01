@@ -1,0 +1,36 @@
+{
+  "id": "n1-0160",
+  "jlpt": "N1",
+  "kanji": "ずぶ濡れ",
+  "kana": "ずぶぬれ",
+  "display": "ずぶ濡れ",
+  "meanings_zh": [
+    "全身湿透"
+  ],
+  "meanings_en": [
+    "soaked",
+    "dripping wet"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ずぶ濡れじゃないか。",
+      "en": "You're soaking wet."
+    },
+    {
+      "ja": "トムはずぶ濡れです。",
+      "en": "Tom is soaking wet."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

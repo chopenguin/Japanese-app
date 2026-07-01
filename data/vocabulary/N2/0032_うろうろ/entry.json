@@ -1,0 +1,35 @@
+{
+  "id": "n2-0032",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "うろうろ",
+  "display": "うろうろ",
+  "meanings_zh": [
+    "彷徨",
+    "徘徊",
+    "转来转去",
+    "惊慌失措"
+  ],
+  "meanings_en": [
+    "loiteringly",
+    "aimless wandering"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今日一日当ても無くうろうろした。",
+      "en": "I wandered about aimlessly all day."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

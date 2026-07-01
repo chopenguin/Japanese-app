@@ -1,0 +1,40 @@
+{
+  "id": "n2-0991",
+  "jlpt": "N2",
+  "kanji": "上る",
+  "kana": "のぼる",
+  "display": "上る",
+  "meanings_zh": [
+    "上",
+    "登",
+    "攀登",
+    "上升"
+  ],
+  "meanings_en": [
+    "to ascend",
+    "to go up",
+    "to climb"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "月は東から上る。",
+      "en": "The moon rises in the east."
+    },
+    {
+      "ja": "口あれば京へ上る。",
+      "en": "If you are up for it, let's go!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

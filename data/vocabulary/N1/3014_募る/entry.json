@@ -1,0 +1,39 @@
+{
+  "id": "n1-3014",
+  "jlpt": "N1",
+  "kanji": "募る",
+  "kana": "つのる",
+  "display": "募る",
+  "meanings_zh": [
+    "越来越厉害",
+    "招",
+    "招募",
+    "募"
+  ],
+  "meanings_en": [
+    "to invite",
+    "to solicit help  participation  etc"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "寒さは募る一方です。",
+      "en": "The cold just grows stronger."
+    },
+    {
+      "ja": "社会保険庁や厚生労働省への不信感は募る一方である。",
+      "en": "Distrust of the Social Insurance Agency and the Ministry of Health, Labour and Welfare just keeps getting stronger."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n2-1283",
+  "jlpt": "N2",
+  "kanji": "注す",
+  "kana": "さす",
+  "display": "注す",
+  "meanings_zh": [
+    "注入",
+    "倒进",
+    "加进",
+    "掺进"
+  ],
+  "meanings_en": [
+    "to pour (drink)",
+    "to serve (drinks)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "市販の家具ではサイズが合わないから、家具を特注する。",
+      "en": "Ready-made furniture won't fit, so I'll order it custom-made."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

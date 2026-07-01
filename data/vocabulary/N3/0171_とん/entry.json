@@ -1,0 +1,33 @@
+{
+  "id": "n3-0171",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "（1000",
+  "display": "とん",
+  "meanings_zh": [],
+  "meanings_en": [
+    "ton"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "とんでもない！",
+      "en": "No way!"
+    },
+    {
+      "ja": "本はほとんどない。",
+      "en": "They have few books."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n3-0877",
+  "jlpt": "N3",
+  "kanji": "実は",
+  "kana": "じつは",
+  "display": "実は",
+  "meanings_zh": [
+    "说真的",
+    "老实说",
+    "事实是",
+    "说实在的",
+    "其实"
+  ],
+  "meanings_en": [
+    "as a matter of fact",
+    "by the way"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "実は、退屈なんだ。",
+      "en": "To tell you the truth, I'm bored."
+    },
+    {
+      "ja": "真実は必ず勝つさ。",
+      "en": "The truth will always win."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

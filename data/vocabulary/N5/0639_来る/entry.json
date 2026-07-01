@@ -1,0 +1,38 @@
+{
+  "id": "n5-0639",
+  "jlpt": "N5",
+  "kanji": "来る",
+  "kana": "くる",
+  "display": "来る",
+  "meanings_zh": [
+    "来",
+    "来到",
+    "来临",
+    "到来"
+  ],
+  "meanings_en": [
+    "to come"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "先生が来る。",
+      "en": "There comes our teacher."
+    },
+    {
+      "ja": "明日来るの？",
+      "en": "Are you coming tomorrow?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n3-1728",
+  "jlpt": "N3",
+  "kanji": "頼る",
+  "kana": "たよる",
+  "display": "頼る",
+  "meanings_zh": [
+    "依靠",
+    "仰仗",
+    "依仗",
+    "倚赖"
+  ],
+  "meanings_en": [
+    "to rely on",
+    "to have recourse to",
+    "to depend on"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼に頼るな。",
+      "en": "Don't rely on him."
+    },
+    {
+      "ja": "他人に頼るな。",
+      "en": "Don't rely on others."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

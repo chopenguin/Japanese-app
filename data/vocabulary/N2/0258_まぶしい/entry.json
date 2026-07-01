@@ -1,0 +1,34 @@
+{
+  "id": "n2-0258",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "まぶしい",
+  "display": "まぶしい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "dazzling",
+    "radiant"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "太陽がまぶしい。",
+      "en": "My eyes are dazzled by the sun."
+    },
+    {
+      "ja": "クエーサーとは、非常に遠方にある、まぶしい輝きを放つ天体だ。",
+      "en": "Quasars are brilliantly shining heavenly bodies that are extremely far away."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

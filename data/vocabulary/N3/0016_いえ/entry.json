@@ -1,0 +1,33 @@
+{
+  "id": "n3-0016",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "いえ",
+  "display": "いえ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "TODO same as いいえ?"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "いえ、結構です。",
+      "en": "No, thank you."
+    },
+    {
+      "ja": "いいえ、少しも。",
+      "en": "Not at all."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

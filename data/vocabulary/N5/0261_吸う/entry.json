@@ -1,0 +1,39 @@
+{
+  "id": "n5-0261",
+  "jlpt": "N5",
+  "kanji": "吸う",
+  "kana": "すう",
+  "display": "吸う",
+  "meanings_zh": [
+    "吸",
+    "吸入",
+    "吮",
+    "吮吸"
+  ],
+  "meanings_en": [
+    "to smoke",
+    "to suck"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "紙は油を吸うよ。",
+      "en": "Paper absorbs oil."
+    },
+    {
+      "ja": "そんなに吸うな。",
+      "en": "Don't smoke so much."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n1-0256",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "びり",
+  "display": "びり",
+  "meanings_zh": [
+    "最后",
+    "末尾",
+    "倒数第一"
+  ],
+  "meanings_en": [
+    "last on the list",
+    "at the bottom"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "のんびり行こう。",
+      "en": "Take it easy."
+    },
+    {
+      "ja": "のんびりいこうよ。",
+      "en": "Let's take it easy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

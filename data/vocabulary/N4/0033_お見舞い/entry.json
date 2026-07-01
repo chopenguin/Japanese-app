@@ -1,0 +1,34 @@
+{
+  "id": "n4-0033",
+  "jlpt": "N4",
+  "kanji": "お見舞い",
+  "kana": "おみまい",
+  "display": "お見舞い",
+  "meanings_zh": [],
+  "meanings_en": [
+    "calling on someone who is ill",
+    "enquiry"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お見舞いありがとう。",
+      "en": "Thank you for coming."
+    },
+    {
+      "ja": "彼女のお見舞いに行こうよ。",
+      "en": "Why don't we go and see her in the hospital?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

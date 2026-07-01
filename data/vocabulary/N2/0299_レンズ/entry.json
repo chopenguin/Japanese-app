@@ -1,0 +1,38 @@
+{
+  "id": "n2-0299",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "レンズ",
+  "display": "レンズ",
+  "meanings_zh": [
+    "透镜",
+    "镜片",
+    "镜头",
+    "晶状体"
+  ],
+  "meanings_en": [
+    "lens"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "レンズだけ交換できますか。",
+      "en": "Can I buy only the lenses?"
+    },
+    {
+      "ja": "コンタクトレンズはあった？",
+      "en": "Did you find your contact lenses?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

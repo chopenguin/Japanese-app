@@ -1,0 +1,38 @@
+{
+  "id": "n1-0436",
+  "jlpt": "N1",
+  "kanji": "引き起こす",
+  "kana": "ひきおこす",
+  "display": "引き起こす",
+  "meanings_zh": [
+    "引起",
+    "惹起",
+    "扶起",
+    "拉起"
+  ],
+  "meanings_en": [
+    "to cause"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "肺炎は呼吸困難を引き起こす。",
+      "en": "Pneumonia causes difficulty in breathing."
+    },
+    {
+      "ja": "タバコの煙はガンを引き起こす。",
+      "en": "Tobacco smoke is productive of cancer."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

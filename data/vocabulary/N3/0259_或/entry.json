@@ -1,0 +1,34 @@
+{
+  "id": "n3-0259",
+  "jlpt": "N3",
+  "kanji": "或",
+  "kana": "ある",
+  "display": "或",
+  "meanings_zh": [],
+  "meanings_en": [
+    "a certain...",
+    "some..."
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "君に或る物を見せましょう。",
+      "en": "I'll show you something."
+    },
+    {
+      "ja": "或る夕暮私はこの丘の上に立ったことがある。",
+      "en": "There was a time, one evening, when I stood on top of that hill."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

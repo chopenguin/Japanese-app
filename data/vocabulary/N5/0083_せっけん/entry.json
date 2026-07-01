@@ -1,0 +1,33 @@
+{
+  "id": "n5-0083",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "せっけん",
+  "display": "せっけん",
+  "meanings_zh": [],
+  "meanings_en": [
+    "economy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "せっけんで手を洗いました。",
+      "en": "I washed my hands with soap."
+    },
+    {
+      "ja": "彼は昨日せっけんを６個買った。",
+      "en": "He bought six cakes of soap yesterday."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

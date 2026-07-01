@@ -1,0 +1,39 @@
+{
+  "id": "n2-1468",
+  "jlpt": "N2",
+  "kanji": "泊める",
+  "kana": "とめる",
+  "display": "泊める",
+  "meanings_zh": [
+    "留住宿",
+    "留住下",
+    "让过夜",
+    "收容"
+  ],
+  "meanings_en": [
+    "to give shelter to",
+    "to lodge"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "一晩彼を泊めることができる。",
+      "en": "We can accommodate him for the night."
+    },
+    {
+      "ja": "そのホテルは４００人の客を泊めることができる。",
+      "en": "The hotel can accommodate 400 guests."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n3-0720",
+  "jlpt": "N3",
+  "kanji": "向く",
+  "kana": "むく",
+  "display": "向く",
+  "meanings_zh": [
+    "向",
+    "朝",
+    "对",
+    "倾向"
+  ],
+  "meanings_en": [
+    "to face"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "足の向くままに歩いた。",
+      "en": "We let our legs do the leading."
+    },
+    {
+      "ja": "北を向くと、東は右側になる。",
+      "en": "If you face north, the east is on your right."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

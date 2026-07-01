@@ -1,0 +1,36 @@
+{
+  "id": "n1-2926",
+  "jlpt": "N1",
+  "kanji": "物好き",
+  "kana": "ものずき",
+  "display": "物好き",
+  "meanings_zh": [
+    "好奇",
+    "好事"
+  ],
+  "meanings_en": [
+    "curiosity"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "甘い物好きですか。",
+      "en": "Do you care for sweets?"
+    },
+    {
+      "ja": "トムは新し物好きだ。",
+      "en": "Tom likes trying out new things."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

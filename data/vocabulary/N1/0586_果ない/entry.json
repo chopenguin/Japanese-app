@@ -1,0 +1,32 @@
+{
+  "id": "n1-0586",
+  "jlpt": "N1",
+  "kanji": "果ない",
+  "kana": "はかない",
+  "display": "果ない",
+  "meanings_zh": [],
+  "meanings_en": [
+    "fleeting",
+    "transient",
+    "short-lived",
+    "momentary",
+    "vain",
+    "fickle",
+    "miserable",
+    "empty",
+    "ephemeral"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

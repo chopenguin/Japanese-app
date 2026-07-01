@@ -1,0 +1,34 @@
+{
+  "id": "n1-2976",
+  "jlpt": "N1",
+  "kanji": "片付け",
+  "kana": "かたづけ",
+  "display": "片付け",
+  "meanings_zh": [],
+  "meanings_en": [
+    "tidying up",
+    "finishing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "片付けなさいよ。",
+      "en": "Straighten up."
+    },
+    {
+      "ja": "私は机を片付けた。",
+      "en": "I cleared up my desk."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

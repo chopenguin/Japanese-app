@@ -1,0 +1,33 @@
+{
+  "id": "n4-0022",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "うれしい",
+  "display": "うれしい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "glad"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "会えてうれしいよ。",
+      "en": "Nice to see you."
+    },
+    {
+      "ja": "僕はとてもうれしい。",
+      "en": "I'm very happy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

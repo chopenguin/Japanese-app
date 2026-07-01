@@ -1,0 +1,38 @@
+{
+  "id": "n3-0220",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "まさか",
+  "display": "まさか",
+  "meanings_zh": [
+    "难道",
+    "决(不)～～",
+    "万也(想不到",
+    "不会)～～"
+  ],
+  "meanings_en": [
+    "by no means"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "まさか秘密か？",
+      "en": "Is it a secret?"
+    },
+    {
+      "ja": "まさか、嘘でしょう。",
+      "en": "You must be kidding!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n2-0200",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "なんとも",
+  "display": "なんとも",
+  "meanings_zh": [],
+  "meanings_en": [
+    "nothing (with neg. verb)",
+    "quite",
+    "not a bit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私はなんともありません。",
+      "en": "Nothing is the matter with me."
+    },
+    {
+      "ja": "なんとも面目ありません。",
+      "en": "I have no excuse."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n3-0405",
+  "jlpt": "N3",
+  "kanji": "回す",
+  "kana": "まわす",
+  "display": "回す",
+  "meanings_zh": [
+    "转",
+    "转动",
+    "拧",
+    "扭转"
+  ],
+  "meanings_en": [
+    "to turn",
+    "to revolve"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼を敵に回すな。",
+      "en": "Don't make an enemy of him."
+    },
+    {
+      "ja": "前言撤回するよ。",
+      "en": "I'll take back what I said."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

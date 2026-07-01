@@ -1,0 +1,33 @@
+{
+  "id": "n2-0098",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "こちらこそ",
+  "display": "こちらこそ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "it is I who should say so"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "こちらこそ。",
+      "en": "The pleasure is mine."
+    },
+    {
+      "ja": "こちらこそ、はじめまして。",
+      "en": "Nice to meet you too."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

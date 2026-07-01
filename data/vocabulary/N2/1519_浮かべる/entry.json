@@ -1,0 +1,37 @@
+{
+  "id": "n2-1519",
+  "jlpt": "N2",
+  "kanji": "浮かべる",
+  "kana": "うかべる",
+  "display": "浮かべる",
+  "meanings_zh": [
+    "浮",
+    "泛",
+    "出现",
+    "想起"
+  ],
+  "meanings_en": [
+    "to float",
+    "to express",
+    "to look (sad",
+    "glad)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "家族のことを思い浮かべるといえが恋しくなる。",
+      "en": "I feel homesick when I remember my family."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

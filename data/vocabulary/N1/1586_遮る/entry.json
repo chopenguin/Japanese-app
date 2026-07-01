@@ -1,0 +1,31 @@
+{
+  "id": "n1-1586",
+  "jlpt": "N1",
+  "kanji": "遮る",
+  "kana": "さえぎる",
+  "display": "遮る",
+  "meanings_zh": [
+    "遮",
+    "遮挡",
+    "遮住",
+    "遮蔽"
+  ],
+  "meanings_en": [
+    "to interrupt",
+    "to intercept",
+    "to obstruct"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

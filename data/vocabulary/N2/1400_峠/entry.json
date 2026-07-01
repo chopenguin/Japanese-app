@@ -1,0 +1,35 @@
+{
+  "id": "n2-1400",
+  "jlpt": "N2",
+  "kanji": "峠",
+  "kana": "とうげ",
+  "display": "峠",
+  "meanings_zh": [],
+  "meanings_en": [
+    "ridge",
+    "(mountain) pass",
+    "difficult part"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ブームは峠を越した。",
+      "en": "The boom has peaked out."
+    },
+    {
+      "ja": "病人はもう峠を越した。",
+      "en": "The patient is now safe."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

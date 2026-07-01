@@ -1,0 +1,38 @@
+{
+  "id": "n3-0495",
+  "jlpt": "N3",
+  "kanji": "幾つ",
+  "kana": "いくつ",
+  "display": "幾つ",
+  "meanings_zh": [
+    "几个",
+    "多少",
+    "几岁"
+  ],
+  "meanings_en": [
+    "how many?",
+    "how old?"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お幾つですか？",
+      "en": "How old are you?"
+    },
+    {
+      "ja": "靴は幾つある？",
+      "en": "How many shoes are there?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

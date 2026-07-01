@@ -1,0 +1,33 @@
+{
+  "id": "n5-0060",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "こちら",
+  "display": "こちら",
+  "meanings_zh": [],
+  "meanings_en": [
+    "this person or way"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "こちらこそ。",
+      "en": "The pleasure is mine."
+    },
+    {
+      "ja": "こちらは娘です。",
+      "en": "This is my daughter."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n2-1659",
+  "jlpt": "N2",
+  "kanji": "儲かる",
+  "kana": "もうかる",
+  "display": "儲かる",
+  "meanings_zh": [
+    "赚钱",
+    "赚",
+    "得便宜",
+    "捡便宜"
+  ],
+  "meanings_en": [
+    "to be profitable",
+    "to yield a profit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "弁護士は儲かる。",
+      "en": "Lawyers make a lot of money."
+    },
+    {
+      "ja": "サッカー選手は儲かる。",
+      "en": "Footballers make a lot of money."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

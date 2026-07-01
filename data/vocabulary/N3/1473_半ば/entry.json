@@ -1,0 +1,42 @@
+{
+  "id": "n3-1473",
+  "jlpt": "N3",
+  "kanji": "半ば",
+  "kana": "なかば",
+  "display": "半ば",
+  "meanings_zh": [
+    "中央",
+    "中间",
+    "半途",
+    "中途"
+  ],
+  "meanings_en": [
+    "middle",
+    "half",
+    "semi",
+    "halfway",
+    "partly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "始めよければ半ば成功。",
+      "en": "Well begun is half done."
+    },
+    {
+      "ja": "トムは３０代半ばだよ。",
+      "en": "Tom is in his mid-thirties."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

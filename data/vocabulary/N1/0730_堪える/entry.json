@@ -1,0 +1,47 @@
+{
+  "id": "n1-0730",
+  "jlpt": "N1",
+  "kanji": "堪える",
+  "kana": "こたえる",
+  "display": "堪える",
+  "meanings_zh": [
+    "忍耐",
+    "忍受",
+    "支持",
+    "维持"
+  ],
+  "meanings_en": [
+    "to bear",
+    "to stand",
+    "to endure",
+    "to put up with",
+    "to support",
+    "to withstand",
+    "to resist",
+    "to brave",
+    "to be fit for",
+    "t"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は十分その職に堪える。",
+      "en": "He's quite able at his job."
+    },
+    {
+      "ja": "その板は重さに堪えるに十分な強度がある。",
+      "en": "The board is strong enough to bear the weight."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

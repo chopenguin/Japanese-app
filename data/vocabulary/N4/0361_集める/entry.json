@@ -1,0 +1,38 @@
+{
+  "id": "n4-0361",
+  "jlpt": "N4",
+  "kanji": "集める",
+  "kana": "あつめる",
+  "display": "集める",
+  "meanings_zh": [
+    "集合",
+    "招集",
+    "吸引",
+    "收集"
+  ],
+  "meanings_en": [
+    "to collect something"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "はがきを集める。",
+      "en": "I collect postcards."
+    },
+    {
+      "ja": "彼は古銭を集めるのが好きだ。",
+      "en": "He likes collecting old coins."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

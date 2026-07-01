@@ -1,0 +1,40 @@
+{
+  "id": "n3-0694",
+  "jlpt": "N3",
+  "kanji": "限る",
+  "kana": "かぎる",
+  "display": "限る",
+  "meanings_zh": [
+    "限",
+    "限定",
+    "限制",
+    "限于"
+  ],
+  "meanings_en": [
+    "to restrict",
+    "to limit",
+    "to confine"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "夏はスイカに限る！",
+      "en": "In summer it's watermelon or nothing!"
+    },
+    {
+      "ja": "ハイキングは秋に限る。",
+      "en": "Autumn is the best season for going on hikes."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

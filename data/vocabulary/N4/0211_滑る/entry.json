@@ -1,0 +1,39 @@
+{
+  "id": "n4-0211",
+  "jlpt": "N4",
+  "kanji": "滑る",
+  "kana": "すべる",
+  "display": "滑る",
+  "meanings_zh": [
+    "滑行",
+    "滑动",
+    "滑",
+    "滑溜"
+  ],
+  "meanings_en": [
+    "to slide",
+    "to slip"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "スキーは滑る？",
+      "en": "Do you ski?"
+    },
+    {
+      "ja": "あの子、上手に滑るねぇ！",
+      "en": "How well that girl skis!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

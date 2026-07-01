@@ -1,0 +1,33 @@
+{
+  "id": "n2-1433",
+  "jlpt": "N2",
+  "kanji": "日用品",
+  "kana": "にちようひん",
+  "display": "日用品",
+  "meanings_zh": [],
+  "meanings_en": [
+    "daily necessities"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "日用品の値段が上がった。",
+      "en": "Daily commodities increased in price."
+    },
+    {
+      "ja": "日用品売り場は何階でしょうか。",
+      "en": "What floor is the daily goods department on?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

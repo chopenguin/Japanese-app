@@ -1,0 +1,38 @@
+{
+  "id": "n1-0224",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ドライ",
+  "display": "ドライ",
+  "meanings_zh": [
+    "干",
+    "干燥",
+    "干旱",
+    "干巴巴"
+  ],
+  "meanings_en": [
+    "dry"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ドライブとかどう？",
+      "en": "What do you say to going for a drive?"
+    },
+    {
+      "ja": "彼はドライですからね。",
+      "en": "He's dry and unemotional."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

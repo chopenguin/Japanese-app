@@ -1,0 +1,42 @@
+{
+  "id": "n1-3275",
+  "jlpt": "N1",
+  "kanji": "来る",
+  "kana": "きたる",
+  "display": "来る",
+  "meanings_zh": [
+    "来",
+    "到来",
+    "引起",
+    "发生"
+  ],
+  "meanings_en": [
+    "to come",
+    "to arrive",
+    "to be due to",
+    "to be next",
+    "to be forthcoming"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "先生が来る。",
+      "en": "There comes our teacher."
+    },
+    {
+      "ja": "明日来るの？",
+      "en": "Are you coming tomorrow?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

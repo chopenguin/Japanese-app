@@ -1,0 +1,42 @@
+{
+  "id": "n3-1562",
+  "jlpt": "N3",
+  "kanji": "分野",
+  "kana": "ぶんや",
+  "display": "分野",
+  "meanings_zh": [
+    "领域",
+    "范围",
+    "战线",
+    "方面"
+  ],
+  "meanings_en": [
+    "field",
+    "sphere",
+    "realm",
+    "division",
+    "branch"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "君の専攻分野は何ですか。",
+      "en": "What's your major field?"
+    },
+    {
+      "ja": "これが一番得意な分野です。",
+      "en": "This is my favourite subject."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

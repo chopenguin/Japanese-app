@@ -1,0 +1,34 @@
+{
+  "id": "n2-0945",
+  "jlpt": "N2",
+  "kanji": "順々",
+  "kana": "じゅんじゅん",
+  "display": "順々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "in order",
+    "in turn"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "少年たちは皆順々に話した。",
+      "en": "All the boys spoke in turn."
+    },
+    {
+      "ja": "少年たちは順々にしゃべった。",
+      "en": "All the boys spoke each in turn."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

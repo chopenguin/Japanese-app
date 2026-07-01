@@ -1,0 +1,38 @@
+{
+  "id": "n1-0251",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "パンク",
+  "display": "パンク",
+  "meanings_zh": [
+    "放炮",
+    "撑破"
+  ],
+  "meanings_en": [
+    "1.  (abbr) puncture",
+    "bursting",
+    "2.  punk"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "畜生、パンクだ。",
+      "en": "Shit! I've got a flat."
+    },
+    {
+      "ja": "パンクしている。",
+      "en": "I have a flat tire."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

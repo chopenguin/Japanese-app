@@ -1,0 +1,36 @@
+{
+  "id": "n1-1012",
+  "jlpt": "N1",
+  "kanji": "苦しめる",
+  "kana": "くるしめる",
+  "display": "苦しめる",
+  "meanings_zh": [
+    "使痛苦",
+    "欺负",
+    "折磨",
+    "使为难"
+  ],
+  "meanings_en": [
+    "to torment",
+    "to harass",
+    "to inflict pain"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あなたの虚言が、私を苦しめるんです。",
+      "en": "Your lies pain me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

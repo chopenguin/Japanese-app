@@ -1,0 +1,40 @@
+{
+  "id": "n1-1123",
+  "jlpt": "N1",
+  "kanji": "見込み",
+  "kana": "みこみ",
+  "display": "見込み",
+  "meanings_zh": [
+    "希望",
+    "可能性",
+    "预料",
+    "估计"
+  ],
+  "meanings_en": [
+    "hope",
+    "prospects",
+    "expectation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "まず見込みはない。",
+      "en": "Fat chance."
+    },
+    {
+      "ja": "成功の見込みはない。",
+      "en": "There is no hope of success."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

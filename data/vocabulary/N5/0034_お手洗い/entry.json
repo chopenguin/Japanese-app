@@ -1,0 +1,38 @@
+{
+  "id": "n5-0034",
+  "jlpt": "N5",
+  "kanji": "お手洗い",
+  "kana": "おてあらい",
+  "display": "お手洗い",
+  "meanings_zh": [
+    "厕所",
+    "便所",
+    "盥洗室",
+    "一号"
+  ],
+  "meanings_en": [
+    "bathroom"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お手洗いはどこですか。",
+      "en": "Where is the bathroom?"
+    },
+    {
+      "ja": "お手洗いはどこですか？",
+      "en": "Where's the restroom?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n4-0349",
+  "jlpt": "N4",
+  "kanji": "取り替える",
+  "kana": "とりかえる",
+  "display": "取り替える",
+  "meanings_zh": [
+    "交换",
+    "互换",
+    "换",
+    "更换"
+  ],
+  "meanings_en": [
+    "to exchange"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "雨戸を取り替えることにしたんだ。",
+      "en": "I've decided to replace the shutters."
+    },
+    {
+      "ja": "流れを渡っている間に馬を取り替えるな。",
+      "en": "Never swap horses while crossing a stream."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

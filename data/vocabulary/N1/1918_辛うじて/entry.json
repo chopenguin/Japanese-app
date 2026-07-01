@@ -1,0 +1,38 @@
+{
+  "id": "n1-1918",
+  "jlpt": "N1",
+  "kanji": "辛うじて",
+  "kana": "かろうじて",
+  "display": "辛うじて",
+  "meanings_zh": [
+    "好容易才",
+    "勉勉强强地"
+  ],
+  "meanings_en": [
+    "barely",
+    "narrowly",
+    "just manage to do st"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は辛うじて死を免れた。",
+      "en": "He barely escaped death."
+    },
+    {
+      "ja": "辛うじて一部残っていた。",
+      "en": "Barely a portion of it remained."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

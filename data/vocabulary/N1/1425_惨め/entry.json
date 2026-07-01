@@ -1,0 +1,38 @@
+{
+  "id": "n1-1425",
+  "jlpt": "N1",
+  "kanji": "惨め",
+  "kana": "みじめ",
+  "display": "惨め",
+  "meanings_zh": [
+    "惨",
+    "凄惨",
+    "悲惨",
+    "惨痛"
+  ],
+  "meanings_en": [
+    "miserable"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らは惨めな犯人に同情した。",
+      "en": "They sympathized with the miserable criminal."
+    },
+    {
+      "ja": "彼は若い頃惨めな生活を送った。",
+      "en": "He lived a wretched life when young."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

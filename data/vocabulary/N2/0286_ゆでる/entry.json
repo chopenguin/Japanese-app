@@ -1,0 +1,29 @@
+{
+  "id": "n2-0286",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ゆでる",
+  "display": "ゆでる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to boil"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "卵を半熟にゆでるのって、どれくらい時間がかかる？",
+      "en": "How long does it take to soft boil an egg?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

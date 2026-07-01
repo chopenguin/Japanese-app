@@ -1,0 +1,33 @@
+{
+  "id": "n2-1338",
+  "jlpt": "N2",
+  "kanji": "定休日",
+  "kana": "ていきゅうび",
+  "display": "定休日",
+  "meanings_zh": [],
+  "meanings_en": [
+    "regular holiday"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "本日定休日。",
+      "en": "Today is our regular closing day."
+    },
+    {
+      "ja": "本日は定休日です。",
+      "en": "We're closed today."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

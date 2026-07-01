@@ -1,0 +1,40 @@
+{
+  "id": "n1-0726",
+  "jlpt": "N1",
+  "kanji": "勧め",
+  "kana": "すすめ",
+  "display": "勧め",
+  "meanings_zh": [
+    "规劝",
+    "劝诱",
+    "劝告",
+    "劝诫"
+  ],
+  "meanings_en": [
+    "recommendation",
+    "advice",
+    "encouragement"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "禁煙を勧めます。",
+      "en": "I advise you to stop smoking."
+    },
+    {
+      "ja": "医者は転地を勧めた。",
+      "en": "The doctor advised a change of air."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

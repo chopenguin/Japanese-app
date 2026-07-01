@@ -1,0 +1,35 @@
+{
+  "id": "n1-0167",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ずれる",
+  "display": "ずれる",
+  "meanings_zh": [
+    "离开",
+    "移动",
+    "错离",
+    "背离"
+  ],
+  "meanings_en": [
+    "to slide",
+    "to slip off"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "来週天気がくずれることはないでしょう。",
+      "en": "I do not believe the weather will change for the worse next week."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

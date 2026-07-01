@@ -1,0 +1,38 @@
+{
+  "id": "n5-0232",
+  "jlpt": "N5",
+  "kanji": "会う",
+  "kana": "あう",
+  "display": "会う",
+  "meanings_zh": [
+    "遇见",
+    "碰见",
+    "会见",
+    "见面"
+  ],
+  "meanings_en": [
+    "to meet"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "よく彼に会う。",
+      "en": "I often see him."
+    },
+    {
+      "ja": "今日、会うよ。",
+      "en": "I'll see him today."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

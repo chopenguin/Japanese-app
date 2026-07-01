@@ -1,0 +1,37 @@
+{
+  "id": "n1-0494",
+  "jlpt": "N1",
+  "kanji": "遠方",
+  "kana": "えんぽう",
+  "display": "遠方",
+  "meanings_zh": [
+    "远方",
+    "远处"
+  ],
+  "meanings_en": [
+    "long way",
+    "distant place"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "遠方に城が見えた。",
+      "en": "We saw a castle in the distance."
+    },
+    {
+      "ja": "遠方に街が見えた。",
+      "en": "I saw a town in the distance."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

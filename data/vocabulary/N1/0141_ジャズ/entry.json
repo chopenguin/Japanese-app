@@ -1,0 +1,35 @@
+{
+  "id": "n1-0141",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ジャズ",
+  "display": "ジャズ",
+  "meanings_zh": [
+    "爵士乐"
+  ],
+  "meanings_en": [
+    "jazz"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "僕はジャズが好きだ。",
+      "en": "I like jazz."
+    },
+    {
+      "ja": "彼はジャズに夢中だ。",
+      "en": "He is keen on jazz."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

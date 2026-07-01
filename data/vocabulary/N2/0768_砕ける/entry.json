@@ -1,0 +1,30 @@
+{
+  "id": "n2-0768",
+  "jlpt": "N2",
+  "kanji": "砕ける",
+  "kana": "くだける",
+  "display": "砕ける",
+  "meanings_zh": [
+    "破碎",
+    "粉碎",
+    "碰碎",
+    "打碎"
+  ],
+  "meanings_en": [
+    "to break",
+    "to be broken"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

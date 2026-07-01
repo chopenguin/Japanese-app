@@ -1,0 +1,33 @@
+{
+  "id": "n2-0125",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "しっぽ",
+  "display": "しっぽ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "tail (animal)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私の犬はしっぽが長い。",
+      "en": "My dog has a long tail."
+    },
+    {
+      "ja": "あの犬はしっぽが短い。",
+      "en": "That dog has a short tail."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

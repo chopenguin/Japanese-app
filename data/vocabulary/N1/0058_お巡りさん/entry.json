@@ -1,0 +1,36 @@
+{
+  "id": "n1-0058",
+  "jlpt": "N1",
+  "kanji": "お巡りさん",
+  "kana": "おまわりさん",
+  "display": "お巡りさん",
+  "meanings_zh": [
+    "警察",
+    "巡警"
+  ],
+  "meanings_en": [
+    "policeman (friendly term)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お巡りさんに聞け！",
+      "en": "Ask a policeman!"
+    },
+    {
+      "ja": "あそこにお巡りさんいる？",
+      "en": "Do you see any policeman over there?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

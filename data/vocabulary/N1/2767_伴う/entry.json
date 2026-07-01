@@ -1,0 +1,41 @@
+{
+  "id": "n1-2767",
+  "jlpt": "N1",
+  "kanji": "伴う",
+  "kana": "ともなう",
+  "display": "伴う",
+  "meanings_zh": [
+    "带",
+    "伴随",
+    "随着",
+    "跟着"
+  ],
+  "meanings_en": [
+    "to accompany",
+    "to bring with",
+    "to be accompanied by",
+    "to be involved in"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "権力には責任が伴う。",
+      "en": "Power carries responsibility with it."
+    },
+    {
+      "ja": "それでも、危険は伴う。",
+      "en": "Even so, there are risks."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n1-0264",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "フェリー",
+  "display": "フェリー",
+  "meanings_zh": [
+    "渡口"
+  ],
+  "meanings_en": [
+    "ferry"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "フェリーで行くそうよ。",
+      "en": "She's going by ferry."
+    },
+    {
+      "ja": "フェリーを待ってるんだよ。",
+      "en": "I'm waiting for the ferry."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n1-1746",
+  "jlpt": "N1",
+  "kanji": "所で",
+  "kana": "ところで",
+  "display": "所で",
+  "meanings_zh": [
+    "可是",
+    "这个",
+    "那个",
+    "即便"
+  ],
+  "meanings_en": [
+    "by the way",
+    "even if",
+    "no matter what"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これが住所です。",
+      "en": "Here's the address."
+    },
+    {
+      "ja": "台所で何を見たの？",
+      "en": "What did you see in the kitchen?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

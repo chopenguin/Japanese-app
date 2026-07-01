@@ -1,0 +1,38 @@
+{
+  "id": "n3-0189",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "パイロット",
+  "display": "パイロット",
+  "meanings_zh": [
+    "领港员",
+    "领航员",
+    "引水员",
+    "飞行员"
+  ],
+  "meanings_en": [
+    "pilot"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らはパイロットです。",
+      "en": "They are pilots."
+    },
+    {
+      "ja": "私にはパイロットの友人がいる。",
+      "en": "I have a friend who is a pilot."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

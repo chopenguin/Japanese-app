@@ -1,0 +1,39 @@
+{
+  "id": "n5-0268",
+  "jlpt": "N5",
+  "kanji": "教える",
+  "kana": "おしえる",
+  "display": "教える",
+  "meanings_zh": [
+    "教",
+    "训练",
+    "调训",
+    "教导"
+  ],
+  "meanings_en": [
+    "to teach",
+    "to tell"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼に教えるな。",
+      "en": "Don't tell him."
+    },
+    {
+      "ja": "トムは教える。",
+      "en": "Tom teaches."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "n1-2648",
+  "jlpt": "N1",
+  "kanji": "賑わう",
+  "kana": "にぎわう",
+  "display": "賑わう",
+  "meanings_zh": [
+    "热闹",
+    "拥挤",
+    "繁荣",
+    "兴旺"
+  ],
+  "meanings_en": [
+    "to prosper",
+    "to flourish",
+    "to do thriving business",
+    "to be crowded with people"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

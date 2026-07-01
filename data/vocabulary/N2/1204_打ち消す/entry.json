@@ -1,0 +1,30 @@
+{
+  "id": "n2-1204",
+  "jlpt": "N2",
+  "kanji": "打ち消す",
+  "kana": "うちけす",
+  "display": "打ち消す",
+  "meanings_zh": [
+    "否定",
+    "否认",
+    "消除"
+  ],
+  "meanings_en": [
+    "to deny",
+    "to negate",
+    "to contradict"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

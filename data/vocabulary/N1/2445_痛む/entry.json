@@ -1,0 +1,40 @@
+{
+  "id": "n1-2445",
+  "jlpt": "N1",
+  "kanji": "痛む",
+  "kana": "いたむ",
+  "display": "痛む",
+  "meanings_zh": [
+    "疼",
+    "疼痛",
+    "苦恼",
+    "悲痛"
+  ],
+  "meanings_en": [
+    "to hurt",
+    "to feel a pain",
+    "to be injured"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "体中が痛む。",
+      "en": "I ache all over."
+    },
+    {
+      "ja": "背中が痛む。",
+      "en": "My back hurts."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

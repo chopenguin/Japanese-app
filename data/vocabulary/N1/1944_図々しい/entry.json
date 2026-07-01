@@ -1,0 +1,34 @@
+{
+  "id": "n1-1944",
+  "jlpt": "N1",
+  "kanji": "図々しい",
+  "kana": "ずうずうしい",
+  "display": "図々しい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "impudent",
+    "shameless"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "図々しいな！",
+      "en": "What a nerve!"
+    },
+    {
+      "ja": "図々しい奴め。",
+      "en": "You're shameless."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

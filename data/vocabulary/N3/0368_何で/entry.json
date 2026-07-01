@@ -1,0 +1,34 @@
+{
+  "id": "n3-0368",
+  "jlpt": "N3",
+  "kanji": "何で",
+  "kana": "なんで",
+  "display": "何で",
+  "meanings_zh": [],
+  "meanings_en": [
+    "Why?",
+    "What for?"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何でもない。",
+      "en": "Never mind!"
+    },
+    {
+      "ja": "何が何でも！",
+      "en": "Whatever it takes!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

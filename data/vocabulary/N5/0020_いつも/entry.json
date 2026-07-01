@@ -1,0 +1,33 @@
+{
+  "id": "n5-0020",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "いつも",
+  "display": "いつも",
+  "meanings_zh": [],
+  "meanings_en": [
+    "always"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "丘はいつも緑だ。",
+      "en": "The hill is always green."
+    },
+    {
+      "ja": "いつも笑顔でね。",
+      "en": "Keep on smiling."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

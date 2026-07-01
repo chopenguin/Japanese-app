@@ -1,0 +1,36 @@
+{
+  "id": "n5-0146",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "フォーク",
+  "display": "フォーク",
+  "meanings_zh": [
+    "叉子",
+    "肉叉"
+  ],
+  "meanings_en": [
+    "fork"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "フォークを下さい。",
+      "en": "I'd like a fork."
+    },
+    {
+      "ja": "フォークがありません。",
+      "en": "There is a fork missing."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

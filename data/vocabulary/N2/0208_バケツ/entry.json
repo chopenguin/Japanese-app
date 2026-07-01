@@ -1,0 +1,36 @@
+{
+  "id": "n2-0208",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "バケツ",
+  "display": "バケツ",
+  "meanings_zh": [
+    "(铁)水桶"
+  ],
+  "meanings_en": [
+    "bucket",
+    "pail"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "バケツが要るんだ。",
+      "en": "I need a bucket."
+    },
+    {
+      "ja": "早く、バケツをよこせ！",
+      "en": "Give me the bucket, quick!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

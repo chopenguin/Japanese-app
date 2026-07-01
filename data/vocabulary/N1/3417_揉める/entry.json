@@ -1,0 +1,28 @@
+{
+  "id": "n1-3417",
+  "jlpt": "N1",
+  "kanji": "揉める",
+  "kana": "もめる",
+  "display": "揉める",
+  "meanings_zh": [
+    "发生争执",
+    "起纠纷"
+  ],
+  "meanings_en": [
+    "to disagree",
+    "to dispute"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n1-0018",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "アンコール",
+  "display": "アンコール",
+  "meanings_zh": [
+    "(妥滇)重演",
+    "再演奏一次",
+    "再来一个"
+  ],
+  "meanings_en": [
+    "encore"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "歌手に向かって盛んなアンコールが起こった。",
+      "en": "Everyone called out to the singer for an encore."
+    },
+    {
+      "ja": "そのピアニストはアンコールに応えて２曲弾いた。",
+      "en": "The pianist played two encores."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

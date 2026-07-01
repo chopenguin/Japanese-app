@@ -1,0 +1,36 @@
+{
+  "id": "n3-0168",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "トランプ",
+  "display": "トランプ",
+  "meanings_zh": [
+    "扑克",
+    "扑克牌"
+  ],
+  "meanings_en": [
+    "playing cards (lit: trump)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トランプは面白い。",
+      "en": "Playing cards is fun."
+    },
+    {
+      "ja": "トランプに誘われた。",
+      "en": "They invited me to play cards."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n2-0276",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "もたれる",
+  "display": "もたれる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to lean against",
+    "to lean on",
+    "to recline on",
+    "to lie heavy (on the stomach)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "壁にもたれるな。",
+      "en": "Don't lean against the wall."
+    },
+    {
+      "ja": "食後胃がもたれる。",
+      "en": "I have aggravation after eating."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

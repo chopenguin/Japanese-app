@@ -1,0 +1,41 @@
+{
+  "id": "n3-1500",
+  "jlpt": "N3",
+  "kanji": "備える",
+  "kana": "そなえる",
+  "display": "備える",
+  "meanings_zh": [
+    "准备",
+    "防备",
+    "设置",
+    "备置"
+  ],
+  "meanings_en": [
+    "to furnish",
+    "to provide for",
+    "to equip",
+    "to install"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "最悪に備える必要がある。",
+      "en": "It is necessary that we should prepare for the worst."
+    },
+    {
+      "ja": "私達は火災に備えるべきだ。",
+      "en": "We should provide against fires."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n4-0167",
+  "jlpt": "N4",
+  "kanji": "引き出し",
+  "kana": "ひきだし",
+  "display": "引き出し",
+  "meanings_zh": [
+    "抽出",
+    "提取",
+    "抽屉"
+  ],
+  "meanings_en": [
+    "drawer",
+    "drawing out"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "机の引き出しが開いている。",
+      "en": "The desk drawer is open."
+    },
+    {
+      "ja": "引き出しにペンも収めたよ。",
+      "en": "I also put my pens in the drawer."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

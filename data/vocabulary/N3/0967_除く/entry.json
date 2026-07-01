@@ -1,0 +1,40 @@
+{
+  "id": "n3-0967",
+  "jlpt": "N3",
+  "kanji": "除く",
+  "kana": "のぞく",
+  "display": "除く",
+  "meanings_zh": [
+    "消除",
+    "去掉",
+    "取消",
+    "铲除"
+  ],
+  "meanings_en": [
+    "to remove",
+    "to exclude",
+    "to except"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "急所を除くすべての攻撃を認める。",
+      "en": "I'm allowing all attacks except on vital organs."
+    },
+    {
+      "ja": "見よ、世の罪を取り除く神の子羊。",
+      "en": "Behold, the Lamb of God, who takes away the sins of the world!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

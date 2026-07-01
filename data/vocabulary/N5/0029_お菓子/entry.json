@@ -1,0 +1,34 @@
+{
+  "id": "n5-0029",
+  "jlpt": "N5",
+  "kanji": "お菓子",
+  "kana": "おかし",
+  "display": "お菓子",
+  "meanings_zh": [],
+  "meanings_en": [
+    "sweets",
+    "candy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お菓子買ってよ。",
+      "en": "Buy me a snack."
+    },
+    {
+      "ja": "このお菓子は甘いです。",
+      "en": "This candy is sweet."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "n2-1340",
+  "jlpt": "N2",
+  "kanji": "締め切る",
+  "kana": "しめきる",
+  "display": "締め切る",
+  "meanings_zh": [
+    "届满",
+    "截止",
+    "结束"
+  ],
+  "meanings_en": [
+    "to shut up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

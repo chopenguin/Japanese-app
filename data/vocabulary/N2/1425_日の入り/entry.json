@@ -1,0 +1,38 @@
+{
+  "id": "n2-1425",
+  "jlpt": "N2",
+  "kanji": "日の入り",
+  "kana": "ひのいり",
+  "display": "日の入り",
+  "meanings_zh": [
+    "日没",
+    "日落",
+    "黄昏",
+    "日暮时分"
+  ],
+  "meanings_en": [
+    "sunset"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今日の日の入りって、いつ？",
+      "en": "When does the sun go down today?"
+    },
+    {
+      "ja": "こんな美しい日の入りを見たことがありますか。",
+      "en": "Have you ever seen such a beautiful sunset?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

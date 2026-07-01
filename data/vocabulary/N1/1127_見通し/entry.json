@@ -1,0 +1,43 @@
+{
+  "id": "n1-1127",
+  "jlpt": "N1",
+  "kanji": "見通し",
+  "kana": "みとおし",
+  "display": "見通し",
+  "meanings_zh": [
+    "眺望",
+    "预料",
+    "推测",
+    "看穿"
+  ],
+  "meanings_en": [
+    "perspective",
+    "unobstructed view",
+    "outlook",
+    "forecast",
+    "prospect",
+    "insight"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "見通しは否定的だった。",
+      "en": "The outlook was negative."
+    },
+    {
+      "ja": "成功は明るい見通しがある。",
+      "en": "There are bright prospects of success."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

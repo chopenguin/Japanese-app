@@ -1,0 +1,45 @@
+{
+  "id": "n1-1322",
+  "jlpt": "N1",
+  "kanji": "酷い",
+  "kana": "ひどい",
+  "display": "酷い",
+  "meanings_zh": [
+    "残酷",
+    "无情",
+    "粗暴",
+    "太过分"
+  ],
+  "meanings_en": [
+    "cruel",
+    "awful",
+    "severe",
+    "very bad",
+    "serious",
+    "terrible",
+    "heavy",
+    "violent"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "頭痛が酷い。",
+      "en": "I have a bad headache."
+    },
+    {
+      "ja": "何と酷い天気だ。",
+      "en": "What horrible weather."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

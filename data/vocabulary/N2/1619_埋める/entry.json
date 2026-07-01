@@ -1,0 +1,40 @@
+{
+  "id": "n2-1619",
+  "jlpt": "N2",
+  "kanji": "埋める",
+  "kana": "うめる",
+  "display": "埋める",
+  "meanings_zh": [
+    "填",
+    "埋入",
+    "掩埋"
+  ],
+  "meanings_en": [
+    "to bury",
+    "to fill up",
+    "to fill (a seat",
+    "a vacant position)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "家の犬は庭に骨を埋める。",
+      "en": "Our dog buries its bones in the garden."
+    },
+    {
+      "ja": "犬はよく骨を地面に埋める。",
+      "en": "Dogs often bury bones."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

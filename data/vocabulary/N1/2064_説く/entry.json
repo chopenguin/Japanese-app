@@ -1,0 +1,37 @@
+{
+  "id": "n1-2064",
+  "jlpt": "N1",
+  "kanji": "説く",
+  "kana": "とく",
+  "display": "説く",
+  "meanings_zh": [
+    "说明",
+    "劝说",
+    "说服",
+    "讲"
+  ],
+  "meanings_en": [
+    "to explain",
+    "to advocate",
+    "to preach",
+    "to persuade"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あるアメリカの科学者ウィリアム・キートンはこの謎を説くために非常に面白い実験をしました。",
+      "en": "One American scientist, William Keeton, used a very interesting experiment to solve this mystery."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

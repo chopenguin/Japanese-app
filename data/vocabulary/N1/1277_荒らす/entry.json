@@ -1,0 +1,42 @@
+{
+  "id": "n1-1277",
+  "jlpt": "N1",
+  "kanji": "荒らす",
+  "kana": "あらす",
+  "display": "荒らす",
+  "meanings_zh": [
+    "使荒芜",
+    "破坏",
+    "毁坏",
+    "损伤"
+  ],
+  "meanings_en": [
+    "to lay waste",
+    "to devastate",
+    "to damage",
+    "to invade",
+    "to break into"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "掲示板を荒らす人の精神状態がわかりません。",
+      "en": "I just don't understand what goes through the minds of people who troll forums."
+    },
+    {
+      "ja": "ストレスが胃の粘膜を荒らす原因のひとつは次のように考えられています。",
+      "en": "The following is thought to be one of the reasons stress damages the stomach's mucous membrane."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

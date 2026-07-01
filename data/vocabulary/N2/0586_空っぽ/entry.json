@@ -1,0 +1,38 @@
+{
+  "id": "n2-0586",
+  "jlpt": "N2",
+  "kanji": "空っぽ",
+  "kana": "からっぽ",
+  "display": "空っぽ",
+  "meanings_zh": [
+    "空",
+    "空虚"
+  ],
+  "meanings_en": [
+    "empty",
+    "vacant",
+    "hollow"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "缶は空っぽだ。",
+      "en": "The can is empty."
+    },
+    {
+      "ja": "袋は空っぽだ。",
+      "en": "The bag is empty."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

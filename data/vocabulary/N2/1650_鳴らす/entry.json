@@ -1,0 +1,42 @@
+{
+  "id": "n2-1650",
+  "jlpt": "N2",
+  "kanji": "鳴らす",
+  "kana": "ならす",
+  "display": "鳴らす",
+  "meanings_zh": [
+    "鸣",
+    "周知",
+    "出名",
+    "驰名"
+  ],
+  "meanings_en": [
+    "to ring",
+    "to sound",
+    "to chime",
+    "to beat",
+    "to snort (nose)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "指を鳴らすのはやめろ。",
+      "en": "Stop cracking your knuckles."
+    },
+    {
+      "ja": "彼らは８時にそのベルを鳴らす。",
+      "en": "They ring the bell at eight."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "n1-1968",
+  "jlpt": "N1",
+  "kanji": "世辞",
+  "kana": "せじ",
+  "display": "世辞",
+  "meanings_zh": [],
+  "meanings_en": [
+    "flattery",
+    "compliment"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お世辞がお上手ね。",
+      "en": "You flatter me."
+    },
+    {
+      "ja": "お世辞とはうそのこと。",
+      "en": "Complimenting is lying."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

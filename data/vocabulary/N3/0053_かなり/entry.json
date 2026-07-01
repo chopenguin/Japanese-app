@@ -1,0 +1,39 @@
+{
+  "id": "n3-0053",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "かなり",
+  "display": "かなり",
+  "meanings_zh": [
+    "颇",
+    "颇为",
+    "相当"
+  ],
+  "meanings_en": [
+    "considerably",
+    "fairly",
+    "quite"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "かなり寒い。",
+      "en": "It's pretty cold."
+    },
+    {
+      "ja": "かなり儲けた？",
+      "en": "Did you make a lot of money?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

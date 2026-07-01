@@ -1,0 +1,41 @@
+{
+  "id": "n2-1759",
+  "jlpt": "N2",
+  "kanji": "冷める",
+  "kana": "さめる",
+  "display": "冷める",
+  "meanings_zh": [
+    "变冷",
+    "凉",
+    "降低",
+    "减退"
+  ],
+  "meanings_en": [
+    "to become cool",
+    "to wear off",
+    "to abate",
+    "to subside"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お茶が冷めるよ。",
+      "en": "Your tea's getting cold."
+    },
+    {
+      "ja": "スープが冷めるわよ。",
+      "en": "Your soup's getting cold."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

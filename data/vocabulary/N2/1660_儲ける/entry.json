@@ -1,0 +1,42 @@
+{
+  "id": "n2-1660",
+  "jlpt": "N2",
+  "kanji": "儲ける",
+  "kana": "もうける",
+  "display": "儲ける",
+  "meanings_zh": [
+    "赚钱",
+    "发财",
+    "得利",
+    "占便宜"
+  ],
+  "meanings_en": [
+    "to get",
+    "to earn",
+    "to gain",
+    "to have (bear",
+    "beget) a child"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "儲ける考えより使わぬ考え。",
+      "en": "A penny saved is a penny earned."
+    },
+    {
+      "ja": "彼らは金を儲けるために何でもやった。",
+      "en": "They did everything in order to make money."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

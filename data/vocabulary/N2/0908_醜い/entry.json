@@ -1,0 +1,38 @@
+{
+  "id": "n2-0908",
+  "jlpt": "N2",
+  "kanji": "醜い",
+  "kana": "みにくい",
+  "display": "醜い",
+  "meanings_zh": [
+    "难看",
+    "不好看",
+    "丑",
+    "丑陋"
+  ],
+  "meanings_en": [
+    "ugly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私を醜いと思いますか。",
+      "en": "Do you think I'm ugly?"
+    },
+    {
+      "ja": "彼女は醜いドレスを着ていました。",
+      "en": "She was wearing an ugly dress."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

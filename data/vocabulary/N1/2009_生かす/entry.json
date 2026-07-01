@@ -1,0 +1,36 @@
+{
+  "id": "n1-2009",
+  "jlpt": "N1",
+  "kanji": "生かす",
+  "kana": "いかす",
+  "display": "生かす",
+  "meanings_zh": [
+    "弄活",
+    "救活",
+    "留活命",
+    "活用"
+  ],
+  "meanings_en": [
+    "to revive",
+    "to resuscitate",
+    "to make use of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "君を生かすも殺すも僕次第だ。",
+      "en": "It's up to me whether I kill you or let you live!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

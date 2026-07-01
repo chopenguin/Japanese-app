@@ -1,0 +1,29 @@
+{
+  "id": "n2-0255",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "まごまご",
+  "display": "まごまご",
+  "meanings_zh": [
+    "张皇失措",
+    "手忙脚乱",
+    "着慌",
+    "不知所措"
+  ],
+  "meanings_en": [
+    "confused"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

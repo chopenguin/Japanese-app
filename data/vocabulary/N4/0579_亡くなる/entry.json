@@ -1,0 +1,36 @@
+{
+  "id": "n4-0579",
+  "jlpt": "N4",
+  "kanji": "亡くなる",
+  "kana": "なくなる",
+  "display": "亡くなる",
+  "meanings_zh": [
+    "死",
+    "殁"
+  ],
+  "meanings_en": [
+    "to die"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "交通事故で亡くなる方も多いです。",
+      "en": "Many people die in traffic accidents."
+    },
+    {
+      "ja": "毎年交通事故で亡くなる老人が多い。",
+      "en": "Lots of old people are killed in traffic accidents every year."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

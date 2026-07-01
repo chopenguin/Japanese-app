@@ -1,0 +1,36 @@
+{
+  "id": "n1-1852",
+  "jlpt": "N1",
+  "kanji": "織る",
+  "kana": "おる",
+  "display": "織る",
+  "meanings_zh": [
+    "织",
+    "编织"
+  ],
+  "meanings_en": [
+    "to weave"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私の祖母ははたを織るのが好きだ。",
+      "en": "My grandmother likes to weave things."
+    },
+    {
+      "ja": "クモはいつも自分たちの巣を３次元に織る。",
+      "en": "Spiders always weave their webs in three dimensions."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

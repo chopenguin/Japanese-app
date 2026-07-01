@@ -1,0 +1,46 @@
+{
+  "id": "n1-1819",
+  "jlpt": "N1",
+  "kanji": "上がる",
+  "kana": "あがる",
+  "display": "上がる",
+  "meanings_zh": [
+    "上",
+    "登",
+    "上学",
+    "登陆"
+  ],
+  "meanings_en": [
+    "to enter",
+    "to go up",
+    "to rise",
+    "to climb up",
+    "to advance",
+    "to appreciate",
+    "to be promoted",
+    "to improve",
+    "to call on"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "上がるの手伝って。",
+      "en": "Help me up."
+    },
+    {
+      "ja": "物価は上がる一方だ。",
+      "en": "Prices go on rising."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

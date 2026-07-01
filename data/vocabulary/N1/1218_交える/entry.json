@@ -1,0 +1,31 @@
+{
+  "id": "n1-1218",
+  "jlpt": "N1",
+  "kanji": "交える",
+  "kana": "まじえる",
+  "display": "交える",
+  "meanings_zh": [
+    "夹杂",
+    "搀和",
+    "搀杂",
+    "搀混"
+  ],
+  "meanings_en": [
+    "to mix",
+    "to converse with",
+    "to cross (swords)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

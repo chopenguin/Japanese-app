@@ -1,0 +1,38 @@
+{
+  "id": "n4-0047",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "きっと",
+  "display": "きっと",
+  "meanings_zh": [
+    "一定",
+    "必定",
+    "严峻",
+    "严厉"
+  ],
+  "meanings_en": [
+    "surely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はきっと来る。",
+      "en": "He is certain to come."
+    },
+    {
+      "ja": "彼はきっと勝つ。",
+      "en": "He is sure to win."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

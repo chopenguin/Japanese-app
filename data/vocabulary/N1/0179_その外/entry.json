@@ -1,0 +1,35 @@
+{
+  "id": "n1-0179",
+  "jlpt": "N1",
+  "kanji": "その外",
+  "kana": "そのほか",
+  "display": "その外",
+  "meanings_zh": [],
+  "meanings_en": [
+    "besides",
+    "in addition",
+    "the rest"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その外人はスコットランド出身だ。",
+      "en": "The foreigner comes from Scotland."
+    },
+    {
+      "ja": "その外科医はその患者を手術した。",
+      "en": "The surgeon operated on the patient."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

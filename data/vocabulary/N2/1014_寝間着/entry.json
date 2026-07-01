@@ -1,0 +1,33 @@
+{
+  "id": "n2-1014",
+  "jlpt": "N2",
+  "kanji": "寝間着",
+  "kana": "ねまき",
+  "display": "寝間着",
+  "meanings_zh": [],
+  "meanings_en": [
+    "sleep-wear",
+    "nightclothes",
+    "pyjamas",
+    "nightgown",
+    "nightdress"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムったら、寝間着のまま授業にきたのよ。",
+      "en": "Tom came to class in his pajamas."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

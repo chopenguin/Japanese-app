@@ -1,0 +1,39 @@
+{
+  "id": "n4-0227",
+  "jlpt": "N4",
+  "kanji": "気持ち",
+  "kana": "きもち",
+  "display": "気持ち",
+  "meanings_zh": [
+    "感",
+    "感受",
+    "心情",
+    "心绪"
+  ],
+  "meanings_en": [
+    "feeling",
+    "mood"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "気持ち悪い！",
+      "en": "Gross!"
+    },
+    {
+      "ja": "気持ちが悪い。",
+      "en": "I feel awful."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

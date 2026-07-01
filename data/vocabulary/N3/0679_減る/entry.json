@@ -1,0 +1,40 @@
+{
+  "id": "n3-0679",
+  "jlpt": "N3",
+  "kanji": "減る",
+  "kana": "へる",
+  "display": "減る",
+  "meanings_zh": [
+    "减",
+    "减少",
+    "磨损",
+    "饿"
+  ],
+  "meanings_en": [
+    "to decrease (in size or number)",
+    "to diminish",
+    "to abate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "列車の旅は減る傾向にある。",
+      "en": "Travel by train has been on the decrease."
+    },
+    {
+      "ja": "子供が減るのも不思議ではない。",
+      "en": "It isn't strange that the number of children decreases, too."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

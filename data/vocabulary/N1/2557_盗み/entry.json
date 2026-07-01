@@ -1,0 +1,36 @@
+{
+  "id": "n1-2557",
+  "jlpt": "N1",
+  "kanji": "盗み",
+  "kana": "ぬすみ",
+  "display": "盗み",
+  "meanings_zh": [
+    "偷盗",
+    "盗窃"
+  ],
+  "meanings_en": [
+    "stealing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "指輪を盗みました。",
+      "en": "I stole the ring."
+    },
+    {
+      "ja": "盗み聞きは良くないよ。",
+      "en": "You shouldn't eavesdrop."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

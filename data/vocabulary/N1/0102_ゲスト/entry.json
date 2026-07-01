@@ -1,0 +1,38 @@
+{
+  "id": "n1-0102",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ゲスト",
+  "display": "ゲスト",
+  "meanings_zh": [
+    "客人",
+    "旅客",
+    "客串演出者",
+    "临时演出者"
+  ],
+  "meanings_en": [
+    "guest"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "誰がゲストなの？",
+      "en": "Who is the guest?"
+    },
+    {
+      "ja": "その部屋のゲストは２０人いた。",
+      "en": "The guests in the room were twenty in number."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

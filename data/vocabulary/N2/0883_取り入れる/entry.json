@@ -1,0 +1,40 @@
+{
+  "id": "n2-0883",
+  "jlpt": "N2",
+  "kanji": "取り入れる",
+  "kana": "とりいれる",
+  "display": "取り入れる",
+  "meanings_zh": [
+    "收获",
+    "收割",
+    "收进",
+    "拿进"
+  ],
+  "meanings_en": [
+    "to harvest",
+    "to take in",
+    "to adopt"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "日本人は新しい思想を非常に良く取り入れる。",
+      "en": "The Japanese are highly receptive to new ideas."
+    },
+    {
+      "ja": "私達はいつも彼の忠告を取り入れるというわけではない。",
+      "en": "We do not always take his advice."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

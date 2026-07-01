@@ -1,0 +1,37 @@
+{
+  "id": "n3-0552",
+  "jlpt": "N3",
+  "kanji": "居眠り",
+  "kana": "いねむり",
+  "display": "居眠り",
+  "meanings_zh": [
+    "瞌睡",
+    "打盹儿"
+  ],
+  "meanings_en": [
+    "dozing",
+    "nodding off"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は居眠りをした。",
+      "en": "He dozed off."
+    },
+    {
+      "ja": "授業中、居眠りしてた。",
+      "en": "I dozed off in class."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

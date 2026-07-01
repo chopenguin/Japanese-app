@@ -1,0 +1,34 @@
+{
+  "id": "n1-1620",
+  "jlpt": "N1",
+  "kanji": "取り替え",
+  "kana": "とりかえ",
+  "display": "取り替え",
+  "meanings_zh": [],
+  "meanings_en": [
+    "swap",
+    "exchange"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "取り替えてください。",
+      "en": "Could you exchange it with a different one?"
+    },
+    {
+      "ja": "僕はシャツを取り替えます。",
+      "en": "I'm going to change my shirt."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

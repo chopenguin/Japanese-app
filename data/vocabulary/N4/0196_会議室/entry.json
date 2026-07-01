@@ -1,0 +1,33 @@
+{
+  "id": "n4-0196",
+  "jlpt": "N4",
+  "kanji": "会議室",
+  "kana": "かいぎしつ",
+  "display": "会議室",
+  "meanings_zh": [],
+  "meanings_en": [
+    "meeting room"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "会議室はどこ？",
+      "en": "Where is the meeting room?"
+    },
+    {
+      "ja": "会議室はどこですか？",
+      "en": "Where's the conference room?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

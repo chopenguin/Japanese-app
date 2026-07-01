@@ -1,0 +1,35 @@
+{
+  "id": "n3-1753",
+  "jlpt": "N3",
+  "kanji": "料金",
+  "kana": "りょうきん",
+  "display": "料金",
+  "meanings_zh": [],
+  "meanings_en": [
+    "fee",
+    "charge",
+    "fare"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "往復切符の料金は？",
+      "en": "What's the round-trip fare?"
+    },
+    {
+      "ja": "パーマは別料金です。",
+      "en": "A permanent is extra."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

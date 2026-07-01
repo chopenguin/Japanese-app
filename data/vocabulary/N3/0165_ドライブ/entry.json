@@ -1,0 +1,39 @@
+{
+  "id": "n3-0165",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ドライブ",
+  "display": "ドライブ",
+  "meanings_zh": [
+    "开汽车远游",
+    "兜风",
+    "旋转球"
+  ],
+  "meanings_en": [
+    "drive",
+    "trip by car",
+    "driving"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ドライブとかどう？",
+      "en": "What do you say to going for a drive?"
+    },
+    {
+      "ja": "湖までドライブしよう。",
+      "en": "Let's drive to the lake."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

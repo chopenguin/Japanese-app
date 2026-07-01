@@ -1,0 +1,42 @@
+{
+  "id": "n1-3340",
+  "jlpt": "N1",
+  "kanji": "例え",
+  "kana": "たとえ",
+  "display": "例え",
+  "meanings_zh": [
+    "譬喻",
+    "比喻",
+    "比方",
+    "例子"
+  ],
+  "meanings_en": [
+    "example",
+    "even if",
+    "if",
+    "though",
+    "although"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "例えば、これはペンです。",
+      "en": "For example, this is a pen."
+    },
+    {
+      "ja": "例えば、英語が好きですか。",
+      "en": "For example, do you like English?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

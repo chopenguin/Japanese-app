@@ -1,0 +1,39 @@
+{
+  "id": "n5-0259",
+  "jlpt": "N5",
+  "kanji": "休み",
+  "kana": "やすみ",
+  "display": "休み",
+  "meanings_zh": [
+    "休息",
+    "歇",
+    "休息时间",
+    "休假"
+  ],
+  "meanings_en": [
+    "rest",
+    "holiday"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "良い休みを。",
+      "en": "Have a good vacation."
+    },
+    {
+      "ja": "休みがある。",
+      "en": "I have the day off."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

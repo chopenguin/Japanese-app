@@ -1,0 +1,39 @@
+{
+  "id": "n3-1767",
+  "jlpt": "N3",
+  "kanji": "連れ",
+  "kana": "つれ",
+  "display": "連れ",
+  "meanings_zh": [
+    "同伴",
+    "伙伴",
+    "伴侣",
+    "配角"
+  ],
+  "meanings_en": [
+    "companion",
+    "company"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "旅は道連れ。",
+      "en": "Good company on the road is the shortest cut."
+    },
+    {
+      "ja": "娘が連れ去られた。",
+      "en": "My daughter was taken away from me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

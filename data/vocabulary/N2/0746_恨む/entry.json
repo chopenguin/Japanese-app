@@ -1,0 +1,34 @@
+{
+  "id": "n2-0746",
+  "jlpt": "N2",
+  "kanji": "恨む",
+  "kana": "うらむ",
+  "display": "恨む",
+  "meanings_zh": [
+    "怨",
+    "恨",
+    "抱怨"
+  ],
+  "meanings_en": [
+    "to curse",
+    "to feel bitter"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "セーラは恨むような女の子ではないだろうが。",
+      "en": "Well, I don't think Sara is the sort of girl to bear grudges."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n2-1784",
+  "jlpt": "N2",
+  "kanji": "嗅ぐ",
+  "kana": "かぐ",
+  "display": "嗅ぐ",
+  "meanings_zh": [
+    "闻",
+    "嗅"
+  ],
+  "meanings_en": [
+    "to sniff",
+    "to smell"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は私の鼻で臭いを嗅ぐ。",
+      "en": "I smell with my nose."
+    },
+    {
+      "ja": "魚の臭いを嗅ぐと胸が悪くなる。",
+      "en": "The smell of raw fish nauseates me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

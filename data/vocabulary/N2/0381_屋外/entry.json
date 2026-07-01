@@ -1,0 +1,37 @@
+{
+  "id": "n2-0381",
+  "jlpt": "N2",
+  "kanji": "屋外",
+  "kana": "おくがい",
+  "display": "屋外",
+  "meanings_zh": [
+    "室外",
+    "屋外",
+    "露天"
+  ],
+  "meanings_en": [
+    "outdoors"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ラグビーは屋外競技である。",
+      "en": "Rugby is an outdoor game."
+    },
+    {
+      "ja": "彼らは屋外スポーツに熱心である。",
+      "en": "They are keen on outdoor sports."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

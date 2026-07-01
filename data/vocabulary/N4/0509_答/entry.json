@@ -1,0 +1,33 @@
+{
+  "id": "n4-0509",
+  "jlpt": "N4",
+  "kanji": "答",
+  "kana": "こたえ",
+  "display": "答",
+  "meanings_zh": [],
+  "meanings_en": [
+    "response"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何問答えた？",
+      "en": "How many questions did you answer?"
+    },
+    {
+      "ja": "即答でした。",
+      "en": "He responded immediately."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

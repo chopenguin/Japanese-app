@@ -1,0 +1,37 @@
+{
+  "id": "n2-0236",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "プラスチック",
+  "display": "プラスチック",
+  "meanings_zh": [
+    "塑料",
+    "塑胶",
+    "可塑物"
+  ],
+  "meanings_en": [
+    "plastic"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "プラスチックは燃えにくい。",
+      "en": "Plastic does not burn easily."
+    },
+    {
+      "ja": "プラスチックは割れにくい。",
+      "en": "Plastic does not break easily."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

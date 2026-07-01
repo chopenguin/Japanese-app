@@ -1,0 +1,27 @@
+{
+  "id": "n1-0889",
+  "jlpt": "N1",
+  "kanji": "久し振り",
+  "kana": "ひさしぶり",
+  "display": "久し振り",
+  "meanings_zh": [
+    "好久",
+    "许久"
+  ],
+  "meanings_en": [
+    "after a long time"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

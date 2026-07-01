@@ -1,0 +1,40 @@
+{
+  "id": "n3-0734",
+  "jlpt": "N3",
+  "kanji": "構う",
+  "kana": "かまう",
+  "display": "構う",
+  "meanings_zh": [
+    "管",
+    "顾",
+    "介意",
+    "理睬"
+  ],
+  "meanings_en": [
+    "to mind",
+    "to care about",
+    "to be concerned about"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "もう構うのはやめてくれよ。",
+      "en": "Call off your dogs."
+    },
+    {
+      "ja": "トムはフランス語が結構うまいと思うよ。",
+      "en": "I think Tom is pretty good at French."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

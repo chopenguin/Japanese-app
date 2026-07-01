@@ -1,0 +1,32 @@
+{
+  "id": "n1-2256",
+  "jlpt": "N1",
+  "kanji": "怠い",
+  "kana": "だるい",
+  "display": "怠い",
+  "meanings_zh": [
+    "发倦",
+    "发酸",
+    "懒倦",
+    "慵懒"
+  ],
+  "meanings_en": [
+    "sluggish",
+    "feel heavy",
+    "languid",
+    "dull"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

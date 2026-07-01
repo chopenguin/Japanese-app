@@ -1,0 +1,33 @@
+{
+  "id": "n4-0492",
+  "jlpt": "N4",
+  "kanji": "展覧会",
+  "kana": "てんらんかい",
+  "display": "展覧会",
+  "meanings_zh": [],
+  "meanings_en": [
+    "exhibition"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "展覧会は現在開催中です。",
+      "en": "The exhibition is now open."
+    },
+    {
+      "ja": "美術展覧会に行きましたか。",
+      "en": "Did you go to the art exhibition?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

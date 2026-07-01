@@ -1,0 +1,37 @@
+{
+  "id": "n1-0017",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "アンケート",
+  "display": "アンケート",
+  "meanings_zh": [
+    "通讯调查",
+    "征询意见"
+  ],
+  "meanings_en": [
+    "(fr:) (n) questionnaire (fr: enquete)",
+    "survey"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "アンケートの項目が多すぎる。",
+      "en": "There are too many items in the survey."
+    },
+    {
+      "ja": "アンケート用紙が適当に配られた。",
+      "en": "The questionnaire form was distributed properly."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

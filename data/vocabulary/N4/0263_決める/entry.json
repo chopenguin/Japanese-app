@@ -1,0 +1,38 @@
+{
+  "id": "n4-0263",
+  "jlpt": "N4",
+  "kanji": "決める",
+  "kana": "きめる",
+  "display": "決める",
+  "meanings_zh": [
+    "定",
+    "决定",
+    "规定",
+    "指定"
+  ],
+  "meanings_en": [
+    "to decide"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "投票で決める。",
+      "en": "We'll decide by voting."
+    },
+    {
+      "ja": "条件を決める。",
+      "en": "I fix the terms."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

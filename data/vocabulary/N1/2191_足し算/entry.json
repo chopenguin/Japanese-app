@@ -1,0 +1,33 @@
+{
+  "id": "n1-2191",
+  "jlpt": "N1",
+  "kanji": "足し算",
+  "kana": "たしざん",
+  "display": "足し算",
+  "meanings_zh": [],
+  "meanings_en": [
+    "addition"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は、足し算が速い。",
+      "en": "He is quick at addition."
+    },
+    {
+      "ja": "５＋１０の足し算はやさしい。",
+      "en": "It is easy to add 5 to 10."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

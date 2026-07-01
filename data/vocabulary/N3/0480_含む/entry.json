@@ -1,0 +1,39 @@
+{
+  "id": "n3-0480",
+  "jlpt": "N3",
+  "kanji": "含む",
+  "kana": "ふくむ",
+  "display": "含む",
+  "meanings_zh": [
+    "含",
+    "带有",
+    "含有",
+    "包括"
+  ],
+  "meanings_en": [
+    "to hold in the mouth",
+    "to bear in mind"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "水は水素と酸素を含む。",
+      "en": "Water contains hydrogen and oxygen."
+    },
+    {
+      "ja": "酸は金属を含むものに作用する。",
+      "en": "Acid acts on things which contain metal."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n4-0016",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "いっぱい",
+  "display": "いっぱい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "full"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お腹いっぱい？",
+      "en": "Are you full?"
+    },
+    {
+      "ja": "お腹がいっぱい。",
+      "en": "I'm full."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

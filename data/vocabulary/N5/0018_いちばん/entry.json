@@ -1,0 +1,34 @@
+{
+  "id": "n5-0018",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "いちばん",
+  "display": "いちばん",
+  "meanings_zh": [],
+  "meanings_en": [
+    "best",
+    "first"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "いちばん星みぃつけた。",
+      "en": "I found the first star."
+    },
+    {
+      "ja": "彼は鼻がいちばん立派だ。",
+      "en": "His nose is his best feature."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

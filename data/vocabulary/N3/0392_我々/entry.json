@@ -1,0 +1,33 @@
+{
+  "id": "n3-0392",
+  "jlpt": "N3",
+  "kanji": "我々",
+  "kana": "われわれ",
+  "display": "我々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "we"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "我々が人民だ。",
+      "en": "We are the people."
+    },
+    {
+      "ja": "我々は圧勝した。",
+      "en": "We were completely victorious."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

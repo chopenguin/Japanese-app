@@ -1,0 +1,34 @@
+{
+  "id": "n3-0193",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "バッグ",
+  "display": "バッグ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "bag",
+    "bug"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "バッグが開いてるよ。",
+      "en": "Your bag's open."
+    },
+    {
+      "ja": "バッグを盗まれました。",
+      "en": "My bag was stolen."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

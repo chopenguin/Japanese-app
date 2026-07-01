@@ -1,0 +1,35 @@
+{
+  "id": "n1-2608",
+  "jlpt": "N1",
+  "kanji": "堂々",
+  "kana": "どうどう",
+  "display": "堂々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "magnificent",
+    "grand",
+    "impressive"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "堂々としなさい。",
+      "en": "Walk tall, son."
+    },
+    {
+      "ja": "彼は堂々と振る舞う。",
+      "en": "He carries himself regally."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

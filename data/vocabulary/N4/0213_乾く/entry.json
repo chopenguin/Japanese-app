@@ -1,0 +1,38 @@
+{
+  "id": "n4-0213",
+  "jlpt": "N4",
+  "kanji": "乾く",
+  "kana": "かわく",
+  "display": "乾く",
+  "meanings_zh": [
+    "干",
+    "干燥",
+    "干枯",
+    "枯燥"
+  ],
+  "meanings_en": [
+    "to get dry"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "皮は乾くにつれて堅くなった。",
+      "en": "The skin tightened as it dried."
+    },
+    {
+      "ja": "君のＴシャツはすぐ乾くでしょう。",
+      "en": "Your T-shirt will dry soon."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

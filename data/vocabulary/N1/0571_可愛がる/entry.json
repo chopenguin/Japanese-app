@@ -1,0 +1,35 @@
+{
+  "id": "n1-0571",
+  "jlpt": "N1",
+  "kanji": "可愛がる",
+  "kana": "かわいがる",
+  "display": "可愛がる",
+  "meanings_zh": [
+    "爱",
+    "喜爱",
+    "疼爱",
+    "教训"
+  ],
+  "meanings_en": [
+    "to love",
+    "to be affectionate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "親というものは、どんなに腕白でも、子供を可愛がるものです。",
+      "en": "Parents love their children however naughty they are."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

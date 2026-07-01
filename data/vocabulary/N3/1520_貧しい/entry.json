@@ -1,0 +1,39 @@
+{
+  "id": "n3-1520",
+  "jlpt": "N3",
+  "kanji": "貧しい",
+  "kana": "まずしい",
+  "display": "貧しい",
+  "meanings_zh": [
+    "穷",
+    "贫穷",
+    "穷苦",
+    "贫困"
+  ],
+  "meanings_en": [
+    "poor",
+    "needy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は貧しい。",
+      "en": "He is poor."
+    },
+    {
+      "ja": "トムは貧しい。",
+      "en": "Tom is poor."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

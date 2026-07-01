@@ -1,0 +1,33 @@
+{
+  "id": "n5-0104",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "つける",
+  "display": "つける",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to turn on"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "格好つけるな。",
+      "en": "Come off it!"
+    },
+    {
+      "ja": "日記をつける。",
+      "en": "I keep a diary."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

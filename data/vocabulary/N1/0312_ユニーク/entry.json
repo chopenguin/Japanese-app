@@ -1,0 +1,36 @@
+{
+  "id": "n1-0312",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ユニーク",
+  "display": "ユニーク",
+  "meanings_zh": [
+    "独特",
+    "独一无二"
+  ],
+  "meanings_en": [
+    "unique"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼のユニークな建築スタイルの誕生についての歴史的研究である。",
+      "en": "This is a historical examination of the birth of his unique architectural style."
+    },
+    {
+      "ja": "会社にパンタロンとアロハシャツを着てくる彼は、かなりユニークな存在だ。",
+      "en": "He's a pretty unique guy, wearing bell bottoms and Hawaiian shirts to the office."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n1-1246",
+  "jlpt": "N1",
+  "kanji": "好ましい",
+  "kana": "このましい",
+  "display": "好ましい",
+  "meanings_zh": [
+    "可喜",
+    "令人满意"
+  ],
+  "meanings_en": [
+    "nice",
+    "likeable",
+    "desirable"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その志望者は試験官に好ましい印象を与えた。",
+      "en": "The applicant impressed the examiner favorably."
+    },
+    {
+      "ja": "その新作映画の前評判は非常に好ましいものである。",
+      "en": "The advance reviews of the new film are very favorable."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

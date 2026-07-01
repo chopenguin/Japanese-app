@@ -1,0 +1,34 @@
+{
+  "id": "n1-2278",
+  "jlpt": "N1",
+  "kanji": "大げさ",
+  "kana": "おおげさ",
+  "display": "大げさ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "grandiose",
+    "exaggerated"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "大げさに言うな。",
+      "en": "Don't exaggerate now."
+    },
+    {
+      "ja": "大げさに言ってる？",
+      "en": "Are you exaggerating?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

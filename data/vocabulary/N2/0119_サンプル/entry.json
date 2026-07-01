@@ -1,0 +1,38 @@
+{
+  "id": "n2-0119",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "サンプル",
+  "display": "サンプル",
+  "meanings_zh": [
+    "样品",
+    "货样",
+    "样本",
+    "标本"
+  ],
+  "meanings_en": [
+    "sample"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これはサンプルです。",
+      "en": "This is a sample."
+    },
+    {
+      "ja": "ＤＮＡは血液のサンプルから取れる。",
+      "en": "DNA is extracted from a blood sample."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

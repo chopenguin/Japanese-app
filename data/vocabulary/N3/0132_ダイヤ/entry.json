@@ -1,0 +1,40 @@
+{
+  "id": "n3-0132",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ダイヤ",
+  "display": "ダイヤ",
+  "meanings_zh": [
+    "钻石",
+    "金刚石",
+    "方块儿"
+  ],
+  "meanings_en": [
+    "(1) dyer",
+    "(2) diagram",
+    "(3) (railway) schedule",
+    "(4) diamond"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ダイヤル直通ですか。",
+      "en": "Can I dial directly?"
+    },
+    {
+      "ja": "ダイヤが乱れていた。",
+      "en": "The timetable was disrupted."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

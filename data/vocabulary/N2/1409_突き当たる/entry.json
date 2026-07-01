@@ -1,0 +1,30 @@
+{
+  "id": "n2-1409",
+  "jlpt": "N2",
+  "kanji": "突き当たる",
+  "kana": "つきあたる",
+  "display": "突き当たる",
+  "meanings_zh": [
+    "冲突",
+    "撞上",
+    "碰上",
+    "走到尽头"
+  ],
+  "meanings_en": [
+    "to run into",
+    "to collide with"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

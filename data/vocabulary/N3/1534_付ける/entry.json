@@ -1,0 +1,43 @@
+{
+  "id": "n3-1534",
+  "jlpt": "N3",
+  "kanji": "付ける",
+  "kana": "つける",
+  "display": "付ける",
+  "meanings_zh": [
+    "经常～～",
+    "惯于～～",
+    "察觉到 安上",
+    "安装上",
+    "连接上",
+    "挂上"
+  ],
+  "meanings_en": [
+    "to attach",
+    "to join",
+    "to add",
+    "to append"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "塩で味を付ける。",
+      "en": "We season with salt."
+    },
+    {
+      "ja": "僕は奴らを引き付ける。",
+      "en": "I'll attract those guys."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

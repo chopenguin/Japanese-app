@@ -1,0 +1,40 @@
+{
+  "id": "n2-0922",
+  "jlpt": "N2",
+  "kanji": "叔母さん",
+  "kana": "おばさん",
+  "display": "叔母さん",
+  "meanings_zh": [
+    "姑妈",
+    "姑姑",
+    "姨妈",
+    "大娘",
+    "舅妈"
+  ],
+  "meanings_en": [
+    "(1) aunt",
+    "(2) middle-aged lady"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼の叔母さんは若く見える。",
+      "en": "His aunt looks young."
+    },
+    {
+      "ja": "彼女は叔母さんに育てられた。",
+      "en": "She was brought up by her aunt."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

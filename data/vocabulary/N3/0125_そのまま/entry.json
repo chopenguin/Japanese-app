@@ -1,0 +1,42 @@
+{
+  "id": "n3-0125",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "そのまま",
+  "display": "そのまま",
+  "meanings_zh": [
+    "就那样",
+    "就照原样",
+    "就那样地",
+    "一模一偦偺傓偐偟 [偦偺傓偐偟] /// 从前",
+    "很久以前",
+    "古时候",
+    "昔日"
+  ],
+  "meanings_en": [
+    "without change",
+    "as it is (i.e. now)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そのまま続けて。",
+      "en": "Keep going."
+    },
+    {
+      "ja": "そのまま登り続けて。",
+      "en": "Keep climbing."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "n1-2712",
+  "jlpt": "N1",
+  "kanji": "罵る",
+  "kana": "ののしる",
+  "display": "罵る",
+  "meanings_zh": [
+    "骂",
+    "丑诋"
+  ],
+  "meanings_en": [
+    "to speak ill of",
+    "to abuse"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

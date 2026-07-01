@@ -1,0 +1,38 @@
+{
+  "id": "n4-0614",
+  "jlpt": "N4",
+  "kanji": "踊る",
+  "kana": "おどる",
+  "display": "踊る",
+  "meanings_zh": [
+    "跳舞",
+    "舞蹈",
+    "不平稳",
+    "不平整"
+  ],
+  "meanings_en": [
+    "to dance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "踊るのが大っ嫌い。",
+      "en": "I hate dancing."
+    },
+    {
+      "ja": "踊るのは好きだよ。",
+      "en": "I like to dance."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

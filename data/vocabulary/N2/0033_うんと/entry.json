@@ -1,0 +1,39 @@
+{
+  "id": "n2-0033",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "うんと",
+  "display": "うんと",
+  "meanings_zh": [
+    "多",
+    "狠",
+    "用力",
+    "使劲"
+  ],
+  "meanings_en": [
+    "a great deal",
+    "very much"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "うんと言ってよ。",
+      "en": "Just say yes."
+    },
+    {
+      "ja": "うんと寝たいんだ。",
+      "en": "I want to sleep a bunch."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

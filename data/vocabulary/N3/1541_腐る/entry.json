@@ -1,0 +1,39 @@
+{
+  "id": "n3-1541",
+  "jlpt": "N3",
+  "kanji": "腐る",
+  "kana": "くさる",
+  "display": "腐る",
+  "meanings_zh": [
+    "腐烂",
+    "腐败",
+    "坏",
+    "烂"
+  ],
+  "meanings_en": [
+    "to rot",
+    "to go bad"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "金が腐るほどある。",
+      "en": "He is rolling in riches."
+    },
+    {
+      "ja": "暑いとミルクが腐る。",
+      "en": "The hot weather turns milk."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

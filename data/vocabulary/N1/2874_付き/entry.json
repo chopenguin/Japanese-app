@@ -1,0 +1,50 @@
+{
+  "id": "n1-2874",
+  "jlpt": "N1",
+  "kanji": "付き",
+  "kana": "つき",
+  "display": "付き",
+  "meanings_zh": [
+    "附",
+    "附着",
+    "粘",
+    "胶附 就",
+    "关于",
+    "因为",
+    "每 样子",
+    "姿势",
+    "跟随",
+    "附属"
+  ],
+  "meanings_en": [
+    "attached to",
+    "impression",
+    "sociality",
+    "appearance",
+    "furnished with",
+    "under",
+    "to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "葉が色付き始めた。",
+      "en": "The leaves have begun to color."
+    },
+    {
+      "ja": "僕と付き合わない？",
+      "en": "Would you like to go out with me?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n2-0625",
+  "jlpt": "N2",
+  "kanji": "嫌がる",
+  "kana": "いやがる",
+  "display": "嫌がる",
+  "meanings_zh": [
+    "嫌",
+    "讨厌",
+    "不愿意",
+    "逃避"
+  ],
+  "meanings_en": [
+    "to hate",
+    "to dislike"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "猫は濡れるのを嫌がる。",
+      "en": "Cats dislike being wet."
+    },
+    {
+      "ja": "彼女は学校へ行くのを嫌がる。",
+      "en": "She dislikes going to school."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

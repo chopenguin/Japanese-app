@@ -1,0 +1,30 @@
+{
+  "id": "n2-0548",
+  "jlpt": "N2",
+  "kanji": "逆様",
+  "kana": "さかさま",
+  "display": "逆様",
+  "meanings_zh": [],
+  "meanings_en": [
+    "inversion",
+    "upside down"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は真っ逆様にプールに落ちた。",
+      "en": "He fell head over heels into the pool."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

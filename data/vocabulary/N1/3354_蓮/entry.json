@@ -1,0 +1,36 @@
+{
+  "id": "n1-3354",
+  "jlpt": "N1",
+  "kanji": "蓮",
+  "kana": "はす",
+  "display": "蓮",
+  "meanings_zh": [
+    "莲",
+    "荷"
+  ],
+  "meanings_en": [
+    "lotus"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "蓮の花はなんとも言えない芳香をはなっていた。",
+      "en": "The lotus blossoms diffused an inexpressibly pleasant scent."
+    },
+    {
+      "ja": "火星上にある神殿には蓮の花が飾ってあります。",
+      "en": "The temples on Mars are decorated with lotus flowers."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

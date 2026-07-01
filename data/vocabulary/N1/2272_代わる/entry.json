@@ -1,0 +1,43 @@
+{
+  "id": "n1-2272",
+  "jlpt": "N1",
+  "kanji": "代わる",
+  "kana": "かわる",
+  "display": "代わる",
+  "meanings_zh": [
+    "更换",
+    "更迭",
+    "代替",
+    "替代"
+  ],
+  "meanings_en": [
+    "to take the place of",
+    "to relieve",
+    "to be substituted for",
+    "to be exchanged",
+    "to change places with",
+    "to take"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "勤勉に代わるものなし。",
+      "en": "There's no substitute for hard work."
+    },
+    {
+      "ja": "私たちは代わる代わる寝た。",
+      "en": "We slept by turns."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

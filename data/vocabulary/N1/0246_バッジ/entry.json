@@ -1,0 +1,36 @@
+{
+  "id": "n1-0246",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "バッジ",
+  "display": "バッジ",
+  "meanings_zh": [
+    "徽章",
+    "证章"
+  ],
+  "meanings_en": [
+    "badge"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "誰か僕のバッジ見なかった？",
+      "en": "Has anyone seen my badge?"
+    },
+    {
+      "ja": "男子生徒のめいめいが帽子に学校のバッジをつけています。",
+      "en": "Each boy student has a school badge on his cap."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

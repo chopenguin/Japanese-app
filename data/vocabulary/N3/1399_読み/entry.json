@@ -1,0 +1,38 @@
+{
+  "id": "n3-1399",
+  "jlpt": "N3",
+  "kanji": "読み",
+  "kana": "よみ",
+  "display": "読み",
+  "meanings_zh": [
+    "念",
+    "读",
+    "理解",
+    "训读"
+  ],
+  "meanings_en": [
+    "reading"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "読み続けて。",
+      "en": "Keep reading."
+    },
+    {
+      "ja": "私は読みます。",
+      "en": "I read."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

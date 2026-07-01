@@ -1,0 +1,38 @@
+{
+  "id": "n4-0230",
+  "jlpt": "N4",
+  "kanji": "祈る",
+  "kana": "いのる",
+  "display": "祈る",
+  "meanings_zh": [
+    "祈祷",
+    "祷告",
+    "祝愿",
+    "希望"
+  ],
+  "meanings_en": [
+    "to pray"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "成功を祈るわ。",
+      "en": "Break a leg."
+    },
+    {
+      "ja": "幸運を祈るよ。",
+      "en": "Good luck!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

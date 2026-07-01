@@ -1,0 +1,42 @@
+{
+  "id": "n1-2561",
+  "jlpt": "N1",
+  "kanji": "当て",
+  "kana": "あて",
+  "display": "当て",
+  "meanings_zh": [
+    "目的",
+    "目标",
+    "期待",
+    "指望"
+  ],
+  "meanings_en": [
+    "object",
+    "aim",
+    "end",
+    "hopes",
+    "expectations"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "当ててみて。",
+      "en": "Make a guess."
+    },
+    {
+      "ja": "彼は的に当てた。",
+      "en": "He hit the mark."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

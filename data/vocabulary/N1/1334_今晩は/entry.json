@@ -1,0 +1,36 @@
+{
+  "id": "n1-1334",
+  "jlpt": "N1",
+  "kanji": "今晩は",
+  "kana": "こんばんは",
+  "display": "今晩は",
+  "meanings_zh": [
+    "晚上好",
+    "你好"
+  ],
+  "meanings_en": [
+    "good evening"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今晩は予定がある？",
+      "en": "What are you doing tonight?"
+    },
+    {
+      "ja": "今晩はいっぱいです。",
+      "en": "We're filled for tonight."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

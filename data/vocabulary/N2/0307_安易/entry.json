@@ -1,0 +1,38 @@
+{
+  "id": "n2-0307",
+  "jlpt": "N2",
+  "kanji": "安易",
+  "kana": "あんい",
+  "display": "安易",
+  "meanings_zh": [
+    "容易",
+    "轻而易举",
+    "安逸",
+    "安闲"
+  ],
+  "meanings_en": [
+    "easy-going"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は彼女を安易な餌で誘き寄せた。",
+      "en": "He lured her with trinkets."
+    },
+    {
+      "ja": "そんなに安易に妥協しないでください。",
+      "en": "Don't give in so easily."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

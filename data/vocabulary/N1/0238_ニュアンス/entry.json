@@ -1,0 +1,38 @@
+{
+  "id": "n1-0238",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ニュアンス",
+  "display": "ニュアンス",
+  "meanings_zh": [
+    "语气",
+    "语感",
+    "微妙差别",
+    "细腻"
+  ],
+  "meanings_en": [
+    "nuance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その言葉には微妙なニュアンスがある。",
+      "en": "This word has a subtle nuance to it."
+    },
+    {
+      "ja": "彼女の考えと私の考えでは少しニュアンスが違う。",
+      "en": "There's a slight difference between her thinking and mine."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

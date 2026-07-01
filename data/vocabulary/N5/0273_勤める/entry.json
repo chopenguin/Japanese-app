@@ -1,0 +1,38 @@
+{
+  "id": "n5-0273",
+  "jlpt": "N5",
+  "kanji": "勤める",
+  "kana": "つとめる",
+  "display": "勤める",
+  "meanings_zh": [
+    "工作",
+    "做事",
+    "任职",
+    "服侍"
+  ],
+  "meanings_en": [
+    "to work for someone"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はコンサルティングファームに勤める。",
+      "en": "He works for a consulting firm."
+    },
+    {
+      "ja": "パーティーでは誰がホストを勤めるのですか。",
+      "en": "Who will host the party?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n1-3385",
+  "jlpt": "N1",
+  "kanji": "話し合い",
+  "kana": "はなしあい",
+  "display": "話し合い",
+  "meanings_zh": [
+    "商量",
+    "商议",
+    "商谈",
+    "协商"
+  ],
+  "meanings_en": [
+    "discussion",
+    "conference"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "後で話し合いましょう。",
+      "en": "Let's discuss it later."
+    },
+    {
+      "ja": "話し合いはちょっと中断した。",
+      "en": "There was a brief break in the discussion."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

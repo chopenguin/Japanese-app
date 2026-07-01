@@ -1,0 +1,35 @@
+{
+  "id": "n1-1106",
+  "jlpt": "N1",
+  "kanji": "建前",
+  "kana": "たてまえ",
+  "display": "建前",
+  "meanings_zh": [],
+  "meanings_en": [
+    "face",
+    "official stance",
+    "public position or attitude (as opposed to private thoughts)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "アメリカも本音と建前を使い分ける国だ。",
+      "en": "America is also a country that separates its public motives from its private ones."
+    },
+    {
+      "ja": "少数民族の雇用促進政策とはいっても、建前にすぎず、現状はマイノリティーが職に就けるチャンスなどほとんどない。",
+      "en": "Although many pay lip service to the idea of affirmative action, in reality, very few minorities get hired."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

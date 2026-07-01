@@ -1,0 +1,36 @@
+{
+  "id": "n5-0062",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "コップ",
+  "display": "コップ",
+  "meanings_zh": [
+    "玻璃杯",
+    "杯子"
+  ],
+  "meanings_en": [
+    "a glass"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これ誰のコップ？",
+      "en": "Whose glass is this?"
+    },
+    {
+      "ja": "僕のコップはどれ？",
+      "en": "Which one is my cup?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

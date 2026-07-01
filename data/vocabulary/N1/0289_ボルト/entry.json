@@ -1,0 +1,34 @@
+{
+  "id": "n1-0289",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ボルト",
+  "display": "ボルト",
+  "meanings_zh": [],
+  "meanings_en": [
+    "volt",
+    "bolt"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ボルトがバカになってる。",
+      "en": "The bolt is not working."
+    },
+    {
+      "ja": "そのボルトに嵌合するナットが必要です。",
+      "en": "We need a nut that will fit that bolt."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

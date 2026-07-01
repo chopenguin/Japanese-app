@@ -1,0 +1,33 @@
+{
+  "id": "n1-0928",
+  "jlpt": "N1",
+  "kanji": "共働き",
+  "kana": "ともばたらき",
+  "display": "共働き",
+  "meanings_zh": [],
+  "meanings_en": [
+    "dual income"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "「少しうちに寄っていかない？」「いいの？」「うち共働きで親は遅いの」",
+      "en": "\"Want to drop round my place?\" \"Can I?\" \"My parents come home late as they both work.\""
+    },
+    {
+      "ja": "例年通りだった。特に落胆はなかった。共働きの家では当たり前のことだから。",
+      "en": "It was an ordinary year, no especial disappointments. Just the run of the mill goings-on of a dual-income household."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

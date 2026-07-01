@@ -1,0 +1,33 @@
+{
+  "id": "n2-0372",
+  "jlpt": "N2",
+  "kanji": "応ずる",
+  "kana": "おうずる",
+  "display": "応ずる",
+  "meanings_zh": [
+    "应",
+    "接受",
+    "回答",
+    "响应"
+  ],
+  "meanings_en": [
+    "to answer",
+    "to respond",
+    "to meet",
+    "to satisfy",
+    "to accept"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

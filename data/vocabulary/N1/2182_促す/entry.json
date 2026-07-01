@@ -1,0 +1,39 @@
+{
+  "id": "n1-2182",
+  "jlpt": "N1",
+  "kanji": "促す",
+  "kana": "うながす",
+  "display": "促す",
+  "meanings_zh": [
+    "催促",
+    "促使"
+  ],
+  "meanings_en": [
+    "to urge",
+    "to press",
+    "to suggest",
+    "to demand",
+    "to stimulate",
+    "to quicken",
+    "to incite",
+    "to invite (attention to)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "タトエバ・コーパスの間違いを減らす一つの方法は、母国語へのみ翻訳するよう促すことだろう。",
+      "en": "One way to lower the number of errors in the Tatoeba Corpus would be to encourage people to only translate into their native languages."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

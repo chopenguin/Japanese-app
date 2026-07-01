@@ -1,0 +1,39 @@
+{
+  "id": "n3-1011",
+  "jlpt": "N3",
+  "kanji": "常に",
+  "kana": "つねに",
+  "display": "常に",
+  "meanings_zh": [
+    "常",
+    "时常",
+    "经常",
+    "不断"
+  ],
+  "meanings_en": [
+    "always",
+    "constantly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "火は常に危険だ。",
+      "en": "Fire is always dangerous."
+    },
+    {
+      "ja": "彼は非常に親切だ。",
+      "en": "He is a very decent fellow."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

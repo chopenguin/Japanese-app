@@ -1,0 +1,28 @@
+{
+  "id": "n2-1140",
+  "jlpt": "N2",
+  "kanji": "羨む",
+  "kana": "うらやむ",
+  "display": "羨む",
+  "meanings_zh": [
+    "羡慕",
+    "忌妒",
+    "眼红"
+  ],
+  "meanings_en": [
+    "to envy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

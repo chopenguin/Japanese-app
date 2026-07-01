@@ -1,0 +1,38 @@
+{
+  "id": "n1-0318",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ルール",
+  "display": "ルール",
+  "meanings_zh": [
+    "规",
+    "规则",
+    "章",
+    "章程"
+  ],
+  "meanings_en": [
+    "rule"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ルール違反だぞ。",
+      "en": "You're breaking the rules."
+    },
+    {
+      "ja": "ルール分かってる？",
+      "en": "Do you know the rules?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

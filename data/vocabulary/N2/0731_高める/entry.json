@@ -1,0 +1,39 @@
+{
+  "id": "n2-0731",
+  "jlpt": "N2",
+  "kanji": "高める",
+  "kana": "たかめる",
+  "display": "高める",
+  "meanings_zh": [
+    "提高",
+    "抬高",
+    "加高"
+  ],
+  "meanings_en": [
+    "to raise",
+    "to lift",
+    "to boost"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それが自分を高めるコツです。",
+      "en": "It's the secret for improving oneself."
+    },
+    {
+      "ja": "社長は従業員に生産性を高めるように命じた。",
+      "en": "The president instructed the employees to improve their productivity."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

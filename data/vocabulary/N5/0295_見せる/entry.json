@@ -1,0 +1,39 @@
+{
+  "id": "n5-0295",
+  "jlpt": "N5",
+  "kanji": "見せる",
+  "kana": "みせる",
+  "display": "見せる",
+  "meanings_zh": [
+    "给～～看",
+    "让～～看",
+    "表示",
+    "显示",
+    "装做～～样给人看"
+  ],
+  "meanings_en": [
+    "to show"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "手の内を見せるな。",
+      "en": "Don't show them your hand."
+    },
+    {
+      "ja": "喜怒哀楽を見せるな。",
+      "en": "Don't let your feelings show."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

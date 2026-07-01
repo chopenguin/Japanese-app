@@ -1,0 +1,33 @@
+{
+  "id": "n1-1718",
+  "jlpt": "N1",
+  "kanji": "出合う",
+  "kana": "であう",
+  "display": "出合う",
+  "meanings_zh": [
+    "遇见",
+    "遇上",
+    "遇到",
+    "碰见"
+  ],
+  "meanings_en": [
+    "to meet by chance",
+    "to come across",
+    "to happen to encounter",
+    "to hold a rendezvous",
+    "to have a date"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

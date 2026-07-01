@@ -1,0 +1,36 @@
+{
+  "id": "n1-1622",
+  "jlpt": "N1",
+  "kanji": "取り締まり",
+  "kana": "とりしまり",
+  "display": "取り締まり",
+  "meanings_zh": [
+    "管理",
+    "管束",
+    "约束",
+    "取缔"
+  ],
+  "meanings_en": [
+    "control",
+    "management",
+    "supervision"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "警察は違法駐車の取り締まりを始めた。",
+      "en": "The police began a crackdown on illegal parking."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

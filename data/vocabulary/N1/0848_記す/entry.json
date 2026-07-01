@@ -1,0 +1,39 @@
+{
+  "id": "n1-0848",
+  "jlpt": "N1",
+  "kanji": "記す",
+  "kana": "しるす",
+  "display": "記す",
+  "meanings_zh": [
+    "写",
+    "书写",
+    "做记号",
+    "加上符号"
+  ],
+  "meanings_en": [
+    "to note",
+    "to write down"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "日付を暗記することは容易ではない。",
+      "en": "It is not easy to commit dates to memory."
+    },
+    {
+      "ja": "太郎は英単語を暗記するのに集中した。",
+      "en": "Taro concentrated on memorizing English words."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

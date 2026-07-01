@@ -1,0 +1,38 @@
+{
+  "id": "n4-0507",
+  "jlpt": "N4",
+  "kanji": "盗む",
+  "kana": "ぬすむ",
+  "display": "盗む",
+  "meanings_zh": [
+    "偷盗",
+    "盗窃",
+    "背着～～",
+    "偷空"
+  ],
+  "meanings_en": [
+    "to steal"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "盗むのは悪いことだ。",
+      "en": "It is bad to steal."
+    },
+    {
+      "ja": "卵を盗む奴は牛も盗む。",
+      "en": "He that will steal an egg will steal an ox."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

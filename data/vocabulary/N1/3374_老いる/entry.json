@@ -1,0 +1,35 @@
+{
+  "id": "n1-3374",
+  "jlpt": "N1",
+  "kanji": "老いる",
+  "kana": "おいる",
+  "display": "老いる",
+  "meanings_zh": [
+    "老",
+    "年老",
+    "上年纪",
+    "衰老"
+  ],
+  "meanings_en": [
+    "to age",
+    "to grow old"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "生きることは老いること。それだけ。",
+      "en": "Living is growing old, nothing more."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

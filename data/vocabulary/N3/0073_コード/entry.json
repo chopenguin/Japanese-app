@@ -1,0 +1,35 @@
+{
+  "id": "n3-0073",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "コード",
+  "display": "コード",
+  "meanings_zh": [],
+  "meanings_en": [
+    "code",
+    "cord",
+    "chord"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "製品コードは何ですか？",
+      "en": "What's the product's code?"
+    },
+    {
+      "ja": "ドレスコードはありますか？",
+      "en": "Is there a dress code?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

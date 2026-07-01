@@ -1,0 +1,38 @@
+{
+  "id": "n1-0450",
+  "jlpt": "N1",
+  "kanji": "嘘つき",
+  "kana": "うそつき",
+  "display": "嘘つき",
+  "meanings_zh": [
+    "说谎",
+    "撒谎",
+    "爱撒谎的人"
+  ],
+  "meanings_en": [
+    "liar (sometimes said with not much seriousness)",
+    "fibber"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "僕は嘘つきだ。",
+      "en": "I'm a liar."
+    },
+    {
+      "ja": "君は嘘つきだ。",
+      "en": "You're a liar."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

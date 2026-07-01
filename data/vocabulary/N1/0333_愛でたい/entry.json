@@ -1,0 +1,29 @@
+{
+  "id": "n1-0333",
+  "jlpt": "N1",
+  "kanji": "愛でたい",
+  "kana": "めでたい",
+  "display": "愛でたい",
+  "meanings_zh": [
+    "可喜",
+    "可贺",
+    "吉庆",
+    "吉利"
+  ],
+  "meanings_en": [
+    "auspicious"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

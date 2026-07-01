@@ -1,0 +1,38 @@
+{
+  "id": "n5-0055",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "クラス",
+  "display": "クラス",
+  "meanings_zh": [
+    "阶级",
+    "等级",
+    "班",
+    "级"
+  ],
+  "meanings_en": [
+    "class"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "クラスに友達いる？",
+      "en": "Do you have friends in your class?"
+    },
+    {
+      "ja": "どこのクラスなの？",
+      "en": "Which class are you in?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

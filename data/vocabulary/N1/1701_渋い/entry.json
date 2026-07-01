@@ -1,0 +1,44 @@
+{
+  "id": "n1-1701",
+  "jlpt": "N1",
+  "kanji": "渋い",
+  "kana": "しぶい",
+  "display": "渋い",
+  "meanings_zh": [
+    "涩",
+    "怏怏不乐",
+    "素雅",
+    "雅致"
+  ],
+  "meanings_en": [
+    "1.  tasteful (clothing)",
+    "cool",
+    "an aura of refined masculinity",
+    "2.  astringent",
+    "sullen",
+    "bitter (taste)",
+    "3"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は妻の無駄遣いに渋い顔をする。",
+      "en": "He frowns on his wife's wasting money."
+    },
+    {
+      "ja": "僕的にはもっと地味ってか渋い服が欲しいんですけどね。",
+      "en": "For my tastes, I'd prefer plainer, or rather, more tasteful clothing."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

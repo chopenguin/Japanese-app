@@ -1,0 +1,36 @@
+{
+  "id": "n4-0068",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "サンドイッチ",
+  "display": "サンドイッチ",
+  "meanings_zh": [
+    "三明治",
+    "夹心面包"
+  ],
+  "meanings_en": [
+    "sandwich"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "サンドイッチはいかが？",
+      "en": "How about a sandwich?"
+    },
+    {
+      "ja": "大きなサンドイッチね。",
+      "en": "That's a big sandwich."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

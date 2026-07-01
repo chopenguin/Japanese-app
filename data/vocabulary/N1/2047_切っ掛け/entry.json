@@ -1,0 +1,35 @@
+{
+  "id": "n1-2047",
+  "jlpt": "N1",
+  "kanji": "切っ掛け",
+  "kana": "きっかけ",
+  "display": "切っ掛け",
+  "meanings_zh": [
+    "起首",
+    "开端",
+    "机会",
+    "时机"
+  ],
+  "meanings_en": [
+    "chance",
+    "start",
+    "cue",
+    "excuse",
+    "motive",
+    "impetus",
+    "occasion"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

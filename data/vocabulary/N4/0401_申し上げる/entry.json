@@ -1,0 +1,39 @@
+{
+  "id": "n4-0401",
+  "jlpt": "N4",
+  "kanji": "申し上げる",
+  "kana": "もうしあげる",
+  "display": "申し上げる",
+  "meanings_zh": [
+    "说",
+    "讲",
+    "提及",
+    "说起"
+  ],
+  "meanings_en": [
+    "(humble) to say",
+    "to tell"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "反対申し上げるつもりは全然なかったのです。",
+      "en": "I had no desire to say anything against you."
+    },
+    {
+      "ja": "私に関する限り申し上げることはありません。",
+      "en": "As far as I am concerned, I have nothing to say."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

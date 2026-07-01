@@ -1,0 +1,29 @@
+{
+  "id": "n2-0300",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ローマじ",
+  "display": "ローマじ",
+  "meanings_zh": [
+    "罗马字",
+    "拉丁字母",
+    "罗马字拼写法"
+  ],
+  "meanings_en": [
+    "romanization",
+    "Roman letters"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

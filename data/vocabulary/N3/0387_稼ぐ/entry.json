@@ -1,0 +1,39 @@
+{
+  "id": "n3-0387",
+  "jlpt": "N3",
+  "kanji": "稼ぐ",
+  "kana": "かせぐ",
+  "display": "稼ぐ",
+  "meanings_zh": [
+    "拼命地劳动",
+    "赚钱",
+    "挣钱",
+    "争取"
+  ],
+  "meanings_en": [
+    "to earn income",
+    "to labor"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はおおいに稼ぐ。",
+      "en": "He earns a great deal."
+    },
+    {
+      "ja": "彼は私の三倍も稼ぐ。",
+      "en": "He earns three times as much as I."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

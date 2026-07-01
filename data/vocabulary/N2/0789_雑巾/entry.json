@@ -1,0 +1,34 @@
+{
+  "id": "n2-0789",
+  "jlpt": "N2",
+  "kanji": "雑巾",
+  "kana": "ぞうきん",
+  "display": "雑巾",
+  "meanings_zh": [],
+  "meanings_en": [
+    "house-cloth",
+    "dust cloth"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "雑巾とタオルを一緒くたにしてはいけない。",
+      "en": "You shouldn't keep towels and cleaning rags together."
+    },
+    {
+      "ja": "そこに突っ立ってないで、雑巾持って来てくれる？",
+      "en": "Instead of just standing there, could you bring me a cloth?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

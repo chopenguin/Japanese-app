@@ -1,0 +1,38 @@
+{
+  "id": "n1-1858",
+  "jlpt": "N1",
+  "kanji": "食い違う",
+  "kana": "くいちがう",
+  "display": "食い違う",
+  "meanings_zh": [
+    "不一致",
+    "有分歧",
+    "有所不同",
+    "发生鹢鹴"
+  ],
+  "meanings_en": [
+    "to cross each other",
+    "to run counter to",
+    "to differ",
+    "to clash",
+    "to go awry"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私たちの意見が食い違うのはこの点です。",
+      "en": "It is on this point that our opinions differ."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

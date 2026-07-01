@@ -1,0 +1,40 @@
+{
+  "id": "n3-0455",
+  "jlpt": "N3",
+  "kanji": "感じ",
+  "kana": "かんじ",
+  "display": "感じ",
+  "meanings_zh": [
+    "感觉",
+    "知觉",
+    "感",
+    "印象"
+  ],
+  "meanings_en": [
+    "feeling",
+    "sense",
+    "impression"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "生を感じる。",
+      "en": "I feel alive."
+    },
+    {
+      "ja": "何か感じる。",
+      "en": "I feel something."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n2-0156",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ぜひとも",
+  "display": "ぜひとも",
+  "meanings_zh": [],
+  "meanings_en": [
+    "by all means (with sense of not taking no for an answer)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ぜひともそれを見てみたい。",
+      "en": "I would love to see it."
+    },
+    {
+      "ja": "ぜひともお会いしたいと思っておりました。",
+      "en": "I've been anxious to meet you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

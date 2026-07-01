@@ -1,0 +1,28 @@
+{
+  "id": "n2-0864",
+  "jlpt": "N2",
+  "kanji": "写る",
+  "kana": "うつる",
+  "display": "写る",
+  "meanings_zh": [
+    "照像",
+    "映现"
+  ],
+  "meanings_en": [
+    "to be photographed",
+    "to be projected"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

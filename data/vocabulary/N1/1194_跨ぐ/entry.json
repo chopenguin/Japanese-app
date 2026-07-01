@@ -1,0 +1,28 @@
+{
+  "id": "n1-1194",
+  "jlpt": "N1",
+  "kanji": "跨ぐ",
+  "kana": "またぐ",
+  "display": "跨ぐ",
+  "meanings_zh": [
+    "跨立",
+    "跨过",
+    "跨越"
+  ],
+  "meanings_en": [
+    "to straddle"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

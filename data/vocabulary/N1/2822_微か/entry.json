@@ -1,0 +1,44 @@
+{
+  "id": "n1-2822",
+  "jlpt": "N1",
+  "kanji": "微か",
+  "kana": "かすか",
+  "display": "微か",
+  "meanings_zh": [
+    "微弱",
+    "略微",
+    "微暗",
+    "朦胧"
+  ],
+  "meanings_en": [
+    "faint",
+    "dim",
+    "weak",
+    "indistinct",
+    "hazy",
+    "poor",
+    "wretched"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "少年は容貌が父親に微かに似ていた。",
+      "en": "The boy faintly resembled his father in appearance."
+    },
+    {
+      "ja": "その食べ物には微かににんにくの風味があった。",
+      "en": "The food tasted slightly of garlic."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

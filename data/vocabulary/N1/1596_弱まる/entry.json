@@ -1,0 +1,36 @@
+{
+  "id": "n1-1596",
+  "jlpt": "N1",
+  "kanji": "弱まる",
+  "kana": "よわまる",
+  "display": "弱まる",
+  "meanings_zh": [
+    "变弱",
+    "衰弱"
+  ],
+  "meanings_en": [
+    "to abate",
+    "to weaken",
+    "to be emaciated",
+    "to be dejected",
+    "to be perplexed"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "１９世紀になる英語圏の国ではマスターベーションにより、記憶力が弱まる、注意力が散漫になるとよく言われていた。",
+      "en": "In the English world of the 19th century, it was often said that masturbation would lead to a loss of memory and attention."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

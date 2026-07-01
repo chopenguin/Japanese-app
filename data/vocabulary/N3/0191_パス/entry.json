@@ -1,0 +1,34 @@
+{
+  "id": "n3-0191",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "パス",
+  "display": "パス",
+  "meanings_zh": [],
+  "meanings_en": [
+    "path",
+    "pass (in games)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ボール、パス！",
+      "en": "Pass the ball!"
+    },
+    {
+      "ja": "パスタでもいい？",
+      "en": "May I have spaghetti?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

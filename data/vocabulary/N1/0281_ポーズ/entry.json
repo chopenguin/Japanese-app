@@ -1,0 +1,33 @@
+{
+  "id": "n1-0281",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ポーズ",
+  "display": "ポーズ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "pause"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムにプロポーズされた。",
+      "en": "Tom proposed to me."
+    },
+    {
+      "ja": "彼女はプロポーズを断った。",
+      "en": "She turned down his proposal."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "n4-0208",
+  "jlpt": "N4",
+  "kanji": "掛ける",
+  "kana": "かける",
+  "display": "掛ける",
+  "meanings_zh": [
+    "挂上",
+    "悬挂",
+    "拉",
+    "挂 刚要",
+    "刚开始",
+    "没～～完",
+    "就要～～了"
+  ],
+  "meanings_en": [
+    "to hang something"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "４掛ける２は８だ。",
+      "en": "Four multiplied by two is eight."
+    },
+    {
+      "ja": "明日は出掛けるの？",
+      "en": "Are you going out tomorrow?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

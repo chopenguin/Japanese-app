@@ -1,0 +1,39 @@
+{
+  "id": "n2-0497",
+  "jlpt": "N2",
+  "kanji": "勘違い",
+  "kana": "かんちがい",
+  "display": "勘違い",
+  "meanings_zh": [
+    "错认",
+    "错想",
+    "判断错误",
+    "误会"
+  ],
+  "meanings_en": [
+    "misunderstanding",
+    "wrong guess"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "勘違いしてたわ。",
+      "en": "I was mistaken."
+    },
+    {
+      "ja": "勘違いするなよ。",
+      "en": "Don't get it wrong."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

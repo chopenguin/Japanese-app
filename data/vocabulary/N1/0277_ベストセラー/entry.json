@@ -1,0 +1,33 @@
+{
+  "id": "n1-0277",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ベストセラー",
+  "display": "ベストセラー",
+  "meanings_zh": [],
+  "meanings_en": [
+    "best-seller"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "有名作家はまたベストセラー書を著した。",
+      "en": "The famous author created another best-selling book."
+    },
+    {
+      "ja": "彼女はベストセラーの小説を早速読んだ。",
+      "en": "She lost no time in reading a best-selling novel."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

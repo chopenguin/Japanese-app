@@ -1,0 +1,29 @@
+{
+  "id": "n1-0055",
+  "jlpt": "N1",
+  "kanji": "お邪魔します",
+  "kana": "おじゃまします",
+  "display": "お邪魔します",
+  "meanings_zh": [],
+  "meanings_en": [
+    "Excuse me for disturbing (interrupting) you"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お邪魔します。",
+      "en": "Hello, sorry for any trouble."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

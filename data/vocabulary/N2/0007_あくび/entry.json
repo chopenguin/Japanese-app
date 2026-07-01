@@ -1,0 +1,36 @@
+{
+  "id": "n2-0007",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "あくび",
+  "display": "あくび",
+  "meanings_zh": [
+    "哈欠",
+    "哈息"
+  ],
+  "meanings_en": [
+    "yawn"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あくびをした。",
+      "en": "I yawned."
+    },
+    {
+      "ja": "大あくびをして。",
+      "en": "Yawn a big long yawn."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n3-0098",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "じゃあ",
+  "display": "じゃあ",
+  "meanings_zh": [
+    "那么(就)"
+  ],
+  "meanings_en": [
+    "well",
+    "well then"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "じゃあまた。",
+      "en": "See you then."
+    },
+    {
+      "ja": "じゃあ、また。",
+      "en": "See you in a little while."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

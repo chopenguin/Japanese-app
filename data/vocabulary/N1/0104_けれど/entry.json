@@ -1,0 +1,34 @@
+{
+  "id": "n1-0104",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "けれど",
+  "display": "けれど",
+  "meanings_zh": [],
+  "meanings_en": [
+    "but",
+    "however"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は若いけれど利口だ。",
+      "en": "Young as he is, he is clever."
+    },
+    {
+      "ja": "心熱けれど肉体は弱し。",
+      "en": "The spirit is willing, but the flesh is weak."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

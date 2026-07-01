@@ -1,0 +1,38 @@
+{
+  "id": "n3-0428",
+  "jlpt": "N3",
+  "kanji": "覚ます",
+  "kana": "さます",
+  "display": "覚ます",
+  "meanings_zh": [
+    "弄醒",
+    "唤醒",
+    "使觉醒",
+    "使清醒"
+  ],
+  "meanings_en": [
+    "to awaken"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "サタンの亡霊が目を覚ます。",
+      "en": "Satan's ghost awakes."
+    },
+    {
+      "ja": "目を覚ますと、家族が来ていた。",
+      "en": "When she awoke, the family was there."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

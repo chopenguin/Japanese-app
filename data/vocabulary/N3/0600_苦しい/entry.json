@@ -1,0 +1,39 @@
+{
+  "id": "n3-0600",
+  "jlpt": "N3",
+  "kanji": "苦しい",
+  "kana": "くるしい",
+  "display": "苦しい",
+  "meanings_zh": [
+    "痛苦",
+    "难受",
+    "疼",
+    "困难"
+  ],
+  "meanings_en": [
+    "painful",
+    "difficult"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "息苦しいです。",
+      "en": "It's hard to breathe."
+    },
+    {
+      "ja": "苦しい、やめろ。",
+      "en": "It's so painful. Stop it!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

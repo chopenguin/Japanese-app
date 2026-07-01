@@ -1,0 +1,29 @@
+{
+  "id": "n1-1345",
+  "jlpt": "N1",
+  "kanji": "些とも",
+  "kana": "ちっとも",
+  "display": "些とも",
+  "meanings_zh": [
+    "一点儿(也不)",
+    "毫(无)",
+    "总(不)",
+    "一会儿也(不)"
+  ],
+  "meanings_en": [
+    "not at all (neg. verb)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

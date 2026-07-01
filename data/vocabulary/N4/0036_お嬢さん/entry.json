@@ -1,0 +1,38 @@
+{
+  "id": "n4-0036",
+  "jlpt": "N4",
+  "kanji": "お嬢さん",
+  "kana": "おじょうさん",
+  "display": "お嬢さん",
+  "meanings_zh": [
+    "令爱",
+    "您的女儿",
+    "千金",
+    "小姐"
+  ],
+  "meanings_en": [
+    "young lady"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お嬢さんのお名前は？",
+      "en": "What's your daughter's name?"
+    },
+    {
+      "ja": "お嬢さん、背が高いですね。",
+      "en": "Your daughter is tall."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

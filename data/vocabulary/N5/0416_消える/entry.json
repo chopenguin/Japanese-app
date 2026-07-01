@@ -1,0 +1,38 @@
+{
+  "id": "n5-0416",
+  "jlpt": "N5",
+  "kanji": "消える",
+  "kana": "きえる",
+  "display": "消える",
+  "meanings_zh": [
+    "熄灭",
+    "融化",
+    "消失",
+    "隐没"
+  ],
+  "meanings_en": [
+    "to disappear"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "雪はすぐに消えるだろう。",
+      "en": "The snow will soon disappear."
+    },
+    {
+      "ja": "それは決して消えることはない。",
+      "en": "That will never disappear."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

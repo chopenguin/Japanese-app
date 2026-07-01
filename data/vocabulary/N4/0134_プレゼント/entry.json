@@ -1,0 +1,37 @@
+{
+  "id": "n4-0134",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "プレゼント",
+  "display": "プレゼント",
+  "meanings_zh": [
+    "赠品",
+    "礼物",
+    "送礼"
+  ],
+  "meanings_en": [
+    "present"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "プレゼントをどうぞ。",
+      "en": "This is a present for you."
+    },
+    {
+      "ja": "プレゼントがあるんだ。",
+      "en": "I have some gifts."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

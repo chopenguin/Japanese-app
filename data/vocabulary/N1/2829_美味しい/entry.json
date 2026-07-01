@@ -1,0 +1,39 @@
+{
+  "id": "n1-2829",
+  "jlpt": "N1",
+  "kanji": "美味しい",
+  "kana": "おいしい",
+  "display": "美味しい",
+  "meanings_zh": [
+    "好吃",
+    "好喝",
+    "可口",
+    "味道鲜美"
+  ],
+  "meanings_en": [
+    "delicious",
+    "tasty"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それ美味しい？",
+      "en": "Is that tasty?"
+    },
+    {
+      "ja": "魚、美味しい？",
+      "en": "Is the fish good?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

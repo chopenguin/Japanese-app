@@ -1,0 +1,36 @@
+{
+  "id": "n1-0213",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "デザイン",
+  "display": "デザイン",
+  "meanings_zh": [
+    "设计(图)",
+    "(制作)图案"
+  ],
+  "meanings_en": [
+    "design"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼がその車をデザインした。",
+      "en": "He designed the car."
+    },
+    {
+      "ja": "彼のデザインは大変独創的だ。",
+      "en": "His designs are highly original."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

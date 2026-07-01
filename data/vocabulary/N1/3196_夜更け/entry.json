@@ -1,0 +1,35 @@
+{
+  "id": "n1-3196",
+  "jlpt": "N1",
+  "kanji": "夜更け",
+  "kana": "よふけ",
+  "display": "夜更け",
+  "meanings_zh": [
+    "深夜"
+  ],
+  "meanings_en": [
+    "late at night"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "我々は夜更けまで語り合った。",
+      "en": "We talked late into the night."
+    },
+    {
+      "ja": "彼はしばしば夜更けまで読書する。",
+      "en": "He often reads far into the night."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

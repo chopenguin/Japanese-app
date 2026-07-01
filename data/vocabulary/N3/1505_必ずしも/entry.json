@@ -1,0 +1,40 @@
+{
+  "id": "n3-1505",
+  "jlpt": "N3",
+  "kanji": "必ずしも",
+  "kana": "かならずしも",
+  "display": "必ずしも",
+  "meanings_zh": [
+    "不一定",
+    "未必一定",
+    "未必"
+  ],
+  "meanings_en": [
+    "(not) always",
+    "(not) necessarily",
+    "(not) all",
+    "(not) entirely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "逆は必ずしも真ならず。",
+      "en": "The reverse is not always true."
+    },
+    {
+      "ja": "石炭は必ずしも黒くない。",
+      "en": "Coal is not always black."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

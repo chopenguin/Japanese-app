@@ -1,0 +1,33 @@
+{
+  "id": "n5-0622",
+  "jlpt": "N5",
+  "kanji": "木曜日",
+  "kana": "もくようび",
+  "display": "木曜日",
+  "meanings_zh": [],
+  "meanings_en": [
+    "Thursday"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今日は木曜日です。",
+      "en": "Today is Thursday."
+    },
+    {
+      "ja": "昨日は木曜日だった。",
+      "en": "Yesterday was Thursday."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

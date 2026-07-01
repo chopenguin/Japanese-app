@@ -1,0 +1,38 @@
+{
+  "id": "n3-1130",
+  "jlpt": "N3",
+  "kanji": "積もる",
+  "kana": "つもる",
+  "display": "積もる",
+  "meanings_zh": [
+    "积",
+    "堆积",
+    "累积",
+    "积攒"
+  ],
+  "meanings_en": [
+    "to pile up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "距離を見積もるのは難しいな。",
+      "en": "The distance is hard to estimate."
+    },
+    {
+      "ja": "雪がしんしんと降り積もる・・・オレの体に。",
+      "en": "Snow falls silently and piles up ... on top of me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

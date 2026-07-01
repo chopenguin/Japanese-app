@@ -1,0 +1,40 @@
+{
+  "id": "n1-3303",
+  "jlpt": "N1",
+  "kanji": "立ち寄る",
+  "kana": "たちよる",
+  "display": "立ち寄る",
+  "meanings_zh": [
+    "靠近",
+    "走近",
+    "顺便到",
+    "顺路到",
+    "中途落脚"
+  ],
+  "meanings_en": [
+    "to stop by",
+    "to drop in for a short visit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "来週彼女のところに立ち寄るつもりだ。",
+      "en": "I'm going to drop in on her next week."
+    },
+    {
+      "ja": "彼らはよく私の家にひょっこり立ち寄る。",
+      "en": "They often drop in at my house."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

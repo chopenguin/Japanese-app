@@ -1,0 +1,38 @@
+{
+  "id": "n2-0153",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "スライド",
+  "display": "スライド",
+  "meanings_zh": [
+    "滑(动)",
+    "放映装置",
+    "幻灯机",
+    "幻灯片"
+  ],
+  "meanings_en": [
+    "slide"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "次のスライドをお願いします。",
+      "en": "Next slide, please."
+    },
+    {
+      "ja": "彼はそのスライドを顕微鏡で見た。",
+      "en": "He looked at the slide under the microscope."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

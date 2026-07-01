@@ -1,0 +1,35 @@
+{
+  "id": "n2-1765",
+  "jlpt": "N2",
+  "kanji": "裂く",
+  "kana": "さく",
+  "display": "裂く",
+  "meanings_zh": [
+    "撕开",
+    "切开",
+    "劈开",
+    "分割开"
+  ],
+  "meanings_en": [
+    "to tear",
+    "to split"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は彼がその手紙を引き裂くのを見た。",
+      "en": "I saw him tear up the letter."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n1-2918",
+  "jlpt": "N1",
+  "kanji": "腹立ち",
+  "kana": "はらだち",
+  "display": "腹立ち",
+  "meanings_zh": [
+    "生气",
+    "愤怒"
+  ],
+  "meanings_en": [
+    "anger"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は腹立ちまぎれに婚約を破棄した。",
+      "en": "She broke off her engagement in a fit of anger."
+    },
+    {
+      "ja": "彼は腹立ちまぎれにテーブルをたたいた。",
+      "en": "He pounded the table in a fit of anger."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

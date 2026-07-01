@@ -1,0 +1,37 @@
+{
+  "id": "n1-2920",
+  "jlpt": "N1",
+  "kanji": "覆す",
+  "kana": "くつがえす",
+  "display": "覆す",
+  "meanings_zh": [
+    "打翻",
+    "弄翻",
+    "翻转",
+    "推翻"
+  ],
+  "meanings_en": [
+    "to overturn",
+    "to upset",
+    "to overthrow",
+    "to undermine"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "従来の常識を覆す発明というのは、普通とは違う現象に気づく能力と関係がある。",
+      "en": "Innovation has something to do with the faculty to notice unusual phenomena."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

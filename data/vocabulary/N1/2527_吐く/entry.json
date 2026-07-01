@@ -1,0 +1,40 @@
+{
+  "id": "n1-2527",
+  "jlpt": "N1",
+  "kanji": "吐く",
+  "kana": "つく",
+  "display": "吐く",
+  "meanings_zh": [
+    "呼吸",
+    "出气",
+    "说出"
+  ],
+  "meanings_en": [
+    "1.  to breathe",
+    "2.  to tell (lies)",
+    "3.  to vomit",
+    "to disgorge"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "時には弱音を吐くけど。",
+      "en": "Sometimes I will be weak."
+    },
+    {
+      "ja": "どうして貴方は嘘を吐くの？",
+      "en": "Why do you lie?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

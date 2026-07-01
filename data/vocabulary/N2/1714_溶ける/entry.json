@@ -1,0 +1,39 @@
+{
+  "id": "n2-1714",
+  "jlpt": "N2",
+  "kanji": "溶ける",
+  "kana": "とける",
+  "display": "溶ける",
+  "meanings_zh": [
+    "溶化",
+    "熔化"
+  ],
+  "meanings_en": [
+    "to melt",
+    "to thaw",
+    "to fuse",
+    "to dissolve"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "砂糖は水に溶ける。",
+      "en": "Sugar dissolves in water."
+    },
+    {
+      "ja": "氷が溶けると水になる。",
+      "en": "When ice melts, it becomes water."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

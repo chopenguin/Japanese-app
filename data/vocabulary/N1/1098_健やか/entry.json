@@ -1,0 +1,39 @@
+{
+  "id": "n1-1098",
+  "jlpt": "N1",
+  "kanji": "健やか",
+  "kana": "すこやか",
+  "display": "健やか",
+  "meanings_zh": [
+    "健壮",
+    "健康",
+    "健全"
+  ],
+  "meanings_en": [
+    "vigorous",
+    "healthy",
+    "sound"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お宮参りで訪れた夫妻は「子供が健やかに育つことを祈りました」と話していた。",
+      "en": "The couple who came on a shrine visit said, \"We prayed that our child would grow up healthy.\""
+    },
+    {
+      "ja": "インコやオウムと仲良く楽しく健やかに暮らすために、飼鳥の行動学やペットロスについて考える。",
+      "en": "In order to live happily and healthily with parakeets or parrots, you should understand the science of animal behavior for domesticated birds, and consider the emotional effect of eventually losing them."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

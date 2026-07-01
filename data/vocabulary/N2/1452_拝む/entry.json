@@ -1,0 +1,31 @@
+{
+  "id": "n2-1452",
+  "jlpt": "N2",
+  "kanji": "拝む",
+  "kana": "おがむ",
+  "display": "拝む",
+  "meanings_zh": [
+    "拜",
+    "躬腰敬礼",
+    "叩拜",
+    "恳求"
+  ],
+  "meanings_en": [
+    "to worship",
+    "to beg",
+    "to make a supplication"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

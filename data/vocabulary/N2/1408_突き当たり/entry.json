@@ -1,0 +1,38 @@
+{
+  "id": "n2-1408",
+  "jlpt": "N2",
+  "kanji": "突き当たり",
+  "kana": "つきあたり",
+  "display": "突き当たり",
+  "meanings_zh": [
+    "冲突",
+    "撞上",
+    "碰上",
+    "尽头"
+  ],
+  "meanings_en": [
+    "end (e.g. of street)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "突き当たりに郵便局があります。",
+      "en": "There is a post office at the end of the street."
+    },
+    {
+      "ja": "廊下の突き当たりで火事が起きました。",
+      "en": "There's a fire down the hall."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

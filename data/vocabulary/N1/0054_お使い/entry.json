@@ -1,0 +1,33 @@
+{
+  "id": "n1-0054",
+  "jlpt": "N1",
+  "kanji": "お使い",
+  "kana": "おつかい",
+  "display": "お使い",
+  "meanings_zh": [],
+  "meanings_en": [
+    "errand"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ご遠慮なくお使いください。",
+      "en": "Be my guest."
+    },
+    {
+      "ja": "彼女はお使いに出ています。",
+      "en": "She is out on an errand."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n3-0161",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ところが",
+  "display": "ところが",
+  "meanings_zh": [
+    "然而",
+    "可是",
+    "不过",
+    "一～～"
+  ],
+  "meanings_en": [
+    "however",
+    "while",
+    "even if"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "高いところが怖いの？",
+      "en": "Are you afraid of heights?"
+    },
+    {
+      "ja": "高いところが苦手で。",
+      "en": "I don't like heights."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

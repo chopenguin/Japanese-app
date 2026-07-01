@@ -1,0 +1,36 @@
+{
+  "id": "n2-0847",
+  "jlpt": "N2",
+  "kanji": "自習",
+  "kana": "じしゅう",
+  "display": "自習",
+  "meanings_zh": [
+    "自习",
+    "自学"
+  ],
+  "meanings_en": [
+    "self-study"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "自習室はM2Fにあります。",
+      "en": "There is a study on Mezzanine Floor level 2."
+    },
+    {
+      "ja": "土・日も自習室って開いてるんですか？",
+      "en": "Are the individual study rooms open even on Saturdays and Sundays?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

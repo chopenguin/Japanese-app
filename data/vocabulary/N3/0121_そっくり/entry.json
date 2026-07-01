@@ -1,0 +1,42 @@
+{
+  "id": "n3-0121",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "そっくり",
+  "display": "そっくり",
+  "meanings_zh": [
+    "全",
+    "全部",
+    "完全",
+    "原封未动"
+  ],
+  "meanings_en": [
+    "all",
+    "altogether",
+    "entirely",
+    "be just like",
+    "the splitting image of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "父親にそっくりだ。",
+      "en": "He is the image of his father."
+    },
+    {
+      "ja": "彼は父そっくりだ。",
+      "en": "He is the picture of his father."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

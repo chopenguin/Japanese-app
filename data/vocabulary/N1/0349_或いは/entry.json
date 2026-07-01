@@ -1,0 +1,30 @@
+{
+  "id": "n1-0349",
+  "jlpt": "N1",
+  "kanji": "或いは",
+  "kana": "あるいは",
+  "display": "或いは",
+  "meanings_zh": [
+    "或",
+    "或是",
+    "或者",
+    "有的"
+  ],
+  "meanings_en": [
+    "or",
+    "possibly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "n1-1379",
+  "jlpt": "N1",
+  "kanji": "済ます",
+  "kana": "すます",
+  "display": "済ます",
+  "meanings_zh": [
+    "弄完",
+    "搞完",
+    "办完",
+    "结束"
+  ],
+  "meanings_en": [
+    "to finish",
+    "to get it over with",
+    "to settle",
+    "to conclude",
+    "to pay back"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムは宿題を全部学校で済ます。",
+      "en": "Tom does all his homework at school."
+    },
+    {
+      "ja": "夜はあっさりしたもので済ます。",
+      "en": "I tend to eat a light dinner."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

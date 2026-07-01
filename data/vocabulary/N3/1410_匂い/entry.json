@@ -1,0 +1,41 @@
+{
+  "id": "n3-1410",
+  "jlpt": "N3",
+  "kanji": "匂い",
+  "kana": "におい",
+  "display": "匂い",
+  "meanings_zh": [
+    "味儿",
+    "气味儿",
+    "香味儿",
+    "香气"
+  ],
+  "meanings_en": [
+    "odour",
+    "scent",
+    "smell",
+    "stench"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "いい匂いね。",
+      "en": "That smells really good."
+    },
+    {
+      "ja": "これ何の匂い？",
+      "en": "What's this smell?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

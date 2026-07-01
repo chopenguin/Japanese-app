@@ -1,0 +1,40 @@
+{
+  "id": "n4-0482",
+  "jlpt": "N4",
+  "kanji": "直す",
+  "kana": "なおす",
+  "display": "直す",
+  "meanings_zh": [
+    "重做",
+    "重新做 改正矫正",
+    "修改",
+    "改",
+    "订正"
+  ],
+  "meanings_en": [
+    "to fix",
+    "to repair"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "かけ直すよ。",
+      "en": "I'll ring you back."
+    },
+    {
+      "ja": "後で掛け直す。",
+      "en": "I'm gonna have to call you back."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

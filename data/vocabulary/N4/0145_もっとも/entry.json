@@ -1,0 +1,33 @@
+{
+  "id": "n4-0145",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "もっとも",
+  "display": "もっとも",
+  "meanings_zh": [],
+  "meanings_en": [
+    "extremely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "君が怒るのももっともだ。",
+      "en": "You have good reason to be angry."
+    },
+    {
+      "ja": "そう言うのももっともだ。",
+      "en": "You have every reason to say so."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n3-0871",
+  "jlpt": "N3",
+  "kanji": "失う",
+  "kana": "うしなう",
+  "display": "失う",
+  "meanings_zh": [
+    "丢失",
+    "失落",
+    "失掉",
+    "丧失"
+  ],
+  "meanings_en": [
+    "to lose",
+    "to part with"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "冷静さを失うな。",
+      "en": "Don't lose your cool."
+    },
+    {
+      "ja": "彼は時々希望を失う。",
+      "en": "He sometimes loses hope."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

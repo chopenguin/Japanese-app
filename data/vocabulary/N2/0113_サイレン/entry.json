@@ -1,0 +1,36 @@
+{
+  "id": "n2-0113",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "サイレン",
+  "display": "サイレン",
+  "meanings_zh": [
+    "汽笛",
+    "警报器"
+  ],
+  "meanings_en": [
+    "siren"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "サイレンが鳴った。",
+      "en": "The siren blew."
+    },
+    {
+      "ja": "サイレンが聞こえてきた。",
+      "en": "I heard a siren."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

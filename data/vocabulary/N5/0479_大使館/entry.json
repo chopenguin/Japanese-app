@@ -1,0 +1,33 @@
+{
+  "id": "n5-0479",
+  "jlpt": "N5",
+  "kanji": "大使館",
+  "kana": "たいしかん",
+  "display": "大使館",
+  "meanings_zh": [],
+  "meanings_en": [
+    "embassy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は明日大使館へ行きます。",
+      "en": "I'll go to the embassy tomorrow."
+    },
+    {
+      "ja": "オランダ大使館はどこですか？",
+      "en": "Where is the Dutch embassy?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

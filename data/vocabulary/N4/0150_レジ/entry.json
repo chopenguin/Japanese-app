@@ -1,0 +1,33 @@
+{
+  "id": "n4-0150",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "レジ",
+  "display": "レジ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "register"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "レジはあそこよ。",
+      "en": "The cash register is over there."
+    },
+    {
+      "ja": "レジはどこですか。",
+      "en": "Where's the checkout counter?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

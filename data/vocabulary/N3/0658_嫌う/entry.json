@@ -1,0 +1,41 @@
+{
+  "id": "n3-0658",
+  "jlpt": "N3",
+  "kanji": "嫌う",
+  "kana": "きらう",
+  "display": "嫌う",
+  "meanings_zh": [
+    "嫌恶",
+    "厌恶",
+    "嫌",
+    "厌烦",
+    "憎恶"
+  ],
+  "meanings_en": [
+    "to hate",
+    "to dislike",
+    "to loathe"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は自分を嫌う。",
+      "en": "He hates himself."
+    },
+    {
+      "ja": "私は自分を嫌う。",
+      "en": "I hate myself."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

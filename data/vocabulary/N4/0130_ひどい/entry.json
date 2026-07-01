@@ -1,0 +1,33 @@
+{
+  "id": "n4-0130",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ひどい",
+  "display": "ひどい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "awful"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ひどい天気！",
+      "en": "What horrible weather!"
+    },
+    {
+      "ja": "ひどい天気だ。",
+      "en": "The weather's terrible."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

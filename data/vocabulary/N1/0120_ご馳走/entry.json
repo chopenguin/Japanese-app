@@ -1,0 +1,34 @@
+{
+  "id": "n1-0120",
+  "jlpt": "N1",
+  "kanji": "ご馳走",
+  "kana": "ごちそう",
+  "display": "ご馳走",
+  "meanings_zh": [],
+  "meanings_en": [
+    "feast",
+    "treating (someone)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ご馳走様でした。",
+      "en": "That was a delicious meal."
+    },
+    {
+      "ja": "私がご馳走します。",
+      "en": "I'll take care of it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

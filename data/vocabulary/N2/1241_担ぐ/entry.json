@@ -1,0 +1,35 @@
+{
+  "id": "n2-1241",
+  "jlpt": "N2",
+  "kanji": "担ぐ",
+  "kana": "かつぐ",
+  "display": "担ぐ",
+  "meanings_zh": [
+    "担",
+    "扛",
+    "挑",
+    "背"
+  ],
+  "meanings_en": [
+    "to shoulder",
+    "to carry on shoulder"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "俺は家族全員に見送られながら、旅支度を整えたザックを担ぐ。",
+      "en": "Being seen off by my whole family I shouldered a rucksack, stocked with my trip supplies."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "n3-0929",
+  "jlpt": "N3",
+  "kanji": "従う",
+  "kana": "したがう",
+  "display": "従う",
+  "meanings_zh": [
+    "跟随",
+    "服从",
+    "听从",
+    "遵从"
+  ],
+  "meanings_en": [
+    "to abide (by the rules)",
+    "to obey",
+    "to follow",
+    "to accompany"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "子供は子宮に従う。",
+      "en": "The child followeth the womb."
+    },
+    {
+      "ja": "両親には従うべきだ。",
+      "en": "You should obey your parents."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

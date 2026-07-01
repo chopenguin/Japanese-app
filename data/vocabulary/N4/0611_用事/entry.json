@@ -1,0 +1,33 @@
+{
+  "id": "n4-0611",
+  "jlpt": "N4",
+  "kanji": "用事",
+  "kana": "ようじ",
+  "display": "用事",
+  "meanings_zh": [],
+  "meanings_en": [
+    "things to do"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今日用事あるの？",
+      "en": "Is there anything you need to do today?"
+    },
+    {
+      "ja": "私は街に用事がある。",
+      "en": "I have an errand to do in town."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

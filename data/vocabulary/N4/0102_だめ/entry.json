@@ -1,0 +1,33 @@
+{
+  "id": "n4-0102",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "だめ",
+  "display": "だめ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "no good"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "もうだめだ。",
+      "en": "It's all over."
+    },
+    {
+      "ja": "来ちゃだめだ。",
+      "en": "You can't come."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

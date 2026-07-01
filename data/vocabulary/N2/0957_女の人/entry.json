@@ -1,0 +1,33 @@
+{
+  "id": "n2-0957",
+  "jlpt": "N2",
+  "kanji": "女の人",
+  "kana": "おんなのひと",
+  "display": "女の人",
+  "meanings_zh": [],
+  "meanings_en": [
+    "woman"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "女の人は奇麗です。",
+      "en": "The woman is beautiful."
+    },
+    {
+      "ja": "あすこの女の人見て！",
+      "en": "Check out that woman!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

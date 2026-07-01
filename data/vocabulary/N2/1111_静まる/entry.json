@@ -1,0 +1,36 @@
+{
+  "id": "n2-1111",
+  "jlpt": "N2",
+  "kanji": "静まる",
+  "kana": "しずまる",
+  "display": "静まる",
+  "meanings_zh": [
+    "静起来",
+    "静下来",
+    "平静",
+    "息"
+  ],
+  "meanings_en": [
+    "to quieten down",
+    "to calm down",
+    "to subside"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "海をじっと眺めていると私は気が静まる感じがする。",
+      "en": "When I contemplate the sea, I feel calm."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

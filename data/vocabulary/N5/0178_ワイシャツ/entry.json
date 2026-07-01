@@ -1,0 +1,33 @@
+{
+  "id": "n5-0178",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ワイシャツ",
+  "display": "ワイシャツ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "business shirt"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "俺の白のワイシャツ、どこ？",
+      "en": "Where's my white dress shirt?"
+    },
+    {
+      "ja": "ワイシャツにボタンをつけて。",
+      "en": "Would you sew a button on my shirt?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

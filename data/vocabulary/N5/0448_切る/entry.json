@@ -1,0 +1,38 @@
+{
+  "id": "n5-0448",
+  "jlpt": "N5",
+  "kanji": "切る",
+  "kana": "きる",
+  "display": "切る",
+  "meanings_zh": [
+    "切",
+    "割",
+    "剁",
+    "斩"
+  ],
+  "meanings_en": [
+    "to cut"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "道路を横切るな。",
+      "en": "Don't cross the road."
+    },
+    {
+      "ja": "そろそろ切るぞ？",
+      "en": "Should we hang up soon?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

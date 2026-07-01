@@ -1,0 +1,38 @@
+{
+  "id": "n5-0239",
+  "jlpt": "N5",
+  "kanji": "開ける",
+  "kana": "あける",
+  "display": "開ける",
+  "meanings_zh": [
+    "开",
+    "打开",
+    "推开",
+    "拉开"
+  ],
+  "meanings_en": [
+    "to open"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "窓を開けるな。",
+      "en": "Don't open the window."
+    },
+    {
+      "ja": "この箱は開けるな。",
+      "en": "Don't open this box."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

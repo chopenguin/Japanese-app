@@ -1,0 +1,38 @@
+{
+  "id": "n4-0358",
+  "jlpt": "N4",
+  "kanji": "終わり",
+  "kana": "おわり",
+  "display": "終わり",
+  "meanings_zh": [
+    "终",
+    "终了",
+    "末尾",
+    "末了"
+  ],
+  "meanings_en": [
+    "the end"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "終わりはない。",
+      "en": "It never ends."
+    },
+    {
+      "ja": "遊びは終わりだ。",
+      "en": "Fun and games are over."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

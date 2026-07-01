@@ -1,0 +1,36 @@
+{
+  "id": "n1-0165",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ずるずる",
+  "display": "ずるずる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "sound or act of dragging",
+    "loose",
+    "inconclusive but unwanted situation",
+    "trailingly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私はぬかるんだ斜面をずるずると滑り下りた。",
+      "en": "I slithered down the muddy slope."
+    },
+    {
+      "ja": "ポールはよく重いツールをずるずる引きずる。",
+      "en": "Paul often drags heavy tools with him."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

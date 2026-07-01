@@ -1,0 +1,41 @@
+{
+  "id": "n3-1470",
+  "jlpt": "N3",
+  "kanji": "抜く",
+  "kana": "ぬく",
+  "display": "抜く",
+  "meanings_zh": [
+    "抽出",
+    "拔掉",
+    "选出"
+  ],
+  "meanings_en": [
+    "to extract",
+    "to omit",
+    "to surpass",
+    "to draw out",
+    "to unplug"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "神経は抜くのですか。",
+      "en": "Are you going to remove the nerve?"
+    },
+    {
+      "ja": "トムはよく食事を抜く。",
+      "en": "Tom often skips meals."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

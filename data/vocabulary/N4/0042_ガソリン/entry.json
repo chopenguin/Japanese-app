@@ -1,0 +1,35 @@
+{
+  "id": "n4-0042",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ガソリン",
+  "display": "ガソリン",
+  "meanings_zh": [
+    "汽油"
+  ],
+  "meanings_en": [
+    "petrol"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ガソリン臭いよ。",
+      "en": "I smell gasoline."
+    },
+    {
+      "ja": "車にガソリン入ってる？",
+      "en": "Is there gas inside the car?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

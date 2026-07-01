@@ -1,0 +1,40 @@
+{
+  "id": "n3-0649",
+  "jlpt": "N3",
+  "kanji": "結ぶ",
+  "kana": "むすぶ",
+  "display": "結ぶ",
+  "meanings_zh": [
+    "系",
+    "结",
+    "结合",
+    "系结"
+  ],
+  "meanings_en": [
+    "to tie",
+    "to bind",
+    "to link"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼の努力は実を結ぶだろう。",
+      "en": "His effort will bear fruit."
+    },
+    {
+      "ja": "君の研究は実を結ぶだろう。",
+      "en": "Your study will bear fruit."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

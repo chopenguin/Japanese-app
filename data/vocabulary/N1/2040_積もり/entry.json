@@ -1,0 +1,39 @@
+{
+  "id": "n1-2040",
+  "jlpt": "N1",
+  "kanji": "積もり",
+  "kana": "つもり",
+  "display": "積もり",
+  "meanings_zh": [
+    "打算",
+    "意图",
+    "企图",
+    "估计"
+  ],
+  "meanings_en": [
+    "intention",
+    "plan"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "見積もりはもらった？",
+      "en": "Did you get an estimate?"
+    },
+    {
+      "ja": "あくまでも見積もりです。",
+      "en": "It's only an estimate."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

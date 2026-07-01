@@ -1,0 +1,39 @@
+{
+  "id": "n5-0591",
+  "jlpt": "N5",
+  "kanji": "並べる",
+  "kana": "ならべる",
+  "display": "並べる",
+  "meanings_zh": [
+    "排列",
+    "摆",
+    "陈列",
+    "列举"
+  ],
+  "meanings_en": [
+    "to line up",
+    "to set up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "身長順に男の子を並べる。",
+      "en": "Rank boys according to their height."
+    },
+    {
+      "ja": "あれ？並べる順番があべこべだけど、いいの？",
+      "en": "Huh? The order is reversed, is that alright?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

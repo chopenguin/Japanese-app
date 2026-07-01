@@ -1,0 +1,38 @@
+{
+  "id": "n1-0237",
+  "jlpt": "N1",
+  "kanji": "にも拘らず",
+  "kana": "にもかかわらず",
+  "display": "にも拘らず",
+  "meanings_zh": [
+    "虽然～～可是",
+    "尽管～～还～～",
+    "(尽管～～)可是～～"
+  ],
+  "meanings_en": [
+    "in spite of",
+    "nevertheless"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "生活苦であったにも拘らず、彼ほど良い生き方をした人を私は見たことがない。",
+      "en": "I've never seen someone have such a good life, despite all the struggles he had."
+    },
+    {
+      "ja": "その象達は大層大きな耳を二つ持っているにも拘らず、君の言う事を理解していないというのを知っているのかい。",
+      "en": "Do you know that elephants have two enormous ears, but they still can't understand you?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

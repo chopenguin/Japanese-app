@@ -1,0 +1,37 @@
+{
+  "id": "n2-1688",
+  "jlpt": "N2",
+  "kanji": "勇ましい",
+  "kana": "いさましい",
+  "display": "勇ましい",
+  "meanings_zh": [
+    "勇敢",
+    "勇猛",
+    "活泼",
+    "生气勃勃"
+  ],
+  "meanings_en": [
+    "brave",
+    "valiant",
+    "gallant",
+    "courageous"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "一人で原始林へ乗り込もうとは君はなんて勇ましいんだ。",
+      "en": "How brave of you to go alone into the primaeval forest!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

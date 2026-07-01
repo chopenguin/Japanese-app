@@ -1,0 +1,33 @@
+{
+  "id": "n5-0140",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "バス",
+  "display": "バス",
+  "meanings_zh": [],
+  "meanings_en": [
+    "bus"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "バスケ得意？",
+      "en": "Are you good at basketball?"
+    },
+    {
+      "ja": "バスで行こう。",
+      "en": "Let's take a bus."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

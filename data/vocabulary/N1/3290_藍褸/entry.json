@@ -1,0 +1,29 @@
+{
+  "id": "n1-3290",
+  "jlpt": "N1",
+  "kanji": "藍褸",
+  "kana": "ぼろ",
+  "display": "藍褸",
+  "meanings_zh": [],
+  "meanings_en": [
+    "rag",
+    "scrap",
+    "tattered clothes",
+    "fault (esp. in a pretense)",
+    "defect",
+    "run-down or junky"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

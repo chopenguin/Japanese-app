@@ -1,0 +1,35 @@
+{
+  "id": "n1-2533",
+  "jlpt": "N1",
+  "kanji": "賭け",
+  "kana": "かけ",
+  "display": "賭け",
+  "meanings_zh": [],
+  "meanings_en": [
+    "betting",
+    "gambling",
+    "a gamble"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "大きな賭けだ。",
+      "en": "There's a lot at stake."
+    },
+    {
+      "ja": "賭けてもいいよ。",
+      "en": "I'd bet my life on it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

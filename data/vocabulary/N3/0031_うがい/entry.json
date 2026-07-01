@@ -1,0 +1,34 @@
+{
+  "id": "n3-0031",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "うがい",
+  "display": "うがい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "gargle",
+    "rinse mouth"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "うがいはしたの？",
+      "en": "Have you gargled?"
+    },
+    {
+      "ja": "謝ったほうがいい。",
+      "en": "He should apologize."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

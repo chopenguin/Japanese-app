@@ -1,0 +1,38 @@
+{
+  "id": "n3-1664",
+  "jlpt": "N3",
+  "kanji": "黙る",
+  "kana": "だまる",
+  "display": "黙る",
+  "meanings_zh": [
+    "不说话",
+    "不作声",
+    "沉默",
+    "缄默"
+  ],
+  "meanings_en": [
+    "to be silent"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "黙ることを知らない者は話し上手ではない。",
+      "en": "He cannot speak well that cannot hold his tongue."
+    },
+    {
+      "ja": "彼女は黙るようにと私が頼んだ後でもしゃべり続けた。",
+      "en": "She kept on talking after I asked her to stop."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

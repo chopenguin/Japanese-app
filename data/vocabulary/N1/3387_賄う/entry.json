@@ -1,0 +1,31 @@
+{
+  "id": "n1-3387",
+  "jlpt": "N1",
+  "kanji": "賄う",
+  "kana": "まかなう",
+  "display": "賄う",
+  "meanings_zh": [
+    "供给饭食",
+    "供给",
+    "提供",
+    "供应"
+  ],
+  "meanings_en": [
+    "to give board to",
+    "to provide meals",
+    "to pay"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

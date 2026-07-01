@@ -1,0 +1,40 @@
+{
+  "id": "n3-0554",
+  "jlpt": "N3",
+  "kanji": "許す",
+  "kana": "ゆるす",
+  "display": "許す",
+  "meanings_zh": [
+    "允许",
+    "准许",
+    "许可",
+    "批准"
+  ],
+  "meanings_en": [
+    "to permit",
+    "to allow",
+    "to approve"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼には気を許すな。",
+      "en": "Be on your guard against him."
+    },
+    {
+      "ja": "過つは人、許すは神。",
+      "en": "To err is human, to forgive divine."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

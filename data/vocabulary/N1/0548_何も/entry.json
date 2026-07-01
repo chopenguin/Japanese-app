@@ -1,0 +1,38 @@
+{
+  "id": "n1-0548",
+  "jlpt": "N1",
+  "kanji": "何も",
+  "kana": "なにも",
+  "display": "何も",
+  "meanings_zh": [
+    "什么也",
+    "全都",
+    "并",
+    "什么"
+  ],
+  "meanings_en": [
+    "nothing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何も言うな。",
+      "en": "Don't say anything."
+    },
+    {
+      "ja": "何もしないよ。",
+      "en": "I won't do anything."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

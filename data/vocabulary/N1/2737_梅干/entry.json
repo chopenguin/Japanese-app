@@ -1,0 +1,33 @@
+{
+  "id": "n1-2737",
+  "jlpt": "N1",
+  "kanji": "梅干",
+  "kana": "うめぼし",
+  "display": "梅干",
+  "meanings_zh": [],
+  "meanings_en": [
+    "dried plum"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この梅干し、塩辛いね。",
+      "en": "This umeboshi tastes really salty."
+    },
+    {
+      "ja": "外国人に梅干しを試食させることが大好きです。",
+      "en": "I love making foreigners try Japanese pickled plums."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

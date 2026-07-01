@@ -1,0 +1,36 @@
+{
+  "id": "n3-1604",
+  "jlpt": "N3",
+  "kanji": "方々",
+  "kana": "かたがた",
+  "display": "方々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "persons",
+    "this and that",
+    "here and there",
+    "everywhere"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "多くの方々に届けることができた。",
+      "en": "I was able to reach a lot of people."
+    },
+    {
+      "ja": "天皇は亡くなった方々の霊に祈りを捧げた。",
+      "en": "The Emperor prayed for the souls of the deceased."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

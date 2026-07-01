@@ -1,0 +1,33 @@
+{
+  "id": "n2-0581",
+  "jlpt": "N2",
+  "kanji": "区切る",
+  "kana": "くぎる",
+  "display": "区切る",
+  "meanings_zh": [
+    "加句读",
+    "分成段落",
+    "隔开",
+    "划分"
+  ],
+  "meanings_en": [
+    "to punctuate",
+    "to cut off",
+    "to mark off",
+    "to stop",
+    "to put an end to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n4-0478",
+  "jlpt": "N4",
+  "kanji": "虫",
+  "kana": "むし",
+  "display": "虫",
+  "meanings_zh": [
+    "虫",
+    "虫子",
+    "昆虫",
+    "蛔虫 好～～",
+    "易～～"
+  ],
+  "meanings_en": [
+    "insect"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "虫が怖いの？",
+      "en": "Are you afraid of insects?"
+    },
+    {
+      "ja": "僕は弱虫さ。",
+      "en": "I'm a weakling."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

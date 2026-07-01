@@ -1,0 +1,41 @@
+{
+  "id": "n1-3386",
+  "jlpt": "N1",
+  "kanji": "歪む",
+  "kana": "いがむ",
+  "display": "歪む",
+  "meanings_zh": [
+    "歪斜",
+    "翘曲",
+    "变形"
+  ],
+  "meanings_en": [
+    "to warp",
+    "to swerve",
+    "to deflect",
+    "to be crooked",
+    "to be distorted",
+    "to be bent",
+    "to incline",
+    "to slant",
+    "to be perv"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "色覚障害は眼球の中が歪むことだから、治せないと思います。",
+      "en": "I don't think color blindness can be cured since it's a distortion in the eye."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

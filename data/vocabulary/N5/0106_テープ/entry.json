@@ -1,0 +1,38 @@
+{
+  "id": "n5-0106",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "テープ",
+  "display": "テープ",
+  "meanings_zh": [
+    "窄带",
+    "线带",
+    "布带",
+    "纸带"
+  ],
+  "meanings_en": [
+    "tape"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私はテープを買います。",
+      "en": "I buy a tape."
+    },
+    {
+      "ja": "テープが回っているよ。",
+      "en": "The tape is rolling."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

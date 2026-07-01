@@ -1,0 +1,38 @@
+{
+  "id": "n1-1456",
+  "jlpt": "N1",
+  "kanji": "仕立てる",
+  "kana": "したてる",
+  "display": "仕立てる",
+  "meanings_zh": [
+    "缝纫",
+    "制做",
+    "培养",
+    "训练"
+  ],
+  "meanings_en": [
+    "to tailor",
+    "to make",
+    "to prepare",
+    "to train",
+    "to send (a messenger)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "スーツを仕立てるときは、正確な採寸が必要となります。",
+      "en": "It's necessary to take correct measurements when you are tailoring a suit."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

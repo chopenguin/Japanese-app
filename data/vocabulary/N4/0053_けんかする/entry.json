@@ -1,0 +1,33 @@
+{
+  "id": "n4-0053",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "けんかする",
+  "display": "けんかする",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to quarrel"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私はよく彼女とけんかする。",
+      "en": "I often have quarrels with her."
+    },
+    {
+      "ja": "彼らは会えば必ずけんかする。",
+      "en": "Whenever they meet, they quarrel."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "n3-1631",
+  "jlpt": "N3",
+  "kanji": "未だ",
+  "kana": "まだ",
+  "display": "未だ",
+  "meanings_zh": [
+    "尚",
+    "还",
+    "未",
+    "仍"
+  ],
+  "meanings_en": [
+    "yet",
+    "still",
+    "more",
+    "besides"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "戦争は未だに続いている。",
+      "en": "The war is still going on."
+    },
+    {
+      "ja": "彼女は未だここに来てない。",
+      "en": "She has not come here yet."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

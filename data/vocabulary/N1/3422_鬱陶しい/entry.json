@@ -1,0 +1,39 @@
+{
+  "id": "n1-3422",
+  "jlpt": "N1",
+  "kanji": "鬱陶しい",
+  "kana": "うっとうしい",
+  "display": "鬱陶しい",
+  "meanings_zh": [
+    "郁闷",
+    "阴郁",
+    "沉闷",
+    "厌烦"
+  ],
+  "meanings_en": [
+    "gloomy",
+    "depressing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "鬱陶しいなあ。",
+      "en": "It's annoying."
+    },
+    {
+      "ja": "ベタベタするんじゃねえよっ！鬱陶しい！",
+      "en": "Get off me you little pest!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

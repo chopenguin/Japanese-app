@@ -1,0 +1,43 @@
+{
+  "id": "n1-0438",
+  "jlpt": "N1",
+  "kanji": "引き受ける",
+  "kana": "ひきうける",
+  "display": "引き受ける",
+  "meanings_zh": [
+    "承担",
+    "负责",
+    "承包",
+    "承揽"
+  ],
+  "meanings_en": [
+    "to undertake",
+    "to take up",
+    "to take over",
+    "to be responsible for",
+    "to guarantee",
+    "to contract (disease)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "もうこれ以上生徒を引き受ける時間はない。",
+      "en": "I don't have time to take any more pupils."
+    },
+    {
+      "ja": "彼が君の申し出を引き受けるのは請け合うよ。",
+      "en": "I bet that he'll accept your proposal."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

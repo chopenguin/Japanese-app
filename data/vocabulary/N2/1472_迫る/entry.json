@@ -1,0 +1,39 @@
+{
+  "id": "n2-1472",
+  "jlpt": "N2",
+  "kanji": "迫る",
+  "kana": "せまる",
+  "display": "迫る",
+  "meanings_zh": [
+    "强迫",
+    "迫使",
+    "迫近",
+    "逼近"
+  ],
+  "meanings_en": [
+    "to draw near",
+    "to press"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私か仕事かって迫るのはやめてくれよ。",
+      "en": "Don't ask me to choose between you and my job."
+    },
+    {
+      "ja": "私か子供かって迫るのはやめてくれよ。",
+      "en": "Don't ask me to choose between you and my children."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

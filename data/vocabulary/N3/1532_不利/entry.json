@@ -1,0 +1,38 @@
+{
+  "id": "n3-1532",
+  "jlpt": "N3",
+  "kanji": "不利",
+  "kana": "ふり",
+  "display": "不利",
+  "meanings_zh": [
+    "不利"
+  ],
+  "meanings_en": [
+    "disadvantage",
+    "handicap",
+    "unfavorable",
+    "drawback"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "状況は彼女に不利だ。",
+      "en": "Appearances are against her."
+    },
+    {
+      "ja": "情勢は我々に不利だ。",
+      "en": "The odds are against us."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n5-0061",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "こっち",
+  "display": "こっち",
+  "meanings_zh": [],
+  "meanings_en": [
+    "this person or way"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "早く、こっち！",
+      "en": "Come here, fast!"
+    },
+    {
+      "ja": "こっちに来て。",
+      "en": "Come here."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

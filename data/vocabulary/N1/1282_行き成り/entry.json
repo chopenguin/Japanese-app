@@ -1,0 +1,29 @@
+{
+  "id": "n1-1282",
+  "jlpt": "N1",
+  "kanji": "行き成り",
+  "kana": "いきなり",
+  "display": "行き成り",
+  "meanings_zh": [
+    "突然",
+    "冷不防",
+    "马上就",
+    "立刻"
+  ],
+  "meanings_en": [
+    "suddenly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

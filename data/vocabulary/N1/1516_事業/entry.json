@@ -1,0 +1,42 @@
+{
+  "id": "n1-1516",
+  "jlpt": "N1",
+  "kanji": "事業",
+  "kana": "じぎょう",
+  "display": "事業",
+  "meanings_zh": [
+    "事业",
+    "功业",
+    "业迹",
+    "企业"
+  ],
+  "meanings_en": [
+    "project",
+    "enterprise",
+    "business",
+    "industry",
+    "operations"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "事業に失敗した。",
+      "en": "He failed in business."
+    },
+    {
+      "ja": "彼は事業に成功した。",
+      "en": "He went far in business."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

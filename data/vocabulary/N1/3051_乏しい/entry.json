@@ -1,0 +1,44 @@
+{
+  "id": "n1-3051",
+  "jlpt": "N1",
+  "kanji": "乏しい",
+  "kana": "とぼしい",
+  "display": "乏しい",
+  "meanings_zh": [
+    "缺乏",
+    "不足",
+    "缺少",
+    "贫穷"
+  ],
+  "meanings_en": [
+    "meagre",
+    "scarce",
+    "limited",
+    "destitute",
+    "hard up",
+    "scanty",
+    "poor"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は話題の乏しい人だ。",
+      "en": "He has no small talk."
+    },
+    {
+      "ja": "彼はいつもお金が乏しい。",
+      "en": "He's always short of money."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

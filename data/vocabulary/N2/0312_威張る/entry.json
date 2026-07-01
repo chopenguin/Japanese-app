@@ -1,0 +1,39 @@
+{
+  "id": "n2-0312",
+  "jlpt": "N2",
+  "kanji": "威張る",
+  "kana": "いばる",
+  "display": "威張る",
+  "meanings_zh": [
+    "自豪",
+    "说大话",
+    "吹牛",
+    "自以为了不起"
+  ],
+  "meanings_en": [
+    "to be proud",
+    "to swagger"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "威張る人って、好きじゃないのよね。",
+      "en": "I don't like people who act all high and mighty."
+    },
+    {
+      "ja": "あの人はあまり威張るから好きになれない。",
+      "en": "That man is too boastful for my liking."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

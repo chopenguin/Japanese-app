@@ -1,0 +1,30 @@
+{
+  "id": "n2-1213",
+  "jlpt": "N2",
+  "kanji": "待ち合わせる",
+  "kana": "まちあわせる",
+  "display": "待ち合わせる",
+  "meanings_zh": [
+    "等候",
+    "约会",
+    "碰头",
+    "会面"
+  ],
+  "meanings_en": [
+    "to rendezvous",
+    "to meet at a prearranged place and time"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

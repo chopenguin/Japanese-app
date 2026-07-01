@@ -1,0 +1,37 @@
+{
+  "id": "n3-1114",
+  "jlpt": "N3",
+  "kanji": "生じる",
+  "kana": "しょうじる",
+  "display": "生じる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to produce",
+    "to yield",
+    "to result from",
+    "to arise",
+    "to be generated"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "事故は不注意から生じる。",
+      "en": "Accidents arise from carelessness."
+    },
+    {
+      "ja": "偉大な思考は心より生じる。",
+      "en": "Great thoughts come from the heart."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

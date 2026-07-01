@@ -1,0 +1,38 @@
+{
+  "id": "n3-1083",
+  "jlpt": "N3",
+  "kanji": "遂に",
+  "kana": "ついに",
+  "display": "遂に",
+  "meanings_zh": [
+    "终于",
+    "直到最后",
+    "末了"
+  ],
+  "meanings_en": [
+    "finally",
+    "at last"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "遂に彼は目的を達した。",
+      "en": "He reached his goal at last."
+    },
+    {
+      "ja": "彼は遂に仕事をやり遂げました。",
+      "en": "He carried on at his work eventually."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

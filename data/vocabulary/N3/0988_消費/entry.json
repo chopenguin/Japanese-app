@@ -1,0 +1,38 @@
+{
+  "id": "n3-0988",
+  "jlpt": "N3",
+  "kanji": "消費",
+  "kana": "しょうひ",
+  "display": "消費",
+  "meanings_zh": [
+    "消费",
+    "耗费",
+    "花费"
+  ],
+  "meanings_en": [
+    "consumption",
+    "expenditure"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "価格は消費税込みです。",
+      "en": "The price includes the consumption tax."
+    },
+    {
+      "ja": "彼は大量の酒を消費する。",
+      "en": "He consumes an enormous amount of liquor."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

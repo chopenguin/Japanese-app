@@ -1,0 +1,40 @@
+{
+  "id": "n2-0030",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "うっかり",
+  "display": "うっかり",
+  "meanings_zh": [
+    "不注意",
+    "不留神",
+    "无意中",
+    "稀里糊涂"
+  ],
+  "meanings_en": [
+    "carelessly",
+    "thoughtlessly",
+    "inadvertently"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "うっかり留守にできない。",
+      "en": "I cannot leave home even for a moment."
+    },
+    {
+      "ja": "うっかり間違いを犯した。",
+      "en": "I made a careless mistake."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n2-1750",
+  "jlpt": "N2",
+  "kanji": "涼む",
+  "kana": "すずむ",
+  "display": "涼む",
+  "meanings_zh": [
+    "乘凉",
+    "纳凉"
+  ],
+  "meanings_en": [
+    "to cool oneself",
+    "to cool off",
+    "to enjoy evening cool"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ここは風通しが良くて、涼むにはもってこいの場所なんだ。",
+      "en": "It's well-ventilated and an ideal place to cool down."
+    },
+    {
+      "ja": "猛暑日となった今日、公園では水遊びをする子どもや木陰で涼む人の姿がみられました。",
+      "en": "Since it was such hot day today, the park was full of children playing with water and people cooling off under the shade of trees."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

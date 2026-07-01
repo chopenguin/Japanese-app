@@ -1,0 +1,34 @@
+{
+  "id": "n5-0045",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "かばん",
+  "display": "かばん",
+  "meanings_zh": [],
+  "meanings_en": [
+    "bag",
+    "basket"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "かばんを返せ。",
+      "en": "Give me back my bag."
+    },
+    {
+      "ja": "私のかばんです。",
+      "en": "This is my bag."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

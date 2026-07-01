@@ -1,0 +1,34 @@
+{
+  "id": "n5-0015",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "いくつ",
+  "display": "いくつ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "how many?",
+    "how old?"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "いくつですか？",
+      "en": "How old are you?"
+    },
+    {
+      "ja": "彼はいくつなの？",
+      "en": "How old is he?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

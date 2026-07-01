@@ -1,0 +1,39 @@
+{
+  "id": "n1-1960",
+  "jlpt": "N1",
+  "kanji": "嵩張る",
+  "kana": "かさばる",
+  "display": "嵩張る",
+  "meanings_zh": [
+    "增大",
+    "体积大",
+    "增多"
+  ],
+  "meanings_en": [
+    "to be bulky",
+    "to be unwieldy",
+    "to grow voluminous"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "箱のまま持ってくると嵩張るから、袋に入れ替えて持ってきたんだ。",
+      "en": "The box was too big and awkward, so I put these in a bag and brought them."
+    },
+    {
+      "ja": "布団は嵩張るので、客布団など使用頻度の低い布団は、圧縮袋に入れて圧縮して保管するのもいいでしょう。",
+      "en": "Since futons are bulky, it's a good idea to compress and store futons that are used infrequently, such as guest futons, in a vacuum-sealed storage bag."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

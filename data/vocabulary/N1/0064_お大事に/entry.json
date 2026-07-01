@@ -1,0 +1,33 @@
+{
+  "id": "n1-0064",
+  "jlpt": "N1",
+  "kanji": "お大事に",
+  "kana": "おだいじに",
+  "display": "お大事に",
+  "meanings_zh": [],
+  "meanings_en": [
+    "Take care of yourself"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "どうぞお大事に。",
+      "en": "Please take care of yourself."
+    },
+    {
+      "ja": "お体をお大事に。",
+      "en": "Take care of yourself."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

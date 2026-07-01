@@ -1,0 +1,34 @@
+{
+  "id": "n2-1778",
+  "jlpt": "N2",
+  "kanji": "話中",
+  "kana": "はなしちゅう",
+  "display": "話中",
+  "meanings_zh": [],
+  "meanings_en": [
+    "while talking",
+    "the line is busy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "電話中です。",
+      "en": "I'm talking on the phone."
+    },
+    {
+      "ja": "お話中です。",
+      "en": "The number is engaged."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

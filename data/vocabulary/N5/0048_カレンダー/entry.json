@@ -1,0 +1,38 @@
+{
+  "id": "n5-0048",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "カレンダー",
+  "display": "カレンダー",
+  "meanings_zh": [
+    "日历",
+    "月历",
+    "年历",
+    "挂历"
+  ],
+  "meanings_en": [
+    "calendar"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "カレンダーはどこ？",
+      "en": "Where is the calendar?"
+    },
+    {
+      "ja": "カレンダーはある？",
+      "en": "Do you have a calendar?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

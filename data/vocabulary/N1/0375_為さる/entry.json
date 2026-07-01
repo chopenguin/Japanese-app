@@ -1,0 +1,27 @@
+{
+  "id": "n1-0375",
+  "jlpt": "N1",
+  "kanji": "為さる",
+  "kana": "なさる",
+  "display": "為さる",
+  "meanings_zh": [
+    "为",
+    "做"
+  ],
+  "meanings_en": [
+    "to do"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

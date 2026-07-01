@@ -1,0 +1,40 @@
+{
+  "id": "n3-0040",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "おしゃべり",
+  "display": "おしゃべり",
+  "meanings_zh": [
+    "多嘴多舌",
+    "好说话",
+    "爱瞎聊",
+    "健谈"
+  ],
+  "meanings_en": [
+    "chattering",
+    "talk",
+    "idle talk"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女はおしゃべりだ。",
+      "en": "She has a loose tongue."
+    },
+    {
+      "ja": "メグはおしゃべりだ。",
+      "en": "Meg talks too much."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

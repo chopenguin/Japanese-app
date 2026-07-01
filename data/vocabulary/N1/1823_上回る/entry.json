@@ -1,0 +1,36 @@
+{
+  "id": "n1-1823",
+  "jlpt": "N1",
+  "kanji": "上回る",
+  "kana": "うわまわる",
+  "display": "上回る",
+  "meanings_zh": [
+    "超过",
+    "越出"
+  ],
+  "meanings_en": [
+    "to exceed"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "もちろん利潤は生産費を上回るべきです。",
+      "en": "Benefits of course should exceed the costs."
+    },
+    {
+      "ja": "私達は予想を上回る金額を使ってしまった。",
+      "en": "We spent more money than was expected."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

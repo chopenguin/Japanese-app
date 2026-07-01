@@ -1,0 +1,34 @@
+{
+  "id": "n2-0243",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "へそ",
+  "display": "へそ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "navel",
+    "belly-button"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "出版社へその本１冊注文してくれませんか。",
+      "en": "Will you please order a copy of the book from the publisher?"
+    },
+    {
+      "ja": "創造論者の中には、アダムとイブにへそはなくエデンの園の木には年輪がなかったと信じる人もいる。",
+      "en": "Some creationists believe that Adam and Eve had no navels, and that the trees in the Garden of Eden had no growth rings."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

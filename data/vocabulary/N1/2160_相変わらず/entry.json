@@ -1,0 +1,39 @@
+{
+  "id": "n1-2160",
+  "jlpt": "N1",
+  "kanji": "相変わらず",
+  "kana": "あいかわらず",
+  "display": "相変わらず",
+  "meanings_zh": [
+    "照旧",
+    "仍旧",
+    "和往常一样"
+  ],
+  "meanings_en": [
+    "as ever",
+    "as usual",
+    "the same"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "相変わらずよ。",
+      "en": "Same as usual."
+    },
+    {
+      "ja": "相変わらずね。",
+      "en": "As always, right?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

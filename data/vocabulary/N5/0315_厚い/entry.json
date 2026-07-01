@@ -1,0 +1,39 @@
+{
+  "id": "n5-0315",
+  "jlpt": "N5",
+  "kanji": "厚い",
+  "kana": "あつい",
+  "display": "厚い",
+  "meanings_zh": [
+    "厚",
+    "深厚",
+    "优厚"
+  ],
+  "meanings_en": [
+    "kind",
+    "deep",
+    "thick"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "分厚い本だな。",
+      "en": "The book is thick."
+    },
+    {
+      "ja": "彼は情に厚い人だ。",
+      "en": "He is a man of warm heart."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

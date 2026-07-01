@@ -1,0 +1,40 @@
+{
+  "id": "n3-1724",
+  "jlpt": "N3",
+  "kanji": "浴びる",
+  "kana": "あびる",
+  "display": "浴びる",
+  "meanings_zh": [
+    "浇",
+    "淋",
+    "浴",
+    "照"
+  ],
+  "meanings_en": [
+    "to bathe",
+    "to bask in the sun",
+    "to shower"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "シャワーを浴びる。",
+      "en": "I'm taking a shower."
+    },
+    {
+      "ja": "シャワー浴びるの？",
+      "en": "Are you going to shower?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

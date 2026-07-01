@@ -1,0 +1,29 @@
+{
+  "id": "n2-1127",
+  "jlpt": "N2",
+  "kanji": "占う",
+  "kana": "うらなう",
+  "display": "占う",
+  "meanings_zh": [
+    "占卜",
+    "占卦",
+    "算命"
+  ],
+  "meanings_en": [
+    "to forecast",
+    "to predict"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

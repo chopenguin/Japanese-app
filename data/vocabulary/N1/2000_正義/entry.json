@@ -1,0 +1,40 @@
+{
+  "id": "n1-2000",
+  "jlpt": "N1",
+  "kanji": "正義",
+  "kana": "せいぎ",
+  "display": "正義",
+  "meanings_zh": [
+    "正义",
+    "正确的意义",
+    "正确的意思"
+  ],
+  "meanings_en": [
+    "justice",
+    "right",
+    "righteousness",
+    "correct meaning"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は正義だ。",
+      "en": "He is justice."
+    },
+    {
+      "ja": "力は正義なり。",
+      "en": "Might is right."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

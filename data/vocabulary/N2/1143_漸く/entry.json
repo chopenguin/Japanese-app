@@ -1,0 +1,39 @@
+{
+  "id": "n2-1143",
+  "jlpt": "N2",
+  "kanji": "漸く",
+  "kana": "ようやく",
+  "display": "漸く",
+  "meanings_zh": [
+    "渐渐",
+    "好容易",
+    "勉勉强强"
+  ],
+  "meanings_en": [
+    "gradually",
+    "finally",
+    "hardly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "漸く目が覚めました。",
+      "en": "I finally woke up."
+    },
+    {
+      "ja": "漸く、私は何が起きたのか分かった。",
+      "en": "I finally found out what happened."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

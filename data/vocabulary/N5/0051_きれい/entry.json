@@ -1,0 +1,34 @@
+{
+  "id": "n5-0051",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "きれい",
+  "display": "きれい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "pretty",
+    "clean"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "きれいだね。",
+      "en": "She is beautiful."
+    },
+    {
+      "ja": "月がきれいよ。",
+      "en": "The moon is beautiful."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

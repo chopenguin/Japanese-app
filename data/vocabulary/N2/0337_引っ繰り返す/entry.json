@@ -1,0 +1,33 @@
+{
+  "id": "n2-0337",
+  "jlpt": "N2",
+  "kanji": "引っ繰り返す",
+  "kana": "ひっくりかえす",
+  "display": "引っ繰り返す",
+  "meanings_zh": [
+    "弄倒",
+    "翻倒",
+    "翻过来",
+    "推翻"
+  ],
+  "meanings_en": [
+    "to turn over",
+    "to overturn",
+    "to knock over",
+    "to upset",
+    "to turn inside out"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

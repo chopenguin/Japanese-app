@@ -1,0 +1,36 @@
+{
+  "id": "n2-0252",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ぼろ",
+  "display": "ぼろ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "rag",
+    "scrap",
+    "tattered clothes",
+    "fault (esp. in a pretense)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "授業をさぼろう。",
+      "en": "Let's skip class."
+    },
+    {
+      "ja": "この椅子ぼろぼろだ。",
+      "en": "This chair is ugly."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

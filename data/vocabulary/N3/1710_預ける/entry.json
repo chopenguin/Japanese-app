@@ -1,0 +1,40 @@
+{
+  "id": "n3-1710",
+  "jlpt": "N3",
+  "kanji": "預ける",
+  "kana": "あずける",
+  "display": "預ける",
+  "meanings_zh": [
+    "存",
+    "寄存",
+    "寄放",
+    "托"
+  ],
+  "meanings_en": [
+    "to give into custody",
+    "to entrust",
+    "to deposit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "フロントに預けるといいよ。",
+      "en": "You had better check them at the front desk."
+    },
+    {
+      "ja": "彼にそのような大金を預けるな。",
+      "en": "Don't trust him with such a large sum of money."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

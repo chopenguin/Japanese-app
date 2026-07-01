@@ -1,0 +1,35 @@
+{
+  "id": "n1-1179",
+  "jlpt": "N1",
+  "kanji": "固体",
+  "kana": "こたい",
+  "display": "固体",
+  "meanings_zh": [
+    "固体"
+  ],
+  "meanings_en": [
+    "solid (body)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "水は凍ると固体になる。",
+      "en": "Water becomes solid when it freezes."
+    },
+    {
+      "ja": "固体が解けると液体になる。",
+      "en": "When a solid melts, it becomes liquid."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

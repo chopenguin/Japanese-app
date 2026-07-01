@@ -1,0 +1,39 @@
+{
+  "id": "n2-0107",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "コレクション",
+  "display": "コレクション",
+  "meanings_zh": [
+    "搜集",
+    "收藏",
+    "搜集品",
+    "珍藏品"
+  ],
+  "meanings_en": [
+    "(1) collection",
+    "(2) correction"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何かコレクションってしてる？",
+      "en": "Do you collect anything?"
+    },
+    {
+      "ja": "彼は私に切手のコレクションを見せてくれた。",
+      "en": "He showed me his stamp collection."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

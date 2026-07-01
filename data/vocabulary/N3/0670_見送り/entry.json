@@ -1,0 +1,40 @@
+{
+  "id": "n3-0670",
+  "jlpt": "N3",
+  "kanji": "見送り",
+  "kana": "みおくり",
+  "display": "見送り",
+  "meanings_zh": [
+    "送行",
+    "送别",
+    "静观",
+    "观望"
+  ],
+  "meanings_en": [
+    "seeing one off",
+    "farewell",
+    "escort"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "見送りありがとう。",
+      "en": "Thank you for your kindness in seeing me."
+    },
+    {
+      "ja": "彼を空港で見送りました。",
+      "en": "I saw him off at the airport."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

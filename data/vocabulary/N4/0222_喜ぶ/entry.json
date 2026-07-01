@@ -1,0 +1,38 @@
+{
+  "id": "n4-0222",
+  "jlpt": "N4",
+  "kanji": "喜ぶ",
+  "kana": "よろこぶ",
+  "display": "喜ぶ",
+  "meanings_zh": [
+    "欢喜",
+    "高兴",
+    "喜悦",
+    "欣然接受"
+  ],
+  "meanings_en": [
+    "to be delighted"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "早まって喜ぶな。",
+      "en": "He who laughs last laughs best."
+    },
+    {
+      "ja": "子供達は漫画本を喜ぶ。",
+      "en": "Children delight in comic books."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

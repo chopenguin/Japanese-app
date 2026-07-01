@@ -1,0 +1,38 @@
+{
+  "id": "n1-0090",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "キャッチ",
+  "display": "キャッチ",
+  "meanings_zh": [
+    "捕捉",
+    "抓住",
+    "接球",
+    "接(球)手"
+  ],
+  "meanings_en": [
+    "catch"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ボールをキャッチしろ！",
+      "en": "Catch the ball!"
+    },
+    {
+      "ja": "キャッチボールをしよう。",
+      "en": "Let's play catch."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

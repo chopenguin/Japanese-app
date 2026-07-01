@@ -1,0 +1,34 @@
+{
+  "id": "n2-0394",
+  "jlpt": "N2",
+  "kanji": "下駄",
+  "kana": "げた",
+  "display": "下駄",
+  "meanings_zh": [],
+  "meanings_en": [
+    "geta (Japanese footwear)",
+    "wooden clogs"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "下駄持ってくるの忘れた。",
+      "en": "I forgot to bring my traditional wooden Japanese sandals."
+    },
+    {
+      "ja": "下駄を突っかけて表に飛び出した。",
+      "en": "I slipped on my geta and dashed outside."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

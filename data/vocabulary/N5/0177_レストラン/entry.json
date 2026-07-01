@@ -1,0 +1,33 @@
+{
+  "id": "n5-0177",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "レストラン",
+  "display": "レストラン",
+  "meanings_zh": [],
+  "meanings_en": [
+    "restaurant"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あのレストランは好き。",
+      "en": "I like that restaurant."
+    },
+    {
+      "ja": "レストランは満席です。",
+      "en": "The restaurant is full."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

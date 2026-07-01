@@ -1,0 +1,34 @@
+{
+  "id": "n1-2685",
+  "jlpt": "N1",
+  "kanji": "年生",
+  "kana": "ねんせい",
+  "display": "年生",
+  "meanings_zh": [],
+  "meanings_en": [
+    "pupil in .... year",
+    "student in .... year"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "一年生です。",
+      "en": "I'm a freshman."
+    },
+    {
+      "ja": "大学2年生です。",
+      "en": "I'm a sophomore."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

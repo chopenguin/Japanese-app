@@ -1,0 +1,35 @@
+{
+  "id": "n1-0595",
+  "jlpt": "N1",
+  "kanji": "花びら",
+  "kana": "はなびら",
+  "display": "花びら",
+  "meanings_zh": [
+    "花瓣"
+  ],
+  "meanings_en": [
+    "(flower) petal"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "花びらが水面に浮かんでいる。",
+      "en": "The petals are floating on the water."
+    },
+    {
+      "ja": "薔薇の花びらはとても繊細だ。",
+      "en": "A rose's petals are very delicate."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

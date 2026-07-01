@@ -1,0 +1,40 @@
+{
+  "id": "n1-1868",
+  "jlpt": "N1",
+  "kanji": "心掛け",
+  "kana": "こころがけ",
+  "display": "心掛け",
+  "meanings_zh": [
+    "留心",
+    "注意",
+    "用心",
+    "努力"
+  ],
+  "meanings_en": [
+    "readiness",
+    "intention",
+    "aim"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "身の丈に合った生活を心掛けなさい。",
+      "en": "Try to live within your means."
+    },
+    {
+      "ja": "常に前向きでいようと心掛けているんだ。",
+      "en": "I try to be positive all the time."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

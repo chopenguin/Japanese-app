@@ -1,0 +1,39 @@
+{
+  "id": "n1-0195",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "だぶだぶ",
+  "display": "だぶだぶ",
+  "meanings_zh": [
+    "又肥又大",
+    "肥大",
+    "(人)肥胖",
+    "肌肉松弛"
+  ],
+  "meanings_en": [
+    "loose",
+    "baggy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "このズボンはだぶだぶだ。",
+      "en": "These trousers are too large."
+    },
+    {
+      "ja": "この上着は私にはだぶだぶだ。",
+      "en": "This coat looks loose on me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

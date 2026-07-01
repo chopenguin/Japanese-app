@@ -1,0 +1,42 @@
+{
+  "id": "n3-1583",
+  "jlpt": "N3",
+  "kanji": "便り",
+  "kana": "たより",
+  "display": "便り",
+  "meanings_zh": [
+    "消息",
+    "信息",
+    "音信",
+    "信"
+  ],
+  "meanings_en": [
+    "news",
+    "tidings",
+    "information",
+    "correspondence",
+    "letter"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "無事に便りなし。",
+      "en": "No news is good news."
+    },
+    {
+      "ja": "便りをください。",
+      "en": "Keep in touch."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

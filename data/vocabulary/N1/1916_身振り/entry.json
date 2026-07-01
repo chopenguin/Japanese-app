@@ -1,0 +1,36 @@
+{
+  "id": "n1-1916",
+  "jlpt": "N1",
+  "kanji": "身振り",
+  "kana": "みぶり",
+  "display": "身振り",
+  "meanings_zh": [
+    "姿态",
+    "动作"
+  ],
+  "meanings_en": [
+    "gesture"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その一つは身振りである。",
+      "en": "One of them is gestures."
+    },
+    {
+      "ja": "彼女は身振りを交えて話をした。",
+      "en": "She accompanied her words with gestures."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

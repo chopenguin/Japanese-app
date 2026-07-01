@@ -1,0 +1,41 @@
+{
+  "id": "n3-0997",
+  "jlpt": "N3",
+  "kanji": "詳しい",
+  "kana": "くわしい",
+  "display": "詳しい",
+  "meanings_zh": [
+    "详细",
+    "详密",
+    "精通",
+    "熟悉"
+  ],
+  "meanings_en": [
+    "knowing very well",
+    "detailed",
+    "full",
+    "accurate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "手話に詳しい？",
+      "en": "Are you familiar with sign language?"
+    },
+    {
+      "ja": "これに詳しい？",
+      "en": "Are you familiar with this?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

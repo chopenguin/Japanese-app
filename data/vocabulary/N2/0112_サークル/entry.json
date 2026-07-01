@@ -1,0 +1,30 @@
+{
+  "id": "n2-0112",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "サークル",
+  "display": "サークル",
+  "meanings_zh": [
+    "圆",
+    "圆周",
+    "圆阵",
+    "小组"
+  ],
+  "meanings_en": [
+    "circle",
+    "sports club (i.e. at a company)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n1-1101",
+  "jlpt": "N1",
+  "kanji": "兼ねて",
+  "kana": "かねて",
+  "display": "兼ねて",
+  "meanings_zh": [],
+  "meanings_en": [
+    "simultaneously"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は勉強と遊びを兼ねている仕事につきたい。",
+      "en": "I want to get a job that mixes work and play."
+    },
+    {
+      "ja": "今日は、ばーさんのお使いを兼ねて街で買い物。",
+      "en": "Today I'm shopping in town as well as running an errand for my grandmother."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

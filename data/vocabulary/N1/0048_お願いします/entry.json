@@ -1,0 +1,33 @@
+{
+  "id": "n1-0048",
+  "jlpt": "N1",
+  "kanji": "お願いします",
+  "kana": "おねがいします",
+  "display": "お願いします",
+  "meanings_zh": [],
+  "meanings_en": [
+    "please"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お願いします。",
+      "en": "Please."
+    },
+    {
+      "ja": "勘定お願いします。",
+      "en": "The check, please."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

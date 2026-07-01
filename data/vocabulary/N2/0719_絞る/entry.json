@@ -1,0 +1,40 @@
+{
+  "id": "n2-0719",
+  "jlpt": "N2",
+  "kanji": "絞る",
+  "kana": "しぼる",
+  "display": "絞る",
+  "meanings_zh": [
+    "榨",
+    "拧",
+    "挤",
+    "绞"
+  ],
+  "meanings_en": [
+    "to press",
+    "to wring",
+    "to squeeze"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は５ポンド絞る必要がある。",
+      "en": "I need to lose five pounds."
+    },
+    {
+      "ja": "上手な弁護士はひとつの鍵となる証拠に的を絞る。",
+      "en": "A good lawyer will always zero in on a key piece of evidence."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

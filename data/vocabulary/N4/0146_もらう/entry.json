@@ -1,0 +1,33 @@
+{
+  "id": "n4-0146",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "もらう",
+  "display": "もらう",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to receive"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼に来てもらう。",
+      "en": "I will have him come."
+    },
+    {
+      "ja": "調べてもらう必要がある。",
+      "en": "It wants looking into."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

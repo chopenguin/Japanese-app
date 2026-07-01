@@ -1,0 +1,35 @@
+{
+  "id": "n2-0368",
+  "jlpt": "N2",
+  "kanji": "塩辛い",
+  "kana": "しおからい",
+  "display": "塩辛い",
+  "meanings_zh": [
+    "咸"
+  ],
+  "meanings_en": [
+    "salty (taste)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この水は少し塩辛い。",
+      "en": "This water is a little salty."
+    },
+    {
+      "ja": "この梅干し、塩辛いね。",
+      "en": "This umeboshi tastes really salty."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

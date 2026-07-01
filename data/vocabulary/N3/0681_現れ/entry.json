@@ -1,0 +1,39 @@
+{
+  "id": "n3-0681",
+  "jlpt": "N3",
+  "kanji": "現れ",
+  "kana": "あらわれ",
+  "display": "現れ",
+  "meanings_zh": [
+    "表现",
+    "表露",
+    "现象",
+    "结果"
+  ],
+  "meanings_en": [
+    "embodiment",
+    "materialization"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "聖霊が現れた。",
+      "en": "Spirit manifested itself."
+    },
+    {
+      "ja": "二度と現れるな！",
+      "en": "Don't you ever darken my door again!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

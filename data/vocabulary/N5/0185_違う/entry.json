@@ -1,0 +1,38 @@
+{
+  "id": "n5-0185",
+  "jlpt": "N5",
+  "kanji": "違う",
+  "kana": "ちがう",
+  "display": "違う",
+  "meanings_zh": [
+    "不同",
+    "不一样",
+    "不一",
+    "不对"
+  ],
+  "meanings_en": [
+    "to differ"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "違うってば。",
+      "en": "I said no."
+    },
+    {
+      "ja": "それ違うよ。",
+      "en": "It's not true."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n3-0816",
+  "jlpt": "N3",
+  "kanji": "伺う",
+  "kana": "うかがう",
+  "display": "伺う",
+  "meanings_zh": [
+    "拜访",
+    "访问",
+    "请教",
+    "打听"
+  ],
+  "meanings_en": [
+    "(hon) to visit",
+    "to ask",
+    "to inquire"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あすスミスさんのお宅に伺うことになっている。",
+      "en": "I am to call on Mr Smith tomorrow."
+    },
+    {
+      "ja": "貴社に伺うのに便利な場所の部屋を予約できればありがたいのですが。",
+      "en": "I would appreciate it if you could book a room at a convenient location for visiting your office."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

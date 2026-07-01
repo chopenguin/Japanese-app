@@ -1,0 +1,37 @@
+{
+  "id": "n1-2106",
+  "jlpt": "N1",
+  "kanji": "前置き",
+  "kana": "まえおき",
+  "display": "前置き",
+  "meanings_zh": [
+    "引子",
+    "开场白"
+  ],
+  "meanings_en": [
+    "preface",
+    "introduction"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は前置きとして、すこし話した。",
+      "en": "He said a few words by way of preface."
+    },
+    {
+      "ja": "前置きはこれくらいにして、本題に入りたいと思います。",
+      "en": "Here I want to bring the introduction to a close and get to the real subject."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

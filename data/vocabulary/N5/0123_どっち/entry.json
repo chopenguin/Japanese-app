@@ -1,0 +1,33 @@
+{
+  "id": "n5-0123",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "どっち",
+  "display": "どっち",
+  "meanings_zh": [],
+  "meanings_en": [
+    "which"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "どっち取る？",
+      "en": "Which one do you take?"
+    },
+    {
+      "ja": "めんどっちい。",
+      "en": "What a hassle!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n1-2404",
+  "jlpt": "N1",
+  "kanji": "懲りる",
+  "kana": "こりる",
+  "display": "懲りる",
+  "meanings_zh": [
+    "因为吃过苦头不敢再尝试",
+    "惩前毖后"
+  ],
+  "meanings_en": [
+    "to learn by experience",
+    "to be disgusted with"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これで彼女も懲りるだろう。",
+      "en": "This will teach her a lesson."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

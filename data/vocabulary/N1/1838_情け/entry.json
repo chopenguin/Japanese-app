@@ -1,0 +1,39 @@
+{
+  "id": "n1-1838",
+  "jlpt": "N1",
+  "kanji": "情け",
+  "kana": "なさけ",
+  "display": "情け",
+  "meanings_zh": [
+    "仁慈",
+    "慈悲",
+    "同情",
+    "爱情"
+  ],
+  "meanings_en": [
+    "sympathy",
+    "compassion"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "情けなさすぎだろ。",
+      "en": "I'm overly miserable."
+    },
+    {
+      "ja": "旅は道連れ世は情け。",
+      "en": "No road is long with good company."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

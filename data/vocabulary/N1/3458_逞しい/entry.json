@@ -1,0 +1,40 @@
+{
+  "id": "n1-3458",
+  "jlpt": "N1",
+  "kanji": "逞しい",
+  "kana": "たくましい",
+  "display": "逞しい",
+  "meanings_zh": [
+    "健壮",
+    "强壮",
+    "魁梧",
+    "旺盛"
+  ],
+  "meanings_en": [
+    "burly",
+    "strong",
+    "sturdy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は逞しい男だ。",
+      "en": "He is a strapping man."
+    },
+    {
+      "ja": "トムは逞しい青年だ。",
+      "en": "Tom is a strapping young man."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

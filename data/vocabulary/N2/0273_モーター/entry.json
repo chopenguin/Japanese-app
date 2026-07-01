@@ -1,0 +1,38 @@
+{
+  "id": "n2-0273",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "モーター",
+  "display": "モーター",
+  "meanings_zh": [
+    "发动机",
+    "内燃机",
+    "电动机",
+    "摩托"
+  ],
+  "meanings_en": [
+    "motor"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "モーターは動き出した。",
+      "en": "The motor started to run."
+    },
+    {
+      "ja": "モーターがきちんと動かない。",
+      "en": "The motor does not function properly."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

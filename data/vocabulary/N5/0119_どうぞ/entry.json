@@ -1,0 +1,36 @@
+{
+  "id": "n5-0119",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "どうぞ",
+  "display": "どうぞ",
+  "meanings_zh": [
+    "请",
+    "可以"
+  ],
+  "meanings_en": [
+    "please"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "是非どうぞ。",
+      "en": "By all means."
+    },
+    {
+      "ja": "はいどうぞ。",
+      "en": "Here it is."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

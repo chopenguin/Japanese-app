@@ -1,0 +1,39 @@
+{
+  "id": "n3-0039",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "おじいさん",
+  "display": "おじいさん",
+  "meanings_zh": [
+    "爷爷",
+    "公公",
+    "祖父",
+    "外祖父"
+  ],
+  "meanings_en": [
+    "grandfather",
+    "male senior-citizen"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "おじいさんの世話をする。",
+      "en": "I take care of my grandfather."
+    },
+    {
+      "ja": "彼のおじいさんは何歳かしら。",
+      "en": "How old might his grandfather be?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

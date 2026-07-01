@@ -1,0 +1,39 @@
+{
+  "id": "n4-0423",
+  "jlpt": "N4",
+  "kanji": "盛ん",
+  "kana": "さかん",
+  "display": "盛ん",
+  "meanings_zh": [
+    "繁盛",
+    "繁荣",
+    "兴盛",
+    "昌盛"
+  ],
+  "meanings_en": [
+    "popularity",
+    "prosperous"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は盛んにしている。",
+      "en": "He is still fully active."
+    },
+    {
+      "ja": "彼はまだ元気盛んだ。",
+      "en": "He is still full of energy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

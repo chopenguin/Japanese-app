@@ -1,0 +1,36 @@
+{
+  "id": "n1-0303",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "メロディー",
+  "display": "メロディー",
+  "meanings_zh": [
+    "旋律",
+    "曲调"
+  ],
+  "meanings_en": [
+    "melody"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はメロディーを口笛で吹き始めた。",
+      "en": "He began to whistle a tune."
+    },
+    {
+      "ja": "私はあの歌のメロディーが思い出せない。",
+      "en": "I can't remember the tune of that song."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

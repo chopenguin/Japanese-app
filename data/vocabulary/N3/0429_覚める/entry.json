@@ -1,0 +1,39 @@
+{
+  "id": "n3-0429",
+  "jlpt": "N3",
+  "kanji": "覚める",
+  "kana": "さめる",
+  "display": "覚める",
+  "meanings_zh": [
+    "醒",
+    "醒过来",
+    "觉醒",
+    "醒悟"
+  ],
+  "meanings_en": [
+    "to wake",
+    "to wake up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は早く目が覚める。",
+      "en": "He wakes up early."
+    },
+    {
+      "ja": "私は朝早く目が覚める。",
+      "en": "I wake up early."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n1-0221",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "どうにか",
+  "display": "どうにか",
+  "meanings_zh": [
+    "想点法子",
+    "好歹想个办法",
+    "总算",
+    "好歹"
+  ],
+  "meanings_en": [
+    "in some way or other",
+    "one way or another"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "どうにか泳げます。",
+      "en": "I can hardly swim."
+    },
+    {
+      "ja": "どうにか乗り越えるよ。",
+      "en": "I'll get over it somehow."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

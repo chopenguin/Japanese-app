@@ -1,0 +1,38 @@
+{
+  "id": "n3-0163",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "トップ",
+  "display": "トップ",
+  "meanings_zh": [
+    "最高层",
+    "最高级",
+    "领导阶层",
+    "最前头"
+  ],
+  "meanings_en": [
+    "top"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ストップって言ってね。",
+      "en": "Say when."
+    },
+    {
+      "ja": "彼女はクラスでトップです。",
+      "en": "She is at the top of her class."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n2-1464",
+  "jlpt": "N2",
+  "kanji": "伯父さん",
+  "kana": "おじさん",
+  "display": "伯父さん",
+  "meanings_zh": [
+    "大爷",
+    "伯伯",
+    "叔叔",
+    "舅舅"
+  ],
+  "meanings_en": [
+    "middle-aged gentleman",
+    "uncle"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "伯父さんが僕を雇ってくれたんだ。",
+      "en": "I was hired by my uncle."
+    },
+    {
+      "ja": "お父さんじゃなくて、伯父さんよ。",
+      "en": "He's my uncle, not my father."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

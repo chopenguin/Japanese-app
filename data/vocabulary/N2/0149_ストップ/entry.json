@@ -1,0 +1,38 @@
+{
+  "id": "n2-0149",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ストップ",
+  "display": "ストップ",
+  "meanings_zh": [
+    "止",
+    "停止",
+    "中止",
+    "停止信号"
+  ],
+  "meanings_en": [
+    "stop"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ストップって言ってね。",
+      "en": "Say when."
+    },
+    {
+      "ja": "戦争で彼らの研究はストップした。",
+      "en": "The war brought their research to an end."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

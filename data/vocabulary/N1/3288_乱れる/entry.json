@@ -1,0 +1,31 @@
+{
+  "id": "n1-3288",
+  "jlpt": "N1",
+  "kanji": "乱れる",
+  "kana": "みだれる",
+  "display": "乱れる",
+  "meanings_zh": [
+    "乱",
+    "不平静",
+    "不太平",
+    "紊乱"
+  ],
+  "meanings_en": [
+    "to get confused",
+    "to be disordered",
+    "to be disturbed"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

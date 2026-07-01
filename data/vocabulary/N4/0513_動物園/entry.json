@@ -1,0 +1,33 @@
+{
+  "id": "n4-0513",
+  "jlpt": "N4",
+  "kanji": "動物園",
+  "kana": "どうぶつえん",
+  "display": "動物園",
+  "meanings_zh": [],
+  "meanings_en": [
+    "zoo"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "動物園に行こう。",
+      "en": "Let's go to the zoo."
+    },
+    {
+      "ja": "昨日動物園に行った。",
+      "en": "I went to the zoo yesterday."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

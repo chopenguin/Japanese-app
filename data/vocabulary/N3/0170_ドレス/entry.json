@@ -1,0 +1,36 @@
+{
+  "id": "n3-0170",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ドレス",
+  "display": "ドレス",
+  "meanings_zh": [
+    "妇女西装",
+    "女礼服"
+  ],
+  "meanings_en": [
+    "dress"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あのドレス大好き。",
+      "en": "I love that dress."
+    },
+    {
+      "ja": "アドレスを送って。",
+      "en": "Text me the address."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

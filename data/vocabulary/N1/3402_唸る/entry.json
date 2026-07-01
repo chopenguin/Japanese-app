@@ -1,0 +1,36 @@
+{
+  "id": "n1-3402",
+  "jlpt": "N1",
+  "kanji": "唸る",
+  "kana": "うなる",
+  "display": "唸る",
+  "meanings_zh": [
+    "呻吟",
+    "哼哼",
+    "吼",
+    "啸"
+  ],
+  "meanings_en": [
+    "to groan",
+    "to moan",
+    "to roar",
+    "to howl",
+    "to growl",
+    "to hum",
+    "to buzz",
+    "to sough"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

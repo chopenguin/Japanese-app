@@ -1,0 +1,31 @@
+{
+  "id": "n1-3355",
+  "jlpt": "N1",
+  "kanji": "連なる",
+  "kana": "つらなる",
+  "display": "連なる",
+  "meanings_zh": [
+    "成行",
+    "成排",
+    "成列",
+    "连接"
+  ],
+  "meanings_en": [
+    "to extend",
+    "to stretch out",
+    "to stand in a row"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

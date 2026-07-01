@@ -1,0 +1,29 @@
+{
+  "id": "n1-0638",
+  "jlpt": "N1",
+  "kanji": "改まる",
+  "kana": "あらたまる",
+  "display": "改まる",
+  "meanings_zh": [
+    "改",
+    "变",
+    "更新",
+    "改善"
+  ],
+  "meanings_en": [
+    "to be renewed"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

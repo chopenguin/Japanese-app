@@ -1,0 +1,30 @@
+{
+  "id": "n2-0199",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "なんとなく",
+  "display": "なんとなく",
+  "meanings_zh": [],
+  "meanings_en": [
+    "somehow or other",
+    "for some reason or another"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "なんとなく変な気分。",
+      "en": "I feel funny."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

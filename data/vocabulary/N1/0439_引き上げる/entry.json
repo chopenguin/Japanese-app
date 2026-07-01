@@ -1,0 +1,41 @@
+{
+  "id": "n1-0439",
+  "jlpt": "N1",
+  "kanji": "引き上げる",
+  "kana": "ひきあげる",
+  "display": "引き上げる",
+  "meanings_zh": [
+    "吊起",
+    "曳起拉上来",
+    "提到高处",
+    "打捞"
+  ],
+  "meanings_en": [
+    "to withdraw",
+    "to leave",
+    "to pull out",
+    "to retire"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "政府は近々、消費税を引き上げるつもりなのかしら。",
+      "en": "Will the government raise the consumption tax soon?"
+    },
+    {
+      "ja": "日本政府は、2020年の東京オリンピックまでに世界の日本語学習者人口を1億人に引き上げるとの目標を発表した。",
+      "en": "The Japanese government has announced its goal of increasing the global population of Japanese language learners to 100 million by the 2020 Tokyo Olympics."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

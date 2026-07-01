@@ -1,0 +1,41 @@
+{
+  "id": "n2-1413",
+  "jlpt": "N2",
+  "kanji": "鈍い",
+  "kana": "にぶい",
+  "display": "鈍い",
+  "meanings_zh": [
+    "钝",
+    "迟钝",
+    "不强烈",
+    "暗淡"
+  ],
+  "meanings_en": [
+    "dull (e.g. a knife)",
+    "thickheaded",
+    "slow (opposite of fast)",
+    "stupid"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は動作が鈍い。",
+      "en": "He is slow in action."
+    },
+    {
+      "ja": "彼は感覚が鈍い。",
+      "en": "He has dull senses."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

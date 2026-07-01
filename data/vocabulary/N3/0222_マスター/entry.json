@@ -1,0 +1,42 @@
+{
+  "id": "n3-0222",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "マスター",
+  "display": "マスター",
+  "meanings_zh": [
+    "主人",
+    "雇主",
+    "老板",
+    "师傅"
+  ],
+  "meanings_en": [
+    "proprietor",
+    "manager",
+    "barowner",
+    "master (e.g. arts",
+    "science)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "英語をマスターしたいな。",
+      "en": "I'd like to master English."
+    },
+    {
+      "ja": "マスターキーを持ってます。",
+      "en": "I have the master key."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n3-0105",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "すごい",
+  "display": "すごい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "terrible",
+    "dreadful",
+    "terrific",
+    "amazing",
+    "great"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "すごい花火だ！",
+      "en": "These fireworks are spectacular!"
+    },
+    {
+      "ja": "すごいですね。",
+      "en": "It's amazing."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

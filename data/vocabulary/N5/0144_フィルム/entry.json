@@ -1,0 +1,38 @@
+{
+  "id": "n5-0144",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "フィルム",
+  "display": "フィルム",
+  "meanings_zh": [
+    "膜",
+    "薄膜",
+    "胶卷",
+    "胶片"
+  ],
+  "meanings_en": [
+    "roll of film"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "フィルムが切れた。",
+      "en": "My film has run out."
+    },
+    {
+      "ja": "このフィルムは現像が早い。",
+      "en": "This film develops fast."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

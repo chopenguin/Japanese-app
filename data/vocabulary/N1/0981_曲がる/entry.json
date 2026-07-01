@@ -1,0 +1,39 @@
+{
+  "id": "n1-0981",
+  "jlpt": "N1",
+  "kanji": "曲がる",
+  "kana": "まがる",
+  "display": "曲がる",
+  "meanings_zh": [
+    "弯",
+    "弯曲",
+    "拐弯",
+    "转弯"
+  ],
+  "meanings_en": [
+    "to turn",
+    "to bend"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "鉛は簡単に曲がる。",
+      "en": "Lead bends easily."
+    },
+    {
+      "ja": "右へ曲がると病院があります。",
+      "en": "Turning to the right, you will find the hospital."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

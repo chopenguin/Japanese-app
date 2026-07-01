@@ -1,0 +1,42 @@
+{
+  "id": "n1-1941",
+  "jlpt": "N1",
+  "kanji": "尽きる",
+  "kana": "つきる",
+  "display": "尽きる",
+  "meanings_zh": [
+    "尽",
+    "罄尽",
+    "完",
+    "光"
+  ],
+  "meanings_en": [
+    "to be used up",
+    "to be run out",
+    "to be exhausted",
+    "to be consumed",
+    "to come to an end"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "早晩彼の運は尽きるだろう。",
+      "en": "Sooner or later, he will run out of luck."
+    },
+    {
+      "ja": "お前には全く愛想が尽きる。",
+      "en": "I'm quite out of patience with you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

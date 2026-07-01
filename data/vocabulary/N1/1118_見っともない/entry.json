@@ -1,0 +1,30 @@
+{
+  "id": "n1-1118",
+  "jlpt": "N1",
+  "kanji": "見っともない",
+  "kana": "みっともない",
+  "display": "見っともない",
+  "meanings_zh": [
+    "不象样",
+    "不体面",
+    "不成体统",
+    "难看"
+  ],
+  "meanings_en": [
+    "shameful",
+    "indecent"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n3-1489",
+  "jlpt": "N3",
+  "kanji": "疲れ",
+  "kana": "つかれ",
+  "display": "疲れ",
+  "meanings_zh": [
+    "疲乏",
+    "疲劳",
+    "疲倦"
+  ],
+  "meanings_en": [
+    "tiredness",
+    "fatigue"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "疲れました。",
+      "en": "I'm tired."
+    },
+    {
+      "ja": "冬は疲れる。",
+      "en": "I feel more tired in the wintertime."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

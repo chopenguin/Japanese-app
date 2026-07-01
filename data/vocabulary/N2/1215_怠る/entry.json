@@ -1,0 +1,40 @@
+{
+  "id": "n2-1215",
+  "jlpt": "N2",
+  "kanji": "怠る",
+  "kana": "おこたる",
+  "display": "怠る",
+  "meanings_zh": [
+    "懒惰",
+    "怠慢",
+    "懈怠",
+    "放松"
+  ],
+  "meanings_en": [
+    "to neglect",
+    "to be off guard",
+    "to be feeling better"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "連絡を怠るな。",
+      "en": "Don't neglect reaching out."
+    },
+    {
+      "ja": "毎日の務めを怠るな。",
+      "en": "Don't fail in your daily duties."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

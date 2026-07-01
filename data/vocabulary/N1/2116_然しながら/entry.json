@@ -1,0 +1,29 @@
+{
+  "id": "n1-2116",
+  "jlpt": "N1",
+  "kanji": "然しながら",
+  "kana": "しかしながら",
+  "display": "然しながら",
+  "meanings_zh": [
+    "然而",
+    "可是",
+    "但是"
+  ],
+  "meanings_en": [
+    "nevertheless",
+    "however"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

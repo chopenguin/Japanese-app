@@ -1,0 +1,25 @@
+{
+  "id": "n1-1465",
+  "jlpt": "N1",
+  "kanji": "始めまして",
+  "kana": "はじめまして",
+  "display": "始めまして",
+  "meanings_zh": [],
+  "meanings_en": [
+    "How do you do?",
+    "I am glad to meet you"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

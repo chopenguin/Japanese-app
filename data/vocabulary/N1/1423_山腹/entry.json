@@ -1,0 +1,33 @@
+{
+  "id": "n1-1423",
+  "jlpt": "N1",
+  "kanji": "山腹",
+  "kana": "さんぷく",
+  "display": "山腹",
+  "meanings_zh": [
+    "山腹",
+    "山腰"
+  ],
+  "meanings_en": [
+    "hillside",
+    "mountainside"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "僕らの大学の校舎は、今福岡市の北部の山腹に建築中です。",
+      "en": "Our university building is now under construction on a hillside in the north of Fukuoka."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

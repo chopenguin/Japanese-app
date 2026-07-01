@@ -1,0 +1,42 @@
+{
+  "id": "n1-1281",
+  "jlpt": "N1",
+  "kanji": "行き違い",
+  "kana": "いきちがい",
+  "display": "行き違い",
+  "meanings_zh": [
+    "走岔开",
+    "走两岔",
+    "相左",
+    "弄错"
+  ],
+  "meanings_en": [
+    "misunderstanding",
+    "estrangement",
+    "disagreement",
+    "crossing without meeting",
+    "going astray"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私たちの手紙は行き違いになった。",
+      "en": "Our letters crossed each other."
+    },
+    {
+      "ja": "あなたの手紙は私のと行き違いになった。",
+      "en": "Your letter crossed mine."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

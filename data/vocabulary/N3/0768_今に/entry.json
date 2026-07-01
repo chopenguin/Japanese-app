@@ -1,0 +1,39 @@
+{
+  "id": "n3-0768",
+  "jlpt": "N3",
+  "kanji": "今に",
+  "kana": "いまに",
+  "display": "今に",
+  "meanings_zh": [
+    "至今",
+    "直到现在",
+    "不久",
+    "即将"
+  ],
+  "meanings_en": [
+    "before long",
+    "even now"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今にわかる。",
+      "en": "You'll see."
+    },
+    {
+      "ja": "今に後悔するぞ。",
+      "en": "You will yet regret it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

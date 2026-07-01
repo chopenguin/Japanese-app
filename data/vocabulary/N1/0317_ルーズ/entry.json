@@ -1,0 +1,38 @@
+{
+  "id": "n1-0317",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ルーズ",
+  "display": "ルーズ",
+  "meanings_zh": [
+    "松懈",
+    "松弛",
+    "散漫",
+    "吊儿郎当"
+  ],
+  "meanings_en": [
+    "loose"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女はいつも時間にルーズだ。",
+      "en": "She is always careless about time."
+    },
+    {
+      "ja": "新しい英語の先生、トム・クルーズ似のイケメンらしいよ。",
+      "en": "I heard that the new English teacher is a handsome guy who looks like Tom Cruise."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

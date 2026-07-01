@@ -1,0 +1,36 @@
+{
+  "id": "n2-0185",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "でたらめ",
+  "display": "でたらめ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(1) irresponsible utterance",
+    "nonsense",
+    "nonsensical",
+    "(2) random"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はでたらめに発砲した。",
+      "en": "He fired a shot at random."
+    },
+    {
+      "ja": "こんなの、でたらめだよ。",
+      "en": "This is gibberish."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

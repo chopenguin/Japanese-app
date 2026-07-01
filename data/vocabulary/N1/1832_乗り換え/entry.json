@@ -1,0 +1,38 @@
+{
+  "id": "n1-1832",
+  "jlpt": "N1",
+  "kanji": "乗り換え",
+  "kana": "のりかえ",
+  "display": "乗り換え",
+  "meanings_zh": [
+    "换车",
+    "倒车",
+    "换乘",
+    "改乘"
+  ],
+  "meanings_en": [
+    "transfer (trains  buses  etc.)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "乗り換えるのですか。",
+      "en": "Do I have to change trains?"
+    },
+    {
+      "ja": "新宿で乗り換えなさい。",
+      "en": "Change trains at Shinjuku."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

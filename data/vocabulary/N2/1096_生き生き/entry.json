@@ -1,0 +1,39 @@
+{
+  "id": "n2-1096",
+  "jlpt": "N2",
+  "kanji": "生き生き",
+  "kana": "いきいき",
+  "display": "生き生き",
+  "meanings_zh": [
+    "活泼",
+    "生气勃勃",
+    "生动",
+    "栩栩如生"
+  ],
+  "meanings_en": [
+    "vividly",
+    "lively"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "雨で木の葉が生き生きして見える。",
+      "en": "The leaves look fresh in the rain."
+    },
+    {
+      "ja": "夢が生き生きと記憶に残ることもある。",
+      "en": "Dreams may be vivid and memorable."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

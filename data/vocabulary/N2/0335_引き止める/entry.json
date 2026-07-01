@@ -1,0 +1,31 @@
+{
+  "id": "n2-0335",
+  "jlpt": "N2",
+  "kanji": "引き止める",
+  "kana": "ひきとめる",
+  "display": "引き止める",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to detain",
+    "to check",
+    "to restrain"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は男の子を引き止める。",
+      "en": "She holds the boy back."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

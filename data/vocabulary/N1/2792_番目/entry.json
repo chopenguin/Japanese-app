@@ -1,0 +1,33 @@
+{
+  "id": "n1-2792",
+  "jlpt": "N1",
+  "kanji": "番目",
+  "kana": "ばんめ",
+  "display": "番目",
+  "meanings_zh": [],
+  "meanings_en": [
+    "cardinal number suffix"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "15番目はどなたですか？",
+      "en": "Who is the fifteenth?"
+    },
+    {
+      "ja": "一月は年の一番目の月です。",
+      "en": "January is the first month of the year."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

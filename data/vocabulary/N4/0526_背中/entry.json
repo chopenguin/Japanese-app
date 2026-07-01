@@ -1,0 +1,38 @@
+{
+  "id": "n4-0526",
+  "jlpt": "N4",
+  "kanji": "背中",
+  "kana": "せなか",
+  "display": "背中",
+  "meanings_zh": [
+    "背",
+    "脊背",
+    "脊梁",
+    "背后"
+  ],
+  "meanings_en": [
+    "back of the body"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "背中が痛い。",
+      "en": "My back hurts."
+    },
+    {
+      "ja": "背中かいて。",
+      "en": "Scratch my back."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

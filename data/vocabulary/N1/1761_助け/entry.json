@@ -1,0 +1,33 @@
+{
+  "id": "n1-1761",
+  "jlpt": "N1",
+  "kanji": "助け",
+  "kana": "たすけ",
+  "display": "助け",
+  "meanings_zh": [],
+  "meanings_en": [
+    "assistance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "助けてくれ。",
+      "en": "Help me."
+    },
+    {
+      "ja": "誰か助けて。",
+      "en": "Somebody help me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n4-0455",
+  "jlpt": "N4",
+  "kanji": "代わり",
+  "kana": "かわり",
+  "display": "代わり",
+  "meanings_zh": [
+    "代替",
+    "替代",
+    "代理",
+    "补偿"
+  ],
+  "meanings_en": [
+    "substitute",
+    "alternate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "担当者と代わります。",
+      "en": "I'll transfer you to the right person."
+    },
+    {
+      "ja": "水のお代わりを下さい。",
+      "en": "I would like some more water."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

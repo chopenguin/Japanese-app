@@ -1,0 +1,38 @@
+{
+  "id": "n3-0984",
+  "jlpt": "N3",
+  "kanji": "招く",
+  "kana": "まねく",
+  "display": "招く",
+  "meanings_zh": [
+    "招",
+    "招呼",
+    "招待",
+    "宴请"
+  ],
+  "meanings_en": [
+    "to invite"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "怠惰は失敗を招く。",
+      "en": "Idleness leads to failure."
+    },
+    {
+      "ja": "戦争は必ず不幸を招く。",
+      "en": "War necessarily causes unhappiness."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

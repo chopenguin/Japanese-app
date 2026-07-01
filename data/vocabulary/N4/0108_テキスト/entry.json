@@ -1,0 +1,39 @@
+{
+  "id": "n4-0108",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "テキスト",
+  "display": "テキスト",
+  "meanings_zh": [
+    "原文",
+    "文本",
+    "底本",
+    "教科书"
+  ],
+  "meanings_en": [
+    "text",
+    "text book"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "どのテキスト使ってるの？",
+      "en": "Which textbook are you using?"
+    },
+    {
+      "ja": "テキストを開いてください。",
+      "en": "Open your textbooks."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n1-0199",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "タワー",
+  "display": "タワー",
+  "meanings_zh": [
+    "塔",
+    "塔楼",
+    "城楼"
+  ],
+  "meanings_en": [
+    "tower"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "東京タワーには行ったの？",
+      "en": "Did you visit the Tokyo Tower?"
+    },
+    {
+      "ja": "遠くに東京タワーが見えた。",
+      "en": "I could see Tokyo Tower far away."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

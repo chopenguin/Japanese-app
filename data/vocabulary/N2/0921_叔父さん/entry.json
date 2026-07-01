@@ -1,0 +1,39 @@
+{
+  "id": "n2-0921",
+  "jlpt": "N2",
+  "kanji": "叔父さん",
+  "kana": "おじさん",
+  "display": "叔父さん",
+  "meanings_zh": [
+    "大爷",
+    "伯伯",
+    "叔叔",
+    "舅舅"
+  ],
+  "meanings_en": [
+    "middle-aged gentleman",
+    "uncle"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この写真、叔父さんなんだ。",
+      "en": "This picture is of my uncle."
+    },
+    {
+      "ja": "叔父さんはまだ海外にいるの？",
+      "en": "Is your uncle still abroad?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

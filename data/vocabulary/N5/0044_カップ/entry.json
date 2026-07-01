@@ -1,0 +1,38 @@
+{
+  "id": "n5-0044",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "カップ",
+  "display": "カップ",
+  "meanings_zh": [
+    "(有把的)茶杯",
+    "茶碗",
+    "量杯",
+    "优胜杯"
+  ],
+  "meanings_en": [
+    "cup"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "カップが割れた。",
+      "en": "The cup broke."
+    },
+    {
+      "ja": "彼らはカップルだ。",
+      "en": "They're a couple."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

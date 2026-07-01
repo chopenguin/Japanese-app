@@ -1,0 +1,31 @@
+{
+  "id": "n1-0168",
+  "jlpt": "N1",
+  "kanji": "すれ違う",
+  "kana": "すれちがう",
+  "display": "すれ違う",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to pass by one another",
+    "to disagree",
+    "to miss each other"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は通りですれ違う時に私に微笑みかけた。",
+      "en": "She smiled at me as she passed me in the street."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

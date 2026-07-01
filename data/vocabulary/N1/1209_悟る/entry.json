@@ -1,0 +1,41 @@
+{
+  "id": "n1-1209",
+  "jlpt": "N1",
+  "kanji": "悟る",
+  "kana": "さとる",
+  "display": "悟る",
+  "meanings_zh": [
+    "悟",
+    "醒悟",
+    "觉悟",
+    "理解"
+  ],
+  "meanings_en": [
+    "to attain enlightenment",
+    "to perceive",
+    "to understand",
+    "to discern"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "事後に事を悟るのは容易だ。",
+      "en": "It is easy to be wise after the event."
+    },
+    {
+      "ja": "間違いを悟るのに彼はほんの数分かかっただけだ。",
+      "en": "It took him only a few minutes to realize his mistakes."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

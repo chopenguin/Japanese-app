@@ -1,0 +1,41 @@
+{
+  "id": "n1-1619",
+  "jlpt": "N1",
+  "kanji": "取り組む",
+  "kana": "とりくむ",
+  "display": "取り組む",
+  "meanings_zh": [
+    "为了摔倒对方互相扭住",
+    "和～～交手",
+    "同～～比赛",
+    "努力"
+  ],
+  "meanings_en": [
+    "to tackle",
+    "to wrestle with",
+    "to engage in a bout",
+    "to come to grips with"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そろそろ本気で仕事に取り組むころだよ。",
+      "en": "It is time you get down to work."
+    },
+    {
+      "ja": "環境汚染にいかに取り組むかは深刻な問題である。",
+      "en": "How to deal with environmental pollution is a serious matter."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

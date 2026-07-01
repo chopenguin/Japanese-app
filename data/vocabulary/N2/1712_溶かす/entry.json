@@ -1,0 +1,39 @@
+{
+  "id": "n2-1712",
+  "jlpt": "N2",
+  "kanji": "溶かす",
+  "kana": "とかす",
+  "display": "溶かす",
+  "meanings_zh": [
+    "熔化",
+    "溶化",
+    "融化",
+    "溶解"
+  ],
+  "meanings_en": [
+    "to melt",
+    "to dissolve"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "４．中華鍋にごま油を熱してバターを溶かす。",
+      "en": "4. Heat the sesame oil in the wok and melt the butter."
+    },
+    {
+      "ja": "ろうそくの両端を燃やすことは、極めて簡単にろうそくを溶かすことになる - 美女を両脇に抱え込んだプレイボーイのように。",
+      "en": "Burning the candle at both ends reduces the candle to wax in a hurry - just like a playboy having a pretty girl on each arm."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

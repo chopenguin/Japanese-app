@@ -1,0 +1,33 @@
+{
+  "id": "n4-0143",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "もし",
+  "display": "もし",
+  "meanings_zh": [],
+  "meanings_en": [
+    "if"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何もしないよ。",
+      "en": "I won't do anything."
+    },
+    {
+      "ja": "何もしなかった。",
+      "en": "I didn't do anything."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

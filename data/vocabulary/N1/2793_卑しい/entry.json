@@ -1,0 +1,44 @@
+{
+  "id": "n1-2793",
+  "jlpt": "N1",
+  "kanji": "卑しい",
+  "kana": "いやしい",
+  "display": "卑しい",
+  "meanings_zh": [
+    "轻视",
+    "小看",
+    "卑视",
+    "蔑视"
+  ],
+  "meanings_en": [
+    "greedy",
+    "vulgar",
+    "shabby",
+    "humble",
+    "base",
+    "mean",
+    "vile"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は卑しい振舞いをした。",
+      "en": "He behaved in a cheap manner."
+    },
+    {
+      "ja": "卑しいことは絶対にしない。",
+      "en": "He is above all meanness."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

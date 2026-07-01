@@ -1,0 +1,36 @@
+{
+  "id": "n1-3311",
+  "jlpt": "N1",
+  "kanji": "流行",
+  "kana": "はやり",
+  "display": "流行",
+  "meanings_zh": [],
+  "meanings_en": [
+    "fashionable",
+    "fad",
+    "in vogue",
+    "prevailing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "流行を追うな。",
+      "en": "Don't follow fashion."
+    },
+    {
+      "ja": "その歌は流行した。",
+      "en": "The song caught on with the public."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

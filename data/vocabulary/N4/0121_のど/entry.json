@@ -1,0 +1,33 @@
+{
+  "id": "n4-0121",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "のど",
+  "display": "のど",
+  "meanings_zh": [],
+  "meanings_en": [
+    "throat"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "のど渇いた。",
+      "en": "I'm thirsty."
+    },
+    {
+      "ja": "のどが痛いです。",
+      "en": "I have a sore throat."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

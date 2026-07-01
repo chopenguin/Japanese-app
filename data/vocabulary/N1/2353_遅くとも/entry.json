@@ -1,0 +1,33 @@
+{
+  "id": "n1-2353",
+  "jlpt": "N1",
+  "kanji": "遅くとも",
+  "kana": "おそくとも",
+  "display": "遅くとも",
+  "meanings_zh": [],
+  "meanings_en": [
+    "at the latest"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "遅くとも6時には来い。",
+      "en": "Come at six o'clock at the latest."
+    },
+    {
+      "ja": "天罰は遅くとも必ず来る。",
+      "en": "Heaven's vengeance is slow but sure."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

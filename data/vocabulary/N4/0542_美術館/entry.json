@@ -1,0 +1,33 @@
+{
+  "id": "n4-0542",
+  "jlpt": "N4",
+  "kanji": "美術館",
+  "kana": "びじゅつかん",
+  "display": "美術館",
+  "meanings_zh": [],
+  "meanings_en": [
+    "art gallery"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "俺たちは美術館に行った。",
+      "en": "We went to the museum."
+    },
+    {
+      "ja": "今日は美術館に行くんだ。",
+      "en": "I'll go to a museum today."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

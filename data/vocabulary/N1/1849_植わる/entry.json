@@ -1,0 +1,28 @@
+{
+  "id": "n1-1849",
+  "jlpt": "N1",
+  "kanji": "植わる",
+  "kana": "うわる",
+  "display": "植わる",
+  "meanings_zh": [
+    "栽上",
+    "栽着",
+    "栽活"
+  ],
+  "meanings_en": [
+    "to be planted"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

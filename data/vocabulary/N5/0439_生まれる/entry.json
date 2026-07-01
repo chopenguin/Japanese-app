@@ -1,0 +1,38 @@
+{
+  "id": "n5-0439",
+  "jlpt": "N5",
+  "kanji": "生まれる",
+  "kana": "うまれる",
+  "display": "生まれる",
+  "meanings_zh": [
+    "生",
+    "产",
+    "出生",
+    "诞生"
+  ],
+  "meanings_en": [
+    "to be born"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女に赤ちゃんが生まれる。",
+      "en": "She is going to have a baby."
+    },
+    {
+      "ja": "来月赤ん坊が生まれるんです。",
+      "en": "We are going to have a baby next month."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

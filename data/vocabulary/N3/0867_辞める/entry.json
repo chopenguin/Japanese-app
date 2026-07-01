@@ -1,0 +1,36 @@
+{
+  "id": "n3-0867",
+  "jlpt": "N3",
+  "kanji": "辞める",
+  "kana": "やめる",
+  "display": "辞める",
+  "meanings_zh": [
+    "辞",
+    "停"
+  ],
+  "meanings_en": [
+    "to retire"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "辞めるべきだよ。",
+      "en": "You should quit."
+    },
+    {
+      "ja": "仕事を辞めるべき時間だ。",
+      "en": "It's time to leave off work."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

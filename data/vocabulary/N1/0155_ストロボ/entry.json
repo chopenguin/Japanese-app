@@ -1,0 +1,33 @@
+{
+  "id": "n1-0155",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ストロボ",
+  "display": "ストロボ",
+  "meanings_zh": [
+    "闪光灯"
+  ],
+  "meanings_en": [
+    "stroboscope (lit: strobo)",
+    "strobe lamp",
+    "stroboscopic lamp"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ここでストロボ撮影をしてもいいですか。",
+      "en": "Is it all right to use a flash here?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

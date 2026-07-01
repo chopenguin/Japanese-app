@@ -1,0 +1,40 @@
+{
+  "id": "n3-0087",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "さて",
+  "display": "さて",
+  "meanings_zh": [
+    "一旦",
+    "果真",
+    "那么",
+    "就"
+  ],
+  "meanings_en": [
+    "well",
+    "now",
+    "then"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "さて、何しようか？",
+      "en": "Well, what shall we do?"
+    },
+    {
+      "ja": "さて本題に入ろうか。",
+      "en": "Well, let's get down to business."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

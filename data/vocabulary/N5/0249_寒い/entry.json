@@ -1,0 +1,38 @@
+{
+  "id": "n5-0249",
+  "jlpt": "N5",
+  "kanji": "寒い",
+  "kana": "さむい",
+  "display": "寒い",
+  "meanings_zh": [
+    "冷",
+    "寒冷",
+    "寒碜",
+    "简陋"
+  ],
+  "meanings_en": [
+    "cold"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "肌寒いです。",
+      "en": "It's chilly."
+    },
+    {
+      "ja": "少し肌寒い。",
+      "en": "There's a slight chill in the air."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

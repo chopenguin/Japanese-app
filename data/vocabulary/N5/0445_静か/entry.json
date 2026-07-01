@@ -1,0 +1,38 @@
+{
+  "id": "n5-0445",
+  "jlpt": "N5",
+  "kanji": "静か",
+  "kana": "しずか",
+  "display": "静か",
+  "meanings_zh": [
+    "静止",
+    "不动",
+    "平静",
+    "安静"
+  ],
+  "meanings_en": [
+    "quiet"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "静か過ぎる。",
+      "en": "It's too quiet."
+    },
+    {
+      "ja": "君静かにしろよ。",
+      "en": "You be quiet."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

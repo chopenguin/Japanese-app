@@ -1,0 +1,38 @@
+{
+  "id": "n1-2892",
+  "jlpt": "N1",
+  "kanji": "負かす",
+  "kana": "まかす",
+  "display": "負かす",
+  "meanings_zh": [
+    "打败",
+    "击败",
+    "战胜",
+    "说服"
+  ],
+  "meanings_en": [
+    "to defeat"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼を打ち負かすのは不可能だ。",
+      "en": "He is impossible to beat."
+    },
+    {
+      "ja": "おまえを徹底的に打ち負かすぞ。",
+      "en": "I'll completely defeat you!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "n1-1959",
+  "jlpt": "N1",
+  "kanji": "嵩む",
+  "kana": "かさむ",
+  "display": "嵩む",
+  "meanings_zh": [
+    "增大",
+    "增多"
+  ],
+  "meanings_en": [
+    "to pile up",
+    "to increase"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

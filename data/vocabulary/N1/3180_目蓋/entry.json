@@ -1,0 +1,29 @@
+{
+  "id": "n1-3180",
+  "jlpt": "N1",
+  "kanji": "目蓋",
+  "kana": "まぶた",
+  "display": "目蓋",
+  "meanings_zh": [],
+  "meanings_en": [
+    "eyelid"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "目蓋には淡い日の光、ゆるやかな色合いが部屋の中を染める。",
+      "en": "Dim sunbeams on my eyelids, a faint tinge dyes the room."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

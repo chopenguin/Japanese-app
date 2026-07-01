@@ -1,0 +1,35 @@
+{
+  "id": "n3-0018",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "いずれ",
+  "display": "いずれ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "where",
+    "which",
+    "who"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "いずれは死ぬんだよ。",
+      "en": "We'll die sooner or later."
+    },
+    {
+      "ja": "人間はいずれ死ぬのだ。",
+      "en": "Man will die sooner or later."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

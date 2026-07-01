@@ -1,0 +1,40 @@
+{
+  "id": "n1-2010",
+  "jlpt": "N1",
+  "kanji": "生まれつき",
+  "kana": "うまれつき",
+  "display": "生まれつき",
+  "meanings_zh": [
+    "天性",
+    "禀性",
+    "天生",
+    "生来"
+  ],
+  "meanings_en": [
+    "by nature",
+    "by birth",
+    "native"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は生まれつき弱い。",
+      "en": "She is weak by nature."
+    },
+    {
+      "ja": "彼は生まれつき内気だ。",
+      "en": "He is reserved by nature."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

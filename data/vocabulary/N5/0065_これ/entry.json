@@ -1,0 +1,38 @@
+{
+  "id": "n5-0065",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "これ",
+  "display": "これ",
+  "meanings_zh": [
+    "这",
+    "此",
+    "这么",
+    "这样"
+  ],
+  "meanings_en": [
+    "this"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これ本当さ！",
+      "en": "It's true."
+    },
+    {
+      "ja": "これ誰の本？",
+      "en": "Whose book is this?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

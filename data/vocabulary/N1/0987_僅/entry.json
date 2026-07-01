@@ -1,0 +1,34 @@
+{
+  "id": "n1-0987",
+  "jlpt": "N1",
+  "kanji": "僅",
+  "kana": "きん",
+  "display": "僅",
+  "meanings_zh": [],
+  "meanings_en": [
+    "a little",
+    "small quantity"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その列車の乗客はほんの僅かしかいない。",
+      "en": "There are very few passengers in the train."
+    },
+    {
+      "ja": "僅かな不注意が大惨事に繋がる恐れがある。",
+      "en": "Slight inattention can cause a great disaster."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

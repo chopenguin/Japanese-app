@@ -1,0 +1,39 @@
+{
+  "id": "n2-1436",
+  "jlpt": "N2",
+  "kanji": "濡らす",
+  "kana": "ぬらす",
+  "display": "濡らす",
+  "meanings_zh": [
+    "浸湿",
+    "沾湿",
+    "淋湿"
+  ],
+  "meanings_en": [
+    "to wet",
+    "to soak",
+    "to dip"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "携帯を濡らすなよ。",
+      "en": "Don't get the phone wet."
+    },
+    {
+      "ja": "トムは自分の足を濡らすのが嫌いだ。",
+      "en": "Tom hates to get his feet wet."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

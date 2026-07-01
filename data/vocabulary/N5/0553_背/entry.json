@@ -1,0 +1,39 @@
+{
+  "id": "n5-0553",
+  "jlpt": "N5",
+  "kanji": "背",
+  "kana": "せ",
+  "display": "背",
+  "meanings_zh": [
+    "脊背",
+    "后背",
+    "脊梁",
+    "后方"
+  ],
+  "meanings_en": [
+    "height",
+    "stature"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "僕は猫背だ。",
+      "en": "I am round shouldered."
+    },
+    {
+      "ja": "背中が痛い。",
+      "en": "My back hurts."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

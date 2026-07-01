@@ -1,0 +1,38 @@
+{
+  "id": "n2-1069",
+  "jlpt": "N2",
+  "kanji": "炊く",
+  "kana": "たく",
+  "display": "炊く",
+  "meanings_zh": [
+    "煮",
+    "烧",
+    "生"
+  ],
+  "meanings_en": [
+    "to boil",
+    "to cook"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "炊飯器でご飯を炊くよ。",
+      "en": "We cook rice in a rice cooker."
+    },
+    {
+      "ja": "お米はこうやって炊くんだ。",
+      "en": "This is how we cook rice."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

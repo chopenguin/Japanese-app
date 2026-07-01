@@ -1,0 +1,38 @@
+{
+  "id": "n5-0124",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "とても",
+  "display": "とても",
+  "meanings_zh": [
+    "无论如何也～～",
+    "怎么也～～",
+    "非常",
+    "很"
+  ],
+  "meanings_en": [
+    "very"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "とても高い。",
+      "en": "It's very high."
+    },
+    {
+      "ja": "今とても眠い。",
+      "en": "I'm very sleepy now."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

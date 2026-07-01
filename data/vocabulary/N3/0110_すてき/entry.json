@@ -1,0 +1,41 @@
+{
+  "id": "n3-0110",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "すてき",
+  "display": "すてき",
+  "meanings_zh": [
+    "极好",
+    "绝妙",
+    "极漂亮",
+    "洗练"
+  ],
+  "meanings_en": [
+    "lovely",
+    "dreamy",
+    "beautiful",
+    "great"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "このケーキはすてき！",
+      "en": "The cake tastes divine!"
+    },
+    {
+      "ja": "なんてすてきな衣装だ。",
+      "en": "What a darling outfit!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

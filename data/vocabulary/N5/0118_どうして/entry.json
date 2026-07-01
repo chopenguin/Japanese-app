@@ -1,0 +1,38 @@
+{
+  "id": "n5-0118",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "どうして",
+  "display": "どうして",
+  "meanings_zh": [
+    "怎么样",
+    "怎么(办)",
+    "如何",
+    "怎么"
+  ],
+  "meanings_en": [
+    "for what reason"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "でもどうして？",
+      "en": "But why?"
+    },
+    {
+      "ja": "どうして私なの？",
+      "en": "Why me?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

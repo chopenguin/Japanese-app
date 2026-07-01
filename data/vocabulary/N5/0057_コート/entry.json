@@ -1,0 +1,34 @@
+{
+  "id": "n5-0057",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "コート",
+  "display": "コート",
+  "meanings_zh": [],
+  "meanings_en": [
+    "coat",
+    "tennis court"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "いいコートだね。",
+      "en": "That's a nice coat."
+    },
+    {
+      "ja": "コート脱いだら？",
+      "en": "Why don't you take off your coat?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

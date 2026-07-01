@@ -1,0 +1,41 @@
+{
+  "id": "n1-1808",
+  "jlpt": "N1",
+  "kanji": "称する",
+  "kana": "しょうする",
+  "display": "称する",
+  "meanings_zh": [
+    "称",
+    "名字叫～～",
+    "假称",
+    "伪称"
+  ],
+  "meanings_en": [
+    "to pretend",
+    "to take the name of",
+    "to feign",
+    "to purport"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は建築を凍結した音楽と称する。",
+      "en": "I call architecture frozen music."
+    },
+    {
+      "ja": "本物のノイローゼの奴がノイローゼだなんて自称するのかね？",
+      "en": "Do you think real neurotics really go and call themselves such?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

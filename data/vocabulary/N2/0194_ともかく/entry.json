@@ -1,0 +1,42 @@
+{
+  "id": "n2-0194",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ともかく",
+  "display": "ともかく",
+  "meanings_zh": [
+    "回头再说",
+    "姑且不论",
+    "暂且不谈",
+    "无论如何"
+  ],
+  "meanings_en": [
+    "anyhow",
+    "anyway",
+    "somehow or other",
+    "generally speaking",
+    "in any case"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ともかく困ったことだ。",
+      "en": "It's a problem any way you look at it."
+    },
+    {
+      "ja": "ともかく気にくわない。",
+      "en": "Anyway, I don't like it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

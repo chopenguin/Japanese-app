@@ -1,0 +1,40 @@
+{
+  "id": "n1-2978",
+  "jlpt": "N1",
+  "kanji": "辺り",
+  "kana": "ほとり",
+  "display": "辺り",
+  "meanings_zh": [
+    "附近",
+    "周围",
+    "大约",
+    "上下"
+  ],
+  "meanings_en": [
+    "(in the) neighbourhood",
+    "vicinity",
+    "nearby"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "辺りをよく見なさい。",
+      "en": "Look about you."
+    },
+    {
+      "ja": "彼は辺りを見回した。",
+      "en": "He looked about."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

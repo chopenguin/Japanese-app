@@ -1,0 +1,43 @@
+{
+  "id": "n1-2208",
+  "jlpt": "N1",
+  "kanji": "尊い",
+  "kana": "たっとい",
+  "display": "尊い",
+  "meanings_zh": [
+    "珍贵",
+    "贵重",
+    "宝贵",
+    "高贵"
+  ],
+  "meanings_en": [
+    "precious",
+    "valuable",
+    "priceless",
+    "noble",
+    "exalted",
+    "sacred"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "愛より尊い物はない。",
+      "en": "Nothing is as precious as love."
+    },
+    {
+      "ja": "愛ほど尊いものはない。",
+      "en": "There's nothing as precious as love."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n4-0185",
+  "jlpt": "N4",
+  "kanji": "下る",
+  "kana": "さがる",
+  "display": "下る",
+  "meanings_zh": [
+    "下",
+    "下去",
+    "宣判",
+    "在～～以下"
+  ],
+  "meanings_en": [
+    "to get down",
+    "to descend"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "坂を下ると海が見えてきました。",
+      "en": "The ocean came into view as we descended the hill."
+    },
+    {
+      "ja": "彼らは敵の上に天罰が下ることを祈った。",
+      "en": "They called down the wrath of God upon the heads of their enemies."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

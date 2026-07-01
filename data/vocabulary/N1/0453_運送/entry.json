@@ -1,0 +1,38 @@
+{
+  "id": "n1-0453",
+  "jlpt": "N1",
+  "kanji": "運送",
+  "kana": "うんそう",
+  "display": "運送",
+  "meanings_zh": [
+    "运送",
+    "运输",
+    "搬运"
+  ],
+  "meanings_en": [
+    "shipping",
+    "marine transportation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今日届くはずだった荷物、運送中のトラブルで明日以降になるんだって。",
+      "en": "They said the package that was supposed to be delivered today will now arrive tomorrow or later because of problems during shipping."
+    },
+    {
+      "ja": "「トムって、どこに就職したの？」「運送会社って言ってたよ。大手って言ってたけど、どこかは分かんない」",
+      "en": "\"Where did Tom get a job?\" \"He said he's with a shipping company. Apparently it's a large one, but I'm not sure where it is.\""
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

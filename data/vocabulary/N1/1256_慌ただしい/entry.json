@@ -1,0 +1,40 @@
+{
+  "id": "n1-1256",
+  "jlpt": "N1",
+  "kanji": "慌ただしい",
+  "kana": "あわただしい",
+  "display": "慌ただしい",
+  "meanings_zh": [
+    "慌张",
+    "匆忙",
+    "不稳"
+  ],
+  "meanings_en": [
+    "busy",
+    "hurried",
+    "confused",
+    "flurried"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今日は慌ただしいな。",
+      "en": "Today is hectic."
+    },
+    {
+      "ja": "慌ただしい場所だな。",
+      "en": "It's a hectic place!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

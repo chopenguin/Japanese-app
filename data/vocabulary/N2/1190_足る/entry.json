@@ -1,0 +1,34 @@
+{
+  "id": "n2-1190",
+  "jlpt": "N2",
+  "kanji": "足る",
+  "kana": "たる",
+  "display": "足る",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to be sufficient",
+    "to be enough"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "皆に食物は足るかい。",
+      "en": "Is there enough food to go around?"
+    },
+    {
+      "ja": "賢者はひと言にして足る。",
+      "en": "A word to the wise is sufficient."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

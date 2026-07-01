@@ -1,0 +1,38 @@
+{
+  "id": "n4-0354",
+  "jlpt": "N4",
+  "kanji": "受ける",
+  "kana": "うける",
+  "display": "受ける",
+  "meanings_zh": [
+    "承接",
+    "承蒙",
+    "受到",
+    "接到"
+  ],
+  "meanings_en": [
+    "to take a lesson or test"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ワクチンを受けるの？",
+      "en": "Will you get vaccinated?"
+    },
+    {
+      "ja": "噂話を真に受けるな。",
+      "en": "Don't believe the rumors."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

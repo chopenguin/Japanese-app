@@ -1,0 +1,33 @@
+{
+  "id": "n3-0700",
+  "jlpt": "N3",
+  "kanji": "虎",
+  "kana": "とら",
+  "display": "虎",
+  "meanings_zh": [],
+  "meanings_en": [
+    "tiger"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は虎が好き。",
+      "en": "He likes a tiger."
+    },
+    {
+      "ja": "虎は肉食動物です。",
+      "en": "A tiger is a beast of prey."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

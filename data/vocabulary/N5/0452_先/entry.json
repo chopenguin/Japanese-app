@@ -1,0 +1,34 @@
+{
+  "id": "n5-0452",
+  "jlpt": "N5",
+  "kanji": "先",
+  "kana": "さき",
+  "display": "先",
+  "meanings_zh": [],
+  "meanings_en": [
+    "the future",
+    "previous"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "先生が来る。",
+      "en": "There comes our teacher."
+    },
+    {
+      "ja": "一寸先は闇。",
+      "en": "Who can read the future?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

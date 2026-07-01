@@ -1,0 +1,36 @@
+{
+  "id": "n2-1605",
+  "jlpt": "N2",
+  "kanji": "膨らむ",
+  "kana": "ふくらむ",
+  "display": "膨らむ",
+  "meanings_zh": [
+    "鼓起",
+    "膨胀",
+    "凸起"
+  ],
+  "meanings_en": [
+    "to expand",
+    "to swell (out)",
+    "to get big",
+    "to become inflated"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "タイヤに空気を入れれば膨らむ。",
+      "en": "If you pump air into a tire, it expands."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

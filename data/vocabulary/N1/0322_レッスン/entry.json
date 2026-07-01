@@ -1,0 +1,38 @@
+{
+  "id": "n1-0322",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "レッスン",
+  "display": "レッスン",
+  "meanings_zh": [
+    "课",
+    "功课",
+    "课业",
+    "课程"
+  ],
+  "meanings_en": [
+    "lesson"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女はレッスンを休んだ。",
+      "en": "She absented herself from the lesson."
+    },
+    {
+      "ja": "ピアノのレッスン中です。",
+      "en": "We're taking piano lessons."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

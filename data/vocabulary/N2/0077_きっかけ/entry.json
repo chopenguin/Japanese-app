@@ -1,0 +1,32 @@
+{
+  "id": "n2-0077",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "きっかけ",
+  "display": "きっかけ",
+  "meanings_zh": [
+    "起首",
+    "开端",
+    "机会",
+    "时机"
+  ],
+  "meanings_en": [
+    "chance",
+    "start",
+    "cue",
+    "excuse"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

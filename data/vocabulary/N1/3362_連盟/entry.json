@@ -1,0 +1,38 @@
+{
+  "id": "n1-3362",
+  "jlpt": "N1",
+  "kanji": "連盟",
+  "kana": "れんめい",
+  "display": "連盟",
+  "meanings_zh": [
+    "联盟",
+    "联合会"
+  ],
+  "meanings_en": [
+    "league",
+    "union",
+    "alliance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "国際連盟は平和に寄与しなかった。",
+      "en": "The League of Nations did not make for peace."
+    },
+    {
+      "ja": "日本は国際連盟から１９３３年に脱退した。",
+      "en": "Japan seceded from the League of Nations in 1933."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

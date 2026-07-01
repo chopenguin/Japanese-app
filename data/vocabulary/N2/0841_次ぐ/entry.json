@@ -1,0 +1,39 @@
+{
+  "id": "n2-0841",
+  "jlpt": "N2",
+  "kanji": "次ぐ",
+  "kana": "つぐ",
+  "display": "次ぐ",
+  "meanings_zh": [
+    "接着",
+    "继～～之后",
+    "次于",
+    "亚于"
+  ],
+  "meanings_en": [
+    "to rank next to",
+    "to come after"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "きれい好きは敬神に次ぐ美徳。",
+      "en": "Cleanliness is next to godliness."
+    },
+    {
+      "ja": "彼女はロング氏に次ぐ最高のピアニストです。",
+      "en": "She is our next best pianist after Mr Long."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

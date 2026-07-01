@@ -1,0 +1,38 @@
+{
+  "id": "n4-0113",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "どんどん",
+  "display": "どんどん",
+  "meanings_zh": [
+    "轰隆",
+    "咚咚",
+    "连续不断",
+    "接二连三"
+  ],
+  "meanings_en": [
+    "more and more"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "時間がどんどん経った。",
+      "en": "Time went quickly."
+    },
+    {
+      "ja": "どんどん勉強しなさい。",
+      "en": "Study on and on!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

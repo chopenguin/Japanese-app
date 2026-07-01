@@ -1,0 +1,34 @@
+{
+  "id": "n1-0230",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ドリル",
+  "display": "ドリル",
+  "meanings_zh": [
+    "钻",
+    "钢钻",
+    "钻孔机",
+    "凿岩机"
+  ],
+  "meanings_en": [
+    "drill"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これはドリルではない。",
+      "en": "This isn't a drill."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

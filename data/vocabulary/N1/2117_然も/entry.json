@@ -1,0 +1,34 @@
+{
+  "id": "n1-2117",
+  "jlpt": "N1",
+  "kanji": "然も",
+  "kana": "さも",
+  "display": "然も",
+  "meanings_zh": [
+    "而",
+    "而且",
+    "并且"
+  ],
+  "meanings_en": [
+    "with gusto",
+    "with satisfaction"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "偶然も３度重なれば必然になる。",
+      "en": "In addition, coincidences inevitably come in threes."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

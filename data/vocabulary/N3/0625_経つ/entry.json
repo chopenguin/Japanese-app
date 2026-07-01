@@ -1,0 +1,36 @@
+{
+  "id": "n3-0625",
+  "jlpt": "N3",
+  "kanji": "経つ",
+  "kana": "たつ",
+  "display": "経つ",
+  "meanings_zh": [
+    "过"
+  ],
+  "meanings_en": [
+    "to pass",
+    "to lapse"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "時が経つのは早い。",
+      "en": "Time passes quickly."
+    },
+    {
+      "ja": "時間が経つのは早い。",
+      "en": "Time passes by quickly."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

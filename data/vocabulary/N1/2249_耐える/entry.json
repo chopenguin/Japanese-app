@@ -1,0 +1,39 @@
+{
+  "id": "n1-2249",
+  "jlpt": "N1",
+  "kanji": "耐える",
+  "kana": "たえる",
+  "display": "耐える",
+  "meanings_zh": [
+    "忍耐",
+    "忍受",
+    "容忍",
+    "担负"
+  ],
+  "meanings_en": [
+    "to bear",
+    "to endure"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "人生にはいろいろ耐えるべき苦労がある。",
+      "en": "You have to endure a lot of hardships in life."
+    },
+    {
+      "ja": "その痛みに耐えるさまざまな方法がある。",
+      "en": "There are various ways of enduring the pain."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

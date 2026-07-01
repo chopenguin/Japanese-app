@@ -1,0 +1,35 @@
+{
+  "id": "n5-0152",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ボールペン",
+  "display": "ボールペン",
+  "meanings_zh": [
+    "圆珠笔"
+  ],
+  "meanings_en": [
+    "ball-point pen"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ボールペンで書いてください。",
+      "en": "Write with a ballpoint pen."
+    },
+    {
+      "ja": "ボールペンでご記入ください。",
+      "en": "Please write with a ballpoint pen."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

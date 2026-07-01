@@ -1,0 +1,28 @@
+{
+  "id": "n1-1409",
+  "jlpt": "N1",
+  "kanji": "擦れ違い",
+  "kana": "すれちがい",
+  "display": "擦れ違い",
+  "meanings_zh": [
+    "交错",
+    "错过去",
+    "差开"
+  ],
+  "meanings_en": [
+    "chance encounter"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

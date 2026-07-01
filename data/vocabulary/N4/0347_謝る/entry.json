@@ -1,0 +1,38 @@
+{
+  "id": "n4-0347",
+  "jlpt": "N4",
+  "kanji": "謝る",
+  "kana": "あやまる",
+  "display": "謝る",
+  "meanings_zh": [
+    "谢罪",
+    "道歉",
+    "认错",
+    "认输"
+  ],
+  "meanings_en": [
+    "to apologize"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "謝るしかない。",
+      "en": "There is nothing to do but apologize."
+    },
+    {
+      "ja": "謝ることないよ。",
+      "en": "You don't need to apologize for that."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

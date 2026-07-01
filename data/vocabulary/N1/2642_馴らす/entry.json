@@ -1,0 +1,28 @@
+{
+  "id": "n1-2642",
+  "jlpt": "N1",
+  "kanji": "馴らす",
+  "kana": "ならす",
+  "display": "馴らす",
+  "meanings_zh": [
+    "驯养",
+    "调驯"
+  ],
+  "meanings_en": [
+    "to domesticate",
+    "to tame"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

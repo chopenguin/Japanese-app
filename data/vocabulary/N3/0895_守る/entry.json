@@ -1,0 +1,41 @@
+{
+  "id": "n3-0895",
+  "jlpt": "N3",
+  "kanji": "守る",
+  "kana": "まもる",
+  "display": "守る",
+  "meanings_zh": [
+    "守",
+    "保卫",
+    "守卫",
+    "防守"
+  ],
+  "meanings_en": [
+    "to protect",
+    "to obey",
+    "to guard",
+    "to abide (by the rules)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "約束は守るよ。",
+      "en": "I keep my word."
+    },
+    {
+      "ja": "彼は約束を守る。",
+      "en": "He always keeps his word."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

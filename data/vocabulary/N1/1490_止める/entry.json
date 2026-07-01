@@ -1,0 +1,40 @@
+{
+  "id": "n1-1490",
+  "jlpt": "N1",
+  "kanji": "止める",
+  "kana": "とどめる",
+  "display": "止める",
+  "meanings_zh": [
+    "停下",
+    "停住",
+    "阻止",
+    "留下"
+  ],
+  "meanings_en": [
+    "to stop",
+    "to cease",
+    "to put an end to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あなたを止める。",
+      "en": "I will stop you."
+    },
+    {
+      "ja": "トムを止めるんだ。",
+      "en": "Stop Tom."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

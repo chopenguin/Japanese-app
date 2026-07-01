@@ -1,0 +1,38 @@
+{
+  "id": "n5-0530",
+  "jlpt": "N5",
+  "kanji": "同じ",
+  "kana": "おなじ",
+  "display": "同じ",
+  "meanings_zh": [
+    "相同",
+    "一样",
+    "同样",
+    "相等"
+  ],
+  "meanings_en": [
+    "same"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "同じ意見です。",
+      "en": "I agree."
+    },
+    {
+      "ja": "毎年同じだよ。",
+      "en": "It's the same every year."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

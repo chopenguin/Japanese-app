@@ -1,0 +1,29 @@
+{
+  "id": "n1-1839",
+  "jlpt": "N1",
+  "kanji": "情け深い",
+  "kana": "なさけぶかい",
+  "display": "情け深い",
+  "meanings_zh": [
+    "仁慈",
+    "热心肠",
+    "富于同情心"
+  ],
+  "meanings_en": [
+    "tender-hearted",
+    "compassionate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

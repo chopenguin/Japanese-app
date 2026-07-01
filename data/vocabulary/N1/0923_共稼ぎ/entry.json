@@ -1,0 +1,37 @@
+{
+  "id": "n1-0923",
+  "jlpt": "N1",
+  "kanji": "共稼ぎ",
+  "kana": "ともかせぎ",
+  "display": "共稼ぎ",
+  "meanings_zh": [
+    "夫妇都工作",
+    "双职工"
+  ],
+  "meanings_en": [
+    "working together",
+    "(husband and wife) earning a living together"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今では多くの家庭が共稼ぎで、夫と妻の両方が働いている。",
+      "en": "Many families now have two breadwinners with both husbands and wives working."
+    },
+    {
+      "ja": "アメリカでは多くの夫婦が収支をあわせるため共稼ぎをしている。",
+      "en": "Many couples in America both work to make ends meet."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

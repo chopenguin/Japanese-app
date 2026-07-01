@@ -1,0 +1,36 @@
+{
+  "id": "n1-0080",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "カメラマン",
+  "display": "カメラマン",
+  "meanings_zh": [
+    "摄影师",
+    "摄影记者"
+  ],
+  "meanings_en": [
+    "cameraman"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私はカメラマンです。",
+      "en": "I'm a photographer."
+    },
+    {
+      "ja": "彼女はカメラマンだよ。",
+      "en": "She's a photographer."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

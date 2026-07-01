@@ -1,0 +1,38 @@
+{
+  "id": "n2-0710",
+  "jlpt": "N2",
+  "kanji": "広さ",
+  "kana": "ひろさ",
+  "display": "広さ",
+  "meanings_zh": [
+    "宽度",
+    "宽窄",
+    "幅度",
+    "面积"
+  ],
+  "meanings_en": [
+    "extent"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この部屋の広さで十分だ。",
+      "en": "This room is large enough."
+    },
+    {
+      "ja": "この部屋はほぼ十分な広さだ。",
+      "en": "This room is just about big enough."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

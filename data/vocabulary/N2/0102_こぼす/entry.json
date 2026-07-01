@@ -1,0 +1,33 @@
+{
+  "id": "n2-0102",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "こぼす",
+  "display": "こぼす",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to spill"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "僕はもう君がぐちをこぼすのを聞き飽きている。",
+      "en": "I'm getting sick of hearing you complain."
+    },
+    {
+      "ja": "彼女の悲しみは無言でこぼす涙になって表れた。",
+      "en": "Her sorrow found expression in silent tears."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

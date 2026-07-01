@@ -1,0 +1,36 @@
+{
+  "id": "n3-0815",
+  "jlpt": "N3",
+  "kanji": "残り",
+  "kana": "のこり",
+  "display": "残り",
+  "meanings_zh": [],
+  "meanings_en": [
+    "remnant",
+    "residue",
+    "remaining",
+    "left-over"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "残りはとっておけ。",
+      "en": "Keep the rest for yourself."
+    },
+    {
+      "ja": "残りは僕がやるよ。",
+      "en": "I'll do the rest."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

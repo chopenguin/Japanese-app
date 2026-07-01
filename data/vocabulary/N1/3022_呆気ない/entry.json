@@ -1,0 +1,30 @@
+{
+  "id": "n1-3022",
+  "jlpt": "N1",
+  "kanji": "呆気ない",
+  "kana": "あっけない",
+  "display": "呆気ない",
+  "meanings_zh": [
+    "太简单",
+    "没意思",
+    "没劲",
+    "不尽兴"
+  ],
+  "meanings_en": [
+    "not enough",
+    "too quick (short  long  etc.)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

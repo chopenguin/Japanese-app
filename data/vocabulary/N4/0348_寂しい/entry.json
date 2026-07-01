@@ -1,0 +1,38 @@
+{
+  "id": "n4-0348",
+  "jlpt": "N4",
+  "kanji": "寂しい",
+  "kana": "さびしい",
+  "display": "寂しい",
+  "meanings_zh": [
+    "寂寞",
+    "孤寂",
+    "孤单",
+    "凄凉"
+  ],
+  "meanings_en": [
+    "lonely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私も寂しいな。",
+      "en": "I also miss him."
+    },
+    {
+      "ja": "私はとても寂しい。",
+      "en": "I'm really lonely."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n5-0129",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ナイフ",
+  "display": "ナイフ",
+  "meanings_zh": [
+    "小刀",
+    "餐刀"
+  ],
+  "meanings_en": [
+    "knife"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ナイフがない。",
+      "en": "There is a knife missing."
+    },
+    {
+      "ja": "ナイフが必要だ。",
+      "en": "I need a knife."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

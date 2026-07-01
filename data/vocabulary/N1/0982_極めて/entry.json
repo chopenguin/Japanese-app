@@ -1,0 +1,38 @@
+{
+  "id": "n1-0982",
+  "jlpt": "N1",
+  "kanji": "極めて",
+  "kana": "きわめて",
+  "display": "極めて",
+  "meanings_zh": [
+    "极为",
+    "极其",
+    "非常"
+  ],
+  "meanings_en": [
+    "exceedingly",
+    "extremely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "極めて遺憾です。",
+      "en": "It's extremely regrettable."
+    },
+    {
+      "ja": "彼は極めて臆病だ。",
+      "en": "He is timid as a hare."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

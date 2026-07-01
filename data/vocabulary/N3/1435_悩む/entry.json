@@ -1,0 +1,38 @@
+{
+  "id": "n3-1435",
+  "jlpt": "N3",
+  "kanji": "悩む",
+  "kana": "なやむ",
+  "display": "悩む",
+  "meanings_zh": [
+    "烦恼",
+    "苦恼",
+    "感到痛苦"
+  ],
+  "meanings_en": [
+    "to be worried",
+    "to be troubled"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そのことで悩むな。",
+      "en": "Don't worry about that."
+    },
+    {
+      "ja": "これから悩むことになりそうだ。",
+      "en": "They are in for trouble."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

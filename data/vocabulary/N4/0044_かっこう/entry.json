@@ -1,0 +1,29 @@
+{
+  "id": "n4-0044",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "かっこう",
+  "display": "かっこう",
+  "meanings_zh": [
+    "布谷鸟",
+    "郭公",
+    "杜鹃",
+    "子规"
+  ],
+  "meanings_en": [
+    "appearance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "n1-1083",
+  "jlpt": "N1",
+  "kanji": "結び付き",
+  "kana": "むすびつき",
+  "display": "結び付き",
+  "meanings_zh": [
+    "联系",
+    "结合",
+    "关系"
+  ],
+  "meanings_en": [
+    "connection",
+    "relation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n1-0188",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "タイミング",
+  "display": "タイミング",
+  "meanings_zh": [
+    "时机"
+  ],
+  "meanings_en": [
+    "timing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "いいタイミングだ。",
+      "en": "Nice timing."
+    },
+    {
+      "ja": "グッドタイミング。",
+      "en": "Good timing."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

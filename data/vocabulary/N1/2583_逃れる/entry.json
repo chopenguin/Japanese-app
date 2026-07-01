@@ -1,0 +1,38 @@
+{
+  "id": "n1-2583",
+  "jlpt": "N1",
+  "kanji": "逃れる",
+  "kana": "のがれる",
+  "display": "逃れる",
+  "meanings_zh": [
+    "逃跑",
+    "逃出",
+    "逃遁",
+    "逃脱"
+  ],
+  "meanings_en": [
+    "to escape"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "誰もが死を逃れる事ができない。",
+      "en": "Nobody can escape death."
+    },
+    {
+      "ja": "誰も死から逃れることはできない。",
+      "en": "None can get away from death."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

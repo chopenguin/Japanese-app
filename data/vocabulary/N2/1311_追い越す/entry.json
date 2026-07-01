@@ -1,0 +1,29 @@
+{
+  "id": "n2-1311",
+  "jlpt": "N2",
+  "kanji": "追い越す",
+  "kana": "おいこす",
+  "display": "追い越す",
+  "meanings_zh": [
+    "赶过",
+    "超过"
+  ],
+  "meanings_en": [
+    "to pass (e.g. car)",
+    "to outdistance",
+    "to outstrip"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n4-0125",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "はっきり",
+  "display": "はっきり",
+  "meanings_zh": [
+    "清楚",
+    "明确",
+    "鲜明",
+    "痛痛快快"
+  ],
+  "meanings_en": [
+    "clearly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "はっきり言えよ。",
+      "en": "Get to the point!"
+    },
+    {
+      "ja": "はっきり言ってよ。",
+      "en": "Tell me what you mean."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n4-0446",
+  "jlpt": "N4",
+  "kanji": "息子",
+  "kana": "むすこ",
+  "display": "息子",
+  "meanings_zh": [
+    "儿子",
+    "男孩儿"
+  ],
+  "meanings_en": [
+    "(humble) son"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私の息子です。",
+      "en": "He's my son."
+    },
+    {
+      "ja": "息子は十歳です。",
+      "en": "My son is ten years old."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n5-0125",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "どなた",
+  "display": "どなた",
+  "meanings_zh": [
+    "谁",
+    "哪位"
+  ],
+  "meanings_en": [
+    "who"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "どなたですか。",
+      "en": "Who are you?"
+    },
+    {
+      "ja": "どなたさまでしょうか。",
+      "en": "Who is it?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

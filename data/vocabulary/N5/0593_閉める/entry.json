@@ -1,0 +1,37 @@
+{
+  "id": "n5-0593",
+  "jlpt": "N5",
+  "kanji": "閉める",
+  "kana": "しめる",
+  "display": "閉める",
+  "meanings_zh": [
+    "关闭",
+    "合上",
+    "掩上"
+  ],
+  "meanings_en": [
+    "to close something"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ドアを閉めるね。",
+      "en": "I'll close the door."
+    },
+    {
+      "ja": "門を閉める時間だ。",
+      "en": "It is time to shut the gate."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

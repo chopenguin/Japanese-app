@@ -1,0 +1,39 @@
+{
+  "id": "n3-0559",
+  "jlpt": "N3",
+  "kanji": "共に",
+  "kana": "ともに",
+  "display": "共に",
+  "meanings_zh": [
+    "一同",
+    "一起",
+    "一块儿",
+    "共"
+  ],
+  "meanings_en": [
+    "sharing with",
+    "participate in"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "輝ける魂と共に。",
+      "en": "Shine on my brilliant soul."
+    },
+    {
+      "ja": "彼らと共に笑いなさい。",
+      "en": "Laugh with them."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

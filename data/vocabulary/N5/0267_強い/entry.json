@@ -1,0 +1,38 @@
+{
+  "id": "n5-0267",
+  "jlpt": "N5",
+  "kanji": "強い",
+  "kana": "つよい",
+  "display": "強い",
+  "meanings_zh": [
+    "强",
+    "有劲儿",
+    "强有力",
+    "强壮"
+  ],
+  "meanings_en": [
+    "powerful"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "悪運が強い。",
+      "en": "Have the devil's own luck."
+    },
+    {
+      "ja": "風が強いな。",
+      "en": "It's windy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

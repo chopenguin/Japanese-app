@@ -1,0 +1,38 @@
+{
+  "id": "n1-0698",
+  "jlpt": "N1",
+  "kanji": "楽しむ",
+  "kana": "たのしむ",
+  "display": "楽しむ",
+  "meanings_zh": [
+    "乐",
+    "快乐",
+    "享受",
+    "欣赏"
+  ],
+  "meanings_en": [
+    "to enjoy oneself"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私達は読書を楽しむ。",
+      "en": "We enjoy reading books."
+    },
+    {
+      "ja": "孤独を楽しむ人もいる。",
+      "en": "Some people enjoy solitude."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

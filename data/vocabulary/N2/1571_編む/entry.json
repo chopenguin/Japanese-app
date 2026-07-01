@@ -1,0 +1,38 @@
+{
+  "id": "n2-1571",
+  "jlpt": "N2",
+  "kanji": "編む",
+  "kana": "あむ",
+  "display": "編む",
+  "meanings_zh": [
+    "编",
+    "织",
+    "编纂",
+    "编辑"
+  ],
+  "meanings_en": [
+    "to knit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は祖母からバスケットを編む技術を学んだ。",
+      "en": "She learned the craft of basket weaving from her grandmother."
+    },
+    {
+      "ja": "このセーターを編むのは彼女には難しかったにちがいない。",
+      "en": "It must have been difficult for her to knit this sweater."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

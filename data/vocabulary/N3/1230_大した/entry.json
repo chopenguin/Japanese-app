@@ -1,0 +1,42 @@
+{
+  "id": "n3-1230",
+  "jlpt": "N3",
+  "kanji": "大した",
+  "kana": "たいした",
+  "display": "大した",
+  "meanings_zh": [
+    "惊人的",
+    "大量的了不起的",
+    "不值一顾的",
+    "没有什么了不起的"
+  ],
+  "meanings_en": [
+    "considerable",
+    "great",
+    "important",
+    "significant",
+    "a big deal"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "君は大したものだ。",
+      "en": "I'm proud of you."
+    },
+    {
+      "ja": "あれは大した詩だ。",
+      "en": "I call that some poem."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

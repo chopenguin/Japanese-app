@@ -1,0 +1,32 @@
+{
+  "id": "n1-1204",
+  "jlpt": "N1",
+  "kanji": "御手洗い",
+  "kana": "おてあらい",
+  "display": "御手洗い",
+  "meanings_zh": [
+    "厕所",
+    "便所",
+    "盥洗室",
+    "一号"
+  ],
+  "meanings_en": [
+    "toilet",
+    "restroom",
+    "lavatory",
+    "bathroom (US)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

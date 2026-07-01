@@ -1,0 +1,33 @@
+{
+  "id": "n1-0034",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "えい",
+  "display": "えい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "ray (fish)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ただ待ってさえいればいい。",
+      "en": "All you have to do is to wait."
+    },
+    {
+      "ja": "知っていればさえいればなぁ。",
+      "en": "If only I knew!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

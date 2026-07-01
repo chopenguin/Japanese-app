@@ -1,0 +1,38 @@
+{
+  "id": "n1-0259",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ファイル",
+  "display": "ファイル",
+  "meanings_zh": [
+    "文件夹",
+    "讲义夹",
+    "合订本",
+    "汇订的文件"
+  ],
+  "meanings_en": [
+    "file"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ファイルが開かない。",
+      "en": "The file doesn't open."
+    },
+    {
+      "ja": "ファイルを３つ添付します。",
+      "en": "I'm attaching three files."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

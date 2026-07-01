@@ -1,0 +1,37 @@
+{
+  "id": "n3-0103",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "スキー",
+  "display": "スキー",
+  "meanings_zh": [
+    "滑雪",
+    "滑雪橇",
+    "滑雪板"
+  ],
+  "meanings_en": [
+    "skiing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "スキーは滑る？",
+      "en": "Do you ski?"
+    },
+    {
+      "ja": "スキーできる？",
+      "en": "Can you ski?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

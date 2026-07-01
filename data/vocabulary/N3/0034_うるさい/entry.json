@@ -1,0 +1,40 @@
+{
+  "id": "n3-0034",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "うるさい",
+  "display": "うるさい",
+  "meanings_zh": [
+    "讨厌",
+    "麻烦",
+    "恼人",
+    "使人心烦"
+  ],
+  "meanings_en": [
+    "noisy",
+    "loud",
+    "fussy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "もううるさいな！",
+      "en": "Shut up already!"
+    },
+    {
+      "ja": "トムは口うるさい。",
+      "en": "Tom is picky."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

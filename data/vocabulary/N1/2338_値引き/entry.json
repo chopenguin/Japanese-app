@@ -1,0 +1,36 @@
+{
+  "id": "n1-2338",
+  "jlpt": "N1",
+  "kanji": "値引き",
+  "kana": "ねびき",
+  "display": "値引き",
+  "meanings_zh": [
+    "降价"
+  ],
+  "meanings_en": [
+    "price reduction",
+    "discount"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "値引きしてもらえませんか。",
+      "en": "Could you give me a discount?"
+    },
+    {
+      "ja": "少し値引きしてくれませんか。",
+      "en": "Won't you take something off this price?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

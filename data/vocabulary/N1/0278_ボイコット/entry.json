@@ -1,0 +1,35 @@
+{
+  "id": "n1-0278",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ボイコット",
+  "display": "ボイコット",
+  "meanings_zh": [
+    "排货",
+    "联合抵制",
+    "拒绝购买",
+    "联合儃僀僗 [儃僀僗] /// 声",
+    "声音"
+  ],
+  "meanings_en": [
+    "boycott"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はバスのボイコット運動を組織したのである。",
+      "en": "He organized a boycott of the bus service."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

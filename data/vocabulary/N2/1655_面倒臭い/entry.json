@@ -1,0 +1,37 @@
+{
+  "id": "n2-1655",
+  "jlpt": "N2",
+  "kanji": "面倒臭い",
+  "kana": "めんどうくさい",
+  "display": "面倒臭い",
+  "meanings_zh": [
+    "非常麻烦",
+    "极其费事"
+  ],
+  "meanings_en": [
+    "bother to do",
+    "tiresome"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "面倒臭いよ。",
+      "en": "I can't be bothered."
+    },
+    {
+      "ja": "数字を足したり引いたりという面倒臭い仕事も一旦始めてしまえば、それはそれで面白さがあるものだよ。",
+      "en": "Once you go ahead and start, even the tiresome work of adding and subtracting figures is interesting in its way."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

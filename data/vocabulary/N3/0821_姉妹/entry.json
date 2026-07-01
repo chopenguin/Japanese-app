@@ -1,0 +1,36 @@
+{
+  "id": "n3-0821",
+  "jlpt": "N3",
+  "kanji": "姉妹",
+  "kana": "しまい",
+  "display": "姉妹",
+  "meanings_zh": [
+    "姊妹",
+    "同一系统之物"
+  ],
+  "meanings_en": [
+    "sisters"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "姉妹はいますか？",
+      "en": "Do you have any sisters?"
+    },
+    {
+      "ja": "姉妹揃って金髪よ。",
+      "en": "The sisters are both blondes."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

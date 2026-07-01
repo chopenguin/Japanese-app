@@ -1,0 +1,33 @@
+{
+  "id": "n5-0429",
+  "jlpt": "N5",
+  "kanji": "新しい",
+  "kana": "あたらしい",
+  "display": "新しい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "new"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この本は新しい。",
+      "en": "This book is new."
+    },
+    {
+      "ja": "それ、新しい車？",
+      "en": "Is that a new car?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

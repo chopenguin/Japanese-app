@@ -1,0 +1,36 @@
+{
+  "id": "n5-0656",
+  "jlpt": "N5",
+  "kanji": "練習",
+  "kana": "れんしゅうする",
+  "display": "練習",
+  "meanings_zh": [
+    "练习",
+    "反复学习"
+  ],
+  "meanings_en": [
+    "to practice"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "練習は熟達の道。",
+      "en": "Practice makes perfect."
+    },
+    {
+      "ja": "毎日練習あるのみよ。",
+      "en": "You just have to practise every day."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

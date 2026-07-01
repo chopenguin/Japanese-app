@@ -1,0 +1,41 @@
+{
+  "id": "n1-2773",
+  "jlpt": "N1",
+  "kanji": "反する",
+  "kana": "はんする",
+  "display": "反する",
+  "meanings_zh": [
+    "违反",
+    "相反",
+    "造反"
+  ],
+  "meanings_en": [
+    "to be inconsistent with",
+    "to oppose",
+    "to contradict",
+    "to transgress",
+    "to rebel"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "殺人は法に反する。",
+      "en": "Murder is against the law."
+    },
+    {
+      "ja": "それは道徳に反する。",
+      "en": "It is contrary to the morals."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

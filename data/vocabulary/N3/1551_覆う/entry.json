@@ -1,0 +1,42 @@
+{
+  "id": "n3-1551",
+  "jlpt": "N3",
+  "kanji": "覆う",
+  "kana": "おおう",
+  "display": "覆う",
+  "meanings_zh": [
+    "蒙上",
+    "盖上",
+    "覆盖",
+    "遮盖"
+  ],
+  "meanings_en": [
+    "to cover",
+    "to hide",
+    "to conceal",
+    "to wrap",
+    "to disguise"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "富はあまたの苦痛を覆う。",
+      "en": "Riches cover a multitude of woes."
+    },
+    {
+      "ja": "幾人かの被害者は大津波を観測して目を覆うような惨状だったと思っているそうです。",
+      "en": "It is said that several victims of the tsunami think that the devastation they saw was the kind that made you cover your eyes."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

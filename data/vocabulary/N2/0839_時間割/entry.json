@@ -1,0 +1,34 @@
+{
+  "id": "n2-0839",
+  "jlpt": "N2",
+  "kanji": "時間割",
+  "kana": "じかんわり",
+  "display": "時間割",
+  "meanings_zh": [],
+  "meanings_en": [
+    "timetable",
+    "schedule"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "時間割をもらえますか。",
+      "en": "May I have a class schedule?"
+    },
+    {
+      "ja": "明日の時間割教えてくんない？",
+      "en": "Can you tell me tomorrow's schedule?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

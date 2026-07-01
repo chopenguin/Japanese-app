@@ -1,0 +1,36 @@
+{
+  "id": "n1-2304",
+  "jlpt": "N1",
+  "kanji": "辿る",
+  "kana": "たどる",
+  "display": "辿る",
+  "meanings_zh": [
+    "沿路前进",
+    "边走边找",
+    "追寻",
+    "追溯"
+  ],
+  "meanings_en": [
+    "to follow (road)",
+    "to pursue (course)",
+    "to follow up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その電話は南デトロイトからであると辿ることができた。",
+      "en": "The call was traceable to an address in south Detroit."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "n5-0171",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "よく",
+  "display": "よく",
+  "meanings_zh": [],
+  "meanings_en": [
+    "often",
+    "well"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "よく言うよ。",
+      "en": "Don't make me laugh."
+    },
+    {
+      "ja": "よく聞いて。",
+      "en": "Listen carefully."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

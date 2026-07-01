@@ -1,0 +1,35 @@
+{
+  "id": "n1-1615",
+  "jlpt": "N1",
+  "kanji": "取り寄せる",
+  "kana": "とりよせる",
+  "display": "取り寄せる",
+  "meanings_zh": [
+    "拉到手边",
+    "索取",
+    "要来",
+    "令送来"
+  ],
+  "meanings_en": [
+    "to order",
+    "to send away for"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "インターネットで願書を取り寄せるといいよ。",
+      "en": "Have them send you an application form over the Internet."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

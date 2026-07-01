@@ -1,0 +1,38 @@
+{
+  "id": "n3-1694",
+  "jlpt": "N3",
+  "kanji": "有る",
+  "kana": "ある",
+  "display": "有る",
+  "meanings_zh": [
+    "有",
+    "存在",
+    "持有"
+  ],
+  "meanings_en": [
+    "to be",
+    "to have"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は学生に人気が有る。",
+      "en": "He's popular with the students."
+    },
+    {
+      "ja": "彼には精神障害が有る。",
+      "en": "He is mentally handicapped."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n2-1742",
+  "jlpt": "N2",
+  "kanji": "溜まる",
+  "kana": "たまる",
+  "display": "溜まる",
+  "meanings_zh": [
+    "积攒",
+    "积存",
+    "积压",
+    "停滞"
+  ],
+  "meanings_en": [
+    "to collect",
+    "to gather",
+    "to save"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "人は溜まれば溜まるほど欲しくなるものだ。",
+      "en": "The more you have, the more you want."
+    },
+    {
+      "ja": "疲れが溜まると無性に体に悪いもの食べたくなるのなんでなんだろう。",
+      "en": "I wonder why when we get tired, we want to eat a lot of junk food."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

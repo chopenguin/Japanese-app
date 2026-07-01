@@ -1,0 +1,42 @@
+{
+  "id": "n3-0730",
+  "jlpt": "N3",
+  "kanji": "広がる",
+  "kana": "ひろがる",
+  "display": "広がる",
+  "meanings_zh": [
+    "变宽",
+    "拓宽",
+    "舒展",
+    "扩大"
+  ],
+  "meanings_en": [
+    "to spread (out)",
+    "to extend",
+    "to stretch",
+    "to reach to",
+    "to get around"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "夢は広がるばかりです！",
+      "en": "My dreams just get larger!"
+    },
+    {
+      "ja": "悪い噂は広がるのがはやい。",
+      "en": "Bad news travels fast."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

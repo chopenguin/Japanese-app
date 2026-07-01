@@ -1,0 +1,40 @@
+{
+  "id": "n3-0180",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "にっこり",
+  "display": "にっこり",
+  "meanings_zh": [
+    "莞然",
+    "笑嘻嘻的",
+    "嫣然一笑",
+    "微微一笑"
+  ],
+  "meanings_en": [
+    "smile sweetly",
+    "smile",
+    "grin"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "にっこり笑って。",
+      "en": "Smile."
+    },
+    {
+      "ja": "彼女はにっこり笑った。",
+      "en": "She smiled."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

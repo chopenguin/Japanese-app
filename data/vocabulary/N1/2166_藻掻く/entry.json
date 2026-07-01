@@ -1,0 +1,30 @@
+{
+  "id": "n1-2166",
+  "jlpt": "N1",
+  "kanji": "藻掻く",
+  "kana": "もがく",
+  "display": "藻掻く",
+  "meanings_zh": [
+    "翻滚",
+    "挣扎",
+    "着急"
+  ],
+  "meanings_en": [
+    "to struggle",
+    "to wriggle",
+    "to be impatient"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

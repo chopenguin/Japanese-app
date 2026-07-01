@@ -1,0 +1,39 @@
+{
+  "id": "n2-0855",
+  "jlpt": "N2",
+  "kanji": "実る",
+  "kana": "みのる",
+  "display": "実る",
+  "meanings_zh": [
+    "结实",
+    "成熟",
+    "有成果",
+    "有成绩"
+  ],
+  "meanings_en": [
+    "to bear fruit",
+    "to ripen"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "実るほど頭の下がる稲穂かな。",
+      "en": "The boughs that bear most hang lowest."
+    },
+    {
+      "ja": "君の努力はもうじき実るだろう。",
+      "en": "Your efforts will soon pay off."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

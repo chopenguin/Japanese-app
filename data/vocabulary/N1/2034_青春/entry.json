@@ -1,0 +1,35 @@
+{
+  "id": "n1-2034",
+  "jlpt": "N1",
+  "kanji": "青春",
+  "kana": "せいしゅん",
+  "display": "青春",
+  "meanings_zh": [],
+  "meanings_en": [
+    "youth",
+    "springtime of life",
+    "adolescent"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "俺の青春を返せ！",
+      "en": "Give me back my youth!"
+    },
+    {
+      "ja": "青春を満喫してね。",
+      "en": "Enjoy your youth."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

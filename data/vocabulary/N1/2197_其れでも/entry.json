@@ -1,0 +1,32 @@
+{
+  "id": "n1-2197",
+  "jlpt": "N1",
+  "kanji": "其れでも",
+  "kana": "それでも",
+  "display": "其れでも",
+  "meanings_zh": [
+    "虽然那样",
+    "即使那样",
+    "尽管如此"
+  ],
+  "meanings_en": [
+    "but (still)",
+    "and yet",
+    "nevertheless",
+    "even so",
+    "notwithstanding"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

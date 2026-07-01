@@ -1,0 +1,35 @@
+{
+  "id": "n5-0220",
+  "jlpt": "N5",
+  "kanji": "夏休み",
+  "kana": "なつやすみ",
+  "display": "夏休み",
+  "meanings_zh": [
+    "暑假"
+  ],
+  "meanings_en": [
+    "summer holiday"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "夏休みが過ぎた。",
+      "en": "The summer vacation is over."
+    },
+    {
+      "ja": "楽しい夏休みをね。",
+      "en": "Have a nice summer vacation."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

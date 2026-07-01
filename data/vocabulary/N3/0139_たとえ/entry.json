@@ -1,0 +1,35 @@
+{
+  "id": "n3-0139",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "たとえ",
+  "display": "たとえ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "simile",
+    "metaphor",
+    "allegory"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "我々は人生を旅にたとえる。",
+      "en": "We often compare life to a journey."
+    },
+    {
+      "ja": "死はよく眠りにたとえられる。",
+      "en": "Death is often compared to sleep."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

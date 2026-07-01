@@ -1,0 +1,43 @@
+{
+  "id": "n3-1043",
+  "jlpt": "N3",
+  "kanji": "振る",
+  "kana": "ふる",
+  "display": "振る",
+  "meanings_zh": [
+    "挥",
+    "摇",
+    "摆",
+    "撒"
+  ],
+  "meanings_en": [
+    "(1) to wave",
+    "to shake",
+    "to swing",
+    "(2) to sprinkle",
+    "(3) to cast (actor)",
+    "to allocate (work)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は堂々と振る舞う。",
+      "en": "He carries himself regally."
+    },
+    {
+      "ja": "私に公正に振る舞った。",
+      "en": "He acted fairly towards me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n2-1017",
+  "jlpt": "N2",
+  "kanji": "心当たり",
+  "kana": "こころあたり",
+  "display": "心当たり",
+  "meanings_zh": [
+    "想象得到",
+    "线索",
+    "苗头"
+  ],
+  "meanings_en": [
+    "having some knowledge of",
+    "happening to know"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "心当たりはないよ。",
+      "en": "That doesn't ring a bell."
+    },
+    {
+      "ja": "その名前に心当たりある？",
+      "en": "Does that name ring a bell?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

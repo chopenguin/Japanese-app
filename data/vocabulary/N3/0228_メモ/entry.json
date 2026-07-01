@@ -1,0 +1,38 @@
+{
+  "id": "n3-0228",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "メモ",
+  "display": "メモ",
+  "meanings_zh": [
+    "笔记",
+    "记录",
+    "备忘录",
+    "便条"
+  ],
+  "meanings_en": [
+    "memorandum"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "メモしてる？",
+      "en": "Are you taking notes?"
+    },
+    {
+      "ja": "メモしなさい。",
+      "en": "Take note."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

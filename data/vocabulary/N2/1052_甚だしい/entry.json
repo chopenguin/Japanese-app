@@ -1,0 +1,36 @@
+{
+  "id": "n2-1052",
+  "jlpt": "N2",
+  "kanji": "甚だしい",
+  "kana": "はなはだしい",
+  "display": "甚だしい",
+  "meanings_zh": [
+    "很",
+    "甚",
+    "非常",
+    "太甚"
+  ],
+  "meanings_en": [
+    "extreme",
+    "excessive",
+    "terrible"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あんなことを彼女に言うなんて非常識も甚だしい。",
+      "en": "It's quite absurd of you to tell her that sort of thing."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n5-0105",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "つまらない",
+  "display": "つまらない",
+  "meanings_zh": [
+    "没有价值",
+    "不值钱",
+    "无趣",
+    "没趣"
+  ],
+  "meanings_en": [
+    "boring"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "つまらないの？",
+      "en": "Are you bored?"
+    },
+    {
+      "ja": "彼はつまらない男だ。",
+      "en": "He's nothing."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "n3-1147",
+  "jlpt": "N3",
+  "kanji": "占める",
+  "kana": "しめる",
+  "display": "占める",
+  "meanings_zh": [
+    "占",
+    "占有",
+    "占据"
+  ],
+  "meanings_en": [
+    "(1) to comprise",
+    "to account for",
+    "to make up (of)",
+    "(2) to hold",
+    "to occupy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "漁夫の利を占める。",
+      "en": "A third party makes off with the profits."
+    },
+    {
+      "ja": "他の物が漁夫の利を占める。",
+      "en": "Someone else profits from the situation."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

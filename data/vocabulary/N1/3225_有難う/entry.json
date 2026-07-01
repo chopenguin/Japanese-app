@@ -1,0 +1,35 @@
+{
+  "id": "n1-3225",
+  "jlpt": "N1",
+  "kanji": "有難う",
+  "kana": "ありがとう",
+  "display": "有難う",
+  "meanings_zh": [
+    "谢谢"
+  ],
+  "meanings_en": [
+    "Thank you"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "とにかく有難う。",
+      "en": "Thank you just the same."
+    },
+    {
+      "ja": "有難うございました。",
+      "en": "I really appreciate it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

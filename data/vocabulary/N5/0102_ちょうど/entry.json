@@ -1,0 +1,33 @@
+{
+  "id": "n5-0102",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ちょうど",
+  "display": "ちょうど",
+  "meanings_zh": [],
+  "meanings_en": [
+    "exactly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ちょうど五時です。",
+      "en": "It is just five o'clock."
+    },
+    {
+      "ja": "ちょうど七時半です。",
+      "en": "It is just half past seven."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

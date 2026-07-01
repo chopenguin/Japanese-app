@@ -1,0 +1,34 @@
+{
+  "id": "n3-0245",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ロケット",
+  "display": "ロケット",
+  "meanings_zh": [],
+  "meanings_en": [
+    "locket",
+    "rocket"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ロケットで宇宙に行った。",
+      "en": "I went to space on a rocket."
+    },
+    {
+      "ja": "彼らはロケットを発射した。",
+      "en": "They launched a rocket."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

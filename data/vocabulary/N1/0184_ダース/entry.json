@@ -1,0 +1,35 @@
+{
+  "id": "n1-0184",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ダース",
+  "display": "ダース",
+  "meanings_zh": [
+    "打"
+  ],
+  "meanings_en": [
+    "dozen"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "卵が半ダースある。",
+      "en": "We have a half-dozen eggs."
+    },
+    {
+      "ja": "ダース単位で卵を買う。",
+      "en": "We buy eggs by the dozen."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

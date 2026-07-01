@@ -1,0 +1,40 @@
+{
+  "id": "n2-0634",
+  "jlpt": "N2",
+  "kanji": "見出し",
+  "kana": "みだし",
+  "display": "見出し",
+  "meanings_zh": [
+    "标题",
+    "索引",
+    "目录"
+  ],
+  "meanings_en": [
+    "heading",
+    "caption",
+    "subtitle",
+    "index"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "やっと妥協点を見出した。",
+      "en": "Finally, we found a point of compromise."
+    },
+    {
+      "ja": "世界はまだ平和を見出していない。",
+      "en": "The world still has not found peace."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

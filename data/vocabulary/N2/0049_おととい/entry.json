@@ -1,0 +1,33 @@
+{
+  "id": "n2-0049",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "おととい",
+  "display": "おととい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "day before yesterday"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "おとといきやがれ！",
+      "en": "Don't you ever come here again!"
+    },
+    {
+      "ja": "おとといは嵐だった。",
+      "en": "It was stormy the day before yesterday."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

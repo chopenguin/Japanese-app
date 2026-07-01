@@ -1,0 +1,38 @@
+{
+  "id": "n4-0392",
+  "jlpt": "N4",
+  "kanji": "触る",
+  "kana": "さわる",
+  "display": "触る",
+  "meanings_zh": [
+    "触",
+    "碰",
+    "摸",
+    "触怒"
+  ],
+  "meanings_en": [
+    "to touch"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それに触るな。",
+      "en": "Don't touch it."
+    },
+    {
+      "ja": "これに触るな。",
+      "en": "Don't touch this."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n1-1661",
+  "jlpt": "N1",
+  "kanji": "受け取り",
+  "kana": "うけとり",
+  "display": "受け取り",
+  "meanings_zh": [],
+  "meanings_en": [
+    "receipt"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私も受け取りました。",
+      "en": "I've received it, too."
+    },
+    {
+      "ja": "はい、受け取りました！",
+      "en": "Yes, I received it!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n5-0587",
+  "jlpt": "N5",
+  "kanji": "分かる",
+  "kana": "わかる",
+  "display": "分かる",
+  "meanings_zh": [
+    "懂",
+    "了解",
+    "明白",
+    "理解"
+  ],
+  "meanings_en": [
+    "to be understood"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "分かる、分かる。",
+      "en": "I know what you mean."
+    },
+    {
+      "ja": "今何時か分かる？",
+      "en": "Do you know what time it is?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n1-0321",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "レクリエーション",
+  "display": "レクリエーション",
+  "meanings_zh": [
+    "休养",
+    "消遣",
+    "娱乐(活动)"
+  ],
+  "meanings_en": [
+    "recreation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "スキーをすることは良いレクリエーションである。",
+      "en": "Skiing is a good form of recreation."
+    },
+    {
+      "ja": "レクリエーションエリアは引き続き一般に公開されています。",
+      "en": "The recreation area remains open to the public."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

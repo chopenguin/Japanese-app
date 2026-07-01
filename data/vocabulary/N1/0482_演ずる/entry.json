@@ -1,0 +1,39 @@
+{
+  "id": "n1-0482",
+  "jlpt": "N1",
+  "kanji": "演ずる",
+  "kana": "えんずる",
+  "display": "演ずる",
+  "meanings_zh": [
+    "演",
+    "扮演",
+    "作出",
+    "造成"
+  ],
+  "meanings_en": [
+    "to perform",
+    "to play"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "世論は政治の領域で重要な役割を演ずる。",
+      "en": "Public opinion plays a vital role in politics."
+    },
+    {
+      "ja": "彼はロミオを演ずるとポスターに出ていた。",
+      "en": "He was billed to appear as Romeo."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

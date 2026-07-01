@@ -1,0 +1,38 @@
+{
+  "id": "n5-0574",
+  "jlpt": "N5",
+  "kanji": "疲れる",
+  "kana": "つかれる",
+  "display": "疲れる",
+  "meanings_zh": [
+    "疲乏",
+    "疲倦",
+    "疲劳",
+    "劳累"
+  ],
+  "meanings_en": [
+    "to get tired"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "冬は疲れる。",
+      "en": "I feel more tired in the wintertime."
+    },
+    {
+      "ja": "彼はすぐに疲れる。",
+      "en": "He gets tired easily."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

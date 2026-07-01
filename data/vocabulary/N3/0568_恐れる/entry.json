@@ -1,0 +1,39 @@
+{
+  "id": "n3-0568",
+  "jlpt": "N3",
+  "kanji": "恐れる",
+  "kana": "おそれる",
+  "display": "恐れる",
+  "meanings_zh": [
+    "怕",
+    "害怕",
+    "恐惧",
+    "畏惧"
+  ],
+  "meanings_en": [
+    "to fear",
+    "to be afraid of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "失敗を恐れるな。",
+      "en": "Don't be afraid of making mistakes."
+    },
+    {
+      "ja": "私は死を恐れる。",
+      "en": "I am afraid of dying."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

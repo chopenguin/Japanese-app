@@ -1,0 +1,36 @@
+{
+  "id": "n1-1630",
+  "jlpt": "N1",
+  "kanji": "手引き",
+  "kana": "てびき",
+  "display": "手引き",
+  "meanings_zh": [
+    "辅导",
+    "启蒙",
+    "入门",
+    "初阶"
+  ],
+  "meanings_en": [
+    "guidance",
+    "guide",
+    "introduction"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "というのも、僕は手引き書の指示に従わなかったし、そのレッスンを学習することもしなかったからである。",
+      "en": "Which was because I didn't follow the directions in the manual or learn their lessons."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

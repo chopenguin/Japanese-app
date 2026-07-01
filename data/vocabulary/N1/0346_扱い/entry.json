@@ -1,0 +1,39 @@
+{
+  "id": "n1-0346",
+  "jlpt": "N1",
+  "kanji": "扱い",
+  "kana": "あつかい",
+  "display": "扱い",
+  "meanings_zh": [
+    "使用",
+    "操纵",
+    "待",
+    "待遇"
+  ],
+  "meanings_en": [
+    "treatment",
+    "service"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は扱いにくい。",
+      "en": "He is hard to deal with."
+    },
+    {
+      "ja": "君の扱い方次第だ。",
+      "en": "It all depends how you handle it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n3-0840",
+  "jlpt": "N3",
+  "kanji": "至る",
+  "kana": "いたる",
+  "display": "至る",
+  "meanings_zh": [
+    "至",
+    "到",
+    "到来",
+    "来临"
+  ],
+  "meanings_en": [
+    "to come",
+    "to arrive"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この道は公園に至る。",
+      "en": "This road goes to the park."
+    },
+    {
+      "ja": "彼は至る所で歓迎された。",
+      "en": "He was welcomed everywhere."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n5-0077",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "スプーン",
+  "display": "スプーン",
+  "meanings_zh": [
+    "汤匙",
+    "匙",
+    "调僗僾儔僢僔儏 [僗僾儔僢僔儏] /// 溅起(水花",
+    "泥点)",
+    "飞溅(浪花)"
+  ],
+  "meanings_en": [
+    "spoon"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "スプーンがありません。",
+      "en": "There is a spoon missing."
+    },
+    {
+      "ja": "スプーンをいただけますか。",
+      "en": "Could we have a spoon?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

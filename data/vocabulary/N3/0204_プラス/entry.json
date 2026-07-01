@@ -1,0 +1,38 @@
+{
+  "id": "n3-0204",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "プラス",
+  "display": "プラス",
+  "meanings_zh": [
+    "加号",
+    "正数",
+    "利益",
+    "好处"
+  ],
+  "meanings_en": [
+    "plus"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "プラスチックは燃えにくい。",
+      "en": "Plastic does not burn easily."
+    },
+    {
+      "ja": "プラスチックは割れにくい。",
+      "en": "Plastic does not break easily."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

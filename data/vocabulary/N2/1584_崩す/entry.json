@@ -1,0 +1,40 @@
+{
+  "id": "n2-1584",
+  "jlpt": "N2",
+  "kanji": "崩す",
+  "kana": "くずす",
+  "display": "崩す",
+  "meanings_zh": [
+    "拆",
+    "拆毁",
+    "拆散",
+    "粉碎"
+  ],
+  "meanings_en": [
+    "to destroy",
+    "to pull down",
+    "to make change (money)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そんなに頑張ったら、体調崩すよ。",
+      "en": "If you work that hard, you're going to burn out."
+    },
+    {
+      "ja": "たまには休まないと、体調を崩すよ。",
+      "en": "If you don't rest once in a while, you'll get sick."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

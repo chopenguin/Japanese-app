@@ -1,0 +1,30 @@
+{
+  "id": "n5-0566",
+  "jlpt": "N5",
+  "kanji": "八日",
+  "kana": "ようか",
+  "display": "八日",
+  "meanings_zh": [],
+  "meanings_en": [
+    "eight days",
+    "eighth day of the month"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "日本では、八月八日はヒゲの日です。",
+      "en": "August 8th is Beard Day in Japan."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

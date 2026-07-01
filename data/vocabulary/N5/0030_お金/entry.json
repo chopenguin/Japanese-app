@@ -1,0 +1,33 @@
+{
+  "id": "n5-0030",
+  "jlpt": "N5",
+  "kanji": "お金",
+  "kana": "おかね",
+  "display": "お金",
+  "meanings_zh": [],
+  "meanings_en": [
+    "money"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お金はどこ？",
+      "en": "Where's the money?"
+    },
+    {
+      "ja": "お金がない。",
+      "en": "I don't have any money."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

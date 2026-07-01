@@ -1,0 +1,38 @@
+{
+  "id": "n3-0278",
+  "jlpt": "N3",
+  "kanji": "異なる",
+  "kana": "ことなる",
+  "display": "異なる",
+  "meanings_zh": [
+    "不同",
+    "不一样"
+  ],
+  "meanings_en": [
+    "to differ",
+    "to vary",
+    "to disagree"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "趣味は異なる。",
+      "en": "Tastes differ."
+    },
+    {
+      "ja": "僕の考えは君と異なる。",
+      "en": "My opinion differs from yours."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

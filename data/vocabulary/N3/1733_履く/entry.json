@@ -1,0 +1,36 @@
+{
+  "id": "n3-1733",
+  "jlpt": "N3",
+  "kanji": "履く",
+  "kana": "はく",
+  "display": "履く",
+  "meanings_zh": [
+    "穿"
+  ],
+  "meanings_en": [
+    "to wear",
+    "to put on (lower body)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "木靴を履くのが好きだ。",
+      "en": "I like to wear clogs."
+    },
+    {
+      "ja": "雨とか雪の時は、必ずブーツを履くんだ。",
+      "en": "I always wear boots when it rains or snows."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

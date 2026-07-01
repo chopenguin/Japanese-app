@@ -1,0 +1,39 @@
+{
+  "id": "n1-1049",
+  "jlpt": "N1",
+  "kanji": "携わる",
+  "kana": "たずさわる",
+  "display": "携わる",
+  "meanings_zh": [
+    "参与",
+    "参加",
+    "从事",
+    "有关系"
+  ],
+  "meanings_en": [
+    "to participate",
+    "to take part"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "我々は、誰であろうとテロ活動に携わるものに寛容でいるつもりはない。",
+      "en": "We will not tolerate anyone who engages in terrorism."
+    },
+    {
+      "ja": "戦闘に携わる兵士たちは戦闘が止んでいるときに好んで、平穏無事な時代を想い返す。",
+      "en": "Combat soldiers during peaceful moments like to reminisce of their halcyon days."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

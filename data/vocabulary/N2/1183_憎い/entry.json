@@ -1,0 +1,41 @@
+{
+  "id": "n2-1183",
+  "jlpt": "N2",
+  "kanji": "憎い",
+  "kana": "にくい",
+  "display": "憎い",
+  "meanings_zh": [
+    "可憎",
+    "可恶",
+    "可恨",
+    "漂亮"
+  ],
+  "meanings_en": [
+    "hateful",
+    "abominable",
+    "poor-looking",
+    "detestable"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "フランス語が憎い。",
+      "en": "I hate French."
+    },
+    {
+      "ja": "俺らのことが憎いのか？",
+      "en": "Do you hate us?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

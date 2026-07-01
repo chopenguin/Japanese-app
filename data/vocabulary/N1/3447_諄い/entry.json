@@ -1,0 +1,31 @@
+{
+  "id": "n1-3447",
+  "jlpt": "N1",
+  "kanji": "諄い",
+  "kana": "くどい",
+  "display": "諄い",
+  "meanings_zh": [
+    "冗长乏味",
+    "罗嗦",
+    "叨唠",
+    "喋喋不休"
+  ],
+  "meanings_en": [
+    "verbose",
+    "importunate",
+    "heavy (taste)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

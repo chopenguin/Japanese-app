@@ -1,0 +1,39 @@
+{
+  "id": "n3-0636",
+  "jlpt": "N3",
+  "kanji": "迎え",
+  "kana": "むかえ",
+  "display": "迎え",
+  "meanings_zh": [
+    "迎",
+    "迎接",
+    "迎接的人",
+    "死期"
+  ],
+  "meanings_en": [
+    "meeting",
+    "person sent to pick up an arrival"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "迎えに来て。",
+      "en": "Come pick me up."
+    },
+    {
+      "ja": "迎えが来たよ。",
+      "en": "Your ride's here."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

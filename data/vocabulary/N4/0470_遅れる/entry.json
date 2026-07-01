@@ -1,0 +1,38 @@
+{
+  "id": "n4-0470",
+  "jlpt": "N4",
+  "kanji": "遅れる",
+  "kana": "おくれる",
+  "display": "遅れる",
+  "meanings_zh": [
+    "晚",
+    "误",
+    "耽误",
+    "没赶上"
+  ],
+  "meanings_en": [
+    "to be late"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "遅れるなよ。",
+      "en": "Don't be late."
+    },
+    {
+      "ja": "たぶん遅れる。",
+      "en": "I may be late."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n1-3221",
+  "jlpt": "N1",
+  "kanji": "有する",
+  "kana": "ゆうする",
+  "display": "有する",
+  "meanings_zh": [
+    "有"
+  ],
+  "meanings_en": [
+    "to own",
+    "to be endowed with"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "偉大な天才は最短の伝記を有する。",
+      "en": "Great geniuses have the shortest biographies."
+    },
+    {
+      "ja": "すべての人は対等の権利を有する。",
+      "en": "All men have equal rights."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

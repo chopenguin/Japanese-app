@@ -1,0 +1,37 @@
+{
+  "id": "n1-0201",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "チームワーク",
+  "display": "チームワーク",
+  "meanings_zh": [
+    "(队员之间的)合作",
+    "配合",
+    "协作"
+  ],
+  "meanings_en": [
+    "teamwork"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それぞれの筋肉が完璧なチームワークを示す。",
+      "en": "Each muscle shows perfect teamwork."
+    },
+    {
+      "ja": "野球の最もすばらしいところはチームワークだ。",
+      "en": "The most wonderful thing about baseball is teamwork."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

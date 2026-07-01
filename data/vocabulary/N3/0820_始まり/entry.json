@@ -1,0 +1,39 @@
+{
+  "id": "n3-0820",
+  "jlpt": "N3",
+  "kanji": "始まり",
+  "kana": "はじまり",
+  "display": "始まり",
+  "meanings_zh": [
+    "开始",
+    "开端",
+    "缘起",
+    "起源"
+  ],
+  "meanings_en": [
+    "origin",
+    "beginning"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "映画が始まります。",
+      "en": "The movie starts."
+    },
+    {
+      "ja": "陣痛が始まりました。",
+      "en": "My labor has started."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

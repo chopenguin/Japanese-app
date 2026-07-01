@@ -1,0 +1,36 @@
+{
+  "id": "n5-0413",
+  "jlpt": "N5",
+  "kanji": "小さな",
+  "kana": "ちいさな",
+  "display": "小さな",
+  "meanings_zh": [
+    "小",
+    "微小"
+  ],
+  "meanings_en": [
+    "little"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "小さな部屋ね。",
+      "en": "It's a small room."
+    },
+    {
+      "ja": "それは小さな問題だ。",
+      "en": "It's a minor problem."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n1-0926",
+  "jlpt": "N1",
+  "kanji": "共産",
+  "kana": "きょうさん",
+  "display": "共産",
+  "meanings_zh": [],
+  "meanings_en": [
+    "communism"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "最近共産主義は拡大した。",
+      "en": "Recently communism has extended its power."
+    },
+    {
+      "ja": "喜んで中国共産党に入ります。",
+      "en": "I willingly join the Chinese Communist Party."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

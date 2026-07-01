@@ -1,0 +1,39 @@
+{
+  "id": "n1-1534",
+  "jlpt": "N1",
+  "kanji": "次いで",
+  "kana": "ついで",
+  "display": "次いで",
+  "meanings_zh": [
+    "接着",
+    "随后",
+    "其次"
+  ],
+  "meanings_en": [
+    "next",
+    "secondly",
+    "subsequently"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私の計画は相次いで失敗した。",
+      "en": "My plan failed time after time."
+    },
+    {
+      "ja": "災害が相次いでその地域を襲った。",
+      "en": "A string of disasters struck the region."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n5-0031",
+  "jlpt": "N5",
+  "kanji": "お兄さん",
+  "kana": "おにいさん",
+  "display": "お兄さん",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(honorable) older brother"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お兄さん連れてきてね。",
+      "en": "Bring your brother."
+    },
+    {
+      "ja": "お兄さんは何歳ですか？",
+      "en": "How old is your brother?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

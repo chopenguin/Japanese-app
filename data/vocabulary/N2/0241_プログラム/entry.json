@@ -1,0 +1,38 @@
+{
+  "id": "n2-0241",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "プログラム",
+  "display": "プログラム",
+  "meanings_zh": [
+    "节目",
+    "节目单",
+    "说明书",
+    "计划(表)"
+  ],
+  "meanings_en": [
+    "program"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "プログラムをいただけますか。",
+      "en": "May I have a program?"
+    },
+    {
+      "ja": "私は解読プログラムを持っていません。",
+      "en": "I don't have a decryption program."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

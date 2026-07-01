@@ -1,0 +1,41 @@
+{
+  "id": "n1-0969",
+  "jlpt": "N1",
+  "kanji": "驚き",
+  "kana": "おどろき",
+  "display": "驚き",
+  "meanings_zh": [
+    "惊恐",
+    "惊惧",
+    "惊愕",
+    "惊骇",
+    "害怕"
+  ],
+  "meanings_en": [
+    "surprise",
+    "astonishment",
+    "wonder"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何という驚き。",
+      "en": "What a surprise!"
+    },
+    {
+      "ja": "嬉しい驚きでした。",
+      "en": "I was pleasantly surprised."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

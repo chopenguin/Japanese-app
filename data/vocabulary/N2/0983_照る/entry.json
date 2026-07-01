@@ -1,0 +1,34 @@
+{
+  "id": "n2-0983",
+  "jlpt": "N2",
+  "kanji": "照る",
+  "kana": "てる",
+  "display": "照る",
+  "meanings_zh": [
+    "照",
+    "照耀",
+    "晒",
+    "晴天"
+  ],
+  "meanings_en": [
+    "to shine"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "日の照るうちに草を干せ。",
+      "en": "Make hay while the sun shines."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

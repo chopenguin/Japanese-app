@@ -1,0 +1,34 @@
+{
+  "id": "n3-0032",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "うなる",
+  "display": "うなる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to groan",
+    "to moan"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この先どうなるの。",
+      "en": "What will come?"
+    },
+    {
+      "ja": "その後どうなるの？",
+      "en": "What happens afterwards?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n5-0387",
+  "jlpt": "N5",
+  "kanji": "弱い",
+  "kana": "よわい",
+  "display": "弱い",
+  "meanings_zh": [
+    "弱",
+    "软弱",
+    "浅",
+    "脆弱"
+  ],
+  "meanings_en": [
+    "weak"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "地理は弱い。",
+      "en": "I am weak in geography."
+    },
+    {
+      "ja": "トムは弱い。",
+      "en": "Tom is weak."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

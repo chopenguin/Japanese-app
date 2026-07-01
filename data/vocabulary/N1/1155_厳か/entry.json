@@ -1,0 +1,39 @@
+{
+  "id": "n1-1155",
+  "jlpt": "N1",
+  "kanji": "厳か",
+  "kana": "おごそか",
+  "display": "厳か",
+  "meanings_zh": [
+    "庄严",
+    "严肃",
+    "肃穆",
+    "庄重"
+  ],
+  "meanings_en": [
+    "austere",
+    "majestic",
+    "dignified",
+    "stately",
+    "awful",
+    "impressive"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は群衆に向かって厳かに語りかけた。",
+      "en": "He addressed the crowd gravely."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

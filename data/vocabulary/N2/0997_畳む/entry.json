@@ -1,0 +1,38 @@
+{
+  "id": "n2-0997",
+  "jlpt": "N2",
+  "kanji": "畳む",
+  "kana": "たたむ",
+  "display": "畳む",
+  "meanings_zh": [
+    "叠",
+    "折",
+    "合上",
+    "关"
+  ],
+  "meanings_en": [
+    "to fold (clothes)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "洗濯をすることは構わないのだが、服を畳むことが嫌いだ。",
+      "en": "I don't have a problem doing the laundry, but I hate folding the clothes."
+    },
+    {
+      "ja": "服は畳むかハンガーにかけておかないと、くしゃくしゃになっちゃうよ。",
+      "en": "If you don't fold your clothes or hang them, they will be wrinkled."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

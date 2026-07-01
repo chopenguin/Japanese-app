@@ -1,0 +1,29 @@
+{
+  "id": "n5-0618",
+  "jlpt": "N5",
+  "kanji": "明い",
+  "kana": "あかるい",
+  "display": "明い",
+  "meanings_zh": [],
+  "meanings_en": [
+    "bright"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "発言を許していただけるなら、すべてをご説明いたします。",
+      "en": "If you permit me to speak, I can explain everything."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

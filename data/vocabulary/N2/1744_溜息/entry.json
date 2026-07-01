@@ -1,0 +1,36 @@
+{
+  "id": "n2-1744",
+  "jlpt": "N2",
+  "kanji": "溜息",
+  "kana": "ためいき",
+  "display": "溜息",
+  "meanings_zh": [
+    "叹气",
+    "长吁短叹"
+  ],
+  "meanings_en": [
+    "a sigh"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "「ああ！」と彼女は溜息をつきました。",
+      "en": "\"Aah!\" she sighed."
+    },
+    {
+      "ja": "「溜息なんてついてた？」「不幸せなオーラ出しながらね」",
+      "en": "\"Did I really sigh?\" \"While giving out an aura of unhappiness.\""
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

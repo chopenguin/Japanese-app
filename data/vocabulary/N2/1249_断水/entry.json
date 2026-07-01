@@ -1,0 +1,36 @@
+{
+  "id": "n2-1249",
+  "jlpt": "N2",
+  "kanji": "断水",
+  "kana": "だんすい",
+  "display": "断水",
+  "meanings_zh": [
+    "断水",
+    "停水"
+  ],
+  "meanings_en": [
+    "water outage"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "断水になった。",
+      "en": "The water supply has failed."
+    },
+    {
+      "ja": "断水しました。",
+      "en": "The water has been cut off."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "n1-1302",
+  "jlpt": "N1",
+  "kanji": "合わす",
+  "kana": "あわす",
+  "display": "合わす",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to join together",
+    "to face",
+    "to unite",
+    "to be opposite",
+    "to combine",
+    "to connect",
+    "to add up",
+    "to mix",
+    "to match",
+    "to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は収支を合わすのに苦労しました。",
+      "en": "I had a hard time making both ends meet."
+    },
+    {
+      "ja": "仕事を間に合わすため彼は徹夜で働いた。",
+      "en": "He worked all night so that he could get the job done in time."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

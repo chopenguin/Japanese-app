@@ -1,0 +1,33 @@
+{
+  "id": "n5-0170",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ゆっくりと",
+  "display": "ゆっくりと",
+  "meanings_zh": [],
+  "meanings_en": [
+    "slowly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ゆっくりと急げ。",
+      "en": "Make haste slowly."
+    },
+    {
+      "ja": "彼はゆっくりと歩く。",
+      "en": "He walks slowly."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

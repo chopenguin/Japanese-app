@@ -1,0 +1,33 @@
+{
+  "id": "n5-0033",
+  "jlpt": "N5",
+  "kanji": "お姉さん",
+  "kana": "おねえさん",
+  "display": "お姉さん",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(honorable) older sister"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お姉さんのことよ。",
+      "en": "It's about your sister."
+    },
+    {
+      "ja": "お姉さんによろしくね。",
+      "en": "Say hello to your sister for me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

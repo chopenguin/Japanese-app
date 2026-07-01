@@ -1,0 +1,42 @@
+{
+  "id": "n1-1241",
+  "jlpt": "N1",
+  "kanji": "向き",
+  "kana": "むき",
+  "display": "向き",
+  "meanings_zh": [
+    "方向",
+    "适合",
+    "合乎",
+    "对路"
+  ],
+  "meanings_en": [
+    "direction",
+    "situation",
+    "exposure",
+    "aspect",
+    "suitability"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "横向きに寝る。",
+      "en": "I sleep on my side."
+    },
+    {
+      "ja": "景気は上向きだ。",
+      "en": "The economy is picking up."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

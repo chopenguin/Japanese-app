@@ -1,0 +1,39 @@
+{
+  "id": "n4-0380",
+  "jlpt": "N4",
+  "kanji": "焼く",
+  "kana": "やく",
+  "display": "焼く",
+  "meanings_zh": [
+    "烧",
+    "烧毁",
+    "焚",
+    "烧制"
+  ],
+  "meanings_en": [
+    "to bake",
+    "to grill"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "やきもちを焼くなよ。",
+      "en": "You shouldn't be jealous."
+    },
+    {
+      "ja": "私の母は毎朝パンを焼く。",
+      "en": "My mother bakes bread every morning."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

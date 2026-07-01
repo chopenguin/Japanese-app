@@ -1,0 +1,40 @@
+{
+  "id": "n3-0138",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "たっぷり",
+  "display": "たっぷり",
+  "meanings_zh": [
+    "充分",
+    "足够",
+    "多",
+    "宽绰"
+  ],
+  "meanings_en": [
+    "full",
+    "in plenty",
+    "ample"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "時間はたっぷりある。",
+      "en": "We have all kinds of time."
+    },
+    {
+      "ja": "時間はたっぷりあった。",
+      "en": "You had plenty of time."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

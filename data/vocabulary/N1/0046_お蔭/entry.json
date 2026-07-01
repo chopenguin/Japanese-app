@@ -1,0 +1,34 @@
+{
+  "id": "n1-0046",
+  "jlpt": "N1",
+  "kanji": "お蔭",
+  "kana": "おかげ",
+  "display": "お蔭",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(your) backing",
+    "assistance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私が今日あるのはおじのお蔭である。",
+      "en": "I owe what I am today to my uncle."
+    },
+    {
+      "ja": "私がここまで成功したのは全く彼のお蔭である。",
+      "en": "I owe it entirely to him that I have thus far succeeded."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

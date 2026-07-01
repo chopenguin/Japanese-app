@@ -1,0 +1,40 @@
+{
+  "id": "n2-1113",
+  "jlpt": "N2",
+  "kanji": "惜しい",
+  "kana": "おしい",
+  "display": "惜しい",
+  "meanings_zh": [
+    "可惜",
+    "遗憾",
+    "吝惜",
+    "舍不得"
+  ],
+  "meanings_en": [
+    "regrettable",
+    "disappointing",
+    "precious"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "命は誰でも惜しい。",
+      "en": "Life is dear to everybody."
+    },
+    {
+      "ja": "私はとても命が惜しい。",
+      "en": "Life is very dear to me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

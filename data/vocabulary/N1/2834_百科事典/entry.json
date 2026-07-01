@@ -1,0 +1,33 @@
+{
+  "id": "n1-2834",
+  "jlpt": "N1",
+  "kanji": "百科事典",
+  "kana": "ひゃっかじてん",
+  "display": "百科事典",
+  "meanings_zh": [],
+  "meanings_en": [
+    "encyclopedia"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "百科事典は知識の宝庫だ。",
+      "en": "An encyclopedia is a mine of information."
+    },
+    {
+      "ja": "彼はいわば歩く百科事典だ。",
+      "en": "He is, so to speak, a walking encyclopedia."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

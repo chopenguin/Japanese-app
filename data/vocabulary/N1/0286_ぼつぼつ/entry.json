@@ -1,0 +1,32 @@
+{
+  "id": "n1-0286",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ぼつぼつ",
+  "display": "ぼつぼつ",
+  "meanings_zh": [
+    "小疙疸",
+    "小斑点",
+    "渐渐",
+    "慢慢"
+  ],
+  "meanings_en": [
+    "gradually",
+    "here and there",
+    "spots",
+    "pimples"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

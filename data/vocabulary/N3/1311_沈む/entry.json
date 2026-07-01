@@ -1,0 +1,39 @@
+{
+  "id": "n3-1311",
+  "jlpt": "N3",
+  "kanji": "沈む",
+  "kana": "しずむ",
+  "display": "沈む",
+  "meanings_zh": [
+    "沉没",
+    "降落",
+    "沉下",
+    "消沉"
+  ],
+  "meanings_en": [
+    "to sink",
+    "to feel depressed"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "日は西に沈む。",
+      "en": "The sun sets in the west."
+    },
+    {
+      "ja": "日が赤々と沈む。",
+      "en": "The sun goes down in a wild blaze of color."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

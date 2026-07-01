@@ -1,0 +1,38 @@
+{
+  "id": "n2-0226",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ピンク",
+  "display": "ピンク",
+  "meanings_zh": [
+    "桃红色",
+    "粉红色",
+    "桃色",
+    "黄色"
+  ],
+  "meanings_en": [
+    "pink"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "尿の色がピンクです。",
+      "en": "My urine is pink."
+    },
+    {
+      "ja": "ピンクのバラは美しい。",
+      "en": "Pink roses are beautiful."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

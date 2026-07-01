@@ -1,0 +1,39 @@
+{
+  "id": "n1-2538",
+  "jlpt": "N1",
+  "kanji": "努めて",
+  "kana": "つとめて",
+  "display": "努めて",
+  "meanings_zh": [
+    "尽量",
+    "尽力",
+    "尽可能",
+    "竭力"
+  ],
+  "meanings_en": [
+    "make an effort!",
+    "work hard!"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は民衆の支持を得ようと努めていた。",
+      "en": "He was bidding for popular support."
+    },
+    {
+      "ja": "政府は公害を除去しようと努めている。",
+      "en": "The government is trying to get rid of pollution."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

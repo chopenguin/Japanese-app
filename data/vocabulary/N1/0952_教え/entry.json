@@ -1,0 +1,41 @@
+{
+  "id": "n1-0952",
+  "jlpt": "N1",
+  "kanji": "教え",
+  "kana": "おしえ",
+  "display": "教え",
+  "meanings_zh": [
+    "教导",
+    "教诲",
+    "教训",
+    "教育"
+  ],
+  "meanings_en": [
+    "teachings",
+    "precept",
+    "lesson",
+    "doctrine"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "教えないよ。",
+      "en": "I won't tell you."
+    },
+    {
+      "ja": "場所教えて。",
+      "en": "Tell me where it is."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

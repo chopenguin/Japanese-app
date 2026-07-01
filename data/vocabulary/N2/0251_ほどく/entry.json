@@ -1,0 +1,33 @@
+{
+  "id": "n2-0251",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ほどく",
+  "display": "ほどく",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to unfasten"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これらの包みをほどくのを手伝って下さい。",
+      "en": "Lend a hand with these parcels, please."
+    },
+    {
+      "ja": "お風呂につかっていることほどくつろげるものはない。",
+      "en": "There is nothing as relaxing as lying in a hot bath."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

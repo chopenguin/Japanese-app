@@ -1,0 +1,38 @@
+{
+  "id": "n4-0452",
+  "jlpt": "N4",
+  "kanji": "太る",
+  "kana": "ふとる",
+  "display": "太る",
+  "meanings_zh": [
+    "胖",
+    "发福",
+    "肥",
+    "发财"
+  ],
+  "meanings_en": [
+    "to become fat"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "食べ過ぎると太る。",
+      "en": "If you eat too much, you'll become fat."
+    },
+    {
+      "ja": "そんなに食べると太るよ。",
+      "en": "You'll fatten up if you eat that much."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

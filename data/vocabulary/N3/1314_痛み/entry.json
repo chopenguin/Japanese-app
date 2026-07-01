@@ -1,0 +1,42 @@
+{
+  "id": "n3-1314",
+  "jlpt": "N3",
+  "kanji": "痛み",
+  "kana": "いたみ",
+  "display": "痛み",
+  "meanings_zh": [
+    "痛",
+    "疼",
+    "悲痛",
+    "难过"
+  ],
+  "meanings_en": [
+    "pain",
+    "ache",
+    "sore",
+    "grief",
+    "distress"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "心が痛みます。",
+      "en": "My heart's aching."
+    },
+    {
+      "ja": "胃が痛みます。",
+      "en": "My stomach hurts."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

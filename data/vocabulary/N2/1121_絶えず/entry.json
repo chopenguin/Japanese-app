@@ -1,0 +1,38 @@
+{
+  "id": "n2-1121",
+  "jlpt": "N2",
+  "kanji": "絶えず",
+  "kana": "たえず",
+  "display": "絶えず",
+  "meanings_zh": [
+    "不断",
+    "经常",
+    "无休止",
+    "连续"
+  ],
+  "meanings_en": [
+    "constantly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は父親を絶えず恐れている。",
+      "en": "He is in constant dread of his father."
+    },
+    {
+      "ja": "妹は絶えず漫画を読んでいます。",
+      "en": "My sister is constantly reading comic books."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

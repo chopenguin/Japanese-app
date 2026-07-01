@@ -1,0 +1,35 @@
+{
+  "id": "n1-0216",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "デモンストレーション",
+  "display": "デモンストレーション",
+  "meanings_zh": [
+    "公开表演"
+  ],
+  "meanings_en": [
+    "demonstration"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "７地区で新製品のデモンストレーションを行い、成功しました。",
+      "en": "Successfully demonstrated a new product in 7 districts."
+    },
+    {
+      "ja": "彼は今までに９体の人型ロボットを製造していたが、その全てはデモンストレーションモデルだった。",
+      "en": "Up to now he had made nine humanoid robots but they were all demonstration models."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

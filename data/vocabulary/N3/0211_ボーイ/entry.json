@@ -1,0 +1,38 @@
+{
+  "id": "n3-0211",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ボーイ",
+  "display": "ボーイ",
+  "meanings_zh": [
+    "男孩儿",
+    "少年",
+    "童子",
+    "男服务员"
+  ],
+  "meanings_en": [
+    "boy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "カウボーイごっこをしよう。",
+      "en": "Let's make believe that we are cowboys."
+    },
+    {
+      "ja": "トムは本物のカウボーイだ。",
+      "en": "Tom is a real cowboy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

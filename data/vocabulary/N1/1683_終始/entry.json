@@ -1,0 +1,40 @@
+{
+  "id": "n1-1683",
+  "jlpt": "N1",
+  "kanji": "終始",
+  "kana": "しゅうし",
+  "display": "終始",
+  "meanings_zh": [
+    "末了和起首",
+    "从头到尾",
+    "始终",
+    "一贯"
+  ],
+  "meanings_en": [
+    "beginning and end",
+    "from beginning to end",
+    "doing a thing from beginning to end"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は落ち着いた態度に終始した。",
+      "en": "She maintained a calm manner."
+    },
+    {
+      "ja": "学生たちは終始じっと座っていた。",
+      "en": "The students sat still all the time."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

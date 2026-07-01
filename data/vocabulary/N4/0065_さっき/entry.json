@@ -1,0 +1,36 @@
+{
+  "id": "n4-0065",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "さっき",
+  "display": "さっき",
+  "meanings_zh": [
+    "刚才",
+    "方才"
+  ],
+  "meanings_en": [
+    "some time ago"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "さっき何かあった？",
+      "en": "Did something happen earlier?"
+    },
+    {
+      "ja": "さっき話してた人誰？",
+      "en": "Who was that you were just talking to?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

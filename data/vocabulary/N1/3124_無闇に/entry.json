@@ -1,0 +1,28 @@
+{
+  "id": "n1-3124",
+  "jlpt": "N1",
+  "kanji": "無闇に",
+  "kana": "むやみに",
+  "display": "無闇に",
+  "meanings_zh": [],
+  "meanings_en": [
+    "unreasonably",
+    "absurdly",
+    "recklessly",
+    "indiscreetly",
+    "at random"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

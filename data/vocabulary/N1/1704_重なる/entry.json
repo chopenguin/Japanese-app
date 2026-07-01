@@ -1,0 +1,40 @@
+{
+  "id": "n1-1704",
+  "jlpt": "N1",
+  "kanji": "重なる",
+  "kana": "おもなる",
+  "display": "重なる",
+  "meanings_zh": [
+    "重叠",
+    "重重",
+    "赶在一起",
+    "碰在一起"
+  ],
+  "meanings_en": [
+    "main",
+    "principal",
+    "important"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "不幸は重なるものだ。",
+      "en": "Misfortunes always come in threes."
+    },
+    {
+      "ja": "先生はトムのたび重なる欠席を心配した。",
+      "en": "The teacher was worried by Tom's frequent absences from class."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

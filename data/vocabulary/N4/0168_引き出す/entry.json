@@ -1,0 +1,38 @@
+{
+  "id": "n4-0168",
+  "jlpt": "N4",
+  "kanji": "引き出す",
+  "kana": "ひきだす",
+  "display": "引き出す",
+  "meanings_zh": [
+    "抽出",
+    "曳出",
+    "拉出",
+    "引出"
+  ],
+  "meanings_en": [
+    "to withdraw"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "我々は勉強からさらに楽しみを引き出す。",
+      "en": "We derive further pleasure from our study."
+    },
+    {
+      "ja": "彼のいいところを引き出すようにしなさい。",
+      "en": "Try to bring out the best in him."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

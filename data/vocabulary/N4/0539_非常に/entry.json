@@ -1,0 +1,33 @@
+{
+  "id": "n4-0539",
+  "jlpt": "N4",
+  "kanji": "非常に",
+  "kana": "ひじょうに",
+  "display": "非常に",
+  "meanings_zh": [],
+  "meanings_en": [
+    "extremely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は非常に親切だ。",
+      "en": "He is a very decent fellow."
+    },
+    {
+      "ja": "今日は非常に暑い。",
+      "en": "Today is extremely hot."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

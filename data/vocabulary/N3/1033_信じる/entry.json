@@ -1,0 +1,39 @@
+{
+  "id": "n3-1033",
+  "jlpt": "N3",
+  "kanji": "信じる",
+  "kana": "しんじる",
+  "display": "信じる",
+  "meanings_zh": [
+    "信",
+    "相信",
+    "确信",
+    "深信"
+  ],
+  "meanings_en": [
+    "to believe",
+    "to place trust in"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "信じるとこよ。",
+      "en": "I almost believe you."
+    },
+    {
+      "ja": "僕は君を信じる。",
+      "en": "I believe you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

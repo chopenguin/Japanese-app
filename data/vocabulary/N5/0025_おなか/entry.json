@@ -1,0 +1,36 @@
+{
+  "id": "n5-0025",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "おなか",
+  "display": "おなか",
+  "meanings_zh": [
+    "肚子",
+    "胃肠"
+  ],
+  "meanings_en": [
+    "stomach"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "おなか空いた！",
+      "en": "I'm starving!"
+    },
+    {
+      "ja": "おなかが痛い。",
+      "en": "My stomach hurts."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

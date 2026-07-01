@@ -1,0 +1,47 @@
+{
+  "id": "n1-3241",
+  "jlpt": "N1",
+  "kanji": "余り",
+  "kana": "あんまり",
+  "display": "余り",
+  "meanings_zh": [
+    "余",
+    "多 剩余",
+    "余剩",
+    "剩下",
+    "剩下的数"
+  ],
+  "meanings_en": [
+    "not very (this form only used as adverb)",
+    "not much",
+    "remainder",
+    "rest",
+    "remnant",
+    "surplus",
+    "balance",
+    "excess",
+    "rema"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "余り楽しくなかったな。",
+      "en": "I didn't enjoy it very much."
+    },
+    {
+      "ja": "これはお昼の余りです。",
+      "en": "Those are the leftovers from lunch."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

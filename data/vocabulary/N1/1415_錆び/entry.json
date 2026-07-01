@@ -1,0 +1,33 @@
+{
+  "id": "n1-1415",
+  "jlpt": "N1",
+  "kanji": "錆び",
+  "kana": "さび",
+  "display": "錆び",
+  "meanings_zh": [],
+  "meanings_en": [
+    "rust (colour)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "休みすぎは錆びる。",
+      "en": "Too much rest is rust."
+    },
+    {
+      "ja": "この鋼は錆びない。",
+      "en": "This steel is stainless."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

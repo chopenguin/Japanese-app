@@ -1,0 +1,33 @@
+{
+  "id": "n3-0095",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "（終わり）",
+  "display": "しまい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "sisters"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "もうおしまい？",
+      "en": "Is it over yet?"
+    },
+    {
+      "ja": "死んでしまいたい！",
+      "en": "I wish I was dead."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

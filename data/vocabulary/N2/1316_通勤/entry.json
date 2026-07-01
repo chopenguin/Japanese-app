@@ -1,0 +1,36 @@
+{
+  "id": "n2-1316",
+  "jlpt": "N2",
+  "kanji": "通勤",
+  "kana": "つうきん",
+  "display": "通勤",
+  "meanings_zh": [
+    "上下班",
+    "通勤"
+  ],
+  "meanings_en": [
+    "commuting to work"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "電車通勤です。",
+      "en": "Every day, I take the train to work."
+    },
+    {
+      "ja": "自転車通勤です。",
+      "en": "I cycle to work."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

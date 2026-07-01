@@ -1,0 +1,40 @@
+{
+  "id": "n3-1649",
+  "jlpt": "N3",
+  "kanji": "明かり",
+  "kana": "あかり",
+  "display": "明かり",
+  "meanings_zh": [
+    "光",
+    "亮儿",
+    "灯",
+    "希望"
+  ],
+  "meanings_en": [
+    "lamplight",
+    "light (in general)",
+    "brightness"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "明かりを消して。",
+      "en": "Turn off the light."
+    },
+    {
+      "ja": "明かり窓に届かない。",
+      "en": "I can't reach the transom."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

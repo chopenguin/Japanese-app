@@ -1,0 +1,42 @@
+{
+  "id": "n3-1444",
+  "jlpt": "N3",
+  "kanji": "破る",
+  "kana": "やぶる",
+  "display": "破る",
+  "meanings_zh": [
+    "撕",
+    "撕破",
+    "弄破",
+    "损坏"
+  ],
+  "meanings_en": [
+    "to tear",
+    "to violate",
+    "to defeat",
+    "to smash",
+    "to destroy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "決して約束を破るな。",
+      "en": "Never break your promise."
+    },
+    {
+      "ja": "約束を破るのは良くない。",
+      "en": "It is not good to break a promise."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

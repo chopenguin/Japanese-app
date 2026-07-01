@@ -1,0 +1,38 @@
+{
+  "id": "n1-2985",
+  "jlpt": "N1",
+  "kanji": "弁護",
+  "kana": "べんご",
+  "display": "弁護",
+  "meanings_zh": [
+    "辩护",
+    "辩解"
+  ],
+  "meanings_en": [
+    "defense",
+    "pleading",
+    "advocacy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "母は弁護士です。",
+      "en": "My mother is a lawyer."
+    },
+    {
+      "ja": "私は弁護士です。",
+      "en": "I am a lawyer."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

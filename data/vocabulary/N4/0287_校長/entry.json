@@ -1,0 +1,35 @@
+{
+  "id": "n4-0287",
+  "jlpt": "N4",
+  "kanji": "校長",
+  "kana": "こうちょう",
+  "display": "校長",
+  "meanings_zh": [
+    "校长"
+  ],
+  "meanings_en": [
+    "headmaster"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は校長が嫌いだ。",
+      "en": "He dislikes the principal."
+    },
+    {
+      "ja": "彼は校長に昇進した。",
+      "en": "He was promoted to the position of head teacher."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

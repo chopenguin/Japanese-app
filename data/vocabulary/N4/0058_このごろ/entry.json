@@ -1,0 +1,39 @@
+{
+  "id": "n4-0058",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "このごろ",
+  "display": "このごろ",
+  "meanings_zh": [
+    "近来",
+    "这些天来",
+    "最近时期",
+    "现在"
+  ],
+  "meanings_en": [
+    "these days",
+    "nowadays"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "このごろ暖かい日が多い。",
+      "en": "Recently we have had many mild days."
+    },
+    {
+      "ja": "彼はこのごろ影を潜めてる。",
+      "en": "He is out of circulation these days."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n1-0508",
+  "jlpt": "N1",
+  "kanji": "押し込む",
+  "kana": "おしこむ",
+  "display": "押し込む",
+  "meanings_zh": [
+    "闯进",
+    "硬挤进去",
+    "闯进去抢劫",
+    "塞"
+  ],
+  "meanings_en": [
+    "to push into",
+    "to crowd into"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は、まだスイッチを押し込む力を十分持ち合わせていた。",
+      "en": "He was still strong enough to press a switch."
+    },
+    {
+      "ja": "ただし押し込む瞬間気圧の変化のせいでしょうか、耳がツンとするのが難点です。",
+      "en": "However, maybe from the sudden change in pressure when you push them in, having your ears pop is a problem."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

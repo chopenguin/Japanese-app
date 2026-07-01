@@ -1,0 +1,36 @@
+{
+  "id": "n3-0147",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ちょうだい",
+  "display": "ちょうだい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(1) please do for me (preceded by -te)",
+    "(2) reception",
+    "being given",
+    "get"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "飴ちょうだい。",
+      "en": "I want some candy."
+    },
+    {
+      "ja": "連絡ちょうだい！",
+      "en": "Keep in touch."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

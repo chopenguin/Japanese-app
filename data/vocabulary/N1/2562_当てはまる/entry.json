@@ -1,0 +1,38 @@
+{
+  "id": "n1-2562",
+  "jlpt": "N1",
+  "kanji": "当てはまる",
+  "kana": "あてはまる",
+  "display": "当てはまる",
+  "meanings_zh": [
+    "适用",
+    "适合",
+    "合适",
+    "恰当"
+  ],
+  "meanings_en": [
+    "to apply (a rule)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これは当てはまる？",
+      "en": "Is this appropriate?"
+    },
+    {
+      "ja": "これは君にも当てはまる。",
+      "en": "This is true of you, too."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

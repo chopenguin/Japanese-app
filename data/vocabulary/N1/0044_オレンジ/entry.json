@@ -1,0 +1,38 @@
+{
+  "id": "n1-0044",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "オレンジ",
+  "display": "オレンジ",
+  "meanings_zh": [
+    "橘子",
+    "香橙",
+    "橙子",
+    "橘黄色"
+  ],
+  "meanings_en": [
+    "an orange"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はオレンジが好き。",
+      "en": "He likes oranges."
+    },
+    {
+      "ja": "オレンジを食べますか。",
+      "en": "Do you eat oranges?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

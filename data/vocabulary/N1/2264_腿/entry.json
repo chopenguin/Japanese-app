@@ -1,0 +1,30 @@
+{
+  "id": "n1-2264",
+  "jlpt": "N1",
+  "kanji": "腿",
+  "kana": "もも",
+  "display": "腿",
+  "meanings_zh": [],
+  "meanings_en": [
+    "thigh",
+    "femur"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "スケートをするには強い腿の筋肉が必要である。",
+      "en": "You need to have strong thigh muscles to skate."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

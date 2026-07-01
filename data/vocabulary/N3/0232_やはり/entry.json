@@ -1,0 +1,38 @@
+{
+  "id": "n3-0232",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "やはり",
+  "display": "やはり",
+  "meanings_zh": [],
+  "meanings_en": [
+    "also",
+    "as I thought",
+    "still",
+    "in spite of",
+    "absolutely",
+    "of course"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "男の子はやはり男の子。",
+      "en": "Boys will be boys."
+    },
+    {
+      "ja": "彼は頭がよいがやはり嫌いだ。",
+      "en": "He's intelligent, but I still don't like him."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

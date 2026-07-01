@@ -1,0 +1,38 @@
+{
+  "id": "n4-0447",
+  "jlpt": "N4",
+  "kanji": "足す",
+  "kana": "たす",
+  "display": "足す",
+  "meanings_zh": [
+    "加",
+    "添",
+    "续",
+    "上"
+  ],
+  "meanings_en": [
+    "to add a number"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "１足す２は３である。",
+      "en": "One plus two equals three."
+    },
+    {
+      "ja": "三に二を足すと五になる。",
+      "en": "Add two to three, and you get five."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

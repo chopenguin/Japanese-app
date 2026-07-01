@@ -1,0 +1,28 @@
+{
+  "id": "n1-0973",
+  "jlpt": "N1",
+  "kanji": "凝らす",
+  "kana": "こごらす",
+  "display": "凝らす",
+  "meanings_zh": [
+    "凝",
+    "集中"
+  ],
+  "meanings_en": [
+    "to freeze",
+    "to congeal"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

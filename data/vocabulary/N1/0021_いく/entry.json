@@ -1,0 +1,34 @@
+{
+  "id": "n1-0021",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "いく",
+  "display": "いく",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to come",
+    "to orgasm"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "試していく。",
+      "en": "I'll keep trying."
+    },
+    {
+      "ja": "いくらですか？",
+      "en": "How much is it?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n2-1355",
+  "jlpt": "N2",
+  "kanji": "点く",
+  "kana": "つく",
+  "display": "点く",
+  "meanings_zh": [
+    "点着",
+    "燃起"
+  ],
+  "meanings_en": [
+    "to catch fire",
+    "(electricity) comes on"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "明日のテスト何点くらい取れそう？",
+      "en": "What do you think you'll score on tomorrow's test?"
+    },
+    {
+      "ja": "今じゃ、ボクのお料理レベルは、１００点中４５点くらい。スゴイだろ、赤点じゃないのさ！",
+      "en": "Right now my score in Cooking is about 45 out of 100. Great isn't it? That's not a fail!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

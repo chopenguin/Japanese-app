@@ -1,0 +1,30 @@
+{
+  "id": "n2-0514",
+  "jlpt": "N2",
+  "kanji": "間も無く",
+  "kana": "まもなく",
+  "display": "間も無く",
+  "meanings_zh": [
+    "不久",
+    "一会儿",
+    "不大工夫"
+  ],
+  "meanings_en": [
+    "soon",
+    "before long",
+    "in a short time"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

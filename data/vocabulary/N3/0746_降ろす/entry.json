@@ -1,0 +1,40 @@
+{
+  "id": "n3-0746",
+  "jlpt": "N3",
+  "kanji": "降ろす",
+  "kana": "おろす",
+  "display": "降ろす",
+  "meanings_zh": [
+    "取下",
+    "拿下",
+    "放下",
+    "撂下"
+  ],
+  "meanings_en": [
+    "to take down",
+    "to launch",
+    "to drop"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "駅のところで降ろすよ。",
+      "en": "I'll drop you off at the station."
+    },
+    {
+      "ja": "これを降ろすの手伝って。",
+      "en": "Help me take this down."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

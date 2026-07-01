@@ -1,0 +1,39 @@
+{
+  "id": "n1-1260",
+  "jlpt": "N1",
+  "kanji": "拘束",
+  "kana": "こうそく",
+  "display": "拘束",
+  "meanings_zh": [
+    "拘束",
+    "束缚",
+    "约束",
+    "限制"
+  ],
+  "meanings_en": [
+    "restriction",
+    "restraint"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この誓約書には法的拘束力はありません。",
+      "en": "This written pledge is not legally binding."
+    },
+    {
+      "ja": "この決定は諸君全部を拘束するものではない。",
+      "en": "This decision is not binding on all of you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

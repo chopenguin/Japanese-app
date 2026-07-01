@@ -1,0 +1,29 @@
+{
+  "id": "n1-0296",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ミセス",
+  "display": "ミセス",
+  "meanings_zh": [
+    "太太",
+    "夫人",
+    "已婚妇女",
+    "少妇"
+  ],
+  "meanings_en": [
+    "Mrs."
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "n2-0935",
+  "jlpt": "N2",
+  "kanji": "出入り",
+  "kana": "でいり",
+  "display": "出入り",
+  "meanings_zh": [
+    "出入",
+    "进出",
+    "常来常往",
+    "收支"
+  ],
+  "meanings_en": [
+    "in and out",
+    "coming and going",
+    "free association",
+    "income and expenditure",
+    "debits and credit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はよく私の所に出入りした。",
+      "en": "He was accustomed to frequenting my house."
+    },
+    {
+      "ja": "そのドアから台所へ出入りできる。",
+      "en": "The door gives access to the kitchen."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

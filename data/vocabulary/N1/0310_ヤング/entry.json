@@ -1,0 +1,36 @@
+{
+  "id": "n1-0310",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ヤング",
+  "display": "ヤング",
+  "meanings_zh": [
+    "年轻人",
+    "年轻一代"
+  ],
+  "meanings_en": [
+    "young"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ヤング先生はとても優しい。",
+      "en": "Miss Young is very kind."
+    },
+    {
+      "ja": "ヤング氏は６台も車を持っている。",
+      "en": "Mr Young has no less than six cars."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

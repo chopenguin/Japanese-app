@@ -1,0 +1,33 @@
+{
+  "id": "n3-0029",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "インク",
+  "display": "インク",
+  "meanings_zh": [],
+  "meanings_en": [
+    "ink"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女はインクで書いた。",
+      "en": "She wrote in ink."
+    },
+    {
+      "ja": "彼は私にウインクした。",
+      "en": "He gave me a wink."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n5-0310",
+  "jlpt": "N5",
+  "kanji": "後ろ",
+  "kana": "うしろ",
+  "display": "後ろ",
+  "meanings_zh": [
+    "后",
+    "后面",
+    "背",
+    "背面"
+  ],
+  "meanings_en": [
+    "behind"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "後ろを見ろ。",
+      "en": "Look back!"
+    },
+    {
+      "ja": "後ろにいてね。",
+      "en": "Stay behind me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

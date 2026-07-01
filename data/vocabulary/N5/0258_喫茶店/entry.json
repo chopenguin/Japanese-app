@@ -1,0 +1,33 @@
+{
+  "id": "n5-0258",
+  "jlpt": "N5",
+  "kanji": "喫茶店",
+  "kana": "きっさてん",
+  "display": "喫茶店",
+  "meanings_zh": [],
+  "meanings_en": [
+    "coffee lounge"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "喫茶店に行きたい？",
+      "en": "Do you want to go to a coffee shop?"
+    },
+    {
+      "ja": "私は喫茶店に入った。",
+      "en": "I entered a coffee shop."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

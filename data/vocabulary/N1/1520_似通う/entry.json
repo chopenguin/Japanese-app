@@ -1,0 +1,27 @@
+{
+  "id": "n1-1520",
+  "jlpt": "N1",
+  "kanji": "似通う",
+  "kana": "にかよう",
+  "display": "似通う",
+  "meanings_zh": [
+    "相似",
+    "类似"
+  ],
+  "meanings_en": [
+    "to resemble closely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

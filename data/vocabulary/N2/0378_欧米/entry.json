@@ -1,0 +1,34 @@
+{
+  "id": "n2-0378",
+  "jlpt": "N2",
+  "kanji": "欧米",
+  "kana": "おうべい",
+  "display": "欧米",
+  "meanings_zh": [],
+  "meanings_en": [
+    "Europe and America",
+    "the West"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "欧米では犬を家族の一員とみなす。",
+      "en": "In Europe and America they regard the dog as a member of the family."
+    },
+    {
+      "ja": "医学では日本は欧米に追いつきました。",
+      "en": "Japan has caught up with Europe and America in medicine."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

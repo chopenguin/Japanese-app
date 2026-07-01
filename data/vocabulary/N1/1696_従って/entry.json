@@ -1,0 +1,40 @@
+{
+  "id": "n1-1696",
+  "jlpt": "N1",
+  "kanji": "従って",
+  "kana": "したがって",
+  "display": "従って",
+  "meanings_zh": [
+    "因此",
+    "因而",
+    "从而",
+    "所以"
+  ],
+  "meanings_en": [
+    "therefore",
+    "consequently",
+    "in accordance with"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ご忠告に従って行動します。",
+      "en": "I'll act on your advice."
+    },
+    {
+      "ja": "病院の指示に従ってください。",
+      "en": "Please follow the treatment given by the hospital."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

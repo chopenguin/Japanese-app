@@ -1,0 +1,34 @@
+{
+  "id": "n1-1265",
+  "jlpt": "N1",
+  "kanji": "校",
+  "kana": "こう",
+  "display": "校",
+  "meanings_zh": [],
+  "meanings_en": [
+    "-school",
+    "proof"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "学校はどう？",
+      "en": "How's school?"
+    },
+    {
+      "ja": "学校は好き？",
+      "en": "Do you like school?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "n1-1580",
+  "jlpt": "N1",
+  "kanji": "写し",
+  "kana": "うつし",
+  "display": "写し",
+  "meanings_zh": [
+    "抄本",
+    "副本",
+    "摹本",
+    "誊本"
+  ],
+  "meanings_en": [
+    "copy",
+    "duplicate",
+    "facsimile",
+    "transcript"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これは生き写しだ。",
+      "en": "This is true to life."
+    },
+    {
+      "ja": "答え、写してもいい？",
+      "en": "Can I copy your answers?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

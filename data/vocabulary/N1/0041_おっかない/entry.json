@@ -1,0 +1,38 @@
+{
+  "id": "n1-0041",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "おっかない",
+  "display": "おっかない",
+  "meanings_zh": [
+    "可怕",
+    "令人害怕",
+    "令人提心吊胆"
+  ],
+  "meanings_en": [
+    "frightening",
+    "huge"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "妻がおっかないんだ。",
+      "en": "I'm afraid of my wife."
+    },
+    {
+      "ja": "それを飲むのはおっかないな。",
+      "en": "I'm afraid to drink it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

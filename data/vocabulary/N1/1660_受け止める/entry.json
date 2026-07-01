@@ -1,0 +1,37 @@
+{
+  "id": "n1-1660",
+  "jlpt": "N1",
+  "kanji": "受け止める",
+  "kana": "うけとめる",
+  "display": "受け止める",
+  "meanings_zh": [
+    "接住",
+    "挡住",
+    "阻止",
+    "防止"
+  ],
+  "meanings_en": [
+    "to catch",
+    "to stop the blow",
+    "to react to",
+    "to take"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何でもかんでもそう深刻に受け止めるな。",
+      "en": "Don't take everything so seriously."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

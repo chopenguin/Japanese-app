@@ -1,0 +1,38 @@
+{
+  "id": "n3-0251",
+  "jlpt": "N3",
+  "kanji": "愛する",
+  "kana": "あいする",
+  "display": "愛する",
+  "meanings_zh": [
+    "爱",
+    "热爱",
+    "慈爱",
+    "敬爱"
+  ],
+  "meanings_en": [
+    "to love"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "親は子を愛する。",
+      "en": "Parents love their children."
+    },
+    {
+      "ja": "愛は愛を愛する。",
+      "en": "Love loves love."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

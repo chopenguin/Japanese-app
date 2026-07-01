@@ -1,0 +1,36 @@
+{
+  "id": "n1-0037",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "おおい",
+  "display": "おおい",
+  "meanings_zh": [
+    "喂",
+    "嗨"
+  ],
+  "meanings_en": [
+    "hey!"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はおおいに稼ぐ。",
+      "en": "He earns a great deal."
+    },
+    {
+      "ja": "彼におおいに期待している。",
+      "en": "I expect much of him."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

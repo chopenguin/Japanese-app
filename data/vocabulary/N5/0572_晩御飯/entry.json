@@ -1,0 +1,33 @@
+{
+  "id": "n5-0572",
+  "jlpt": "N5",
+  "kanji": "晩御飯",
+  "kana": "ばんごはん",
+  "display": "晩御飯",
+  "meanings_zh": [],
+  "meanings_en": [
+    "evening meal"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "母は晩御飯の支度で忙しい。",
+      "en": "Mother is busy cooking the dinner."
+    },
+    {
+      "ja": "僕らは晩御飯の後散歩に出た。",
+      "en": "We went out for a walk after dinner."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

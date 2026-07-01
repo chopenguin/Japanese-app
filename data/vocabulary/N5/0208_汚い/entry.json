@@ -1,0 +1,37 @@
+{
+  "id": "n5-0208",
+  "jlpt": "N5",
+  "kanji": "汚い",
+  "kana": "きたない",
+  "display": "汚い",
+  "meanings_zh": [
+    "脏",
+    "肮脏",
+    "卑鄙"
+  ],
+  "meanings_en": [
+    "dirty"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "汚い手口ね。",
+      "en": "It's a dirty trick."
+    },
+    {
+      "ja": "汚い手して。",
+      "en": "You have dirty hands."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

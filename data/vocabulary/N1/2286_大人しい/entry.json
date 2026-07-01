@@ -1,0 +1,31 @@
+{
+  "id": "n1-2286",
+  "jlpt": "N1",
+  "kanji": "大人しい",
+  "kana": "おとなしい",
+  "display": "大人しい",
+  "meanings_zh": [
+    "老实",
+    "安详",
+    "温顺",
+    "稳静"
+  ],
+  "meanings_en": [
+    "obedient",
+    "docile",
+    "quiet"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

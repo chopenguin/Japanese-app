@@ -1,0 +1,38 @@
+{
+  "id": "n2-0943",
+  "jlpt": "N2",
+  "kanji": "巡る",
+  "kana": "めぐる",
+  "display": "巡る",
+  "meanings_zh": [
+    "循环",
+    "旋转",
+    "巡游",
+    "围绕"
+  ],
+  "meanings_en": [
+    "to go around"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お城を巡るのが趣味です。",
+      "en": "My hobby is visiting the castle."
+    },
+    {
+      "ja": "思想は世界中をアッという間に巡る。",
+      "en": "Around the world thoughts shall fly in the twinkling of an eye."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

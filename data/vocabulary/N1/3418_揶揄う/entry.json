@@ -1,0 +1,32 @@
+{
+  "id": "n1-3418",
+  "jlpt": "N1",
+  "kanji": "揶揄う",
+  "kana": "からかう",
+  "display": "揶揄う",
+  "meanings_zh": [
+    "逗",
+    "逗弄",
+    "戏弄",
+    "调戏"
+  ],
+  "meanings_en": [
+    "to ridicule",
+    "to tease",
+    "to banter with",
+    "to make fun of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

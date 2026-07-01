@@ -1,0 +1,41 @@
+{
+  "id": "n1-0583",
+  "jlpt": "N1",
+  "kanji": "果たす",
+  "kana": "はたす",
+  "display": "果たす",
+  "meanings_zh": [
+    "完成",
+    "实现",
+    "实行",
+    "光"
+  ],
+  "meanings_en": [
+    "to accomplish",
+    "to fulfill",
+    "to carry out",
+    "to achieve"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は約束を果たす。",
+      "en": "He always fulfills his promises."
+    },
+    {
+      "ja": "彼はいつも約束を果たす。",
+      "en": "He always makes good his promises."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

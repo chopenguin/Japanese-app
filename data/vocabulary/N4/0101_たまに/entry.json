@@ -1,0 +1,33 @@
+{
+  "id": "n4-0101",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "たまに",
+  "display": "たまに",
+  "meanings_zh": [],
+  "meanings_en": [
+    "occasionally"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "たまに夕食作るよ。",
+      "en": "I sometimes cook dinner."
+    },
+    {
+      "ja": "たまには頭を使えよ。",
+      "en": "Use your head for a change."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n1-2656",
+  "jlpt": "N1",
+  "kanji": "日焼け",
+  "kana": "ひやけ",
+  "display": "日焼け",
+  "meanings_zh": [
+    "晒黑",
+    "晒干"
+  ],
+  "meanings_en": [
+    "sunburn"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "日焼けが痛い。",
+      "en": "My sunburn hurts."
+    },
+    {
+      "ja": "私は日焼けをした。",
+      "en": "I got a sunburn."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

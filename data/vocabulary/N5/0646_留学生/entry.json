@@ -1,0 +1,33 @@
+{
+  "id": "n5-0646",
+  "jlpt": "N5",
+  "kanji": "留学生",
+  "kana": "りゅうがくせい",
+  "display": "留学生",
+  "meanings_zh": [],
+  "meanings_en": [
+    "overseas student"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "留学生の方ですか？",
+      "en": "Are you an exchange student?"
+    },
+    {
+      "ja": "留学生も入れるのかしら。",
+      "en": "Can foreign students be in the club?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

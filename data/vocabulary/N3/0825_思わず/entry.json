@@ -1,0 +1,39 @@
+{
+  "id": "n3-0825",
+  "jlpt": "N3",
+  "kanji": "思わず",
+  "kana": "おもわず",
+  "display": "思わず",
+  "meanings_zh": [
+    "禁不住",
+    "不由得",
+    "不由自主地",
+    "情不自禁地"
+  ],
+  "meanings_en": [
+    "unintentional",
+    "spontaneous"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は思わず笑った。",
+      "en": "He laughed in spite of himself."
+    },
+    {
+      "ja": "私は思わず泣いた。",
+      "en": "I wept in spite of myself."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

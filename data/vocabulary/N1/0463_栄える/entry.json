@@ -1,0 +1,39 @@
+{
+  "id": "n1-0463",
+  "jlpt": "N1",
+  "kanji": "栄える",
+  "kana": "さかえる",
+  "display": "栄える",
+  "meanings_zh": [
+    "繁荣兴盛",
+    "兴旺",
+    "昌盛",
+    "隆盛"
+  ],
+  "meanings_en": [
+    "to prosper",
+    "to flourish"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "善人必ずしも栄える者でない。",
+      "en": "Not all good men will prosper."
+    },
+    {
+      "ja": "文字はそれが半ば商売、半ば芸術であるとき最高に栄える。",
+      "en": "Literature flourishes best when it is half a trade and half an art."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "n1-3371",
+  "jlpt": "N1",
+  "kanji": "漏る",
+  "kana": "もる",
+  "display": "漏る",
+  "meanings_zh": [
+    "漏"
+  ],
+  "meanings_en": [
+    "to leak",
+    "to run out"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "雨が降ると必ず屋根から雨水が漏る。",
+      "en": "Every time it rains, the roof leaks."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

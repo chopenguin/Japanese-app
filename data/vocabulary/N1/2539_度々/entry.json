@@ -1,0 +1,35 @@
+{
+  "id": "n1-2539",
+  "jlpt": "N1",
+  "kanji": "度々",
+  "kana": "たびたび",
+  "display": "度々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "often",
+    "repeatedly",
+    "frequently"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "度々ごめんね。",
+      "en": "Sorry for asking so many questions."
+    },
+    {
+      "ja": "彼は度々遅れてきます。",
+      "en": "He often comes late."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

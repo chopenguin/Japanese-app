@@ -1,0 +1,32 @@
+{
+  "id": "n2-0198",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "なにしろ",
+  "display": "なにしろ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "at any rate",
+    "anyhow",
+    "anyway",
+    "in any case"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "なにしろ、独り者で。",
+      "en": "I'm still single."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

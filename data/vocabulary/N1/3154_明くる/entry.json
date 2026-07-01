@@ -1,0 +1,39 @@
+{
+  "id": "n1-3154",
+  "jlpt": "N1",
+  "kanji": "明くる",
+  "kana": "あくる",
+  "display": "明くる",
+  "meanings_zh": [
+    "下",
+    "次",
+    "翌",
+    "第二"
+  ],
+  "meanings_en": [
+    "next",
+    "following"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "僕は明くる朝パリへ立つことになっていた。",
+      "en": "I was leaving for Paris the next morning."
+    },
+    {
+      "ja": "さよなら！さよなら！ああ、別れというものは悲し懐かしいものじゃ。夜が明くるまで、こうしてさよならを言うていたい。",
+      "en": "Good night, good night! Parting is such sweet sorrow, that I shall say good night till it be morrow."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

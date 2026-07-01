@@ -1,0 +1,41 @@
+{
+  "id": "n2-0228",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ふざける",
+  "display": "ふざける",
+  "meanings_zh": [
+    "开玩笑",
+    "戏谑",
+    "愚弄",
+    "戏弄"
+  ],
+  "meanings_en": [
+    "to romp",
+    "to gambol",
+    "to frolic",
+    "to joke"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ふざけるな！",
+      "en": "Don't kid me!"
+    },
+    {
+      "ja": "ふざけるにもほどがある！",
+      "en": "Even jokes have a limit!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

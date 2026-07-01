@@ -1,0 +1,38 @@
+{
+  "id": "n1-0492",
+  "jlpt": "N1",
+  "kanji": "遠ざかる",
+  "kana": "とおざかる",
+  "display": "遠ざかる",
+  "meanings_zh": [
+    "远离",
+    "离远",
+    "疏远",
+    "不用"
+  ],
+  "meanings_en": [
+    "to go far off"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "暗闇の中、俺は遠ざかる後姿に必死に手を伸ばす。",
+      "en": "In the darkness, I frantically reach out towards the receding figure."
+    },
+    {
+      "ja": "トムはどうやら厄介なことから遠ざかることはできないようだ。",
+      "en": "Tom can't seem to keep out of trouble."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

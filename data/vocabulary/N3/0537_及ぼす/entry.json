@@ -1,0 +1,40 @@
+{
+  "id": "n3-0537",
+  "jlpt": "N3",
+  "kanji": "及ぼす",
+  "kana": "およぼす",
+  "display": "及ぼす",
+  "meanings_zh": [
+    "达到",
+    "波及",
+    "影响到",
+    "使受到"
+  ],
+  "meanings_en": [
+    "to exert",
+    "to cause",
+    "to exercise"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それは我々に危害を及ぼすだろう。",
+      "en": "It will do harm to us."
+    },
+    {
+      "ja": "熱帯雨林の破壊は環境に影響を及ぼす。",
+      "en": "The destruction of the rainforests affects our environment."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n1-0940",
+  "jlpt": "N1",
+  "kanji": "強まる",
+  "kana": "つよまる",
+  "display": "強まる",
+  "meanings_zh": [
+    "强烈起来",
+    "强硬起来"
+  ],
+  "meanings_en": [
+    "to get strong",
+    "to gain strength"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お昼ごろには、雨脚が強まる見込みです。",
+      "en": "Around noon, the chance of passing rain showers gets stronger."
+    },
+    {
+      "ja": "強い冬型の気圧配置となり、雪が強まるおそれがある。",
+      "en": "There's a fear that the snow will strengthen amid the strong winter pressure pattern."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

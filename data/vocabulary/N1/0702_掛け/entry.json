@@ -1,0 +1,41 @@
+{
+  "id": "n1-0702",
+  "jlpt": "N1",
+  "kanji": "掛け",
+  "kana": "かけ",
+  "display": "掛け",
+  "meanings_zh": [
+    "没～～完 穿着",
+    "戴着",
+    "～～成",
+    "～～折 赊帐",
+    "帐款",
+    "欠款",
+    "谎价"
+  ],
+  "meanings_en": [
+    "credit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "後で掛け直す。",
+      "en": "I'm gonna have to call you back."
+    },
+    {
+      "ja": "お掛けください。",
+      "en": "Please take your seat."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

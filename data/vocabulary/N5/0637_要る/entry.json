@@ -1,0 +1,38 @@
+{
+  "id": "n5-0637",
+  "jlpt": "N5",
+  "kanji": "要る",
+  "kana": "いる",
+  "display": "要る",
+  "meanings_zh": [
+    "要",
+    "需要",
+    "必要",
+    "得"
+  ],
+  "meanings_en": [
+    "to need"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "車が要るの？",
+      "en": "Do you want a car?"
+    },
+    {
+      "ja": "両方要るよ。",
+      "en": "We need both."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

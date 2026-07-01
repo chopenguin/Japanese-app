@@ -1,0 +1,38 @@
+{
+  "id": "n5-0256",
+  "jlpt": "N5",
+  "kanji": "帰る",
+  "kana": "かえる",
+  "display": "帰る",
+  "meanings_zh": [
+    "回归",
+    "回来",
+    "回去",
+    "归去"
+  ],
+  "meanings_en": [
+    "to go back"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "家に帰るよ。",
+      "en": "I leave to go home."
+    },
+    {
+      "ja": "今から帰る？",
+      "en": "Are you going back now?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

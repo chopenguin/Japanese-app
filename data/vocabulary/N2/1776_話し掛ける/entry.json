@@ -1,0 +1,39 @@
+{
+  "id": "n2-1776",
+  "jlpt": "N2",
+  "kanji": "話し掛ける",
+  "kana": "はなしかける",
+  "display": "話し掛ける",
+  "meanings_zh": [
+    "跟人说话",
+    "搭话",
+    "攀谈",
+    "开始说"
+  ],
+  "meanings_en": [
+    "to accost a person",
+    "to talk (to someone)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女に話し掛けるのはよそう。",
+      "en": "Let's not talk to her."
+    },
+    {
+      "ja": "彼女には話し掛ける人がいない。",
+      "en": "She has no one to speak to."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n3-0004",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "アウト",
+  "display": "アウト",
+  "meanings_zh": [
+    "外",
+    "外边",
+    "出界",
+    "出局"
+  ],
+  "meanings_en": [
+    "out"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "テイクアウトしよう。",
+      "en": "Let's get takeout."
+    },
+    {
+      "ja": "打者はアウトになった。",
+      "en": "The batter was out."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

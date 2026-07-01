@@ -1,0 +1,36 @@
+{
+  "id": "n2-0681",
+  "jlpt": "N2",
+  "kanji": "交じる",
+  "kana": "まじる",
+  "display": "交じる",
+  "meanings_zh": [
+    "混",
+    "杂",
+    "夹杂",
+    "搀混"
+  ],
+  "meanings_en": [
+    "to be mixed",
+    "to be blended with",
+    "to associate with"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "父の髪に白髪が交じるようになった。",
+      "en": "My father's hair has become streaked with gray."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

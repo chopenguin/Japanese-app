@@ -1,0 +1,39 @@
+{
+  "id": "n5-0210",
+  "jlpt": "N5",
+  "kanji": "押す",
+  "kana": "おす",
+  "display": "押す",
+  "meanings_zh": [
+    "推",
+    "挤",
+    "撑",
+    "压"
+  ],
+  "meanings_en": [
+    "to push",
+    "to stamp something"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ボタンを押す。",
+      "en": "Press the button."
+    },
+    {
+      "ja": "押すの手伝って。",
+      "en": "Help me push it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

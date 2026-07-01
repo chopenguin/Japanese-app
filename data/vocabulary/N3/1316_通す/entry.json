@@ -1,0 +1,43 @@
+{
+  "id": "n3-1316",
+  "jlpt": "N3",
+  "kanji": "通す",
+  "kana": "とおす",
+  "display": "通す",
+  "meanings_zh": [
+    "穿过",
+    "穿通",
+    "贯通",
+    "渗透 连续",
+    "一贯",
+    "一直",
+    "到底"
+  ],
+  "meanings_en": [
+    "to let pass",
+    "to overlook",
+    "to continue"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "銅はよく電気を通す。",
+      "en": "Copper conducts electricity well."
+    },
+    {
+      "ja": "床下にパイプを通す。",
+      "en": "Run pipes under the floor."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

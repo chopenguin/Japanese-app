@@ -1,0 +1,41 @@
+{
+  "id": "n2-1496",
+  "jlpt": "N2",
+  "kanji": "飛び込む",
+  "kana": "とびこむ",
+  "display": "飛び込む",
+  "meanings_zh": [
+    "跳入",
+    "跳进去",
+    "飞入",
+    "突然进入"
+  ],
+  "meanings_en": [
+    "to jump in",
+    "to leap in",
+    "to plunge into",
+    "to dive"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "水の中に飛び込むぞ。",
+      "en": "Let's jump into the water."
+    },
+    {
+      "ja": "その子は水に飛び込む気持ちにはどうしてもなれなかった。",
+      "en": "She could not bring herself to jump into the water."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

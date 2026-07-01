@@ -1,0 +1,33 @@
+{
+  "id": "n4-0138",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ほめる",
+  "display": "ほめる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to praise"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女はほめる言葉に困る程だ。",
+      "en": "She is above praise."
+    },
+    {
+      "ja": "みんないつもトニーをほめる。",
+      "en": "Everyone always speaks well of Tony."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

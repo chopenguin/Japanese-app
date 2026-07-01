@@ -1,0 +1,38 @@
+{
+  "id": "n4-0238",
+  "jlpt": "N4",
+  "kanji": "急ぐ",
+  "kana": "いそぐ",
+  "display": "急ぐ",
+  "meanings_zh": [
+    "快",
+    "急",
+    "加快",
+    "赶紧"
+  ],
+  "meanings_en": [
+    "to hurry"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "急ぐ必要はないよ。",
+      "en": "You don't have to hurry."
+    },
+    {
+      "ja": "急ぐと無駄が出来る。",
+      "en": "Haste makes waste."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

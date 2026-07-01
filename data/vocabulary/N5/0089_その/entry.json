@@ -1,0 +1,35 @@
+{
+  "id": "n5-0089",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "その",
+  "display": "その",
+  "meanings_zh": [
+    "那个"
+  ],
+  "meanings_en": [
+    "that"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その内訳は？",
+      "en": "Give me the details."
+    },
+    {
+      "ja": "その調子だ。",
+      "en": "That's the spirit."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

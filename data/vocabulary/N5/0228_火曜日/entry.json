@@ -1,0 +1,33 @@
+{
+  "id": "n5-0228",
+  "jlpt": "N5",
+  "kanji": "火曜日",
+  "kana": "かようび",
+  "display": "火曜日",
+  "meanings_zh": [],
+  "meanings_en": [
+    "Tuesday"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今日は火曜日です。",
+      "en": "Today is Tuesday."
+    },
+    {
+      "ja": "火曜日はお暇ですか。",
+      "en": "Are you free on Tuesday?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

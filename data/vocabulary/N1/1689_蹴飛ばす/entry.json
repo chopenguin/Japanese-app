@@ -1,0 +1,38 @@
+{
+  "id": "n1-1689",
+  "jlpt": "N1",
+  "kanji": "蹴飛ばす",
+  "kana": "けとばす",
+  "display": "蹴飛ばす",
+  "meanings_zh": [
+    "踢开",
+    "踢散",
+    "踢倒",
+    "拒绝"
+  ],
+  "meanings_en": [
+    "to kick away",
+    "to kick off",
+    "to kick (someone)",
+    "to refuse",
+    "to reject"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ごめん！蹴飛ばすつもりじゃなかったんだ。",
+      "en": "I'm so sorry. I didn't mean to kick you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

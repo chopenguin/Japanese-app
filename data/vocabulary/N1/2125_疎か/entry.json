@@ -1,0 +1,31 @@
+{
+  "id": "n1-2125",
+  "jlpt": "N1",
+  "kanji": "疎か",
+  "kana": "おろそか",
+  "display": "疎か",
+  "meanings_zh": [
+    "疏忽",
+    "玩忽",
+    "不认真",
+    "马马虎虎"
+  ],
+  "meanings_en": [
+    "neglect",
+    "negligence",
+    "carelessness"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

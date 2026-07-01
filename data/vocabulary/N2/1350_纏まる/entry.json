@@ -1,0 +1,31 @@
+{
+  "id": "n2-1350",
+  "jlpt": "N2",
+  "kanji": "纏まる",
+  "kana": "まとまる",
+  "display": "纏まる",
+  "meanings_zh": [
+    "解决",
+    "妥",
+    "谈妥",
+    "凑齐"
+  ],
+  "meanings_en": [
+    "to be collected",
+    "to be settled",
+    "to be in order"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

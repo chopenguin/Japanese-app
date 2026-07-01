@@ -1,0 +1,35 @@
+{
+  "id": "n1-0354",
+  "jlpt": "N1",
+  "kanji": "暗算",
+  "kana": "あんざん",
+  "display": "暗算",
+  "meanings_zh": [
+    "心算"
+  ],
+  "meanings_en": [
+    "mental arithmetic"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムは暗算が得意だよ。",
+      "en": "Tom is good at mental math."
+    },
+    {
+      "ja": "彼は暗算をするほど頭が良くない。",
+      "en": "He doesn't have enough brains to do sums in his head."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

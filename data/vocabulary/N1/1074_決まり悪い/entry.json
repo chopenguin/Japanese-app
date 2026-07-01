@@ -1,0 +1,35 @@
+{
+  "id": "n1-1074",
+  "jlpt": "N1",
+  "kanji": "決まり悪い",
+  "kana": "きまりわるい",
+  "display": "決まり悪い",
+  "meanings_zh": [
+    "不好意思",
+    "拉不下脸",
+    "害羞",
+    "难为情"
+  ],
+  "meanings_en": [
+    "feeling awkward",
+    "being ashamed"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は誤りを指摘されて決まり悪い思いをした。",
+      "en": "I was abashed when my mistakes were pointed out."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

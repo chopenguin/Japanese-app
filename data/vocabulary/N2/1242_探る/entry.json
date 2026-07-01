@@ -1,0 +1,36 @@
+{
+  "id": "n2-1242",
+  "jlpt": "N2",
+  "kanji": "探る",
+  "kana": "さぐる",
+  "display": "探る",
+  "meanings_zh": [
+    "摸",
+    "探",
+    "探听",
+    "试探"
+  ],
+  "meanings_en": [
+    "to search",
+    "to look for",
+    "to sound out"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "我々の至上命題はこの紛争にすっぱりと終止符を打つことであって、そのために妥協点を探ることも辞さない。",
+      "en": "Our top priority is to settle this dispute once and for all, so we are ready to meet them halfway."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n1-0099",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "グラフ",
+  "display": "グラフ",
+  "meanings_zh": [
+    "图表",
+    "图解",
+    "座标图",
+    "画报"
+  ],
+  "meanings_en": [
+    "graph"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そのパラグラフは内容を重視しています。",
+      "en": "The paragraph emphasises the message."
+    },
+    {
+      "ja": "炭素排出量の変動が、以下のグラフに描かれている。",
+      "en": "The differing volumes of carbon emissions are plotted in the graph below."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

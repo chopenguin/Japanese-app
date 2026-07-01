@@ -1,0 +1,38 @@
+{
+  "id": "n1-1888",
+  "jlpt": "N1",
+  "kanji": "深める",
+  "kana": "ふかめる",
+  "display": "深める",
+  "meanings_zh": [
+    "加深",
+    "加强"
+  ],
+  "meanings_en": [
+    "to deepen",
+    "to heighten",
+    "to intensify"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "時は友情を深めるが、恋愛を弱める。",
+      "en": "Time, which strengthens friendship, weakens love."
+    },
+    {
+      "ja": "読書は知性を深めることができます。",
+      "en": "Reading can develop your mind."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "n1-2330",
+  "jlpt": "N1",
+  "kanji": "弾む",
+  "kana": "はずむ",
+  "display": "弾む",
+  "meanings_zh": [
+    "跳",
+    "蹦",
+    "反跳",
+    "高涨"
+  ],
+  "meanings_en": [
+    "to spring",
+    "to bound",
+    "to bounce",
+    "to be stimulated",
+    "to be encouraged",
+    "to get lively",
+    "to treat oneself to",
+    "to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ゴムのボールは弾力性があるから弾む。",
+      "en": "A rubber ball bounces because it is elastic."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

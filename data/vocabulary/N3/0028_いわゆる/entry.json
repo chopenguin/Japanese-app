@@ -1,0 +1,39 @@
+{
+  "id": "n3-0028",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "いわゆる",
+  "display": "いわゆる",
+  "meanings_zh": [
+    "所谓",
+    "一般人说的",
+    "大家所说的",
+    "常说的"
+  ],
+  "meanings_en": [
+    "the so-called",
+    "so to speak"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女はいわゆる天才だ。",
+      "en": "She is what is called a genius."
+    },
+    {
+      "ja": "彼はいわゆる優等生だ。",
+      "en": "He is what we call an honour student."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

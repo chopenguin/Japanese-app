@@ -1,0 +1,41 @@
+{
+  "id": "n1-0003",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "あくどい",
+  "display": "あくどい",
+  "meanings_zh": [
+    "过于浓艳",
+    "太腻",
+    "太过火而(使人)讨厌",
+    "恶毒"
+  ],
+  "meanings_en": [
+    "1.  gaudy",
+    "showy",
+    "excessive",
+    "2.  vicious"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あくどい事をするな。",
+      "en": "Don't do wicked things."
+    },
+    {
+      "ja": "王女があくどい化粧をしていた。",
+      "en": "The princess was wearing too much makeup."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

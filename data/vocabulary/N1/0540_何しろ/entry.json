@@ -1,0 +1,32 @@
+{
+  "id": "n1-0540",
+  "jlpt": "N1",
+  "kanji": "何しろ",
+  "kana": "なにしろ",
+  "display": "何しろ",
+  "meanings_zh": [
+    "无论怎样",
+    "不管怎样",
+    "反正",
+    "毕竟"
+  ],
+  "meanings_en": [
+    "at any rate",
+    "anyhow",
+    "anyway",
+    "in any case"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

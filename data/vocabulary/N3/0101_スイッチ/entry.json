@@ -1,0 +1,38 @@
+{
+  "id": "n3-0101",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "スイッチ",
+  "display": "スイッチ",
+  "meanings_zh": [
+    "电门",
+    "开关",
+    "转辙器",
+    "路闸"
+  ],
+  "meanings_en": [
+    "switch"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "スイッチは切れている。",
+      "en": "The switch is off."
+    },
+    {
+      "ja": "彼女はスイッチを押した。",
+      "en": "She pressed the switch."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

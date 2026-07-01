@@ -1,0 +1,40 @@
+{
+  "id": "n1-3461",
+  "jlpt": "N1",
+  "kanji": "騙す",
+  "kana": "だます",
+  "display": "騙す",
+  "meanings_zh": [
+    "骗",
+    "诓骗",
+    "欺骗",
+    "蒙骗"
+  ],
+  "meanings_en": [
+    "to trick",
+    "to cheat",
+    "to deceive"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "同僚を騙すのは良くないよ。",
+      "en": "It is not good of you to take advantage of your colleagues."
+    },
+    {
+      "ja": "騙すつもりはなかったんだよ。",
+      "en": "I wasn't trying to trick you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

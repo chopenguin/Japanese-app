@@ -1,0 +1,40 @@
+{
+  "id": "n1-2021",
+  "jlpt": "N1",
+  "kanji": "盛る",
+  "kana": "さかる",
+  "display": "盛る",
+  "meanings_zh": [
+    "旺",
+    "旺盛",
+    "繁盛",
+    "兴隆"
+  ],
+  "meanings_en": [
+    "to prosper",
+    "to flourish",
+    "to copulate (animals)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お刺身を盛るお皿は、どれにする？",
+      "en": "Which plate should I serve sashimi on?"
+    },
+    {
+      "ja": "その消防夫は勇敢にも燃え盛る家から赤ん坊を救った。",
+      "en": "The brave fireman rescued a boy from the burning house."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

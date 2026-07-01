@@ -1,0 +1,38 @@
+{
+  "id": "n4-0416",
+  "jlpt": "N4",
+  "kanji": "凄い",
+  "kana": "すごい",
+  "display": "凄い",
+  "meanings_zh": [
+    "可怕",
+    "骇人",
+    "令人害怕",
+    "惊人"
+  ],
+  "meanings_en": [
+    "terrific"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そいつは凄い！",
+      "en": "That's amazing!"
+    },
+    {
+      "ja": "凄い経験でした。",
+      "en": "It was a terrific experience."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

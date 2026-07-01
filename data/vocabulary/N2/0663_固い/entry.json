@@ -1,0 +1,39 @@
+{
+  "id": "n2-0663",
+  "jlpt": "N2",
+  "kanji": "固い",
+  "kana": "かたい",
+  "display": "固い",
+  "meanings_zh": [
+    "硬",
+    "坚实",
+    "坚固",
+    "坚定"
+  ],
+  "meanings_en": [
+    "stubborn",
+    "firm (not viscous or easily moved)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は頭が固い。",
+      "en": "He is thick-headed."
+    },
+    {
+      "ja": "表情が固いね。",
+      "en": "What a stern expression."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

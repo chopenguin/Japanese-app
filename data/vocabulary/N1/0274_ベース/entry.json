@@ -1,0 +1,39 @@
+{
+  "id": "n1-0274",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ベース",
+  "display": "ベース",
+  "meanings_zh": [
+    "基本",
+    "根基",
+    "基础",
+    "基准"
+  ],
+  "meanings_en": [
+    "base",
+    "bass"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は、あのベースが好き。",
+      "en": "She likes that bass."
+    },
+    {
+      "ja": "これは、すごくいいデーターベースですね。",
+      "en": "This is a very good data base."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

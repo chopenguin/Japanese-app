@@ -1,0 +1,33 @@
+{
+  "id": "n5-0131",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "など",
+  "display": "など",
+  "meanings_zh": [],
+  "meanings_en": [
+    "et cetera"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "神などいない。",
+      "en": "There is no god."
+    },
+    {
+      "ja": "嘘などつくもんか。",
+      "en": "I won't lie."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

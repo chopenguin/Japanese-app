@@ -1,0 +1,33 @@
+{
+  "id": "n4-0379",
+  "jlpt": "N4",
+  "kanji": "消しゴム",
+  "kana": "けしゴム",
+  "display": "消しゴム",
+  "meanings_zh": [],
+  "meanings_en": [
+    "eraser"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "消しゴム返してよ。",
+      "en": "Give me back my eraser."
+    },
+    {
+      "ja": "消しゴム借りていい？",
+      "en": "May I borrow your eraser?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

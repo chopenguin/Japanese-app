@@ -1,0 +1,38 @@
+{
+  "id": "n1-1381",
+  "jlpt": "N1",
+  "kanji": "済みません",
+  "kana": "すみません",
+  "display": "済みません",
+  "meanings_zh": [
+    "对不起",
+    "抱歉",
+    "劳驾"
+  ],
+  "meanings_en": [
+    "sorry",
+    "excuse me"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "済みません。通してくれますか。",
+      "en": "Excuse me. Can I get by here?"
+    },
+    {
+      "ja": "済みません、電話に出て下さい。",
+      "en": "Please answer the phone."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

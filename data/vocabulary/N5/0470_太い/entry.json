@@ -1,0 +1,38 @@
+{
+  "id": "n5-0470",
+  "jlpt": "N5",
+  "kanji": "太い",
+  "kana": "ふとい",
+  "display": "太い",
+  "meanings_zh": [
+    "粗",
+    "顸",
+    "大",
+    "无耻"
+  ],
+  "meanings_en": [
+    "fat"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムは首が太いんだ。",
+      "en": "Tom has a thick neck."
+    },
+    {
+      "ja": "このペンは太いです。",
+      "en": "This pen is thick."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

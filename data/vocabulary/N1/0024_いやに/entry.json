@@ -1,0 +1,39 @@
+{
+  "id": "n1-0024",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "いやに",
+  "display": "いやに",
+  "meanings_zh": [
+    "太",
+    "真",
+    "够",
+    "非常"
+  ],
+  "meanings_en": [
+    "awfully",
+    "terribly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今日はいやに暑い。",
+      "en": "It's awfully hot today."
+    },
+    {
+      "ja": "嘘をつくのがいやになった。",
+      "en": "I'm sick of lying."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

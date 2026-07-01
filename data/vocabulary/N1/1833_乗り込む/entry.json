@@ -1,0 +1,43 @@
+{
+  "id": "n1-1833",
+  "jlpt": "N1",
+  "kanji": "乗り込む",
+  "kana": "のりこむ",
+  "display": "乗り込む",
+  "meanings_zh": [
+    "乘上",
+    "坐进",
+    "进入",
+    "开进"
+  ],
+  "meanings_en": [
+    "to board",
+    "to embark on",
+    "to get into (a car)",
+    "to ship (passengers)",
+    "to man (a ship)",
+    "to help (someone) int"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "もう乗り込む時間だ。",
+      "en": "It's time to get aboard."
+    },
+    {
+      "ja": "大統領は車に乗り込むところです。",
+      "en": "The president is getting into the car."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

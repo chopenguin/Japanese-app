@@ -1,0 +1,38 @@
+{
+  "id": "n5-0227",
+  "jlpt": "N5",
+  "kanji": "歌う",
+  "kana": "うたう",
+  "display": "歌う",
+  "meanings_zh": [
+    "唱",
+    "赋诗",
+    "咏歌",
+    "歌吟"
+  ],
+  "meanings_en": [
+    "to sing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は今歌う。",
+      "en": "I sing now."
+    },
+    {
+      "ja": "君が歌う番だよ。",
+      "en": "It's your turn to sing."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

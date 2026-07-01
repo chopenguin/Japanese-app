@@ -1,0 +1,39 @@
+{
+  "id": "n3-1084",
+  "jlpt": "N3",
+  "kanji": "酔う",
+  "kana": "よう",
+  "display": "酔う",
+  "meanings_zh": [
+    "醉",
+    "喝醉",
+    "晕",
+    "陶醉"
+  ],
+  "meanings_en": [
+    "to get drunk",
+    "to become intoxicated"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は酔うと手がつけられない。",
+      "en": "He is out of control when drunk."
+    },
+    {
+      "ja": "トムが車に酔うことってあるの？",
+      "en": "Does Tom ever get carsick?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n3-0301",
+  "jlpt": "N3",
+  "kanji": "一度に",
+  "kana": "いちどに",
+  "display": "一度に",
+  "meanings_zh": [
+    "同时",
+    "一下子",
+    "一块儿"
+  ],
+  "meanings_en": [
+    "all at once"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "一度に一事をせよ。",
+      "en": "Do one thing at a time."
+    },
+    {
+      "ja": "両方一度にはできんよ。",
+      "en": "You can't have your cake and eat it too."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

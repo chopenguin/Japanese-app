@@ -1,0 +1,38 @@
+{
+  "id": "n3-0001",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "アイスクリーム",
+  "display": "アイスクリーム",
+  "meanings_zh": [
+    "冰激凌",
+    "冰淇林",
+    "冰糕",
+    "雪糕"
+  ],
+  "meanings_en": [
+    "ice cream"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "アイスクリームが好きだ。",
+      "en": "I like ice cream."
+    },
+    {
+      "ja": "夏はアイスクリームに限る。",
+      "en": "There is nothing like ice cream in the summer."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

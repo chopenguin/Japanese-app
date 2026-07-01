@@ -1,0 +1,34 @@
+{
+  "id": "n1-0043",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "オリエンテーション",
+  "display": "オリエンテーション",
+  "meanings_zh": [
+    "定向",
+    "定位",
+    "取向",
+    "确定方针"
+  ],
+  "meanings_en": [
+    "orientation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "新入生向けのオリエンテーションを行う。",
+      "en": "We will have a period of orientation for freshmen."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

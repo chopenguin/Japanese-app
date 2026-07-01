@@ -1,0 +1,39 @@
+{
+  "id": "n2-1471",
+  "jlpt": "N2",
+  "kanji": "薄暗い",
+  "kana": "うすぐらい",
+  "display": "薄暗い",
+  "meanings_zh": [
+    "发暗",
+    "微暗",
+    "昏暗",
+    "阴暗"
+  ],
+  "meanings_en": [
+    "dim",
+    "gloomy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "薄暗い光の中で彼の顔を見た。",
+      "en": "I saw his face in the dim light."
+    },
+    {
+      "ja": "薄暗い明かりで本を読んではいけない。",
+      "en": "You shouldn't read in such poor light."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

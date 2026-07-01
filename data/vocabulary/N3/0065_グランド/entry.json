@@ -1,0 +1,35 @@
+{
+  "id": "n3-0065",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "グランド",
+  "display": "グランド",
+  "meanings_zh": [],
+  "meanings_en": [
+    "gland",
+    "grand",
+    "(electrical) ground"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "イングランド出身です。",
+      "en": "I'm from England."
+    },
+    {
+      "ja": "グランドは、ドロドロよ。",
+      "en": "The ground is soft and muddy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

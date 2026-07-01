@@ -1,0 +1,40 @@
+{
+  "id": "n1-1878",
+  "jlpt": "N1",
+  "kanji": "振り出し",
+  "kana": "ふりだし",
+  "display": "振り出し",
+  "meanings_zh": [
+    "出发点",
+    "开始",
+    "开端",
+    "最初"
+  ],
+  "meanings_en": [
+    "outset",
+    "starting point",
+    "drawing or issuing (draft)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "振り出しに戻ってしまった。",
+      "en": "We were back to square one."
+    },
+    {
+      "ja": "フェンスの向こう側に片足を振り出した。",
+      "en": "I swung my leg over the fence."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

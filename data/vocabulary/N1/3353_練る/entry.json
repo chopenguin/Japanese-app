@@ -1,0 +1,40 @@
+{
+  "id": "n1-3353",
+  "jlpt": "N1",
+  "kanji": "練る",
+  "kana": "ねる",
+  "display": "練る",
+  "meanings_zh": [
+    "仔细推敲",
+    "斟酌",
+    "锻炼",
+    "修养"
+  ],
+  "meanings_en": [
+    "to knead",
+    "to work over",
+    "to polish up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "君は胆力を練る必要がある。",
+      "en": "You must build up your courage."
+    },
+    {
+      "ja": "人に聞いた話をヒントに新たな構想を練る。",
+      "en": "I listen to what people say to get hints for developing new ideas."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "n1-1261",
+  "jlpt": "N1",
+  "kanji": "控える",
+  "kana": "ひかえる",
+  "display": "控える",
+  "meanings_zh": [
+    "等候",
+    "待命",
+    "勒住",
+    "拉住"
+  ],
+  "meanings_en": [
+    "to draw in",
+    "to hold back",
+    "to make notes",
+    "to be temperate in"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "痩せたいなら間食は控えるべきだ。",
+      "en": "If you want to become thin, you should cut back on the between-meal snacks."
+    },
+    {
+      "ja": "塩分を控えるように言われました。",
+      "en": "I've been told to cut down on salt."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

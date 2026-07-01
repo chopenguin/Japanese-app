@@ -1,0 +1,38 @@
+{
+  "id": "n2-0488",
+  "jlpt": "N2",
+  "kanji": "渇く",
+  "kana": "かわく",
+  "display": "渇く",
+  "meanings_zh": [
+    "渴",
+    "干渴",
+    "渴望",
+    "内心的要求"
+  ],
+  "meanings_en": [
+    "to be thirsty"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "しょっちゅう喉が渇くんだよ。",
+      "en": "I'm always thirsty."
+    },
+    {
+      "ja": "ある種の食物を食べるとのどが渇く。",
+      "en": "Some kinds of food make one thirsty."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

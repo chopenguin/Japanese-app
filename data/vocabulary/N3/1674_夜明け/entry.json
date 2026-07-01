@@ -1,0 +1,39 @@
+{
+  "id": "n3-1674",
+  "jlpt": "N3",
+  "kanji": "夜明け",
+  "kana": "よあけ",
+  "display": "夜明け",
+  "meanings_zh": [
+    "天亮的时候",
+    "拂晓",
+    "天明",
+    "黎明"
+  ],
+  "meanings_en": [
+    "dawn",
+    "daybreak"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "夜明け前が一番暗い。",
+      "en": "The darkest hour is just before the dawn."
+    },
+    {
+      "ja": "私たちは夜明けに起きた。",
+      "en": "We got up at dawn."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n4-0561",
+  "jlpt": "N4",
+  "kanji": "文学",
+  "kana": "ぶんがく",
+  "display": "文学",
+  "meanings_zh": [],
+  "meanings_en": [
+    "literature"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は文学者である。",
+      "en": "He is a man of letters."
+    },
+    {
+      "ja": "文学の講義をする。",
+      "en": "I will lecture on literature."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

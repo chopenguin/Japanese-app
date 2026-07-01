@@ -1,0 +1,45 @@
+{
+  "id": "n1-2049",
+  "jlpt": "N1",
+  "kanji": "切り",
+  "kana": "きり",
+  "display": "切り",
+  "meanings_zh": [
+    "限度",
+    "终结",
+    "段落"
+  ],
+  "meanings_en": [
+    "limits",
+    "end",
+    "bounds",
+    "period",
+    "place to leave off",
+    "closing sentence",
+    "all there is",
+    "only",
+    "since"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "千切りにする。",
+      "en": "Cut into long thin strips."
+    },
+    {
+      "ja": "指を切りました。",
+      "en": "I just cut my finger."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

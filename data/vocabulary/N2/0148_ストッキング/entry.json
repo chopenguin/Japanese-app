@@ -1,0 +1,35 @@
+{
+  "id": "n2-0148",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ストッキング",
+  "display": "ストッキング",
+  "meanings_zh": [
+    "长筒袜"
+  ],
+  "meanings_en": [
+    "stockings"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "このストッキングはとても高い。",
+      "en": "These stockings are very dear."
+    },
+    {
+      "ja": "冬は、ストッキングを履きます。",
+      "en": "In winter, I wear warm stockings."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

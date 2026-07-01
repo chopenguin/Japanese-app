@@ -1,0 +1,36 @@
+{
+  "id": "n2-0271",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "メニュー",
+  "display": "メニュー",
+  "meanings_zh": [
+    "菜单",
+    "菜谱"
+  ],
+  "meanings_en": [
+    "menu"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "メニューをください。",
+      "en": "Menu, please!"
+    },
+    {
+      "ja": "メニューを見せて下さい。",
+      "en": "Please let me take a look at the menu."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n3-0224",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ママ",
+  "display": "ママ",
+  "meanings_zh": [
+    "妈妈",
+    "孩子妈",
+    "女掌柜"
+  ],
+  "meanings_en": [
+    "Mama"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ママはどこ？",
+      "en": "Where's my mama?"
+    },
+    {
+      "ja": "早く、ママ。",
+      "en": "Hurry up, Mom."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

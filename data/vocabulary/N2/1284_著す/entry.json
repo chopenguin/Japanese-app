@@ -1,0 +1,29 @@
+{
+  "id": "n2-1284",
+  "jlpt": "N2",
+  "kanji": "著す",
+  "kana": "あらわす",
+  "display": "著す",
+  "meanings_zh": [
+    "著",
+    "著作",
+    "写"
+  ],
+  "meanings_en": [
+    "to write",
+    "to publish"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

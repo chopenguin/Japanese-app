@@ -1,0 +1,37 @@
+{
+  "id": "n2-0042",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "おかず",
+  "display": "おかず",
+  "meanings_zh": [
+    "菜",
+    "菜肴"
+  ],
+  "meanings_en": [
+    "side dish",
+    "accompaniment for rice dishes"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今晩のおかずは魚だ。",
+      "en": "Today's dinner is fish."
+    },
+    {
+      "ja": "え、たこ焼きをおかずにするの？",
+      "en": "What, you decided to have takoyaki as one of your main food ideas?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

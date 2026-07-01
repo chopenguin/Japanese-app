@@ -1,0 +1,36 @@
+{
+  "id": "n1-0174",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "セレモニー",
+  "display": "セレモニー",
+  "meanings_zh": [
+    "典礼",
+    "仪式"
+  ],
+  "meanings_en": [
+    "ceremony"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "セレモニーには出席できませんでした。",
+      "en": "I couldn't attend the ceremony."
+    },
+    {
+      "ja": "ボーリング店のオープニングセレモニーは退屈だった。",
+      "en": "The bowling shop's opening ceremony was boring."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

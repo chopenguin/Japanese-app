@@ -1,0 +1,41 @@
+{
+  "id": "n1-0049",
+  "jlpt": "N1",
+  "kanji": "お休み",
+  "kana": "おやすみ",
+  "display": "お休み",
+  "meanings_zh": [
+    "晚安",
+    "再见",
+    "您歇着吧",
+    "睡觉"
+  ],
+  "meanings_en": [
+    "holiday",
+    "absence",
+    "rest",
+    "Good night"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "明日はお休みです。",
+      "en": "It is a holiday tomorrow."
+    },
+    {
+      "ja": "トムはお休みです。",
+      "en": "Tom is absent."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

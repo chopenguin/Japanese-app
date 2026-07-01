@@ -1,0 +1,40 @@
+{
+  "id": "n1-0351",
+  "jlpt": "N1",
+  "kanji": "安っぽい",
+  "kana": "やすっぽい",
+  "display": "安っぽい",
+  "meanings_zh": [
+    "不值钱",
+    "不高尚",
+    "庸俗",
+    "令人瞧不起"
+  ],
+  "meanings_en": [
+    "cheap-looking",
+    "tawdry",
+    "insignificant"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何でそんな安っぽいペテンにひっかかるんだ。",
+      "en": "Why do people get fooled by such cheap schemes?"
+    },
+    {
+      "ja": "彼女の服はとても安っぽい生地でできていた。",
+      "en": "Her dress was made of very cheap material."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

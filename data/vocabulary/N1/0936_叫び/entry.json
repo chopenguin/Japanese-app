@@ -1,0 +1,40 @@
+{
+  "id": "n1-0936",
+  "jlpt": "N1",
+  "kanji": "叫び",
+  "kana": "さけび",
+  "display": "叫び",
+  "meanings_zh": [
+    "叫",
+    "叫喊",
+    "喊叫声",
+    "呼声"
+  ],
+  "meanings_en": [
+    "shout",
+    "scream",
+    "outcry"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は叫び始めた。",
+      "en": "He began to shout."
+    },
+    {
+      "ja": "叫び声が聞こえた。",
+      "en": "I heard a scream."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

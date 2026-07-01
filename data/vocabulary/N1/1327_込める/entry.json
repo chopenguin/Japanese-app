@@ -1,0 +1,39 @@
+{
+  "id": "n1-1327",
+  "jlpt": "N1",
+  "kanji": "込める",
+  "kana": "こめる",
+  "display": "込める",
+  "meanings_zh": [
+    "装填",
+    "包括在内",
+    "计算在内",
+    "集中"
+  ],
+  "meanings_en": [
+    "to include",
+    "to put into"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この計画はある程度の効果が見込める。",
+      "en": "This plan will serve its purpose to some extent."
+    },
+    {
+      "ja": "彼をやり込めるくらい、赤子の手を捻るより簡単だよ。",
+      "en": "Cornering him in an argument is easy—like taking candy from a baby."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

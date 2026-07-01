@@ -1,0 +1,36 @@
+{
+  "id": "n3-0006",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "あちこち",
+  "display": "あちこち",
+  "meanings_zh": [
+    "这儿那儿",
+    "到处"
+  ],
+  "meanings_en": [
+    "here and there"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あちこち痒いよ。",
+      "en": "I feel itchy everywhere."
+    },
+    {
+      "ja": "彼はあちこち歩いた。",
+      "en": "He walked back and forth."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

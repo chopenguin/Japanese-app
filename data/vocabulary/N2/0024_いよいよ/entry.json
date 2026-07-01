@@ -1,0 +1,32 @@
+{
+  "id": "n2-0024",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "いよいよ",
+  "display": "いよいよ",
+  "meanings_zh": [
+    "愈益",
+    "越发",
+    "真的"
+  ],
+  "meanings_en": [
+    "more and more",
+    "all the more",
+    "increasingly",
+    "at last",
+    "beyond doubt"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

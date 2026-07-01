@@ -1,0 +1,34 @@
+{
+  "id": "n1-1172",
+  "jlpt": "N1",
+  "kanji": "個々",
+  "kana": "ここ",
+  "display": "個々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "individual",
+    "one by one"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "個々の戦闘にはみな勝っても戦争に負けることがある。",
+      "en": "You can win all the battles yet lose the war."
+    },
+    {
+      "ja": "個々の木を見分けるのが困難になってはじめて森が見えるようになるのである。",
+      "en": "You get to see the wood only when it becomes too difficult to distinguish individual trees."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

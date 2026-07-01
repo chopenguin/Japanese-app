@@ -1,0 +1,30 @@
+{
+  "id": "n1-2643",
+  "jlpt": "N1",
+  "kanji": "馴れ馴れしい",
+  "kana": "なれなれしい",
+  "display": "馴れ馴れしい",
+  "meanings_zh": [
+    "狎昵",
+    "熟不拘礼",
+    "过分亲昵",
+    "熟头熟脑",
+    "嬉皮笑脸"
+  ],
+  "meanings_en": [
+    "over-familiar"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

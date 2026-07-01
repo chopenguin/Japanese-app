@@ -1,0 +1,39 @@
+{
+  "id": "n2-1760",
+  "jlpt": "N2",
+  "kanji": "冷やす",
+  "kana": "ひやす",
+  "display": "冷やす",
+  "meanings_zh": [
+    "镇",
+    "冰",
+    "冰镇",
+    "拔"
+  ],
+  "meanings_en": [
+    "to cool",
+    "to refrigerate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "リンゴは冷やすと甘みが増します。",
+      "en": "Apples are sweeter when cold."
+    },
+    {
+      "ja": "白ワインは出す前に冷やす方がいいよ。",
+      "en": "It's better to chill white wine before you serve it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

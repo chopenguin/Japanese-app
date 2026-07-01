@@ -1,0 +1,41 @@
+{
+  "id": "n3-0906",
+  "jlpt": "N3",
+  "kanji": "受け取る",
+  "kana": "うけとる",
+  "display": "受け取る",
+  "meanings_zh": [
+    "接",
+    "收",
+    "领",
+    "领会"
+  ],
+  "meanings_en": [
+    "to receive",
+    "to get",
+    "to accept",
+    "to take"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "まじめに受け取るな。",
+      "en": "Don't take it seriously."
+    },
+    {
+      "ja": "どこで荷物を受け取るのですか。",
+      "en": "Where can I pick up my baggage?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

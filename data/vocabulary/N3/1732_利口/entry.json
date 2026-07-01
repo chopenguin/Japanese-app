@@ -1,0 +1,38 @@
+{
+  "id": "n3-1732",
+  "jlpt": "N3",
+  "kanji": "利口",
+  "kana": "りこう",
+  "display": "利口",
+  "meanings_zh": [],
+  "meanings_en": [
+    "clever",
+    "shrewd",
+    "bright",
+    "sharp",
+    "wise",
+    "intelligent"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お利口さんね。",
+      "en": "You're a good boy."
+    },
+    {
+      "ja": "ジョンは利口だ。",
+      "en": "John is clever."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "n4-0487",
+  "jlpt": "N4",
+  "kanji": "漬ける",
+  "kana": "つける",
+  "display": "漬ける",
+  "meanings_zh": [
+    "腌"
+  ],
+  "meanings_en": [
+    "to soak",
+    "to pickle"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "靴下の臭いが気になる時は、クエン酸水に漬けるといいそうよ。",
+      "en": "If you're worried about your socks smelling, dipping them in citric acid solution might do the trick."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

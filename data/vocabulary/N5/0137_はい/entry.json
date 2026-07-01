@@ -1,0 +1,38 @@
+{
+  "id": "n5-0137",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "はい",
+  "display": "はい",
+  "meanings_zh": [
+    "唉",
+    "有",
+    "到",
+    "是"
+  ],
+  "meanings_en": [
+    "yes"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "はいどうぞ。",
+      "en": "Here it is."
+    },
+    {
+      "ja": "天気はいい？",
+      "en": "Is the weather nice?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

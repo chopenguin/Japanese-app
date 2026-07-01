@@ -1,0 +1,40 @@
+{
+  "id": "n1-2103",
+  "jlpt": "N1",
+  "kanji": "鮮やか",
+  "kana": "あざやか",
+  "display": "鮮やか",
+  "meanings_zh": [
+    "鲜明",
+    "鲜艳",
+    "漂亮",
+    "巧妙"
+  ],
+  "meanings_en": [
+    "vivid",
+    "clear",
+    "brilliant"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "庭は花で色鮮やかである。",
+      "en": "The garden is bright with flowers."
+    },
+    {
+      "ja": "月は鮮やかに輝いていた。",
+      "en": "The moon was shining brightly."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

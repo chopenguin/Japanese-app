@@ -1,0 +1,41 @@
+{
+  "id": "n3-0390",
+  "jlpt": "N3",
+  "kanji": "過ごす",
+  "kana": "すごす",
+  "display": "過ごす",
+  "meanings_zh": [
+    "过",
+    "度过",
+    "度",
+    "生活"
+  ],
+  "meanings_en": [
+    "to pass",
+    "to spend",
+    "to go through",
+    "to tide over"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "連休は何して過ごす？",
+      "en": "What will you do over the holidays?"
+    },
+    {
+      "ja": "普段週末は家で過ごすよ。",
+      "en": "I usually spend weekends at home."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

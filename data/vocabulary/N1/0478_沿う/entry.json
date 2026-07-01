@@ -1,0 +1,34 @@
+{
+  "id": "n1-0478",
+  "jlpt": "N1",
+  "kanji": "沿う",
+  "kana": "そう",
+  "display": "沿う",
+  "meanings_zh": [
+    "沿",
+    "顺",
+    "按照"
+  ],
+  "meanings_en": [
+    "to run along",
+    "to follow"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ご希望に沿うように努力します。",
+      "en": "I'll try to meet your wishes."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

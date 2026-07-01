@@ -1,0 +1,33 @@
+{
+  "id": "n4-0129",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "びっくりする",
+  "display": "びっくりする",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to be surprised"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムは絶対びっくりするよ。",
+      "en": "I'm sure Tom will be surprised."
+    },
+    {
+      "ja": "トムはびっくりするくらいに絵が下手だ。",
+      "en": "Tom is incredibly bad at drawing."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

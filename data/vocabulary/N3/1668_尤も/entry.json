@@ -1,0 +1,33 @@
+{
+  "id": "n3-1668",
+  "jlpt": "N3",
+  "kanji": "尤も",
+  "kana": "もっとも",
+  "display": "尤も",
+  "meanings_zh": [
+    "合理",
+    "正当",
+    "正确",
+    "对"
+  ],
+  "meanings_en": [
+    "quite right",
+    "plausible",
+    "natural",
+    "but then",
+    "although"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

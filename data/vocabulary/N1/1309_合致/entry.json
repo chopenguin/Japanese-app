@@ -1,0 +1,39 @@
+{
+  "id": "n1-1309",
+  "jlpt": "N1",
+  "kanji": "合致",
+  "kana": "がっち",
+  "display": "合致",
+  "meanings_zh": [
+    "一致",
+    "符合",
+    "吻合"
+  ],
+  "meanings_en": [
+    "agreement",
+    "concurrence",
+    "conforming to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼の日々の振る舞いは彼の主義主張と合致していない。",
+      "en": "His daily behavior is not consistent with his principles."
+    },
+    {
+      "ja": "キーワードに合致する文章やファイルから、さらに進んだ分析をして、隠れている真実を発見することがナレッジです。",
+      "en": "To apply further analysis to documents and files matching the keywords and find the hidden truth is \"knowledge\"."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

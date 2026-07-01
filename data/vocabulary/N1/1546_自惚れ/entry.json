@@ -1,0 +1,35 @@
+{
+  "id": "n1-1546",
+  "jlpt": "N1",
+  "kanji": "自惚れ",
+  "kana": "うぬぼれ",
+  "display": "自惚れ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "pretension",
+    "conceit",
+    "hubris"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "誰でも大なり小なり自惚れはある。",
+      "en": "Everyone is more or less conceited."
+    },
+    {
+      "ja": "小泉さんは本当に自惚れの強い男だね。",
+      "en": "Mr Koizumi is really full of himself."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

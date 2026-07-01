@@ -1,0 +1,30 @@
+{
+  "id": "n1-1011",
+  "jlpt": "N1",
+  "kanji": "区切り",
+  "kana": "くぎり",
+  "display": "区切り",
+  "meanings_zh": [
+    "句读",
+    "小段落",
+    "段落"
+  ],
+  "meanings_en": [
+    "an end",
+    "a stop",
+    "punctuation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

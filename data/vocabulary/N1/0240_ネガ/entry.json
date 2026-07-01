@@ -1,0 +1,32 @@
+{
+  "id": "n1-0240",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ネガ",
+  "display": "ネガ",
+  "meanings_zh": [
+    "(照相)底片",
+    "负片"
+  ],
+  "meanings_en": [
+    "(photographic) negative"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ネガティブな性格直したいな。",
+      "en": "I want to fix my negative personality."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

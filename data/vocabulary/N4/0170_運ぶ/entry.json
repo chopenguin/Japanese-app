@@ -1,0 +1,38 @@
+{
+  "id": "n4-0170",
+  "jlpt": "N4",
+  "kanji": "運ぶ",
+  "kana": "はこぶ",
+  "display": "運ぶ",
+  "meanings_zh": [
+    "运送",
+    "搬运",
+    "移步",
+    "前往"
+  ],
+  "meanings_en": [
+    "to transport"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "風は種を遠くへ運ぶ。",
+      "en": "The wind carries seeds for great distances."
+    },
+    {
+      "ja": "ねずみはペスト菌を運ぶ。",
+      "en": "Rats carry the plague."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

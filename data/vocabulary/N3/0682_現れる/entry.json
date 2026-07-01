@@ -1,0 +1,40 @@
+{
+  "id": "n3-0682",
+  "jlpt": "N3",
+  "kanji": "現れる",
+  "kana": "あらわれる",
+  "display": "現れる",
+  "meanings_zh": [
+    "出现",
+    "出来",
+    "暴露"
+  ],
+  "meanings_en": [
+    "(1) to appear",
+    "to come in sight",
+    "to become visible",
+    "(2) to express oneself"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "二度と現れるな！",
+      "en": "Don't you ever darken my door again!"
+    },
+    {
+      "ja": "地平線に愛が現れる。",
+      "en": "Love appears over the horizon."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

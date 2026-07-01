@@ -1,0 +1,33 @@
+{
+  "id": "n5-0159",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "まずい",
+  "display": "まずい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "unpleasant"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "まずいぞ、トム。",
+      "en": "That's no good, Tom."
+    },
+    {
+      "ja": "私はひざまずいた。",
+      "en": "I kneeled down."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

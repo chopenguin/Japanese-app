@@ -1,0 +1,39 @@
+{
+  "id": "n1-2609",
+  "jlpt": "N1",
+  "kanji": "導く",
+  "kana": "みちびく",
+  "display": "導く",
+  "meanings_zh": [
+    "引导",
+    "指导",
+    "领导",
+    "引路"
+  ],
+  "meanings_en": [
+    "to be guided",
+    "to be shown"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "古代人は、みすぼらしい木造船を導くために哀愁漂う灯台を建てた。",
+      "en": "The ancient ones built the sorrowful lighthouses to guide their miserable wooden ships."
+    },
+    {
+      "ja": "このことから、大規模な人口移動は経済変化の結果ではないという議論を導くことができる。",
+      "en": "From this we can derive the argument that major population shifts are not the result of economic change."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

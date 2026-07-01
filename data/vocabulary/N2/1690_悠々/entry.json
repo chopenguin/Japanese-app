@@ -1,0 +1,31 @@
+{
+  "id": "n2-1690",
+  "jlpt": "N2",
+  "kanji": "悠々",
+  "kana": "ゆうゆう",
+  "display": "悠々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "quiet",
+    "calm",
+    "leisurely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "俺の師匠は悠々自適の生活をしている。",
+      "en": "My master is living a life free from worldly cares."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "n2-0062",
+  "jlpt": "N2",
+  "kanji": "お参り",
+  "kana": "おまいり",
+  "display": "お参り",
+  "meanings_zh": [],
+  "meanings_en": [
+    "worship",
+    "shrine visit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "元旦には近所の神社にお参りする人が多い。",
+      "en": "On New Year's Day, many people visit neighborhood shrines."
+    },
+    {
+      "ja": "初詣でとは新年に神社にお参りすることです。",
+      "en": "Hatsumoude means New Year's visits to shrines."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

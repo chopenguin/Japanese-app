@@ -1,0 +1,38 @@
+{
+  "id": "n4-0327",
+  "jlpt": "N4",
+  "kanji": "止む",
+  "kana": "やむ",
+  "display": "止む",
+  "meanings_zh": [
+    "休",
+    "止",
+    "停止",
+    "中止"
+  ],
+  "meanings_en": [
+    "to stop"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "雨は止む兆しが無い。",
+      "en": "The rain shows no sign of stopping."
+    },
+    {
+      "ja": "雨が止むのを待とう！",
+      "en": "Let's wait for the rain to end!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

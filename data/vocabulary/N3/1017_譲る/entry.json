@@ -1,0 +1,40 @@
+{
+  "id": "n3-1017",
+  "jlpt": "N3",
+  "kanji": "譲る",
+  "kana": "ゆずる",
+  "display": "譲る",
+  "meanings_zh": [
+    "让给",
+    "转让",
+    "谦让",
+    "让步"
+  ],
+  "meanings_en": [
+    "to turn over",
+    "to assign",
+    "to hand over"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "若者は老人に席を譲るべきだ。",
+      "en": "The young should make room for the old."
+    },
+    {
+      "ja": "彼は息子に仕事を譲ることに決めました。",
+      "en": "He has decided to turn over his business to his son."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

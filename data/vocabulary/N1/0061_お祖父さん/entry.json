@@ -1,0 +1,39 @@
+{
+  "id": "n1-0061",
+  "jlpt": "N1",
+  "kanji": "お祖父さん",
+  "kana": "おじいさん",
+  "display": "お祖父さん",
+  "meanings_zh": [
+    "爷爷",
+    "公公",
+    "祖父",
+    "外祖父"
+  ],
+  "meanings_en": [
+    "grandfather",
+    "male senior-citizen"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お祖父さんがかなり老衰している。",
+      "en": "Grandfather is quite senile."
+    },
+    {
+      "ja": "お祖父さんは、お二人ともご健在ですか？",
+      "en": "Are both of your grandfathers still alive?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

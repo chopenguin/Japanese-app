@@ -1,0 +1,34 @@
+{
+  "id": "n3-0021",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "いち",
+  "display": "いち",
+  "meanings_zh": [],
+  "meanings_en": [
+    "market",
+    "fair"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "傷ついちゃった？",
+      "en": "Are you hurt?"
+    },
+    {
+      "ja": "泣いちゃいそう！",
+      "en": "I'm about to cry!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

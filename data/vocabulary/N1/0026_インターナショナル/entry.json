@@ -1,0 +1,28 @@
+{
+  "id": "n1-0026",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "インターナショナル",
+  "display": "インターナショナル",
+  "meanings_zh": [
+    "国际",
+    "英特耐雄纳尔",
+    "国际歌"
+  ],
+  "meanings_en": [
+    "international"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

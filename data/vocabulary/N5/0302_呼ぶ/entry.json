@@ -1,0 +1,39 @@
+{
+  "id": "n5-0302",
+  "jlpt": "N5",
+  "kanji": "呼ぶ",
+  "kana": "よぶ",
+  "display": "呼ぶ",
+  "meanings_zh": [
+    "招呼",
+    "呼唤",
+    "呼喊",
+    "叫来"
+  ],
+  "meanings_en": [
+    "to call out",
+    "to invite"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "類は友を呼ぶ。",
+      "en": "Birds of a feather flock together."
+    },
+    {
+      "ja": "警察を呼ぶ気？",
+      "en": "Are you going to call the police?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

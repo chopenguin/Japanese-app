@@ -1,0 +1,39 @@
+{
+  "id": "n1-0572",
+  "jlpt": "N1",
+  "kanji": "可愛らしい",
+  "kana": "かわいらしい",
+  "display": "可愛らしい",
+  "meanings_zh": [
+    "可爱",
+    "讨人喜欢",
+    "小巧玲珑",
+    "小而可爱"
+  ],
+  "meanings_en": [
+    "lovely",
+    "sweet"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その猫は可愛らしい。",
+      "en": "The cat is adorable."
+    },
+    {
+      "ja": "本当に可愛らしい人ね。",
+      "en": "You're so very adorable."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "n1-3425",
+  "jlpt": "N1",
+  "kanji": "洒落る",
+  "kana": "しゃれる",
+  "display": "洒落る",
+  "meanings_zh": [
+    "漂亮打扮",
+    "打扮得漂亮",
+    "说俏皮话",
+    "诙谐"
+  ],
+  "meanings_en": [
+    "to joke",
+    "to play on words",
+    "to dress stylishly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

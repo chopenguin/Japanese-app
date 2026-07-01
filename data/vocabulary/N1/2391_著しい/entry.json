@@ -1,0 +1,39 @@
+{
+  "id": "n1-2391",
+  "jlpt": "N1",
+  "kanji": "著しい",
+  "kana": "いちじるしい",
+  "display": "著しい",
+  "meanings_zh": [
+    "显著",
+    "显然",
+    "明显",
+    "非常"
+  ],
+  "meanings_en": [
+    "remarkable",
+    "considerable"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "両者の間には著しい違いがある。",
+      "en": "There are noticeable differences between the two."
+    },
+    {
+      "ja": "青年時代は心身の発達が著しい。",
+      "en": "Moral and physical development are remarkable in the youth."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

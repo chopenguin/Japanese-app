@@ -1,0 +1,39 @@
+{
+  "id": "n2-0878",
+  "jlpt": "N2",
+  "kanji": "弱点",
+  "kana": "じゃくてん",
+  "display": "弱点",
+  "meanings_zh": [
+    "弱点",
+    "痛处",
+    "把柄",
+    "缺点"
+  ],
+  "meanings_en": [
+    "weak point",
+    "weakness"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "誰もみな弱点がある。",
+      "en": "Every man has his weak points."
+    },
+    {
+      "ja": "誰にでも弱点はある。",
+      "en": "Everyone has points of weakness."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

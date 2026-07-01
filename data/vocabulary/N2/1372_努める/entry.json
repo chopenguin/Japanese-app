@@ -1,0 +1,41 @@
+{
+  "id": "n2-1372",
+  "jlpt": "N2",
+  "kanji": "努める",
+  "kana": "つとめる",
+  "display": "努める",
+  "meanings_zh": [
+    "努力",
+    "尽力",
+    "效力",
+    "效劳"
+  ],
+  "meanings_en": [
+    "(1) to serve",
+    "to fill a post",
+    "to serve under",
+    "to work (for)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "火災の予防に努める。",
+      "en": "We're working to prevent fires."
+    },
+    {
+      "ja": "主婦は節約に努めるべきである。",
+      "en": "A housewife should be economical."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

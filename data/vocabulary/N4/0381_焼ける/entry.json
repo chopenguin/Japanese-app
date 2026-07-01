@@ -1,0 +1,39 @@
+{
+  "id": "n4-0381",
+  "jlpt": "N4",
+  "kanji": "焼ける",
+  "kana": "やける",
+  "display": "焼ける",
+  "meanings_zh": [
+    "着火",
+    "燃烧",
+    "烧热",
+    "炽热"
+  ],
+  "meanings_en": [
+    "to burn",
+    "to be roasted"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "焼けるように熱い。",
+      "en": "It is broiling hot."
+    },
+    {
+      "ja": "目が焼けるように痛い。",
+      "en": "My eyes are burning."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

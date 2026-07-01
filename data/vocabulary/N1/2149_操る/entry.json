@@ -1,0 +1,40 @@
+{
+  "id": "n1-2149",
+  "jlpt": "N1",
+  "kanji": "操る",
+  "kana": "あやつる",
+  "display": "操る",
+  "meanings_zh": [
+    "耍",
+    "耍弄",
+    "开动",
+    "驾驶"
+  ],
+  "meanings_en": [
+    "to manipulate",
+    "to operate",
+    "to pull strings"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は、数字を操るのがへたです。",
+      "en": "I am awkward with numbers."
+    },
+    {
+      "ja": "あの通訳は５か国語を自由に操る。",
+      "en": "That interpreter is a master of five languages."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

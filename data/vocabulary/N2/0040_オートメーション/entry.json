@@ -1,0 +1,37 @@
+{
+  "id": "n2-0040",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "オートメーション",
+  "display": "オートメーション",
+  "meanings_zh": [
+    "自动操作",
+    "自动(化)",
+    "自动化生产方式"
+  ],
+  "meanings_en": [
+    "automation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "生産性はオートメーションの徹底によって向上する。",
+      "en": "Production improves by becoming more automatic."
+    },
+    {
+      "ja": "オートメーションは必ず重要な社会的結果をもたらすだろう。",
+      "en": "Automation is bound to have important social consequences."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

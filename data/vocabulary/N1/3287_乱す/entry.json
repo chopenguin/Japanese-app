@@ -1,0 +1,38 @@
+{
+  "id": "n1-3287",
+  "jlpt": "N1",
+  "kanji": "乱す",
+  "kana": "みだす",
+  "display": "乱す",
+  "meanings_zh": [
+    "弄乱",
+    "扰乱"
+  ],
+  "meanings_en": [
+    "to throw out of order",
+    "to disarrange",
+    "to disturb"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "コンピューターは難しくて混乱する。",
+      "en": "Computers are difficult, so I get confused."
+    },
+    {
+      "ja": "下手な例え話はよけいに混乱するだけだ。",
+      "en": "Making poor comparisons will just make your explanation more confusing."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

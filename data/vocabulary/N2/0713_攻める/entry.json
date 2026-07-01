@@ -1,0 +1,35 @@
+{
+  "id": "n2-0713",
+  "jlpt": "N2",
+  "kanji": "攻める",
+  "kana": "せめる",
+  "display": "攻める",
+  "meanings_zh": [
+    "攻",
+    "攻打",
+    "攻击",
+    "进攻"
+  ],
+  "meanings_en": [
+    "to attack",
+    "to assault"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は私にその問題をいかに攻めるべきかについて教えてくれた。",
+      "en": "He enlightened me on how I should attack the subject."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

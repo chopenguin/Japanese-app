@@ -1,0 +1,38 @@
+{
+  "id": "n4-0261",
+  "jlpt": "N4",
+  "kanji": "迎える",
+  "kana": "むかえる",
+  "display": "迎える",
+  "meanings_zh": [
+    "迎",
+    "迎接",
+    "欢迎",
+    "接待"
+  ],
+  "meanings_en": [
+    "to go out to meet"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムは来年100歳を迎える。",
+      "en": "Tom will be a hundred years old next year."
+    },
+    {
+      "ja": "母方の祖父は明日還暦を迎える。",
+      "en": "My grandfather on my mother's side is celebrating his 60th birthday tomorrow."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

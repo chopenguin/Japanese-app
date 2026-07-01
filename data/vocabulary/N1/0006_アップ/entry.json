@@ -1,0 +1,33 @@
+{
+  "id": "n1-0006",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "アップ",
+  "display": "アップ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ネバー・ギブ・アップ！",
+      "en": "Never give up."
+    },
+    {
+      "ja": "アップアップ状態です。",
+      "en": "The fact is I'm barely treading water."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

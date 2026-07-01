@@ -1,0 +1,38 @@
+{
+  "id": "n1-0172",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "セックス",
+  "display": "セックス",
+  "meanings_zh": [
+    "性",
+    "性别",
+    "性欲",
+    "性行为"
+  ],
+  "meanings_en": [
+    "sexual intercourse"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "愛のないセックスはあり？",
+      "en": "Is sex possible without love?"
+    },
+    {
+      "ja": "彼らは昨晩セックスしました。",
+      "en": "They made love last night."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

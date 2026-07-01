@@ -1,0 +1,33 @@
+{
+  "id": "n2-0752",
+  "jlpt": "N2",
+  "kanji": "差し引き",
+  "kana": "さしひき",
+  "display": "差し引き",
+  "meanings_zh": [
+    "扣除",
+    "减去",
+    "相抵",
+    "结算"
+  ],
+  "meanings_en": [
+    "deduction",
+    "subtraction",
+    "balance",
+    "ebb and flow",
+    "rise and fall"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

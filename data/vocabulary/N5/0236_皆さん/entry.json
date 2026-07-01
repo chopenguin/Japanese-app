@@ -1,0 +1,38 @@
+{
+  "id": "n5-0236",
+  "jlpt": "N5",
+  "kanji": "皆さん",
+  "kana": "みなさん",
+  "display": "皆さん",
+  "meanings_zh": [
+    "大家",
+    "诸位",
+    "各位",
+    "先生们"
+  ],
+  "meanings_en": [
+    "everyone"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "皆さんはお元気？",
+      "en": "How is everyone?"
+    },
+    {
+      "ja": "皆さんお静かに。",
+      "en": "Please be quiet, everybody."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

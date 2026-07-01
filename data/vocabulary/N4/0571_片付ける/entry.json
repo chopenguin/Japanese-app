@@ -1,0 +1,38 @@
+{
+  "id": "n4-0571",
+  "jlpt": "N4",
+  "kanji": "片付ける",
+  "kana": "かたづける",
+  "display": "片付ける",
+  "meanings_zh": [
+    "整理",
+    "收拾",
+    "拾掇",
+    "解决"
+  ],
+  "meanings_en": [
+    "to tidy up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "家を片付ける必要がある。",
+      "en": "I need to declutter my house."
+    },
+    {
+      "ja": "母は私にお皿を片付けるようにと言った。",
+      "en": "Mother told me to put away the dishes."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n3-0569",
+  "jlpt": "N3",
+  "kanji": "恐ろしい",
+  "kana": "おそろしい",
+  "display": "恐ろしい",
+  "meanings_zh": [
+    "可怕",
+    "惊人",
+    "非常",
+    "厉害"
+  ],
+  "meanings_en": [
+    "terrible",
+    "dreadful"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ああ、何て恐ろしい。",
+      "en": "Oh, how awful!"
+    },
+    {
+      "ja": "私は恐ろしい夢を見た。",
+      "en": "I had a terrible dream."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n1-0501",
+  "jlpt": "N1",
+  "kanji": "汚れ",
+  "kana": "けがれ",
+  "display": "汚れ",
+  "meanings_zh": [
+    "肮脏",
+    "污秽",
+    "不纯洁",
+    "丑恶"
+  ],
+  "meanings_en": [
+    "uncleanness",
+    "impurity",
+    "disgrace"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "靴が汚れてる。",
+      "en": "My shoes are dirty."
+    },
+    {
+      "ja": "顔が汚れてるよ。",
+      "en": "Your face is dirty."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

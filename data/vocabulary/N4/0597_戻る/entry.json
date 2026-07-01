@@ -1,0 +1,38 @@
+{
+  "id": "n4-0597",
+  "jlpt": "N4",
+  "kanji": "戻る",
+  "kana": "もどる",
+  "display": "戻る",
+  "meanings_zh": [
+    "返回",
+    "回到",
+    "倒退",
+    "折回"
+  ],
+  "meanings_en": [
+    "to turn back"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "すぐに戻るよ。",
+      "en": "I will be back soon."
+    },
+    {
+      "ja": "3分で戻るよ。",
+      "en": "I'll be back in three minutes."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

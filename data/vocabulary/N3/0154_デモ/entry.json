@@ -1,0 +1,38 @@
+{
+  "id": "n3-0154",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "デモ",
+  "display": "デモ",
+  "meanings_zh": [
+    "示威",
+    "示威运动",
+    "游行示威"
+  ],
+  "meanings_en": [
+    "(abbr) demo",
+    "demonstration"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "デモクラシーとは？",
+      "en": "What's democracy?"
+    },
+    {
+      "ja": "デモ隊は整然と行進した。",
+      "en": "The demonstrators marched in order."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

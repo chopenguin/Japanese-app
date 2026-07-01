@@ -1,0 +1,36 @@
+{
+  "id": "n1-1734",
+  "jlpt": "N1",
+  "kanji": "準ずる",
+  "kana": "じゅんずる",
+  "display": "準ずる",
+  "meanings_zh": [
+    "以～～为标准",
+    "按照",
+    "按～～看待"
+  ],
+  "meanings_en": [
+    "to apply correspondingly",
+    "to correspond to",
+    "to be proportionate to",
+    "to conform to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この投資案を実行するには、事業本部長、あるいはそれに準ずる役職以上の決裁が必要です。",
+      "en": "This investment plan requires approval from the director of operations or someone of equally high status in order to execute."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

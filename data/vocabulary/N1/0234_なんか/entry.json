@@ -1,0 +1,39 @@
+{
+  "id": "n1-0234",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "なんか",
+  "display": "なんか",
+  "meanings_zh": [
+    "之类",
+    "等等",
+    "什么的",
+    "哪"
+  ],
+  "meanings_en": [
+    "things like ...",
+    "or something like that .. (often derogatory)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "なんか言った？",
+      "en": "Did you say something?"
+    },
+    {
+      "ja": "なんか用かい？",
+      "en": "Is there something I can help you with?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

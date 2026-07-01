@@ -1,0 +1,33 @@
+{
+  "id": "n1-1728",
+  "jlpt": "N1",
+  "kanji": "出入り口",
+  "kana": "でいりぐち",
+  "display": "出入り口",
+  "meanings_zh": [],
+  "meanings_en": [
+    "exit and entrance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "出入り口は開けたままになっていた。",
+      "en": "The gate was left open."
+    },
+    {
+      "ja": "乗務員がただいま出入り口を開けております。",
+      "en": "The crew is now opening the hatch."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

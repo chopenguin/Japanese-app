@@ -1,0 +1,35 @@
+{
+  "id": "n2-0281",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "やかましい",
+  "display": "やかましい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(1) noisy",
+    "(2) strict",
+    "fussy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は食べ物にとてもやかましい。",
+      "en": "He is a very fussy eater."
+    },
+    {
+      "ja": "私の母は行儀作法にやかましい。",
+      "en": "My mother is strict about manners."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "n3-1698",
+  "jlpt": "N3",
+  "kanji": "誘う",
+  "kana": "さそう",
+  "display": "誘う",
+  "meanings_zh": [
+    "约",
+    "劝诱",
+    "邀请",
+    "会同"
+  ],
+  "meanings_en": [
+    "(1) to invite",
+    "to ask",
+    "(2) to tempt",
+    "to lure",
+    "to induce"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "宇宙の果てへと私を誘う。",
+      "en": "I am invited to the end of the universe."
+    },
+    {
+      "ja": "彼女は哀れを誘う有様だった。",
+      "en": "She was in a piteous state."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

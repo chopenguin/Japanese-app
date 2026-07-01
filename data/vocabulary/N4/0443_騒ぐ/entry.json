@@ -1,0 +1,39 @@
+{
+  "id": "n4-0443",
+  "jlpt": "N4",
+  "kanji": "騒ぐ",
+  "kana": "さわぐ",
+  "display": "騒ぐ",
+  "meanings_zh": [
+    "吵",
+    "吵闹",
+    "吵嚷",
+    "慌张"
+  ],
+  "meanings_en": [
+    "to make noise",
+    "to be excited"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そんなに騒ぐな。",
+      "en": "Don't make so much noise."
+    },
+    {
+      "ja": "声を立てて騒ぐな。",
+      "en": "Don't make a scene."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n3-0085",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ざっと",
+  "display": "ざっと",
+  "meanings_zh": [
+    "粗略地",
+    "简略地",
+    "略微",
+    "大略"
+  ],
+  "meanings_en": [
+    "roughly",
+    "in round numbers"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼の本にざっと目を通した。",
+      "en": "I dipped into his book."
+    },
+    {
+      "ja": "彼はメールをざっと読んだ。",
+      "en": "He skimmed the text."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

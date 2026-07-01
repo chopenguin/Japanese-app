@@ -1,0 +1,33 @@
+{
+  "id": "n5-0175",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "りっぱ",
+  "display": "りっぱ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "splendid"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はりっぱに振る舞った。",
+      "en": "He bore himself well."
+    },
+    {
+      "ja": "彼はりっぱな若者になった。",
+      "en": "He became a handsome young man."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

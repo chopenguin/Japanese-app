@@ -1,0 +1,39 @@
+{
+  "id": "n2-1264",
+  "jlpt": "N2",
+  "kanji": "蓄える",
+  "kana": "たくわえる",
+  "display": "蓄える",
+  "meanings_zh": [
+    "储备",
+    "储存",
+    "贮存",
+    "贮备"
+  ],
+  "meanings_en": [
+    "to store",
+    "to lay in stock"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "農夫たちは冬に備えて野菜を蓄える。",
+      "en": "Farmers store vegetables for the winter."
+    },
+    {
+      "ja": "冬に備えて食料を秋に蓄える動物もいる。",
+      "en": "In autumn, some animals store food away for the winter."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

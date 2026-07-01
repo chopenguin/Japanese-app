@@ -1,0 +1,39 @@
+{
+  "id": "n1-2547",
+  "jlpt": "N1",
+  "kanji": "怒り",
+  "kana": "いかり",
+  "display": "怒り",
+  "meanings_zh": [
+    "怒",
+    "愤怒",
+    "生气",
+    "气愤"
+  ],
+  "meanings_en": [
+    "anger",
+    "hatred"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "怒りは敵と思え。",
+      "en": "Hatred is our enemy."
+    },
+    {
+      "ja": "怒りたくはない。",
+      "en": "I don't want to get angry."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

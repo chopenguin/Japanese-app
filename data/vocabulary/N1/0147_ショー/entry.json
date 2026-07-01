@@ -1,0 +1,38 @@
+{
+  "id": "n1-0147",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ショー",
+  "display": "ショー",
+  "meanings_zh": [
+    "陈列",
+    "展览",
+    "展览会",
+    "(短剧丄曲艺等)表演艺术"
+  ],
+  "meanings_en": [
+    "show"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "いいショーでしたよ。",
+      "en": "That was a good show."
+    },
+    {
+      "ja": "ショーを見に来ました。",
+      "en": "I came to see the show."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "n2-0190",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "どきどき",
+  "display": "どきどき",
+  "meanings_zh": [],
+  "meanings_en": [
+    "throb",
+    "beat (fast)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "怖くてどきどきしたよ。",
+      "en": "I was terribly frightened."
+    },
+    {
+      "ja": "私の心臓はどきどきし始めた。",
+      "en": "My heart began to beat fast."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

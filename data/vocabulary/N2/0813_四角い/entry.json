@@ -1,0 +1,34 @@
+{
+  "id": "n2-0813",
+  "jlpt": "N2",
+  "kanji": "四角い",
+  "kana": "しかくい",
+  "display": "四角い",
+  "meanings_zh": [
+    "四角",
+    "四方",
+    "生硬",
+    "端正"
+  ],
+  "meanings_en": [
+    "square"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "必要なのは四角いテーブルで、円卓ではない。",
+      "en": "We need a square table, not a round one."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

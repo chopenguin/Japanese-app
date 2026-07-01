@@ -1,0 +1,41 @@
+{
+  "id": "n2-1633",
+  "jlpt": "N2",
+  "kanji": "務める",
+  "kana": "つとめる",
+  "display": "務める",
+  "meanings_zh": [
+    "担任",
+    "当",
+    "做",
+    "扮演"
+  ],
+  "meanings_en": [
+    "(1) to serve",
+    "to fill a post",
+    "to serve under",
+    "to work (for)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "日本には猫が駅長を務める駅がある。",
+      "en": "In Japan there are train stations with a cat for a stationmaster."
+    },
+    {
+      "ja": "首相の留守中は外務大臣が代理を務める。",
+      "en": "The foreign minister will act for the Prime Minister in his absence."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

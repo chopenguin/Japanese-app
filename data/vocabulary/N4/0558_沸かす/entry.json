@@ -1,0 +1,30 @@
+{
+  "id": "n4-0558",
+  "jlpt": "N4",
+  "kanji": "沸かす",
+  "kana": "わかす",
+  "display": "沸かす",
+  "meanings_zh": [
+    "烧开",
+    "烧热",
+    "使～～沸腾",
+    "使兴高采烈"
+  ],
+  "meanings_en": [
+    "to boil",
+    "to heat"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

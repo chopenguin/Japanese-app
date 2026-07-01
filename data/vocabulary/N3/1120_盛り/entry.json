@@ -1,0 +1,40 @@
+{
+  "id": "n3-1120",
+  "jlpt": "N3",
+  "kanji": "盛り",
+  "kana": "さかり",
+  "display": "盛り",
+  "meanings_zh": [
+    "旺盛",
+    "充沛 最盛时期",
+    "全盛状态",
+    "壮年",
+    "精力充沛"
+  ],
+  "meanings_en": [
+    "helping",
+    "serving"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は働き盛りだ。",
+      "en": "He is in the prime of life."
+    },
+    {
+      "ja": "彼は今男盛りだ。",
+      "en": "He is now in the prime of manhood."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

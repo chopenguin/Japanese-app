@@ -1,0 +1,36 @@
+{
+  "id": "n2-0223",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ビニール",
+  "display": "ビニール",
+  "meanings_zh": [
+    "乙烯基",
+    "乙烯(基)树脂"
+  ],
+  "meanings_en": [
+    "vinyl"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ビニール袋に入れてください。",
+      "en": "Could I have a plastic bag for those?"
+    },
+    {
+      "ja": "ビニールは熱に弱いのが難点だ。",
+      "en": "The weakness of vinyl is that it is easily affected by heat."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

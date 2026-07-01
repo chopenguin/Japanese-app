@@ -1,0 +1,40 @@
+{
+  "id": "n3-1737",
+  "jlpt": "N3",
+  "kanji": "離す",
+  "kana": "はなす",
+  "display": "離す",
+  "meanings_zh": [
+    "放",
+    "放开",
+    "放掉",
+    "撒开"
+  ],
+  "meanings_en": [
+    "to part",
+    "divide",
+    "separate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "手を離すなよ。",
+      "en": "Don't let go."
+    },
+    {
+      "ja": "綱を離すと犬は走り去った。",
+      "en": "As soon as I let go of the leash, the dog ran away."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

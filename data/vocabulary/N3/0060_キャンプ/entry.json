@@ -1,0 +1,38 @@
+{
+  "id": "n3-0060",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "キャンプ",
+  "display": "キャンプ",
+  "meanings_zh": [
+    "露营",
+    "野营",
+    "帐篷",
+    "帐幕"
+  ],
+  "meanings_en": [
+    "camp"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "一緒にキャンプに行かない？",
+      "en": "Would you like to go camping with us?"
+    },
+    {
+      "ja": "トムはキャンプが大好きだ。",
+      "en": "Tom loves camping."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

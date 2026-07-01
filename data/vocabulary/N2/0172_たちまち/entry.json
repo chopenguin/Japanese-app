@@ -1,0 +1,36 @@
+{
+  "id": "n2-0172",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "たちまち",
+  "display": "たちまち",
+  "meanings_zh": [],
+  "meanings_en": [
+    "at once",
+    "in a moment",
+    "suddenly",
+    "all at once"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "悪い噂はたちまち伝わる。",
+      "en": "Ill news comes apace."
+    },
+    {
+      "ja": "ボートはたちまち沈んだ。",
+      "en": "The boat sank in a flash."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

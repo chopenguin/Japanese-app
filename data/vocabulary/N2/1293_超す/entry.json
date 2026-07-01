@@ -1,0 +1,31 @@
+{
+  "id": "n2-1293",
+  "jlpt": "N2",
+  "kanji": "超す",
+  "kana": "こす",
+  "display": "超す",
+  "meanings_zh": [
+    "越过",
+    "跨过",
+    "经过",
+    "渡过"
+  ],
+  "meanings_en": [
+    "to cross",
+    "to pass",
+    "to tide over"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

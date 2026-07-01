@@ -1,0 +1,35 @@
+{
+  "id": "n2-0101",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "こないだ",
+  "display": "こないだ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "the other day",
+    "lately",
+    "recently"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "こないだ彼に会った。",
+      "en": "I met him the other day."
+    },
+    {
+      "ja": "誰も乗ってこないだろう。",
+      "en": "No one is coming."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

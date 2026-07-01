@@ -1,0 +1,38 @@
+{
+  "id": "n5-0166",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "もう",
+  "display": "もう",
+  "meanings_zh": [
+    "已经",
+    "已",
+    "马上就要",
+    "快要"
+  ],
+  "meanings_en": [
+    "already"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "もうだめだ。",
+      "en": "It's all over."
+    },
+    {
+      "ja": "もう年だよ。",
+      "en": "I feel my age."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

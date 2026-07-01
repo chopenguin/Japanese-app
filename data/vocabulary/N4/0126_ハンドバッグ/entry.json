@@ -1,0 +1,35 @@
+{
+  "id": "n4-0126",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ハンドバッグ",
+  "display": "ハンドバッグ",
+  "meanings_zh": [
+    "(女用)手提包"
+  ],
+  "meanings_en": [
+    "handbag"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そのハンドバッグ、私の。",
+      "en": "That handbag is mine."
+    },
+    {
+      "ja": "彼女はハンドバッグを紛失した。",
+      "en": "She lost her handbag."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

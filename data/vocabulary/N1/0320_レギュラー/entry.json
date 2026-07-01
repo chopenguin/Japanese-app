@@ -1,0 +1,38 @@
+{
+  "id": "n1-0320",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "レギュラー",
+  "display": "レギュラー",
+  "meanings_zh": [
+    "正式成员",
+    "正式选手",
+    "正式演员",
+    "正规"
+  ],
+  "meanings_en": [
+    "regular"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "レギュラー満タン、現金で。",
+      "en": "Fill her up with regular. I'll be paying in cash."
+    },
+    {
+      "ja": "レギュラー満タンでお願いします。",
+      "en": "Fill it with regular, please."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

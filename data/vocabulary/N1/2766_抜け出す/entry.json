@@ -1,0 +1,40 @@
+{
+  "id": "n1-2766",
+  "jlpt": "N1",
+  "kanji": "抜け出す",
+  "kana": "ぬけだす",
+  "display": "抜け出す",
+  "meanings_zh": [
+    "溜",
+    "摆脱",
+    "脱出",
+    "开始脱落"
+  ],
+  "meanings_en": [
+    "to slip out",
+    "to sneak away",
+    "to excel"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この迷路は抜け出すのがとても難しい。",
+      "en": "This maze is very hard to get out of."
+    },
+    {
+      "ja": "教室を抜け出す少年の姿が目に入った。",
+      "en": "I caught sight of the boy escaping from the classroom."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

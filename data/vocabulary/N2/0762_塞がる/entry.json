@@ -1,0 +1,30 @@
+{
+  "id": "n2-0762",
+  "jlpt": "N2",
+  "kanji": "塞がる",
+  "kana": "ふさがる",
+  "display": "塞がる",
+  "meanings_zh": [
+    "关",
+    "合",
+    "闭",
+    "堵"
+  ],
+  "meanings_en": [
+    "to be plugged up",
+    "to be shut up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

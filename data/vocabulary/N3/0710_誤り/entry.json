@@ -1,0 +1,35 @@
+{
+  "id": "n3-0710",
+  "jlpt": "N3",
+  "kanji": "誤り",
+  "kana": "あやまり",
+  "display": "誤り",
+  "meanings_zh": [
+    "错误"
+  ],
+  "meanings_en": [
+    "error"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "誤りを直せ。",
+      "en": "Correct errors."
+    },
+    {
+      "ja": "これは誤りだ。",
+      "en": "This is a mistake."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

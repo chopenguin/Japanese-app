@@ -1,0 +1,34 @@
+{
+  "id": "n5-0138",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "はく",
+  "display": "はく",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to wear",
+    "to put on trousers"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はくつろいだ。",
+      "en": "He felt at home."
+    },
+    {
+      "ja": "彼はくつをみがいた。",
+      "en": "He shined his shoes."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

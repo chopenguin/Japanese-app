@@ -1,0 +1,31 @@
+{
+  "id": "n1-1353",
+  "jlpt": "N1",
+  "kanji": "差し支える",
+  "kana": "さしつかえる",
+  "display": "差し支える",
+  "meanings_zh": [
+    "妨碍",
+    "障碍",
+    "有影响",
+    "不方便"
+  ],
+  "meanings_en": [
+    "to interfere",
+    "to hinder",
+    "to become impeded"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

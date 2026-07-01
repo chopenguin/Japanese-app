@@ -1,0 +1,38 @@
+{
+  "id": "n5-0251",
+  "jlpt": "N5",
+  "kanji": "甘い",
+  "kana": "あまい",
+  "display": "甘い",
+  "meanings_zh": [
+    "甜",
+    "淡",
+    "甜蜜",
+    "宽"
+  ],
+  "meanings_en": [
+    "sweet"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それは甘いの？",
+      "en": "Is that sweet?"
+    },
+    {
+      "ja": "彼は考えが甘い。",
+      "en": "He is unrealistic."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

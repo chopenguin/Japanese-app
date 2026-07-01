@@ -1,0 +1,33 @@
+{
+  "id": "n4-0175",
+  "jlpt": "N4",
+  "kanji": "泳ぎ方",
+  "kana": "およぎかた",
+  "display": "泳ぎ方",
+  "meanings_zh": [],
+  "meanings_en": [
+    "way of swimming"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は泳ぎ方を習った。",
+      "en": "He learned how to swim."
+    },
+    {
+      "ja": "彼に泳ぎ方を教えた。",
+      "en": "I taught him how to swim."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

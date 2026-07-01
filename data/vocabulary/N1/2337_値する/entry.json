@@ -1,0 +1,40 @@
+{
+  "id": "n1-2337",
+  "jlpt": "N1",
+  "kanji": "値する",
+  "kana": "あたいする",
+  "display": "値する",
+  "meanings_zh": [
+    "值",
+    "价钱相当于～～",
+    "值得",
+    "有～～价值"
+  ],
+  "meanings_en": [
+    "to be worth",
+    "to deserve",
+    "to merit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はその賞に値する。",
+      "en": "He deserves the prize."
+    },
+    {
+      "ja": "彼の罪は死刑に値する。",
+      "en": "His crime deserves the death penalty."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

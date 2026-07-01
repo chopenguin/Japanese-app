@@ -1,0 +1,29 @@
+{
+  "id": "n5-0393",
+  "jlpt": "N5",
+  "kanji": "終る",
+  "kana": "おわる",
+  "display": "終る",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to finish"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "議長は意見が不一致に終る可能性を排除しなかった。",
+      "en": "The chairman did not rule out the possibility of a disagreement."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

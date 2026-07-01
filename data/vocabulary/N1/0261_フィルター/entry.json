@@ -1,0 +1,34 @@
+{
+  "id": "n1-0261",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "フィルター",
+  "display": "フィルター",
+  "meanings_zh": [
+    "过滤",
+    "滤器",
+    "滤净器",
+    "滤纸"
+  ],
+  "meanings_en": [
+    "(camera) filter"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "乾燥機を動かす前には、フィルターの掃除を確実に行ってください。さもないと火災を招く可能性があります。",
+      "en": "Be sure to clear the lint trap before you run the dryer. Otherwise, you might start a fire."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

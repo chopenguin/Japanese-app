@@ -1,0 +1,38 @@
+{
+  "id": "n1-0045",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "オンライン",
+  "display": "オンライン",
+  "meanings_zh": [
+    "(球)落在线上",
+    "压线球",
+    "联机",
+    "在线"
+  ],
+  "meanings_en": [
+    "on-line"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムはオンライン授業を受けてるよ。",
+      "en": "Tom is taking online classes."
+    },
+    {
+      "ja": "オンライン申請する方が早いかもね。",
+      "en": "If you apply online, it might be faster."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n5-0019",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "いつ",
+  "display": "いつ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "when"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "いつ着くの？",
+      "en": "When do we arrive?"
+    },
+    {
+      "ja": "誕生日いつ？",
+      "en": "When is your birthday?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

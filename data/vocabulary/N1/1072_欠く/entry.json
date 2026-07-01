@@ -1,0 +1,41 @@
+{
+  "id": "n1-1072",
+  "jlpt": "N1",
+  "kanji": "欠く",
+  "kana": "かく",
+  "display": "欠く",
+  "meanings_zh": [
+    "缺",
+    "缺乏",
+    "缺少",
+    "弄坏"
+  ],
+  "meanings_en": [
+    "to lack",
+    "to break",
+    "to crack",
+    "to chip"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "健康は幸福に欠くことができない。",
+      "en": "Health is essential to happiness."
+    },
+    {
+      "ja": "水は生きるうえで欠くべからざるものだ。",
+      "en": "Water is essential to life."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

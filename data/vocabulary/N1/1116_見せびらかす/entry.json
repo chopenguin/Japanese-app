@@ -1,0 +1,39 @@
+{
+  "id": "n1-1116",
+  "jlpt": "N1",
+  "kanji": "見せびらかす",
+  "kana": "みせびらかす",
+  "display": "見せびらかす",
+  "meanings_zh": [
+    "卖弄",
+    "夸示",
+    "显示",
+    "炫耀"
+  ],
+  "meanings_en": [
+    "to show off",
+    "to flaunt"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "見せびらかすなよ。",
+      "en": "Don't show off."
+    },
+    {
+      "ja": "見せびらかすのはやめろ！",
+      "en": "Stop showing off!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n1-2682",
+  "jlpt": "N1",
+  "kanji": "年寄り",
+  "kana": "としより",
+  "display": "年寄り",
+  "meanings_zh": [
+    "老人",
+    "老头儿",
+    "相扑协会的董事"
+  ],
+  "meanings_en": [
+    "old people",
+    "the aged"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "年寄りを優先しろ。",
+      "en": "Do make older people the priority!"
+    },
+    {
+      "ja": "年寄りの犬が吠えた。",
+      "en": "The old dog barked."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

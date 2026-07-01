@@ -1,0 +1,41 @@
+{
+  "id": "n2-0270",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "めでたい",
+  "display": "めでたい",
+  "meanings_zh": [
+    "可喜",
+    "可贺",
+    "吉庆",
+    "吉利"
+  ],
+  "meanings_en": [
+    "happy",
+    "simple soul",
+    "propitious",
+    "joyous"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "めでたい事じゃ。",
+      "en": "It's a happy thing."
+    },
+    {
+      "ja": "あいつは本当におめでたい人間だ。",
+      "en": "He is really a perfect idiot."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

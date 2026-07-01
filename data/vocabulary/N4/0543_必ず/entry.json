@@ -1,0 +1,39 @@
+{
+  "id": "n4-0543",
+  "jlpt": "N4",
+  "kanji": "必ず",
+  "kana": "かならず",
+  "display": "必ず",
+  "meanings_zh": [
+    "一定",
+    "必定",
+    "必然",
+    "注定"
+  ],
+  "meanings_en": [
+    "certainly",
+    "necessarily"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "必ずやります。",
+      "en": "I'll do it by all means."
+    },
+    {
+      "ja": "人は必ず死ぬ。",
+      "en": "Man is mortal."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n1-2634",
+  "jlpt": "N1",
+  "kanji": "鈍る",
+  "kana": "なまる",
+  "display": "鈍る",
+  "meanings_zh": [
+    "钝",
+    "不快",
+    "变迟钝"
+  ],
+  "meanings_en": [
+    "to become less capable",
+    "to grow dull",
+    "to become blunt",
+    "to weaken"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "飲めば飲むほど注意力が鈍る。",
+      "en": "The more you drink, the less careful you will be."
+    },
+    {
+      "ja": "「最近、書道してないんだ」「そうなんだ。たまにはしないと勘が鈍るよ」",
+      "en": "\"I haven't done any calligraphy lately.\" \"Is that so? If you don't practice every so often you'll start to lose your touch.\""
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

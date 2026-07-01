@@ -1,0 +1,38 @@
+{
+  "id": "n5-0011",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "あれ",
+  "display": "あれ",
+  "meanings_zh": [
+    "呀",
+    "哎哟",
+    "哎",
+    "哎呀"
+  ],
+  "meanings_en": [
+    "that"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何だあれは？",
+      "en": "What's that?"
+    },
+    {
+      "ja": "冷徹であれ！",
+      "en": "Be merciless."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

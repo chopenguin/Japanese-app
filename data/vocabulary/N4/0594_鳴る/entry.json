@@ -1,0 +1,38 @@
+{
+  "id": "n4-0594",
+  "jlpt": "N4",
+  "kanji": "鳴る",
+  "kana": "なる",
+  "display": "鳴る",
+  "meanings_zh": [
+    "鸣",
+    "响",
+    "驰名",
+    "闻名"
+  ],
+  "meanings_en": [
+    "to sound"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "怒鳴るなよ。",
+      "en": "Don't shout."
+    },
+    {
+      "ja": "俺に怒鳴るなよ。",
+      "en": "Don't yell at me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

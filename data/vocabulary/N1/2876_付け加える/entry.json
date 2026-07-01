@@ -1,0 +1,34 @@
+{
+  "id": "n1-2876",
+  "jlpt": "N1",
+  "kanji": "付け加える",
+  "kana": "つけくわえる",
+  "display": "付け加える",
+  "meanings_zh": [
+    "加",
+    "添加",
+    "附加",
+    "补充"
+  ],
+  "meanings_en": [
+    "to add one thing to another"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "スコット教授の最後の批判に関しては、前回の回答で述べたこと以外に付け加えるものは何もない。",
+      "en": "Regarding Professor Scott's final criticism I have nothing more to add to what I said in my previous reply."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n1-2886",
+  "jlpt": "N1",
+  "kanji": "浮かぶ",
+  "kana": "うかぶ",
+  "display": "浮かぶ",
+  "meanings_zh": [
+    "漂",
+    "浮",
+    "浮起",
+    "浮出"
+  ],
+  "meanings_en": [
+    "to float",
+    "to rise to surface",
+    "to come to mind"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "解決策は思い浮かぶ？",
+      "en": "Does a solution come to mind?"
+    },
+    {
+      "ja": "空に浮かぶ雲が美しい。",
+      "en": "The clouds floating in the sky are beautiful."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

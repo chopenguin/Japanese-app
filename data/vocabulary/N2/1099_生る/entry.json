@@ -1,0 +1,26 @@
+{
+  "id": "n2-1099",
+  "jlpt": "N2",
+  "kanji": "生る",
+  "kana": "なる",
+  "display": "生る",
+  "meanings_zh": [
+    "结"
+  ],
+  "meanings_en": [
+    "to bear fruit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

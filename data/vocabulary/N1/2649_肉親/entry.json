@@ -1,0 +1,37 @@
+{
+  "id": "n1-2649",
+  "jlpt": "N1",
+  "kanji": "肉親",
+  "kana": "にくしん",
+  "display": "肉親",
+  "meanings_zh": [
+    "骨肉亲",
+    "亲人"
+  ],
+  "meanings_en": [
+    "blood relationship",
+    "blood relative"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は肉親の一人を失った。",
+      "en": "She lost one of her flesh and blood."
+    },
+    {
+      "ja": "人々は行方不明の肉親の知らせを気にかけていた。",
+      "en": "People were anxious for news of missing relatives."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

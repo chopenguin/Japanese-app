@@ -1,0 +1,38 @@
+{
+  "id": "n4-0410",
+  "jlpt": "N4",
+  "kanji": "尋ねる",
+  "kana": "たずねる",
+  "display": "尋ねる",
+  "meanings_zh": [
+    "寻",
+    "找",
+    "寻找",
+    "问"
+  ],
+  "meanings_en": [
+    "to ask"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "尋ねるだけの価値がある。",
+      "en": "I think it's worth asking."
+    },
+    {
+      "ja": "彼女に尋ねる勇気がありますか。",
+      "en": "Dare you ask her?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

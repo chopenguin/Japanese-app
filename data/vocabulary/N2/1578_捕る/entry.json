@@ -1,0 +1,40 @@
+{
+  "id": "n2-1578",
+  "jlpt": "N2",
+  "kanji": "捕る",
+  "kana": "とる",
+  "display": "捕る",
+  "meanings_zh": [
+    "捕",
+    "捉",
+    "抓",
+    "捕获"
+  ],
+  "meanings_en": [
+    "to take",
+    "to catch (fish)",
+    "to capture"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムは弓矢で魚を捕るのが好きだ。",
+      "en": "Tom likes to catch fish with a bow and arrow."
+    },
+    {
+      "ja": "トムって、虫を捕るのがめっちゃ上手いんだよ。",
+      "en": "Tom is very good at catching bugs."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

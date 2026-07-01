@@ -1,0 +1,38 @@
+{
+  "id": "n5-0163",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "マッチ",
+  "display": "マッチ",
+  "meanings_zh": [
+    "火柴",
+    "洋火",
+    "比赛",
+    "竞赛"
+  ],
+  "meanings_en": [
+    "match"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "マッチありますか。",
+      "en": "Do you have a match?"
+    },
+    {
+      "ja": "彼はマッチをすった。",
+      "en": "He struck a match."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

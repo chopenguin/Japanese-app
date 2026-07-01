@@ -1,0 +1,38 @@
+{
+  "id": "n1-1439",
+  "jlpt": "N1",
+  "kanji": "暫く",
+  "kana": "しばらく",
+  "display": "暫く",
+  "meanings_zh": [
+    "暂时",
+    "暂且",
+    "一会儿",
+    "片刻"
+  ],
+  "meanings_en": [
+    "little while"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は暫く待つように言われた。",
+      "en": "I was told to wait for a while."
+    },
+    {
+      "ja": "「直る見込みは？」「システム開発チームのシュバイシェン博士が現在闘病中のため、もう暫くはかかるかと・・・」",
+      "en": "\"Prospects for repair?\" \"Prof. Shubaishen, the leader of the system development team, is presently unwell so we think it will take a while longer ...\""
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

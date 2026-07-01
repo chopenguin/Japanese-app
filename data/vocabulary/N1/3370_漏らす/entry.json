@@ -1,0 +1,39 @@
+{
+  "id": "n1-3370",
+  "jlpt": "N1",
+  "kanji": "漏らす",
+  "kana": "もらす",
+  "display": "漏らす",
+  "meanings_zh": [
+    "漏",
+    "漏掉",
+    "露出",
+    "洒"
+  ],
+  "meanings_en": [
+    "to let leak",
+    "to reveal"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "医師が患者の秘密を漏らすのは道義にもとる。",
+      "en": "It is not ethical for a doctor to reveal confidences."
+    },
+    {
+      "ja": "あなたはその秘密を漏らすべきではなかったのに。",
+      "en": "You ought not to have disclosed the secret."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

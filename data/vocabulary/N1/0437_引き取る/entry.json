@@ -1,0 +1,40 @@
+{
+  "id": "n1-0437",
+  "jlpt": "N1",
+  "kanji": "引き取る",
+  "kana": "ひきとる",
+  "display": "引き取る",
+  "meanings_zh": [
+    "退出",
+    "退下",
+    "离去",
+    "回去"
+  ],
+  "meanings_en": [
+    "to take charge of",
+    "to take over",
+    "to retire to a private place"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムは2・3日で息を引き取るだろう。",
+      "en": "Tom will be dead in a few days."
+    },
+    {
+      "ja": "私は苦情を言ったが、店ではこのセーターを引き取るのを拒んだ。",
+      "en": "I complained, but they refused to take this sweater back."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

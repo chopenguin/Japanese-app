@@ -1,0 +1,38 @@
+{
+  "id": "n5-0111",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "では",
+  "display": "では",
+  "meanings_zh": [
+    "如果那样",
+    "要是那样",
+    "那么",
+    "那么说"
+  ],
+  "meanings_en": [
+    "with that..."
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "では誰ですか。",
+      "en": "Then who?"
+    },
+    {
+      "ja": "ではまた明日。",
+      "en": "See you again tomorrow."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

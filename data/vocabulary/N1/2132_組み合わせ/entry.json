@@ -1,0 +1,38 @@
+{
+  "id": "n1-2132",
+  "jlpt": "N1",
+  "kanji": "組み合わせ",
+  "kana": "くみあわせ",
+  "display": "組み合わせ",
+  "meanings_zh": [
+    "配合",
+    "组成",
+    "编组",
+    "配合好"
+  ],
+  "meanings_en": [
+    "combination"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "意外と面白い組み合わせかもね。",
+      "en": "It may be an unexpectedly interesting combination."
+    },
+    {
+      "ja": "この上着を何か少し派手な物と組み合わせられませんか。",
+      "en": "Can you match this coat with something a little more colorful?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

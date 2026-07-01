@@ -1,0 +1,41 @@
+{
+  "id": "n2-0569",
+  "jlpt": "N2",
+  "kanji": "響き",
+  "kana": "ひびき",
+  "display": "響き",
+  "meanings_zh": [
+    "响声",
+    "回声",
+    "回音",
+    "回响"
+  ],
+  "meanings_en": [
+    "echo",
+    "sound",
+    "reverberation",
+    "noise"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "会堂に鐘の音が響き渡った。",
+      "en": "The hall resounded with pealing bells."
+    },
+    {
+      "ja": "なんてすてきな言葉の響き！",
+      "en": "What a nice sounding word!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

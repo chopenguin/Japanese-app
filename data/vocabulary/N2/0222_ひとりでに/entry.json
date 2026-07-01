@@ -1,0 +1,35 @@
+{
+  "id": "n2-0222",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ひとりでに",
+  "display": "ひとりでに",
+  "meanings_zh": [],
+  "meanings_en": [
+    "by itself",
+    "automatically",
+    "naturally"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "戸はひとりでに開いた。",
+      "en": "The door opened automatically."
+    },
+    {
+      "ja": "明かりはひとりでに消えた。",
+      "en": "The light went out by itself."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

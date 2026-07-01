@@ -1,0 +1,37 @@
+{
+  "id": "n1-0559",
+  "jlpt": "N1",
+  "kanji": "何時も",
+  "kana": "いつも",
+  "display": "何時も",
+  "meanings_zh": [
+    "无论何时",
+    "经常",
+    "日常",
+    "平日"
+  ],
+  "meanings_en": [
+    "always",
+    "usually",
+    "every time",
+    "never (with neg. verb)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そこには何時もだれかがいる。",
+      "en": "There's always somebody there."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

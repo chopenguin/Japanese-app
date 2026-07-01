@@ -1,0 +1,33 @@
+{
+  "id": "n2-0135",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "（カーペット）",
+  "display": "じゅうたん",
+  "meanings_zh": [],
+  "meanings_en": [
+    "carpet"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "新しいじゅうたんが欲しい。",
+      "en": "We want a new carpet."
+    },
+    {
+      "ja": "猫はじゅうたんをひっかき始めた。",
+      "en": "The cat started to scratch the carpet."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

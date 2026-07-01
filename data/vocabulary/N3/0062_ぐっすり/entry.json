@@ -1,0 +1,34 @@
+{
+  "id": "n3-0062",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ぐっすり",
+  "display": "ぐっすり",
+  "meanings_zh": [],
+  "meanings_en": [
+    "sound asleep",
+    "fast asleep"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ぐっすり寝たよ。",
+      "en": "I had a good sleep."
+    },
+    {
+      "ja": "ぐっすり寝ました。",
+      "en": "I had a good night's sleep."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

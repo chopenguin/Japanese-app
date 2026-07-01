@@ -1,0 +1,35 @@
+{
+  "id": "n2-1008",
+  "jlpt": "N2",
+  "kanji": "食塩",
+  "kana": "しょくえん",
+  "display": "食塩",
+  "meanings_zh": [
+    "食盐"
+  ],
+  "meanings_en": [
+    "table salt"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "めんどうですが食塩をとっていただけませんか。",
+      "en": "May I trouble you for the salt?"
+    },
+    {
+      "ja": "濃度10%の食塩水の作り方を教えてください。",
+      "en": "Show me how to make 10% saline solution."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

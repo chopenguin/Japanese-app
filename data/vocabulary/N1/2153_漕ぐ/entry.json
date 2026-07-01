@@ -1,0 +1,31 @@
+{
+  "id": "n1-2153",
+  "jlpt": "N1",
+  "kanji": "漕ぐ",
+  "kana": "こぐ",
+  "display": "漕ぐ",
+  "meanings_zh": [
+    "划",
+    "摇",
+    "荡",
+    "蹬"
+  ],
+  "meanings_en": [
+    "to row",
+    "to scull",
+    "to pedal"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

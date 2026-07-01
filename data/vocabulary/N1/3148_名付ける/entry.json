@@ -1,0 +1,33 @@
+{
+  "id": "n1-3148",
+  "jlpt": "N1",
+  "kanji": "名付ける",
+  "kana": "なづける",
+  "display": "名付ける",
+  "meanings_zh": [
+    "命名",
+    "起名",
+    "叫作"
+  ],
+  "meanings_en": [
+    "to name (someone)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムは我が子をジョンと名付けることにした。",
+      "en": "Tom decided to name his child John."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

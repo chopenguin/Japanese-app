@@ -1,0 +1,35 @@
+{
+  "id": "n1-0186",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "タイピスト",
+  "display": "タイピスト",
+  "meanings_zh": [
+    "打字员"
+  ],
+  "meanings_en": [
+    "typist"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女はタイピストです。",
+      "en": "She is a typist."
+    },
+    {
+      "ja": "彼女はタイピストの職を得た。",
+      "en": "She got a position as a typist."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

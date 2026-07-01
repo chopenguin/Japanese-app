@@ -1,0 +1,35 @@
+{
+  "id": "n3-0096",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "（終わる）",
+  "display": "しまう",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to finish",
+    "to close",
+    "to do something completely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "また太ってしまう！",
+      "en": "I'll gain weight again!"
+    },
+    {
+      "ja": "全くめげてしまうよ。",
+      "en": "I'm completely cast down!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n2-1595",
+  "jlpt": "N2",
+  "kanji": "縫う",
+  "kana": "ぬう",
+  "display": "縫う",
+  "meanings_zh": [
+    "缝",
+    "缝纫",
+    "刺绣",
+    "绣花"
+  ],
+  "meanings_en": [
+    "to sew"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "船は島の間を縫うように進んだ。",
+      "en": "The ship wound in and out among the islands."
+    },
+    {
+      "ja": "母は縫う手を止めて、本を拾った。",
+      "en": "My mother stopped her sewing and picked up her book."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n5-0181",
+  "jlpt": "N5",
+  "kanji": "安い",
+  "kana": "やすい",
+  "display": "安い",
+  "meanings_zh": [
+    "安静",
+    "平稳",
+    "安稳",
+    "贱"
+  ],
+  "meanings_en": [
+    "cheap"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今日は魚が安い。",
+      "en": "Fish is cheap today."
+    },
+    {
+      "ja": "この品物は安い。",
+      "en": "This article is cheap."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

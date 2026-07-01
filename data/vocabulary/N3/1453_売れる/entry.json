@@ -1,0 +1,38 @@
+{
+  "id": "n3-1453",
+  "jlpt": "N3",
+  "kanji": "売れる",
+  "kana": "うれる",
+  "display": "売れる",
+  "meanings_zh": [
+    "畅销",
+    "好卖",
+    "能卖",
+    "卖出去"
+  ],
+  "meanings_en": [
+    "to be sold"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "傘が良く売れる。",
+      "en": "Umbrellas sell well."
+    },
+    {
+      "ja": "この本はよく売れる。",
+      "en": "This book sells well."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

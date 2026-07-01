@@ -1,0 +1,39 @@
+{
+  "id": "n1-1997",
+  "jlpt": "N1",
+  "kanji": "正に",
+  "kana": "まさに",
+  "display": "正に",
+  "meanings_zh": [
+    "真正",
+    "的确",
+    "确实",
+    "实在"
+  ],
+  "meanings_en": [
+    "correctly",
+    "surely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私に公正に振る舞った。",
+      "en": "He acted fairly towards me."
+    },
+    {
+      "ja": "彼は人に公正に振る舞う。",
+      "en": "He deals fairly with people."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

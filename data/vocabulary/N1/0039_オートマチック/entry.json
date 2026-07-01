@@ -1,0 +1,28 @@
+{
+  "id": "n1-0039",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "オートマチック",
+  "display": "オートマチック",
+  "meanings_zh": [
+    "自动装置",
+    "僆乕僩儅僠僢僋僆儁儗乕僔儑儞僔僗僥儉 [僆乕僩儅僠僢僋僆儁儗乕僔儑儞僔僗僥儉] /// 自动运算系统",
+    "自动操作系统"
+  ],
+  "meanings_en": [
+    "automatic"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

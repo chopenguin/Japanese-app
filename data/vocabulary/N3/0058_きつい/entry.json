@@ -1,0 +1,40 @@
+{
+  "id": "n3-0058",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "きつい",
+  "display": "きつい",
+  "meanings_zh": [
+    "强烈",
+    "厉害",
+    "严厉",
+    "苛刻"
+  ],
+  "meanings_en": [
+    "tight",
+    "close",
+    "intense"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私の靴、きついの。",
+      "en": "My shoes are too small."
+    },
+    {
+      "ja": "この仕事はきつい？",
+      "en": "Is the job too much for you?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

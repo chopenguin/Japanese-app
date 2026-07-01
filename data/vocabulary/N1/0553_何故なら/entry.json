@@ -1,0 +1,29 @@
+{
+  "id": "n1-0553",
+  "jlpt": "N1",
+  "kanji": "何故なら",
+  "kana": "なぜなら",
+  "display": "何故なら",
+  "meanings_zh": [],
+  "meanings_en": [
+    "because"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何故ならば、私は中国語が話せます。",
+      "en": "The reason is because I can speak Chinese."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

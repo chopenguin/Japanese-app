@@ -1,0 +1,28 @@
+{
+  "id": "n1-1646",
+  "jlpt": "N1",
+  "kanji": "手分け",
+  "kana": "てわけ",
+  "display": "手分け",
+  "meanings_zh": [
+    "分手做",
+    "分头搞",
+    "分工"
+  ],
+  "meanings_en": [
+    "division of labour"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

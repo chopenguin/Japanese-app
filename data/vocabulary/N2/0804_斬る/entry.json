@@ -1,0 +1,30 @@
+{
+  "id": "n2-0804",
+  "jlpt": "N2",
+  "kanji": "斬る",
+  "kana": "きる",
+  "display": "斬る",
+  "meanings_zh": [
+    "切",
+    "割",
+    "剁",
+    "斩"
+  ],
+  "meanings_en": [
+    "(v5r) to behead",
+    "to murder"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

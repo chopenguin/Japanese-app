@@ -1,0 +1,34 @@
+{
+  "id": "n1-0029",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "インフォメーション",
+  "display": "インフォメーション",
+  "meanings_zh": [
+    "通知",
+    "情报",
+    "报告",
+    "传达室"
+  ],
+  "meanings_en": [
+    "information"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "空港のインフォメーションカウンターで働いています。",
+      "en": "I work at an airport information desk."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

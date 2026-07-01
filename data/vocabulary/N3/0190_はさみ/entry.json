@@ -1,0 +1,33 @@
+{
+  "id": "n3-0190",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "はさみ",
+  "display": "はさみ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "scissors"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "はさみを取って下さい。",
+      "en": "Get me the scissors, please."
+    },
+    {
+      "ja": "そのはさみは切れない。",
+      "en": "The scissors are not sharp."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

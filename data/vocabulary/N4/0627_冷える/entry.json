@@ -1,0 +1,38 @@
+{
+  "id": "n4-0627",
+  "jlpt": "N4",
+  "kanji": "冷える",
+  "kana": "ひえる",
+  "display": "冷える",
+  "meanings_zh": [
+    "变冷",
+    "变凉",
+    "放凉",
+    "感觉冷"
+  ],
+  "meanings_en": [
+    "to grow cold"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ひどく冷えるなあ。",
+      "en": "It's very cold."
+    },
+    {
+      "ja": "今夜は冷えるでしょう。",
+      "en": "It will cool down tonight."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

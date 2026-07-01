@@ -1,0 +1,40 @@
+{
+  "id": "n3-1219",
+  "jlpt": "N3",
+  "kanji": "替える",
+  "kana": "かえる",
+  "display": "替える",
+  "meanings_zh": [
+    "换",
+    "改换",
+    "更换"
+  ],
+  "meanings_en": [
+    "to exchange",
+    "to interchange",
+    "to substitute",
+    "to replace"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "体操服に着替えるのやだな。",
+      "en": "I don't like changing into my gym clothes."
+    },
+    {
+      "ja": "私は着替える為に家に帰った。",
+      "en": "I went home in order to change my clothes."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

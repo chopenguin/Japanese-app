@@ -1,0 +1,40 @@
+{
+  "id": "n3-0450",
+  "jlpt": "N3",
+  "kanji": "勧める",
+  "kana": "すすめる",
+  "display": "勧める",
+  "meanings_zh": [
+    "劝",
+    "劝告",
+    "劝诱"
+  ],
+  "meanings_en": [
+    "to recommend",
+    "to advise",
+    "to encourage",
+    "to offer (wine)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "誰かに自殺を勧めることは犯罪ですか？",
+      "en": "Is it a crime to encourage someone to commit suicide?"
+    },
+    {
+      "ja": "彼女はいつも新しいものを試すよう彼に勧める。",
+      "en": "She always urges him to try new things."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

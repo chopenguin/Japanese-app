@@ -1,0 +1,38 @@
+{
+  "id": "n2-1579",
+  "jlpt": "N2",
+  "kanji": "補う",
+  "kana": "おぎなう",
+  "display": "補う",
+  "meanings_zh": [
+    "补",
+    "补上",
+    "补充",
+    "贴补"
+  ],
+  "meanings_en": [
+    "to compensate for"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女の非凡な才能が経験不足を補う。",
+      "en": "Her genius makes up for her lack of experience."
+    },
+    {
+      "ja": "彼女が損失を補うように我々は提案した。",
+      "en": "We suggested that she should make up for the loss."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

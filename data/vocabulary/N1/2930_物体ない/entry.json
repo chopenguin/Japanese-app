@@ -1,0 +1,28 @@
+{
+  "id": "n1-2930",
+  "jlpt": "N1",
+  "kanji": "物体ない",
+  "kana": "もったいない",
+  "display": "物体ない",
+  "meanings_zh": [],
+  "meanings_en": [
+    "too good",
+    "more than one deserves",
+    "wasteful",
+    "sacrilegious",
+    "unworthy of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n1-0143",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ジャンプ",
+  "display": "ジャンプ",
+  "meanings_zh": [
+    "跳跃",
+    "飞跃"
+  ],
+  "meanings_en": [
+    "jump"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ジャンプして！",
+      "en": "Jump."
+    },
+    {
+      "ja": "トムはジャンプした。",
+      "en": "Tom jumped."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

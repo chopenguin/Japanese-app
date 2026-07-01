@@ -1,0 +1,36 @@
+{
+  "id": "n4-0578",
+  "jlpt": "N4",
+  "kanji": "訪ねる",
+  "kana": "たずねる",
+  "display": "訪ねる",
+  "meanings_zh": [
+    "访问",
+    "拜访"
+  ],
+  "meanings_en": [
+    "to visit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "明日彼を訪ねるつもりだ。",
+      "en": "I'll call on him tomorrow."
+    },
+    {
+      "ja": "私達は時たま彼女を訪ねる。",
+      "en": "We call on her now and again."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n2-1665",
+  "jlpt": "N2",
+  "kanji": "目覚し",
+  "kana": "めざまし",
+  "display": "目覚し",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(abbr) alarm-clock"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "目覚しは５時３０分に鳴った。",
+      "en": "The alarm went off at five-thirty."
+    },
+    {
+      "ja": "父は目覚しを６時にあわせた。",
+      "en": "Father set the alarm for six o'clock."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

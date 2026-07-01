@@ -1,0 +1,44 @@
+{
+  "id": "n1-3020",
+  "jlpt": "N1",
+  "kanji": "包む",
+  "kana": "くるむ",
+  "display": "包む",
+  "meanings_zh": [
+    "包",
+    "裹",
+    "卷"
+  ],
+  "meanings_en": [
+    "to be engulfed in",
+    "to be enveloped by",
+    "to wrap up",
+    "to tuck in",
+    "to pack",
+    "to do up",
+    "to cover with",
+    "to dress i"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "包む必要はありません。",
+      "en": "You don't have to wrap it up."
+    },
+    {
+      "ja": "恋は多く人生の苦痛を包むオブラートなり。",
+      "en": "Love is a pill made from a great many people's sufferings."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

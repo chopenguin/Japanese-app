@@ -1,0 +1,30 @@
+{
+  "id": "n1-3367",
+  "jlpt": "N1",
+  "kanji": "弄る",
+  "kana": "いじる",
+  "display": "弄る",
+  "meanings_zh": [
+    "摆弄",
+    "玩弄",
+    "拨弄",
+    "抚弄"
+  ],
+  "meanings_en": [
+    "to touch",
+    "to tamper with"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

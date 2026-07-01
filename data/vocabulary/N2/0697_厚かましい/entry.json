@@ -1,0 +1,39 @@
+{
+  "id": "n2-0697",
+  "jlpt": "N2",
+  "kanji": "厚かましい",
+  "kana": "あつかましい",
+  "display": "厚かましい",
+  "meanings_zh": [
+    "厚脸皮",
+    "不害羞",
+    "无耻"
+  ],
+  "meanings_en": [
+    "impudent",
+    "shameless",
+    "brazen"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "厚かましいなぁ。",
+      "en": "You're shameless."
+    },
+    {
+      "ja": "君の厚かましいのには呆れたよ。",
+      "en": "I am amazed at your audacity."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

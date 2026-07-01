@@ -1,0 +1,36 @@
+{
+  "id": "n1-2975",
+  "jlpt": "N1",
+  "kanji": "片思い",
+  "kana": "かたおもい",
+  "display": "片思い",
+  "meanings_zh": [
+    "单恋",
+    "单相思"
+  ],
+  "meanings_en": [
+    "unrequited love"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それは片思いの恋だった。",
+      "en": "It was a one-sided love affair."
+    },
+    {
+      "ja": "スタンはリズに昔から片思いしてきた。",
+      "en": "Stan has always carried a torch for Liz."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

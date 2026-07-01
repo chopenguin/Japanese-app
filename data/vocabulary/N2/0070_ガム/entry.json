@@ -1,0 +1,33 @@
+{
+  "id": "n2-0070",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ガム",
+  "display": "ガム",
+  "meanings_zh": [],
+  "meanings_en": [
+    "chewing gum"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ガム持ってない？",
+      "en": "Do you have any gum?"
+    },
+    {
+      "ja": "授業中にガムを噛むな。",
+      "en": "Don't chew gum in class."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

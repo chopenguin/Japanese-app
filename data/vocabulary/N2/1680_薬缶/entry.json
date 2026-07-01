@@ -1,0 +1,37 @@
+{
+  "id": "n2-1680",
+  "jlpt": "N2",
+  "kanji": "薬缶",
+  "kana": "やかん",
+  "display": "薬缶",
+  "meanings_zh": [
+    "壶",
+    "铁壶",
+    "水壶"
+  ],
+  "meanings_en": [
+    "kettle"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "薬缶のお湯が沸いている。",
+      "en": "The kettle is boiling."
+    },
+    {
+      "ja": "薬缶から湯気が立っている。",
+      "en": "The kettle is steaming."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

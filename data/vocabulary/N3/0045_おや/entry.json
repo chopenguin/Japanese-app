@@ -1,0 +1,37 @@
+{
+  "id": "n3-0045",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "おや",
+  "display": "おや",
+  "meanings_zh": [
+    "哎",
+    "唷",
+    "噢"
+  ],
+  "meanings_en": [
+    "parents"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "自分でおやり！",
+      "en": "Do it by yourself."
+    },
+    {
+      "ja": "おやつはどう？",
+      "en": "How about a snack?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

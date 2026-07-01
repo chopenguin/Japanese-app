@@ -1,0 +1,40 @@
+{
+  "id": "n3-1471",
+  "jlpt": "N3",
+  "kanji": "抜ける",
+  "kana": "ぬける",
+  "display": "抜ける",
+  "meanings_zh": [
+    "脱落",
+    "落掉",
+    "漏掉",
+    "遗漏"
+  ],
+  "meanings_en": [
+    "to come out",
+    "to fall out",
+    "to be omitted"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "森を抜ける小道があります。",
+      "en": "There is a path through the wood."
+    },
+    {
+      "ja": "その箱にそんなに詰めると底が抜けるよ。",
+      "en": "If you stuff the box too full, the bottom will fall out."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

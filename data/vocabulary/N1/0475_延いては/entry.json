@@ -1,0 +1,30 @@
+{
+  "id": "n1-0475",
+  "jlpt": "N1",
+  "kanji": "延いては",
+  "kana": "ひいては",
+  "display": "延いては",
+  "meanings_zh": [
+    "进而",
+    "不但～～而且",
+    "不仅～～甚至"
+  ],
+  "meanings_en": [
+    "not only...but also",
+    "in addition to",
+    "consequently"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

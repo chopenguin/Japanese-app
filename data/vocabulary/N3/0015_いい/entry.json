@@ -1,0 +1,33 @@
+{
+  "id": "n3-0015",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "いい",
+  "display": "いい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "good"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "運がいいね。",
+      "en": "It's a godsend."
+    },
+    {
+      "ja": "いい人です。",
+      "en": "He's a good person."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

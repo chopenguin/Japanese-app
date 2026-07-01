@@ -1,0 +1,36 @@
+{
+  "id": "n4-0176",
+  "jlpt": "N4",
+  "kanji": "遠く",
+  "kana": "とおく",
+  "display": "遠く",
+  "meanings_zh": [
+    "远方",
+    "远处"
+  ],
+  "meanings_en": [
+    "distant"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "遠くにいる？",
+      "en": "Are you guys far away?"
+    },
+    {
+      "ja": "遠くは見える？",
+      "en": "Can you see far?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

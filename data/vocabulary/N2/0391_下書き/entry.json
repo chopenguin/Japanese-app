@@ -1,0 +1,39 @@
+{
+  "id": "n2-0391",
+  "jlpt": "N2",
+  "kanji": "下書き",
+  "kana": "したがき",
+  "display": "下書き",
+  "meanings_zh": [
+    "草稿",
+    "底稿",
+    "打稿",
+    "起草"
+  ],
+  "meanings_en": [
+    "rough copy",
+    "draft"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は論文の１回目の下書きをした。",
+      "en": "I've made a first draft of my thesis."
+    },
+    {
+      "ja": "私はスピーチの下書きを書いています。",
+      "en": "I am writing a draft of the speech."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

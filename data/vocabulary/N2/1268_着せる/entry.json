@@ -1,0 +1,34 @@
+{
+  "id": "n2-1268",
+  "jlpt": "N2",
+  "kanji": "着せる",
+  "kana": "きせる",
+  "display": "着せる",
+  "meanings_zh": [
+    "给～～穿上",
+    "蒙上",
+    "盖上",
+    "镀上"
+  ],
+  "meanings_en": [
+    "to put on clothes"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "子供が自分のペットに服を着せるように、子猫に服を着せました。",
+      "en": "She dressed him like children dress their pets."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

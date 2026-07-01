@@ -1,0 +1,40 @@
+{
+  "id": "n3-0162",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ところで",
+  "display": "ところで",
+  "meanings_zh": [
+    "可是",
+    "这个",
+    "那个",
+    "即便"
+  ],
+  "meanings_en": [
+    "by the way",
+    "even if",
+    "no matter what"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "登校するところです。",
+      "en": "I am going to school."
+    },
+    {
+      "ja": "今始めたところです。",
+      "en": "I'm just beginning."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

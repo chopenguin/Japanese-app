@@ -1,0 +1,33 @@
+{
+  "id": "n2-0052",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "おねがいします",
+  "display": "おねがいします",
+  "meanings_zh": [],
+  "meanings_en": [
+    "please"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "よろしくおねがいします。",
+      "en": "I'm looking forward to working with you."
+    },
+    {
+      "ja": "コーヒー三つおねがいします。",
+      "en": "Three coffees, please."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

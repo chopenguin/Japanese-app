@@ -1,0 +1,29 @@
+{
+  "id": "n3-1781",
+  "jlpt": "N3",
+  "kanji": "罹る",
+  "kana": "かかる",
+  "display": "罹る",
+  "meanings_zh": [
+    "患",
+    "生",
+    "染",
+    "遭受"
+  ],
+  "meanings_en": [
+    "to suffer from"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

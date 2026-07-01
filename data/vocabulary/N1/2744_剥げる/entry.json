@@ -1,0 +1,30 @@
+{
+  "id": "n1-2744",
+  "jlpt": "N1",
+  "kanji": "剥げる",
+  "kana": "はげる",
+  "display": "剥げる",
+  "meanings_zh": [
+    "剥落",
+    "褪色"
+  ],
+  "meanings_en": [
+    "to come off",
+    "to be worn off",
+    "to fade",
+    "to discolor"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

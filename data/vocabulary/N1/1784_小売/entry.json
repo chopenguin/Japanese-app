@@ -1,0 +1,33 @@
+{
+  "id": "n1-1784",
+  "jlpt": "N1",
+  "kanji": "小売",
+  "kana": "こうり",
+  "display": "小売",
+  "meanings_zh": [],
+  "meanings_en": [
+    "retail"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "小売部門は厳しい四半期を迎えた。",
+      "en": "The retail sector had a rough quarter."
+    },
+    {
+      "ja": "新型は小売価格３万円で販売される。",
+      "en": "The new model will retail for 30,000 yen."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

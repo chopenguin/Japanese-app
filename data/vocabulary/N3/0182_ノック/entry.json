@@ -1,0 +1,38 @@
+{
+  "id": "n3-0182",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ノック",
+  "display": "ノック",
+  "meanings_zh": [
+    "敲打",
+    "敲门",
+    "(为练习防守)打球"
+  ],
+  "meanings_en": [
+    "(1) knock",
+    "(2) fungo (baseball)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "誰かノックしてる？",
+      "en": "Is someone knocking on the door?"
+    },
+    {
+      "ja": "ノックの音がした？",
+      "en": "Did you hear a knock?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n1-2955",
+  "jlpt": "N1",
+  "kanji": "聞き取り",
+  "kana": "ききとり",
+  "display": "聞き取り",
+  "meanings_zh": [
+    "听懂",
+    "听取",
+    "听力"
+  ],
+  "meanings_en": [
+    "listening comprehension"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "大阪の方言は聞き取り難い。",
+      "en": "It's hard to catch words in the Osakan dialect."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

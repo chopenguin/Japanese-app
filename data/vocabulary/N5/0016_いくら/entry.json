@@ -1,0 +1,33 @@
+{
+  "id": "n5-0016",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "いくら",
+  "display": "いくら",
+  "meanings_zh": [],
+  "meanings_en": [
+    "how much?"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "いくらですか？",
+      "en": "How much is it?"
+    },
+    {
+      "ja": "時給はいくら？",
+      "en": "How much is your hourly pay?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

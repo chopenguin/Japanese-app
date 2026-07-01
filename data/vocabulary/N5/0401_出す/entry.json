@@ -1,0 +1,39 @@
+{
+  "id": "n5-0401",
+  "jlpt": "N5",
+  "kanji": "出す",
+  "kana": "だす",
+  "display": "出す",
+  "meanings_zh": [
+    "出",
+    "送",
+    "拿出",
+    "取出 ～～起来",
+    "～～出来"
+  ],
+  "meanings_en": [
+    "to put out"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "口を出すな。",
+      "en": "You keep out of this."
+    },
+    {
+      "ja": "投げ出すな。",
+      "en": "Don't throw in the towel."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

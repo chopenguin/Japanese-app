@@ -1,0 +1,33 @@
+{
+  "id": "n1-1326",
+  "jlpt": "N1",
+  "kanji": "骨董品",
+  "kana": "こっとうひん",
+  "display": "骨董品",
+  "meanings_zh": [],
+  "meanings_en": [
+    "curio"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は骨董品を見る目がある。",
+      "en": "He has an eye for antiques."
+    },
+    {
+      "ja": "彼女は骨董品がとても好きだ。",
+      "en": "She has a great love for antique goods."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

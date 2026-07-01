@@ -1,0 +1,39 @@
+{
+  "id": "n2-0229",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ぶつかる",
+  "display": "ぶつかる",
+  "meanings_zh": [
+    "碰",
+    "撞",
+    "(偶然)遇上",
+    "碰上"
+  ],
+  "meanings_en": [
+    "to strike",
+    "to collide with"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女はもう少しで車にぶつかるところだった。",
+      "en": "She was almost hit by a car."
+    },
+    {
+      "ja": "トラックがガードレールにぶつかるのを偶然に見た。",
+      "en": "We happened to see a truck run into the guard-rail."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

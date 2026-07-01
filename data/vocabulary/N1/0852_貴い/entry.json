@@ -1,0 +1,34 @@
+{
+  "id": "n1-0852",
+  "jlpt": "N1",
+  "kanji": "貴い",
+  "kana": "たっとい",
+  "display": "貴い",
+  "meanings_zh": [
+    "珍贵",
+    "贵重",
+    "宝贵",
+    "高贵"
+  ],
+  "meanings_en": [
+    "precious",
+    "valuable",
+    "priceless",
+    "noble",
+    "exalted",
+    "sacred"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

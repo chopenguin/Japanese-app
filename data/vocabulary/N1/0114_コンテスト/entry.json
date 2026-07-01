@@ -1,0 +1,38 @@
+{
+  "id": "n1-0114",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "コンテスト",
+  "display": "コンテスト",
+  "meanings_zh": [
+    "竞赛",
+    "比赛",
+    "比赛会",
+    "会演"
+  ],
+  "meanings_en": [
+    "contest"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はコンテストで名を挙げた。",
+      "en": "He distinguished himself in the contest."
+    },
+    {
+      "ja": "私たちはコンテストに参加した。",
+      "en": "We took part in the contest."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

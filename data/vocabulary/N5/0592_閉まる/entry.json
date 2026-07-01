@@ -1,0 +1,39 @@
+{
+  "id": "n5-0592",
+  "jlpt": "N5",
+  "kanji": "閉まる",
+  "kana": "しまる",
+  "display": "閉まる",
+  "meanings_zh": [
+    "严紧",
+    "系紧",
+    "勒紧",
+    "紧张"
+  ],
+  "meanings_en": [
+    "to close",
+    "to be closed"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "2時半に閉まる。",
+      "en": "We close at 2:30."
+    },
+    {
+      "ja": "店は７時に閉まる。",
+      "en": "The store closes at seven."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n2-0756",
+  "jlpt": "N2",
+  "kanji": "催し",
+  "kana": "もよおし",
+  "display": "催し",
+  "meanings_zh": [
+    "筹划",
+    "计划",
+    "举办",
+    "主办"
+  ],
+  "meanings_en": [
+    "event",
+    "festivities",
+    "function"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らは祝宴を催した。",
+      "en": "They held a congratulatory banquet."
+    },
+    {
+      "ja": "彼は舞踏会を催した。",
+      "en": "He gave a ball."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

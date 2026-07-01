@@ -1,0 +1,38 @@
+{
+  "id": "n1-0092",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "クイズ",
+  "display": "クイズ",
+  "meanings_zh": [
+    "考问",
+    "解答难题",
+    "猜谜",
+    "智力竞赛"
+  ],
+  "meanings_en": [
+    "quiz"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "このクイズは全然分からない。",
+      "en": "I can make nothing of this quiz."
+    },
+    {
+      "ja": "クイズ番組は７時のニュースのあとだ。",
+      "en": "The quiz show follows the 7 o'clock news."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

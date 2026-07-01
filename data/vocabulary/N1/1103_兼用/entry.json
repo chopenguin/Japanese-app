@@ -1,0 +1,39 @@
+{
+  "id": "n1-1103",
+  "jlpt": "N1",
+  "kanji": "兼用",
+  "kana": "けんよう",
+  "display": "兼用",
+  "meanings_zh": [
+    "兼用",
+    "两用"
+  ],
+  "meanings_en": [
+    "multi-use",
+    "combined use",
+    "combination",
+    "serving two purposes"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この書斎は客間兼用だ。",
+      "en": "I also use this study for receiving guests."
+    },
+    {
+      "ja": "テレビとモニタを兼用してる。",
+      "en": "I use it as both a television and a monitor."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

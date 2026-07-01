@@ -1,0 +1,39 @@
+{
+  "id": "n1-1870",
+  "jlpt": "N1",
+  "kanji": "心強い",
+  "kana": "こころづよい",
+  "display": "心強い",
+  "meanings_zh": [
+    "胆壮",
+    "有把握",
+    "受鼓舞",
+    "放心"
+  ],
+  "meanings_en": [
+    "heartening",
+    "reassuring"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ありがとう。本当に心強いです。",
+      "en": "Thank you. That's very reassuring."
+    },
+    {
+      "ja": "僕には警察よりも何よりもみんながいてくれることの方が心強いのですよ。",
+      "en": "For my part, having you lot with me is more reassuring than the police or anything!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

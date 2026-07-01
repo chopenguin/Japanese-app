@@ -1,0 +1,38 @@
+{
+  "id": "n4-0284",
+  "jlpt": "N4",
+  "kanji": "向かう",
+  "kana": "むかう",
+  "display": "向かう",
+  "meanings_zh": [
+    "向",
+    "朝",
+    "对",
+    "相对"
+  ],
+  "meanings_en": [
+    "to face"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "女は悪魔の宴へと向かう。",
+      "en": "She rides to the black sabbath."
+    },
+    {
+      "ja": "彼女は明日東京に向かう。",
+      "en": "She's leaving for Tokyo tomorrow."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

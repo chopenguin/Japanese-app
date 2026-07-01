@@ -1,0 +1,41 @@
+{
+  "id": "n1-1354",
+  "jlpt": "N1",
+  "kanji": "差し出す",
+  "kana": "さしだす",
+  "display": "差し出す",
+  "meanings_zh": [
+    "伸出",
+    "探出",
+    "寄出",
+    "发出"
+  ],
+  "meanings_en": [
+    "to present",
+    "to submit",
+    "to tender",
+    "to hold out"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私が彼に５０ペンスを差し出すと、彼はそれを受け取った。",
+      "en": "I offered him fifty pence and he accepted."
+    },
+    {
+      "ja": "私は「おしぼり」という濡れたタオルを差し出す習慣が好きです。",
+      "en": "I like the Japanese custom of offering guests moist towels, called oshibori."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

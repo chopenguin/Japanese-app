@@ -1,0 +1,41 @@
+{
+  "id": "n3-1615",
+  "jlpt": "N3",
+  "kanji": "望む",
+  "kana": "のぞむ",
+  "display": "望む",
+  "meanings_zh": [
+    "眺望",
+    "希望",
+    "愿望",
+    "期望"
+  ],
+  "meanings_en": [
+    "to desire",
+    "to wish for",
+    "to see",
+    "to command (a view of)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "誰でも幸福を望む。",
+      "en": "Everybody desires happiness."
+    },
+    {
+      "ja": "寸を与えれば尺を望む。",
+      "en": "Give him an inch and he will take a yard."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

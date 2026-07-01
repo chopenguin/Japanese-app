@@ -1,0 +1,36 @@
+{
+  "id": "n4-0124",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "パソコン",
+  "display": "パソコン",
+  "meanings_zh": [
+    "个人(型)电脑",
+    "个人(型)计算机"
+  ],
+  "meanings_en": [
+    "personal computer"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "パソコンしたよ。",
+      "en": "I played with a computer."
+    },
+    {
+      "ja": "パソコンは使える？",
+      "en": "Do you know how to use a computer?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

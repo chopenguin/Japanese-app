@@ -1,0 +1,34 @@
+{
+  "id": "n3-0056",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "かわいらしい",
+  "display": "かわいらしい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "lovely",
+    "sweet"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何とかわいらしい人形だ！",
+      "en": "What a lovely doll!"
+    },
+    {
+      "ja": "彼女はとてもかわいらしい。",
+      "en": "She is as pretty as anything."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

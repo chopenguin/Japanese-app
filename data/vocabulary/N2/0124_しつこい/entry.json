@@ -1,0 +1,39 @@
+{
+  "id": "n2-0124",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "しつこい",
+  "display": "しつこい",
+  "meanings_zh": [
+    "过浓",
+    "腻人",
+    "过于浓艳",
+    "浓厚"
+  ],
+  "meanings_en": [
+    "insistent",
+    "obstinate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "しつこいなぁ。",
+      "en": "You're persistent."
+    },
+    {
+      "ja": "もう、しつこいな。",
+      "en": "Stop bothering me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n1-2453",
+  "jlpt": "N1",
+  "kanji": "綴じる",
+  "kana": "とじる",
+  "display": "綴じる",
+  "meanings_zh": [
+    "订上",
+    "缝在一起"
+  ],
+  "meanings_en": [
+    "to bind",
+    "to file"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "紙を綴じるのにホチキスはとても便利です。",
+      "en": "A stapler is very useful for attaching papers together."
+    },
+    {
+      "ja": "生徒会で使うらしくて、プリント綴じるのを少し手伝っていました。",
+      "en": "I helped a little by binding printouts that the student council could use."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

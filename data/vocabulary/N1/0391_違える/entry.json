@@ -1,0 +1,38 @@
+{
+  "id": "n1-0391",
+  "jlpt": "N1",
+  "kanji": "違える",
+  "kana": "ちがえる",
+  "display": "違える",
+  "meanings_zh": [
+    "违反",
+    "违背",
+    "使不一致",
+    "使有差别"
+  ],
+  "meanings_en": [
+    "to change"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私、よく間違えるの。",
+      "en": "I often make mistakes."
+    },
+    {
+      "ja": "間違えるのが嫌なの。",
+      "en": "I'm scared to make a mistake."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

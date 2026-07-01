@@ -1,0 +1,35 @@
+{
+  "id": "n5-0342",
+  "jlpt": "N5",
+  "kanji": "咲く",
+  "kana": "さく",
+  "display": "咲く",
+  "meanings_zh": [
+    "开"
+  ],
+  "meanings_en": [
+    "to bloom"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "梅の花は3月に咲く。",
+      "en": "Plum blossoms come out in March."
+    },
+    {
+      "ja": "その花は早春に咲く。",
+      "en": "The flower comes out in early spring."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

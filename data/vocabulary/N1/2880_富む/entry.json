@@ -1,0 +1,39 @@
+{
+  "id": "n1-2880",
+  "jlpt": "N1",
+  "kanji": "富む",
+  "kana": "とむ",
+  "display": "富む",
+  "meanings_zh": [
+    "富",
+    "富裕",
+    "有钱",
+    "富于"
+  ],
+  "meanings_en": [
+    "to be rich",
+    "to become rich"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そこは鉄鉱に富む。",
+      "en": "Iron ore occurs there in abundance."
+    },
+    {
+      "ja": "カナダは木材に富む。",
+      "en": "Canada abounds in timber."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

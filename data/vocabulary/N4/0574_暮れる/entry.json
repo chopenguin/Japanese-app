@@ -1,0 +1,39 @@
+{
+  "id": "n4-0574",
+  "jlpt": "N4",
+  "kanji": "暮れる",
+  "kana": "くれる",
+  "display": "暮れる",
+  "meanings_zh": [
+    "日暮",
+    "天黑",
+    "入夜",
+    "即将过去"
+  ],
+  "meanings_en": [
+    "to get dark",
+    "to come to an end"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "冬の日は速く暮れる。",
+      "en": "The night falls fast in winter."
+    },
+    {
+      "ja": "もうすぐ日が暮れるよ。",
+      "en": "The sun will set soon."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

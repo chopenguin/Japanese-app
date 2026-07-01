@@ -1,0 +1,33 @@
+{
+  "id": "n2-0247",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ぺん",
+  "display": "ぺん",
+  "meanings_zh": [],
+  "meanings_en": [
+    "pen"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "てっぺんまで上がった。",
+      "en": "We climbed to the top."
+    },
+    {
+      "ja": "この話は何十ぺんとなく聞いた。",
+      "en": "I have heard this story scores of times."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

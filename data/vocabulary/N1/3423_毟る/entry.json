@@ -1,0 +1,31 @@
+{
+  "id": "n1-3423",
+  "jlpt": "N1",
+  "kanji": "毟る",
+  "kana": "むしる",
+  "display": "毟る",
+  "meanings_zh": [
+    "拔",
+    "薅",
+    "撕",
+    "揪"
+  ],
+  "meanings_en": [
+    "to pluck",
+    "to pick",
+    "to tear"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

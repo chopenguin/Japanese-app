@@ -1,0 +1,38 @@
+{
+  "id": "n2-0747",
+  "jlpt": "N2",
+  "kanji": "混ざる",
+  "kana": "まざる",
+  "display": "混ざる",
+  "meanings_zh": [
+    "搀混",
+    "搀杂",
+    "混杂",
+    "夹杂"
+  ],
+  "meanings_en": [
+    "to be mixed",
+    "to be blended with",
+    "to associate with",
+    "to mingle with",
+    "to join"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この物質は水と混ざる。",
+      "en": "This substance will mix with water."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n3-1096",
+  "jlpt": "N3",
+  "kanji": "勢い",
+  "kana": "いきおい",
+  "display": "勢い",
+  "meanings_zh": [
+    "势",
+    "势力",
+    "气势"
+  ],
+  "meanings_en": [
+    "force",
+    "vigor",
+    "energy",
+    "spirit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "台風が勢いを増した。",
+      "en": "The typhoon gathered strength."
+    },
+    {
+      "ja": "同僚なら大勢いるよ。",
+      "en": "I have many colleagues."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

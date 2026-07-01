@@ -1,0 +1,38 @@
+{
+  "id": "n4-0162",
+  "jlpt": "N4",
+  "kanji": "移る",
+  "kana": "うつる",
+  "display": "移る",
+  "meanings_zh": [
+    "搬",
+    "迁",
+    "移",
+    "转移"
+  ],
+  "meanings_en": [
+    "to move house or transfer"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "熱意は移る。",
+      "en": "Enthusiasm is contagious."
+    },
+    {
+      "ja": "笑いは移る。",
+      "en": "Laughter is infectious."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

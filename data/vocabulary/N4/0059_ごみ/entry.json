@@ -1,0 +1,33 @@
+{
+  "id": "n4-0059",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ごみ",
+  "display": "ごみ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "rubbish"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "人ごみは大嫌い。",
+      "en": "I hate it when there are a lot of people."
+    },
+    {
+      "ja": "ごみを外に出して。",
+      "en": "Take the garbage out."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

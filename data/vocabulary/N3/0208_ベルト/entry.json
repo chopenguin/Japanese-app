@@ -1,0 +1,38 @@
+{
+  "id": "n3-0208",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ベルト",
+  "display": "ベルト",
+  "meanings_zh": [
+    "腰带",
+    "皮带",
+    "传动带",
+    "轮带"
+  ],
+  "meanings_en": [
+    "Belt for western clothes"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "シートベルトはした？",
+      "en": "Did you fasten the seatbelt?"
+    },
+    {
+      "ja": "あれは革のベルトです。",
+      "en": "That is a leather belt."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

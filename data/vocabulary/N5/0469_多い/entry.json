@@ -1,0 +1,36 @@
+{
+  "id": "n5-0469",
+  "jlpt": "N5",
+  "kanji": "多い",
+  "kana": "おおい",
+  "display": "多い",
+  "meanings_zh": [
+    "多",
+    "许多"
+  ],
+  "meanings_en": [
+    "many"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "疑問が多い。",
+      "en": "I have many doubts."
+    },
+    {
+      "ja": "乗組員が多い。",
+      "en": "The crew is large."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

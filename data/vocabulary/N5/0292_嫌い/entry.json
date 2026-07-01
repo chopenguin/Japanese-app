@@ -1,0 +1,38 @@
+{
+  "id": "n5-0292",
+  "jlpt": "N5",
+  "kanji": "嫌い",
+  "kana": "きらい",
+  "display": "嫌い",
+  "meanings_zh": [
+    "嫌恶",
+    "厌恶",
+    "厌烦",
+    "讨厌"
+  ],
+  "meanings_en": [
+    "hate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "みんな嫌い。",
+      "en": "I don't like any of them."
+    },
+    {
+      "ja": "犬は大嫌い。",
+      "en": "I hate dogs."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

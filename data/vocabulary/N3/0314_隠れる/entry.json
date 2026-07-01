@@ -1,0 +1,37 @@
+{
+  "id": "n3-0314",
+  "jlpt": "N3",
+  "kanji": "隠れる",
+  "kana": "かくれる",
+  "display": "隠れる",
+  "meanings_zh": [
+    "隐藏",
+    "躲藏",
+    "隐遁",
+    "埋没"
+  ],
+  "meanings_en": [
+    "to hide",
+    "to be hidden",
+    "to conceal oneself",
+    "to disappear"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "スタジオはとても狭くて、隠れる場所はない。",
+      "en": "The studio is very small, with no place to hide."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

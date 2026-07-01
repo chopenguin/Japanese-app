@@ -1,0 +1,39 @@
+{
+  "id": "n2-0769",
+  "jlpt": "N2",
+  "kanji": "祭る",
+  "kana": "まつる",
+  "display": "祭る",
+  "meanings_zh": [
+    "祭祀",
+    "祭奠",
+    "供奉",
+    "祭"
+  ],
+  "meanings_en": [
+    "to deify",
+    "to enshrine"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "九頭竜明神を祭るために灯篭をながす。",
+      "en": "Lanterns are floated to worship Great God Kuzuryū."
+    },
+    {
+      "ja": "「ところで神社を知っていますか？」「軽く触れる程度には。信仰対象となった存在、いわゆるところの神格を祭る礼拝施設ね」",
+      "en": "\"By the way, do you know what a Shinto shrine is?\" \"I've a little bit of knowledge on the subject. It's a religious facility where that which is the object of worship, that called the genius loci, is enshrined.\""
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

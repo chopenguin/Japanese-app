@@ -1,0 +1,38 @@
+{
+  "id": "n1-0327",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "レントゲン",
+  "display": "レントゲン",
+  "meanings_zh": [
+    "伦琴射线",
+    "爱克斯射线",
+    "X光线",
+    "伦"
+  ],
+  "meanings_en": [
+    "X-ray (lit: Roentgen)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "歯のレントゲンを撮りますね。",
+      "en": "I'll take some X-rays of your teeth."
+    },
+    {
+      "ja": "胸部のレントゲンをとってください。",
+      "en": "I'd like you to have a chest X-ray."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

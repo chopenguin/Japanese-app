@@ -1,0 +1,38 @@
+{
+  "id": "n3-0702",
+  "jlpt": "N3",
+  "kanji": "雇う",
+  "kana": "やとう",
+  "display": "雇う",
+  "meanings_zh": [
+    "雇",
+    "雇用",
+    "租"
+  ],
+  "meanings_en": [
+    "to employ",
+    "to hire"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あなたは彼を雇うことができる。",
+      "en": "You can employ him."
+    },
+    {
+      "ja": "彼らは私をその会社に雇うと言った。",
+      "en": "They said they would employ me at the office."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

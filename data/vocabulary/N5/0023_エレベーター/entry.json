@@ -1,0 +1,36 @@
+{
+  "id": "n5-0023",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "エレベーター",
+  "display": "エレベーター",
+  "meanings_zh": [
+    "电梯",
+    "升降机"
+  ],
+  "meanings_en": [
+    "elevator"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "エレベーター来たよ。",
+      "en": "The elevator arrived."
+    },
+    {
+      "ja": "エレベーター使おう！",
+      "en": "Let's take the elevator!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

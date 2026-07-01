@@ -1,0 +1,34 @@
+{
+  "id": "n2-0209",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "はじめまして",
+  "display": "はじめまして",
+  "meanings_zh": [],
+  "meanings_en": [
+    "How do you do?",
+    "I am glad to meet you"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "はじめまして。",
+      "en": "Nice to meet you."
+    },
+    {
+      "ja": "こちらこそ、はじめまして。",
+      "en": "Nice to meet you too."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

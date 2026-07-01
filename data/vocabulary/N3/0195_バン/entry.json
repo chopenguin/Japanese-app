@@ -1,0 +1,39 @@
+{
+  "id": "n3-0195",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "バン",
+  "display": "バン",
+  "meanings_zh": [
+    "大篷货车",
+    "带篷卡车",
+    "箱型有盖载货卡车"
+  ],
+  "meanings_en": [
+    "bun",
+    "van (caravan)",
+    "VAN (value-added network)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "好きなバンドは？",
+      "en": "What bands do you like?"
+    },
+    {
+      "ja": "カバンは結構です。",
+      "en": "No thanks, I don't need a bag."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

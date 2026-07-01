@@ -1,0 +1,38 @@
+{
+  "id": "n3-1171",
+  "jlpt": "N3",
+  "kanji": "組む",
+  "kana": "くむ",
+  "display": "組む",
+  "meanings_zh": [
+    "合伙",
+    "联合",
+    "组织起来",
+    "组成组"
+  ],
+  "meanings_en": [
+    "to put together"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そろそろ本気で仕事に取り組むころだよ。",
+      "en": "It is time you get down to work."
+    },
+    {
+      "ja": "パトリシアがそのトーナメントを組むでしょう。",
+      "en": "Patricia will organize the tournament."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

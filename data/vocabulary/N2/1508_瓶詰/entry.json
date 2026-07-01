@@ -1,0 +1,34 @@
+{
+  "id": "n2-1508",
+  "jlpt": "N2",
+  "kanji": "瓶詰",
+  "kana": "びんづめ",
+  "display": "瓶詰",
+  "meanings_zh": [],
+  "meanings_en": [
+    "bottling",
+    "bottled"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "精液は瓶詰めにする価値はあるよ。",
+      "en": "Semen is worth bottling."
+    },
+    {
+      "ja": "しかし、国産ワインといっても、国内で瓶詰めされたものは全て国産ワインとなります。",
+      "en": "Having said 'domestic wine', anything bottled domestically is deemed to be domestic wine."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

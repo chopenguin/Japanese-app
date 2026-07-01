@@ -1,0 +1,39 @@
+{
+  "id": "n4-0312",
+  "jlpt": "N4",
+  "kanji": "参る",
+  "kana": "まいる",
+  "display": "参る",
+  "meanings_zh": [
+    "去",
+    "来",
+    "参拜",
+    "认输"
+  ],
+  "meanings_en": [
+    "(humble) to go",
+    "to come"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "君には参るよ。",
+      "en": "You got me!"
+    },
+    {
+      "ja": "トムには参るよ。",
+      "en": "I'm at a loss with Tom."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

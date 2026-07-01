@@ -1,0 +1,35 @@
+{
+  "id": "n3-0079",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "これら",
+  "display": "これら",
+  "meanings_zh": [
+    "这些"
+  ],
+  "meanings_en": [
+    "these"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これらは人間だ。",
+      "en": "These are people."
+    },
+    {
+      "ja": "これらは鳥です。",
+      "en": "These are birds."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

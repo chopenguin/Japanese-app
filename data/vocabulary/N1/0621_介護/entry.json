@@ -1,0 +1,33 @@
+{
+  "id": "n1-0621",
+  "jlpt": "N1",
+  "kanji": "介護",
+  "kana": "かいご",
+  "display": "介護",
+  "meanings_zh": [],
+  "meanings_en": [
+    "nursing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "来年から日本では介護保険制度が始まるね。",
+      "en": "The new national elder-care insurance system starts next year, right?"
+    },
+    {
+      "ja": "彼らは手の空いた時間の一部を病人の介護にあてている。",
+      "en": "They give part of their spare time to take care of the sick."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n4-0004",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "あかちゃん",
+  "display": "あかちゃん",
+  "meanings_zh": [],
+  "meanings_en": [
+    "infant"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "わたち、あかちゃん。",
+      "en": "I'm baby."
+    },
+    {
+      "ja": "あかちゃんがいるときはたばこを御遠慮下さい。",
+      "en": "Would you please refrain from smoking when babies are here?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

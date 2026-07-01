@@ -1,0 +1,32 @@
+{
+  "id": "n1-3251",
+  "jlpt": "N1",
+  "kanji": "揺らぐ",
+  "kana": "ゆらぐ",
+  "display": "揺らぐ",
+  "meanings_zh": [
+    "摇动",
+    "晃荡",
+    "摇摇欲坠",
+    "岌岌可危"
+  ],
+  "meanings_en": [
+    "to swing",
+    "to sway",
+    "to shake",
+    "to tremble"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

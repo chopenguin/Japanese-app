@@ -1,0 +1,36 @@
+{
+  "id": "n2-1598",
+  "jlpt": "N2",
+  "kanji": "坊さん",
+  "kana": "ぼうさん",
+  "display": "坊さん",
+  "meanings_zh": [
+    "和尚"
+  ],
+  "meanings_en": [
+    "Buddhist priest",
+    "monk"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あの偉い坊さんを見ろよ。",
+      "en": "Look at the big shot."
+    },
+    {
+      "ja": "トムって、お坊さんなんだよね？",
+      "en": "Tom is a monk, isn't he?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

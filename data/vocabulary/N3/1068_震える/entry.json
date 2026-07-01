@@ -1,0 +1,40 @@
+{
+  "id": "n3-1068",
+  "jlpt": "N3",
+  "kanji": "震える",
+  "kana": "ふるえる",
+  "display": "震える",
+  "meanings_zh": [
+    "颤动",
+    "发抖",
+    "哆嗦",
+    "震动"
+  ],
+  "meanings_en": [
+    "to shiver",
+    "to shake",
+    "to quake"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "心が震える。",
+      "en": "My heart is trembling."
+    },
+    {
+      "ja": "手が震えるんだ。",
+      "en": "My hands are shaking."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

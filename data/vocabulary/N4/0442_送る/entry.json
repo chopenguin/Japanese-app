@@ -1,0 +1,38 @@
+{
+  "id": "n4-0442",
+  "jlpt": "N4",
+  "kanji": "送る",
+  "kana": "おくる",
+  "display": "送る",
+  "meanings_zh": [
+    "送",
+    "寄",
+    "邮寄",
+    "汇寄"
+  ],
+  "meanings_en": [
+    "to send"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "誰に送るの？",
+      "en": "Who are they for?"
+    },
+    {
+      "ja": "家まで送るよ。",
+      "en": "I will take you home."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

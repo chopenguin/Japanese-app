@@ -1,0 +1,37 @@
+{
+  "id": "n1-0235",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ナンセンス",
+  "display": "ナンセンス",
+  "meanings_zh": [
+    "无意义(的)",
+    "荒谬(的)",
+    "废话"
+  ],
+  "meanings_en": [
+    "nonsense"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これは、俺にはナンセンスだね。",
+      "en": "This makes no sense to me."
+    },
+    {
+      "ja": "そんなナンセンスなことはやめてくれよ。",
+      "en": "Cut out the nonsense, will you?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "n2-1390",
+  "jlpt": "N2",
+  "kanji": "透き通る",
+  "kana": "すきとおる",
+  "display": "透き通る",
+  "meanings_zh": [
+    "透明",
+    "透过去",
+    "清澈",
+    "清脆"
+  ],
+  "meanings_en": [
+    "to be(come) transparent"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

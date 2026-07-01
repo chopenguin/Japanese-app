@@ -1,0 +1,36 @@
+{
+  "id": "n1-3181",
+  "jlpt": "N1",
+  "kanji": "目覚しい",
+  "kana": "めざましい",
+  "display": "目覚しい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "brilliant",
+    "splendid",
+    "striking",
+    "remarkable"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼が１９歳で優勝したのは目覚しい。",
+      "en": "It's amazing that he won the championship at the age of nineteen."
+    },
+    {
+      "ja": "抗生物質がなかったなら、医学はこんなに目覚しい進歩を遂げなかったであろう。",
+      "en": "If it had not been for antibiotics, medicine would not have made such remarkable progress."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

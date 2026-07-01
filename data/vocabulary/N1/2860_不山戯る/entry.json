@@ -1,0 +1,34 @@
+{
+  "id": "n1-2860",
+  "jlpt": "N1",
+  "kanji": "不山戯る",
+  "kana": "ふざける",
+  "display": "不山戯る",
+  "meanings_zh": [
+    "开玩笑",
+    "戏谑",
+    "愚弄",
+    "戏弄"
+  ],
+  "meanings_en": [
+    "to romp",
+    "to gambol",
+    "to frolic",
+    "to joke",
+    "to make fun of",
+    "to flirt"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

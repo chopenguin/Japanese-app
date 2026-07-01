@@ -1,0 +1,33 @@
+{
+  "id": "n1-1541",
+  "jlpt": "N1",
+  "kanji": "耳鼻科",
+  "kana": "じびか",
+  "display": "耳鼻科",
+  "meanings_zh": [],
+  "meanings_en": [
+    "otolaryngology"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今、耳鼻科にかかっています。",
+      "en": "I go to an Ear, Nose, and Throat (ENT) specialist now."
+    },
+    {
+      "ja": "日曜日にあるパーティで、耳鼻科医をしてる方と会いました。",
+      "en": "I met an otolaryngologist at a party on Sunday."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

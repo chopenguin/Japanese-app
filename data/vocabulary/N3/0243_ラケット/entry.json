@@ -1,0 +1,36 @@
+{
+  "id": "n3-0243",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ラケット",
+  "display": "ラケット",
+  "meanings_zh": [
+    "球拍"
+  ],
+  "meanings_en": [
+    "paddle",
+    "racket"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ラケットは借りれますか。",
+      "en": "Can I rent rackets?"
+    },
+    {
+      "ja": "彼はラケットを下に置いた。",
+      "en": "He put down his racket."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

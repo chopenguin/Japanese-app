@@ -1,0 +1,38 @@
+{
+  "id": "n3-0115",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "セット",
+  "display": "セット",
+  "meanings_zh": [
+    "(一)组",
+    "(一)套",
+    "卷做头发",
+    "梳整发形"
+  ],
+  "meanings_en": [
+    "set"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "セットを片づけろ。",
+      "en": "Strike the set."
+    },
+    {
+      "ja": "目覚ましはセットした？",
+      "en": "Have you set the alarm clock?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

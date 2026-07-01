@@ -1,0 +1,33 @@
+{
+  "id": "n5-0021",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "いろいろ",
+  "display": "いろいろ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "various"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "理由はいろいろある。",
+      "en": "There are many reasons."
+    },
+    {
+      "ja": "先生にもいろいろある。",
+      "en": "There are teachers and teachers."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

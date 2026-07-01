@@ -1,0 +1,41 @@
+{
+  "id": "n2-0330",
+  "jlpt": "N2",
+  "kanji": "一通り",
+  "kana": "ひととおり",
+  "display": "一通り",
+  "meanings_zh": [
+    "大概",
+    "大略",
+    "普通",
+    "一般"
+  ],
+  "meanings_en": [
+    "ordinary",
+    "usual",
+    "in general",
+    "briefly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は生け花を一通りは習いました。",
+      "en": "I have learned the basics of the art of flower arrangement."
+    },
+    {
+      "ja": "僕は彼に事件のいきさつを一通り話した。",
+      "en": "I gave him an outline of the incident."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n5-0071",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "シャツ",
+  "display": "シャツ",
+  "meanings_zh": [
+    "(西式)衬衫",
+    "衬衣",
+    "西装衬衫",
+    "汗衫"
+  ],
+  "meanings_en": [
+    "shirt"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "シャツを脱いだ。",
+      "en": "He removed his shirt."
+    },
+    {
+      "ja": "シャツ、裏返しよ。",
+      "en": "Your shirt is inside out."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

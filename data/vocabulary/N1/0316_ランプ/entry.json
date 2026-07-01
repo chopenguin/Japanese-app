@@ -1,0 +1,36 @@
+{
+  "id": "n1-0316",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ランプ",
+  "display": "ランプ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "lamp",
+    "ramp",
+    "headlight",
+    "light"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トランプは面白い。",
+      "en": "Playing cards is fun."
+    },
+    {
+      "ja": "あのランプ好きだな。",
+      "en": "I like that lamp."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

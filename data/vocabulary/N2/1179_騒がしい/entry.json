@@ -1,0 +1,38 @@
+{
+  "id": "n2-1179",
+  "jlpt": "N2",
+  "kanji": "騒がしい",
+  "kana": "さわがしい",
+  "display": "騒がしい",
+  "meanings_zh": [
+    "吵闹",
+    "嘈杂",
+    "喧吵",
+    "喧闹"
+  ],
+  "meanings_en": [
+    "noisy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ここは騒がしいな。",
+      "en": "It's too noisy in here."
+    },
+    {
+      "ja": "隣の部屋、騒がしいな。",
+      "en": "The room next door is noisy, huh?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

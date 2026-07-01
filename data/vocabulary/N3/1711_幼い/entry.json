@@ -1,0 +1,39 @@
+{
+  "id": "n3-1711",
+  "jlpt": "N3",
+  "kanji": "幼い",
+  "kana": "おさない",
+  "display": "幼い",
+  "meanings_zh": [
+    "幼",
+    "幼小",
+    "幼年",
+    "幼稚"
+  ],
+  "meanings_en": [
+    "very young",
+    "childish"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "アンは幼い少女です。",
+      "en": "Ann is a little girl."
+    },
+    {
+      "ja": "彼の考えはとても幼い。",
+      "en": "His way of thinking is very childish."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

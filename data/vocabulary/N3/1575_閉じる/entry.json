@@ -1,0 +1,40 @@
+{
+  "id": "n3-1575",
+  "jlpt": "N3",
+  "kanji": "閉じる",
+  "kana": "とじる",
+  "display": "閉じる",
+  "meanings_zh": [
+    "闭",
+    "关闭",
+    "盖",
+    "合"
+  ],
+  "meanings_en": [
+    "to close (e.g. book",
+    "eyes)",
+    "to shut"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その物語は彼の死で幕を閉じる。",
+      "en": "The story ends with his death."
+    },
+    {
+      "ja": "その舞台は主人公の死で幕を閉じる。",
+      "en": "The play concludes with the hero's death."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

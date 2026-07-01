@@ -1,0 +1,40 @@
+{
+  "id": "n2-1520",
+  "jlpt": "N2",
+  "kanji": "浮く",
+  "kana": "うく",
+  "display": "浮く",
+  "meanings_zh": [
+    "浮",
+    "漂",
+    "浮起",
+    "浮出"
+  ],
+  "meanings_en": [
+    "to float",
+    "to become merry",
+    "to become loose"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "木は水に浮く。",
+      "en": "Wood floats in water."
+    },
+    {
+      "ja": "木は浮くが鉄は沈む。",
+      "en": "Wood floats, but iron sinks."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "n1-0081",
+  "jlpt": "N1",
+  "kanji": "かも知れない",
+  "kana": "かもしれない",
+  "display": "かも知れない",
+  "meanings_zh": [
+    "也许",
+    "可能",
+    "说不定",
+    "恐怕"
+  ],
+  "meanings_en": [
+    "may",
+    "might",
+    "perhaps",
+    "may be",
+    "possibly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "来週には凍るかも知れない。",
+      "en": "It may freeze next week."
+    },
+    {
+      "ja": "彼は多分よい男であるかも知れない。",
+      "en": "He may be a good man for all I know."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

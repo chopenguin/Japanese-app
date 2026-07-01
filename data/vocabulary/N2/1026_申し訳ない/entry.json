@@ -1,0 +1,33 @@
+{
+  "id": "n2-1026",
+  "jlpt": "N2",
+  "kanji": "申し訳ない",
+  "kana": "もうしわけない",
+  "display": "申し訳ない",
+  "meanings_zh": [],
+  "meanings_en": [
+    "inexcusable"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "遅れて申し訳ない。",
+      "en": "I'm sorry I'm late."
+    },
+    {
+      "ja": "ほんとに申し訳ないです。",
+      "en": "It is truly regrettable."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

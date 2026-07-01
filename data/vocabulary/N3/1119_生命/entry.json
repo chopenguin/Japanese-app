@@ -1,0 +1,39 @@
+{
+  "id": "n3-1119",
+  "jlpt": "N3",
+  "kanji": "生命",
+  "kana": "せいめい",
+  "display": "生命",
+  "meanings_zh": [
+    "生命",
+    "性命",
+    "寿命",
+    "命根子"
+  ],
+  "meanings_en": [
+    "life",
+    "existence"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "水は生命です。",
+      "en": "Water is life."
+    },
+    {
+      "ja": "食物は生命に必要だ。",
+      "en": "Food is necessary for life."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

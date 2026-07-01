@@ -1,0 +1,32 @@
+{
+  "id": "n1-1324",
+  "jlpt": "N1",
+  "kanji": "忽ち",
+  "kana": "たちまち",
+  "display": "忽ち",
+  "meanings_zh": [
+    "转瞬间",
+    "立刻",
+    "马上",
+    "不大工夫"
+  ],
+  "meanings_en": [
+    "at once",
+    "in a moment",
+    "suddenly",
+    "all at once"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

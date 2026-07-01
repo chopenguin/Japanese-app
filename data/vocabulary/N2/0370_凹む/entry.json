@@ -1,0 +1,36 @@
+{
+  "id": "n2-0370",
+  "jlpt": "N2",
+  "kanji": "凹む",
+  "kana": "へこむ",
+  "display": "凹む",
+  "meanings_zh": [
+    "凹下",
+    "洼下",
+    "陷下",
+    "瘪下"
+  ],
+  "meanings_en": [
+    "to be dented",
+    "to be indented",
+    "to yield to",
+    "to give",
+    "to sink",
+    "to collapse",
+    "to cave in",
+    "to be snubbed"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

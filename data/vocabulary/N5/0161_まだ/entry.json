@@ -1,0 +1,34 @@
+{
+  "id": "n5-0161",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "まだ",
+  "display": "まだ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "yet",
+    "still"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "まだ怖いの？",
+      "en": "Are you still scared?"
+    },
+    {
+      "ja": "まだ眠いの？",
+      "en": "Are you still sleepy?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n2-0038",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "オーケストラ",
+  "display": "オーケストラ",
+  "meanings_zh": [
+    "管弦乐",
+    "管弦乐队"
+  ],
+  "meanings_en": [
+    "orchestra"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "指揮者はオーケストラの指揮をする。",
+      "en": "A conductor directs an orchestra."
+    },
+    {
+      "ja": "学校のオーケストラに入るつもりなのだ。",
+      "en": "I'm going to join the school orchestra."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

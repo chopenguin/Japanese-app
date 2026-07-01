@@ -1,0 +1,38 @@
+{
+  "id": "n5-0496",
+  "jlpt": "N5",
+  "kanji": "置く",
+  "kana": "おく",
+  "display": "置く",
+  "meanings_zh": [
+    "降",
+    "下",
+    "放",
+    "搁"
+  ],
+  "meanings_en": [
+    "to put"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "通路に物を置くな。",
+      "en": "Don't put your things in the passage."
+    },
+    {
+      "ja": "俺の机には置くな。",
+      "en": "Don't put it on my desk."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

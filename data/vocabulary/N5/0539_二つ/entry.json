@@ -1,0 +1,38 @@
+{
+  "id": "n5-0539",
+  "jlpt": "N5",
+  "kanji": "二つ",
+  "kana": "ふたつ",
+  "display": "二つ",
+  "meanings_zh": [
+    "两个",
+    "两岁",
+    "两方",
+    "第二"
+  ],
+  "meanings_en": [
+    "two"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "二つ折り厳禁。",
+      "en": "Do not fold!"
+    },
+    {
+      "ja": "姉は二つ上です。",
+      "en": "My older sister has two years over me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

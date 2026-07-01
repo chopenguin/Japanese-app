@@ -1,0 +1,38 @@
+{
+  "id": "n1-0585",
+  "jlpt": "N1",
+  "kanji": "果てる",
+  "kana": "はてる",
+  "display": "果てる",
+  "meanings_zh": [
+    "终",
+    "尽",
+    "完毕",
+    "死"
+  ],
+  "meanings_en": [
+    "to end",
+    "to be finished",
+    "to be exhausted",
+    "to die",
+    "to perish"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私達は疲れ果てるまで何時間も、その音楽に合わせて踊った。",
+      "en": "We danced to the music for hours until we were all exhausted."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "n1-3033",
+  "jlpt": "N1",
+  "kanji": "捧げる",
+  "kana": "ささげる",
+  "display": "捧げる",
+  "meanings_zh": [
+    "双手擎举",
+    "捧举",
+    "献",
+    "供"
+  ],
+  "meanings_en": [
+    "to lift up",
+    "to give",
+    "to offer",
+    "to consecrate",
+    "to devote",
+    "to sacrifice",
+    "to dedicate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らは１２月２４日の晩、熱心に祈りを捧げる。",
+      "en": "They offer an earnest prayer on the evening of December 24."
+    },
+    {
+      "ja": "彼は自らの生涯をインドでの病人の治療に捧げるつもりだ。",
+      "en": "He intends to devote his life to curing the sick in India."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

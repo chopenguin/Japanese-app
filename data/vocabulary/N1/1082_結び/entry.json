@@ -1,0 +1,40 @@
+{
+  "id": "n1-1082",
+  "jlpt": "N1",
+  "kanji": "結び",
+  "kana": "むすび",
+  "display": "結び",
+  "meanings_zh": [
+    "系",
+    "结",
+    "连结",
+    "打结"
+  ],
+  "meanings_en": [
+    "ending",
+    "conclusion",
+    "union"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "蝶結びできる？",
+      "en": "Can you tie a bow?"
+    },
+    {
+      "ja": "靴の紐を結びなさい。",
+      "en": "Tie your shoelaces."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

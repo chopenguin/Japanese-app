@@ -1,0 +1,35 @@
+{
+  "id": "n1-0304",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "モーテル",
+  "display": "モーテル",
+  "meanings_zh": [
+    "汽车游客旅馆"
+  ],
+  "meanings_en": [
+    "motel"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "モーテルに関する情報をください。",
+      "en": "I'd like some information on motels."
+    },
+    {
+      "ja": "この通りのモーテルはどこも満室だ。",
+      "en": "All the motels on this road are full."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

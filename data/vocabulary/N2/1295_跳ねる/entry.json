@@ -1,0 +1,39 @@
+{
+  "id": "n2-1295",
+  "jlpt": "N2",
+  "kanji": "跳ねる",
+  "kana": "はねる",
+  "display": "跳ねる",
+  "meanings_zh": [
+    "跳",
+    "跳跃",
+    "溅",
+    "飞溅"
+  ],
+  "meanings_en": [
+    "to jump",
+    "to leap"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "犬が跳ねるのをごらん。",
+      "en": "Look at the dog jump."
+    },
+    {
+      "ja": "トムは庭にしゃがんで、カエルが跳ねるのをずっと見ていた。",
+      "en": "Tom was staring at the frogs that were hopping around in the garden."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

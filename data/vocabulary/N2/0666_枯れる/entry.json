@@ -1,0 +1,40 @@
+{
+  "id": "n2-0666",
+  "jlpt": "N2",
+  "kanji": "枯れる",
+  "kana": "かれる",
+  "display": "枯れる",
+  "meanings_zh": [
+    "凋零",
+    "枯萎",
+    "枯死",
+    "干燥"
+  ],
+  "meanings_en": [
+    "to wither",
+    "to die (plant)",
+    "to be blasted (plant)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "冬には枯れる植物もある。",
+      "en": "Some plants perish in winter."
+    },
+    {
+      "ja": "植物は水が無ければ枯れる。",
+      "en": "Plants die without water."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

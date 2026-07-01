@@ -1,0 +1,33 @@
+{
+  "id": "n1-1856",
+  "jlpt": "N1",
+  "kanji": "色々",
+  "kana": "いろいろ",
+  "display": "色々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "various"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "色々ありがとう。",
+      "en": "Thanks for everything."
+    },
+    {
+      "ja": "色々ありがとう、トム。",
+      "en": "Thanks for everything, Tom."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

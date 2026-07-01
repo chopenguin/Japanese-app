@@ -1,0 +1,38 @@
+{
+  "id": "n3-1742",
+  "jlpt": "N3",
+  "kanji": "立ち上がる",
+  "kana": "たちあがる",
+  "display": "立ち上がる",
+  "meanings_zh": [
+    "起来",
+    "起立",
+    "恢复",
+    "重振"
+  ],
+  "meanings_en": [
+    "to stand up"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "立ち上がるの手伝って。",
+      "en": "Help me up."
+    },
+    {
+      "ja": "我々の立ち上がる時がやって来た。",
+      "en": "The time has come for us to stand up."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

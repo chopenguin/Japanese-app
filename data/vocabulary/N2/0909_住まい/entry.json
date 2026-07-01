@@ -1,0 +1,41 @@
+{
+  "id": "n2-0909",
+  "jlpt": "N2",
+  "kanji": "住まい",
+  "kana": "すまい",
+  "display": "住まい",
+  "meanings_zh": [
+    "居住",
+    "住",
+    "住所",
+    "居住的房舍"
+  ],
+  "meanings_en": [
+    "dwelling",
+    "house",
+    "residence",
+    "address"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "東京にお住まいです。",
+      "en": "She lives in Tokyo."
+    },
+    {
+      "ja": "東京にお住まいですか。",
+      "en": "Do you live in Tokyo?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

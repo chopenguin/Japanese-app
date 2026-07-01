@@ -1,0 +1,38 @@
+{
+  "id": "n1-1200",
+  "jlpt": "N1",
+  "kanji": "後回し",
+  "kana": "あとまわし",
+  "display": "後回し",
+  "meanings_zh": [
+    "推迟",
+    "往后推",
+    "缓办"
+  ],
+  "meanings_en": [
+    "putting off",
+    "postponing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "食事は後回しにしよう。",
+      "en": "Let dinner wait."
+    },
+    {
+      "ja": "その結論は後回しにした。",
+      "en": "I put off the conclusion."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

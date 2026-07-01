@@ -1,0 +1,34 @@
+{
+  "id": "n2-1459",
+  "jlpt": "N2",
+  "kanji": "売上",
+  "kana": "うりあげ",
+  "display": "売上",
+  "meanings_zh": [],
+  "meanings_en": [
+    "amount sold",
+    "proceeds"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今月は売上が落ちた。",
+      "en": "Sales are down this month."
+    },
+    {
+      "ja": "彼らは商売上手だね。",
+      "en": "They are shrewd in trade."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

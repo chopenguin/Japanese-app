@@ -1,0 +1,36 @@
+{
+  "id": "n1-0331",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ワット",
+  "display": "ワット",
+  "meanings_zh": [
+    "瓦特",
+    "瓦"
+  ],
+  "meanings_en": [
+    "watt"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "1日300回のスクワット？そんなの絶対無理！",
+      "en": "300 squats a day? That's completely impossible!"
+    },
+    {
+      "ja": "１平方メートルの太陽光発電パネルの出力は約１ワットであり、今のところ大規模に太陽電力を利用するのは困難である。",
+      "en": "The output power of a one square meter solar panel is about one watt, so it is difficult to use solar power on a large scale at present."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

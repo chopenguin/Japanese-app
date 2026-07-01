@@ -1,0 +1,39 @@
+{
+  "id": "n1-0218",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "てんで",
+  "display": "てんで",
+  "meanings_zh": [
+    "丝毫",
+    "完全",
+    "根本"
+  ],
+  "meanings_en": [
+    "(not) at all",
+    "altogether",
+    "entirely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "てんで役にたたない。",
+      "en": "It's no use at all."
+    },
+    {
+      "ja": "これはてんでダメだ。",
+      "en": "This is not good at all."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n4-0317",
+  "jlpt": "N4",
+  "kanji": "始める",
+  "kana": "はじめる",
+  "display": "始める",
+  "meanings_zh": [
+    "开始",
+    "开创",
+    "创办",
+    "起来"
+  ],
+  "meanings_en": [
+    "to begin"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "新たに始める。",
+      "en": "I will begin anew."
+    },
+    {
+      "ja": "問題はいつ始めるかだ。",
+      "en": "The question is when to start."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

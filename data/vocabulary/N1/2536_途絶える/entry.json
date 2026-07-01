@@ -1,0 +1,30 @@
+{
+  "id": "n1-2536",
+  "jlpt": "N1",
+  "kanji": "途絶える",
+  "kana": "とだえる",
+  "display": "途絶える",
+  "meanings_zh": [
+    "断绝",
+    "杜绝",
+    "中断"
+  ],
+  "meanings_en": [
+    "to stop",
+    "to cease",
+    "to come to an end"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

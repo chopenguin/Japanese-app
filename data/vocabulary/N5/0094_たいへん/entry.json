@@ -1,0 +1,33 @@
+{
+  "id": "n5-0094",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "たいへん",
+  "display": "たいへん",
+  "meanings_zh": [],
+  "meanings_en": [
+    "very"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はたいへん勇敢だ。",
+      "en": "He is very brave."
+    },
+    {
+      "ja": "彼はたいへん無邪気だ。",
+      "en": "He is harmless as a dove."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

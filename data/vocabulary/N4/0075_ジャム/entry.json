@@ -1,0 +1,35 @@
+{
+  "id": "n4-0075",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ジャム",
+  "display": "ジャム",
+  "meanings_zh": [
+    "果(子)酱"
+  ],
+  "meanings_en": [
+    "jam"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "苺はジャムにできるよ。",
+      "en": "Strawberries can be made into jam."
+    },
+    {
+      "ja": "ジャムの作り方知ってる？",
+      "en": "Do you know how to make jam?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

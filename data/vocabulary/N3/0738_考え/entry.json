@@ -1,0 +1,41 @@
+{
+  "id": "n3-0738",
+  "jlpt": "N3",
+  "kanji": "考え",
+  "kana": "かんがえ",
+  "display": "考え",
+  "meanings_zh": [
+    "思想",
+    "想法",
+    "意见",
+    "念头"
+  ],
+  "meanings_en": [
+    "thinking",
+    "thought",
+    "ideas",
+    "intention"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "考えとくよ。",
+      "en": "I'll think about it."
+    },
+    {
+      "ja": "いい考えだ。",
+      "en": "It's a good idea."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

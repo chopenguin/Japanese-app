@@ -1,0 +1,34 @@
+{
+  "id": "n1-0962",
+  "jlpt": "N1",
+  "kanji": "脅す",
+  "kana": "おどす",
+  "display": "脅す",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to threaten",
+    "to menace"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "対戦相手を脅すという彼のやり方を彼らは気に入らなかった。",
+      "en": "They did not like the way he threatened his opponents."
+    },
+    {
+      "ja": "彼女はわめき、警官たちに向かってナイフを振り回して脅すようなしぐさをしました。",
+      "en": "She shouted and threatened a policeman by brandishing a knife."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n3-0231",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "やがて",
+  "display": "やがて",
+  "meanings_zh": [
+    "不久",
+    "马上",
+    "大约",
+    "将近"
+  ],
+  "meanings_en": [
+    "before long",
+    "soon",
+    "at length"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "やがて静かになった。",
+      "en": "Eventually it became quiet."
+    },
+    {
+      "ja": "夏は来たがやがて去る。",
+      "en": "As the summer has come, so it will go."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

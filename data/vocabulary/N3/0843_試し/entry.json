@@ -1,0 +1,39 @@
+{
+  "id": "n3-0843",
+  "jlpt": "N3",
+  "kanji": "試し",
+  "kana": "ためし",
+  "display": "試し",
+  "meanings_zh": [
+    "试",
+    "尝试",
+    "试验",
+    "验算"
+  ],
+  "meanings_en": [
+    "trial",
+    "test"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "試してみる。",
+      "en": "I try."
+    },
+    {
+      "ja": "試していく。",
+      "en": "I'll keep trying."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

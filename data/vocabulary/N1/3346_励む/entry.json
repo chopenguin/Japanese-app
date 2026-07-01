@@ -1,0 +1,33 @@
+{
+  "id": "n1-3346",
+  "jlpt": "N1",
+  "kanji": "励む",
+  "kana": "はげむ",
+  "display": "励む",
+  "meanings_zh": [
+    "努力",
+    "刻苦",
+    "辛勤",
+    "奋勉"
+  ],
+  "meanings_en": [
+    "to be zealous",
+    "to brace oneself",
+    "to endeavour",
+    "to strive",
+    "to make an effort"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

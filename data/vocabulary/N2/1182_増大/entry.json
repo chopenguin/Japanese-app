@@ -1,0 +1,37 @@
+{
+  "id": "n2-1182",
+  "jlpt": "N2",
+  "kanji": "増大",
+  "kana": "ぞうだい",
+  "display": "増大",
+  "meanings_zh": [
+    "增大",
+    "增多",
+    "增高"
+  ],
+  "meanings_en": [
+    "enlargement"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "貿易が国富を増大させた。",
+      "en": "Trade increased the country's wealth."
+    },
+    {
+      "ja": "彼らは軍事予算を増大させようとした。",
+      "en": "They intended to increase the military budget."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

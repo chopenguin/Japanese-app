@@ -1,0 +1,41 @@
+{
+  "id": "n3-0086",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "さっぱり",
+  "display": "さっぱり",
+  "meanings_zh": [
+    "整洁",
+    "利落",
+    "潇洒",
+    "直爽"
+  ],
+  "meanings_en": [
+    "feeling refreshed",
+    "feeling relieved",
+    "neat",
+    "trimmed"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私にはさっぱり。",
+      "en": "It's all Greek to me."
+    },
+    {
+      "ja": "さっぱりしたか？",
+      "en": "Feeling refreshed?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

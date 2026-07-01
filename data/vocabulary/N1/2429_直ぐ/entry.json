@@ -1,0 +1,38 @@
+{
+  "id": "n1-2429",
+  "jlpt": "N1",
+  "kanji": "直ぐ",
+  "kana": "すぐ",
+  "display": "直ぐ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "immediately",
+    "soon",
+    "easily",
+    "right (near)",
+    "honest",
+    "upright"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "真っ直ぐ行きなさい。",
+      "en": "Go straight ahead."
+    },
+    {
+      "ja": "真っ直ぐ前方を見てごらん。",
+      "en": "Look straight ahead."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

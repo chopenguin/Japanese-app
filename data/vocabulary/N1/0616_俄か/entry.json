@@ -1,0 +1,33 @@
+{
+  "id": "n1-0616",
+  "jlpt": "N1",
+  "kanji": "俄か",
+  "kana": "にわか",
+  "display": "俄か",
+  "meanings_zh": [
+    "突然",
+    "忽然",
+    "骤然",
+    "遽然"
+  ],
+  "meanings_en": [
+    "sudden",
+    "abrupt",
+    "unexpected",
+    "improvised",
+    "offhand"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

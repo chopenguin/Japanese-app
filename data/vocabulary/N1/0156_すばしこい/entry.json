@@ -1,0 +1,36 @@
+{
+  "id": "n1-0156",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "すばしこい",
+  "display": "すばしこい",
+  "meanings_zh": [
+    "(行动)敏捷",
+    "利落",
+    "灵利",
+    "灵活"
+  ],
+  "meanings_en": [
+    "nimble",
+    "smart",
+    "quick"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "雀は動作が非常にすばしこい。",
+      "en": "A sparrow is very alert in its movements."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

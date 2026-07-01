@@ -1,0 +1,38 @@
+{
+  "id": "n1-0153",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ストレス",
+  "display": "ストレス",
+  "meanings_zh": [
+    "重音",
+    "重读",
+    "应激反应",
+    "(精神)紧张状态"
+  ],
+  "meanings_en": [
+    "stress"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ストレスがたまってきたよ。",
+      "en": "I'm feeling stressed."
+    },
+    {
+      "ja": "最近、ストレスを感じます。",
+      "en": "I have been feeling stressed lately."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

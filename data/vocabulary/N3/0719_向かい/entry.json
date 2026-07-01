@@ -1,0 +1,40 @@
+{
+  "id": "n3-0719",
+  "jlpt": "N3",
+  "kanji": "向かい",
+  "kana": "むかい",
+  "display": "向かい",
+  "meanings_zh": [
+    "对面",
+    "对过",
+    "正对面"
+  ],
+  "meanings_en": [
+    "facing",
+    "opposite",
+    "across the street",
+    "other side"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "中心街に向かいます。",
+      "en": "I'm going to the center of the city."
+    },
+    {
+      "ja": "向かい合って、立って。",
+      "en": "Stand face to face."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

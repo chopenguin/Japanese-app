@@ -1,0 +1,29 @@
+{
+  "id": "n1-1341",
+  "jlpt": "N1",
+  "kanji": "混む",
+  "kana": "こむ",
+  "display": "混む",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to be crowded"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "湘南の海水浴場は日曜日にはとても混む。",
+      "en": "The beaches in Shonan are very crowded on Sunday."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

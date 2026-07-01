@@ -1,0 +1,38 @@
+{
+  "id": "n2-1326",
+  "jlpt": "N2",
+  "kanji": "吊る",
+  "kana": "つる",
+  "display": "吊る",
+  "meanings_zh": [
+    "吊",
+    "悬",
+    "挂",
+    "举起"
+  ],
+  "meanings_en": [
+    "to hang"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私はシャツを吊るしている。",
+      "en": "I'm hanging up my shirts."
+    },
+    {
+      "ja": "てるてる坊主、逆さまに吊るしてたら、あした雨になるかな？",
+      "en": "If you hang a teru teru bozu upside down, do you think it will bring rain tomorrow?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

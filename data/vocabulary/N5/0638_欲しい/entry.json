@@ -1,0 +1,38 @@
+{
+  "id": "n5-0638",
+  "jlpt": "N5",
+  "kanji": "欲しい",
+  "kana": "ほしい",
+  "display": "欲しい",
+  "meanings_zh": [
+    "梸偟偑傞 [傎偟偑傞] /// 想要",
+    "希望得到手",
+    "贪图",
+    "贪求"
+  ],
+  "meanings_en": [
+    "want"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "水が欲しい。",
+      "en": "I want some water."
+    },
+    {
+      "ja": "君が欲しい。",
+      "en": "I want you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "n1-0706",
+  "jlpt": "N1",
+  "kanji": "割り当て",
+  "kana": "わりあて",
+  "display": "割り当て",
+  "meanings_zh": [
+    "分配",
+    "分摊",
+    "分派",
+    "分担"
+  ],
+  "meanings_en": [
+    "allotment",
+    "assignment",
+    "allocation",
+    "quota",
+    "rationing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は私に新しい仕事を割り当てた。",
+      "en": "He assigned me a new job."
+    },
+    {
+      "ja": "私に新しい部屋が割り当てられた。",
+      "en": "A new room was assigned to me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

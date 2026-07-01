@@ -1,0 +1,38 @@
+{
+  "id": "n4-0390",
+  "jlpt": "N4",
+  "kanji": "飾る",
+  "kana": "かざる",
+  "display": "飾る",
+  "meanings_zh": [
+    "装饰",
+    "装点",
+    "装璜",
+    "只装饰表面"
+  ],
+  "meanings_en": [
+    "to decorate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は部屋を花で飾るのが好きだ。",
+      "en": "I like to adorn my room with flowers."
+    },
+    {
+      "ja": "アメリカ人は一般に着飾ることを好まない。",
+      "en": "Americans, in general, don't like to dress up."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

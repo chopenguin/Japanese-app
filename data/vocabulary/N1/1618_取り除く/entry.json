@@ -1,0 +1,40 @@
+{
+  "id": "n1-1618",
+  "jlpt": "N1",
+  "kanji": "取り除く",
+  "kana": "とりのぞく",
+  "display": "取り除く",
+  "meanings_zh": [
+    "除掉",
+    "去掉",
+    "拆掉",
+    "拆除"
+  ],
+  "meanings_en": [
+    "to remove",
+    "to take away",
+    "to set apart"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "見よ、世の罪を取り除く神の子羊。",
+      "en": "Behold, the Lamb of God, who takes away the sins of the world!"
+    },
+    {
+      "ja": "悪習を取り除くのは容易ではない。",
+      "en": "It is not easy to get rid of a bad habit."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

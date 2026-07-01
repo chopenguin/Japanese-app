@@ -1,0 +1,37 @@
+{
+  "id": "n3-0969",
+  "jlpt": "N3",
+  "kanji": "勝ち",
+  "kana": "かち",
+  "display": "勝ち",
+  "meanings_zh": [
+    "胜",
+    "赢"
+  ],
+  "meanings_en": [
+    "win",
+    "victory"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "俺の勝ちー！",
+      "en": "I won!"
+    },
+    {
+      "ja": "トムの勝ち。",
+      "en": "Tom won."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

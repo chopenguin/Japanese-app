@@ -1,0 +1,39 @@
+{
+  "id": "n5-0602",
+  "jlpt": "N5",
+  "kanji": "忙しい",
+  "kana": "いそがしい",
+  "display": "忙しい",
+  "meanings_zh": [
+    "忙",
+    "忙碌",
+    "急急忙忙",
+    "忙叨叨的"
+  ],
+  "meanings_en": [
+    "busy",
+    "irritated"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "僕は忙しい。",
+      "en": "I'm busy."
+    },
+    {
+      "ja": "今は忙しい。",
+      "en": "I'm busy now."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

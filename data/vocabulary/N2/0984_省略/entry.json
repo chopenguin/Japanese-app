@@ -1,0 +1,38 @@
+{
+  "id": "n2-0984",
+  "jlpt": "N2",
+  "kanji": "省略",
+  "kana": "しょうりゃく",
+  "display": "省略",
+  "meanings_zh": [
+    "省略",
+    "从略丯"
+  ],
+  "meanings_en": [
+    "omission",
+    "abbreviation",
+    "abridgment"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その本の最終章は省略してよい。",
+      "en": "You can omit the last chapter of the book."
+    },
+    {
+      "ja": "この句では前置詞を省略できる。",
+      "en": "You can omit the preposition in this phrase."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

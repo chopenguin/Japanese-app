@@ -1,0 +1,37 @@
+{
+  "id": "n2-0743",
+  "jlpt": "N2",
+  "kanji": "腰掛け",
+  "kana": "こしかけ",
+  "display": "腰掛け",
+  "meanings_zh": [
+    "凳子",
+    "一时栖身之处"
+  ],
+  "meanings_en": [
+    "seat",
+    "bench"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はベッドに腰掛けた。",
+      "en": "He sat on the bed."
+    },
+    {
+      "ja": "彼女は腰掛けて足を組んだ。",
+      "en": "She sat down and crossed her legs."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

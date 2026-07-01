@@ -1,0 +1,29 @@
+{
+  "id": "n4-0048",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "くださる",
+  "display": "くださる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(respectful) to give"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "最寄駅で降ろしてくださる？",
+      "en": "Would you kindly let me off at the nearest station?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

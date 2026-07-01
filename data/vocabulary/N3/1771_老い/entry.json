@@ -1,0 +1,41 @@
+{
+  "id": "n3-1771",
+  "jlpt": "N3",
+  "kanji": "老い",
+  "kana": "おい",
+  "display": "老い",
+  "meanings_zh": [
+    "老",
+    "年老",
+    "衰老",
+    "老年人"
+  ],
+  "meanings_en": [
+    "old age",
+    "old person",
+    "the old",
+    "the aged"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は年老いた。",
+      "en": "He grew old."
+    },
+    {
+      "ja": "老いを感じる。",
+      "en": "I feel old."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

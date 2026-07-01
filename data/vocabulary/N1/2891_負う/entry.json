@@ -1,0 +1,39 @@
+{
+  "id": "n1-2891",
+  "jlpt": "N1",
+  "kanji": "負う",
+  "kana": "おう",
+  "display": "負う",
+  "meanings_zh": [
+    "背",
+    "负",
+    "担负",
+    "负担"
+  ],
+  "meanings_en": [
+    "to bear",
+    "to owe"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あまり気負うな。",
+      "en": "Don't get worked up."
+    },
+    {
+      "ja": "それは私が責めを負うべきだ。",
+      "en": "I am to blame for it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

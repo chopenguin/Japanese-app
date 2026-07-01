@@ -1,0 +1,35 @@
+{
+  "id": "n3-1633",
+  "jlpt": "N3",
+  "kanji": "魅力",
+  "kana": "みりょく",
+  "display": "魅力",
+  "meanings_zh": [],
+  "meanings_en": [
+    "charm",
+    "fascination",
+    "glamour"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は魅力的だ。",
+      "en": "She is attractive."
+    },
+    {
+      "ja": "魅力ないもんね。",
+      "en": "It's because I'm not charming."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

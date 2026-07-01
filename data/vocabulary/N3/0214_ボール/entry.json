@@ -1,0 +1,34 @@
+{
+  "id": "n3-0214",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ボール",
+  "display": "ボール",
+  "meanings_zh": [],
+  "meanings_en": [
+    "ball",
+    "bowl"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ボールは丸い。",
+      "en": "Balls are round."
+    },
+    {
+      "ja": "ボール、パス！",
+      "en": "Pass the ball!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

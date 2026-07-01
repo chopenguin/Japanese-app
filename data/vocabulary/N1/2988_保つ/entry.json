@@ -1,0 +1,47 @@
+{
+  "id": "n1-2988",
+  "jlpt": "N1",
+  "kanji": "保つ",
+  "kana": "たもつ",
+  "display": "保つ",
+  "meanings_zh": [
+    "保持",
+    "维持",
+    "保",
+    "保住"
+  ],
+  "meanings_en": [
+    "to keep",
+    "to preserve",
+    "to hold",
+    "to retain",
+    "to maintain",
+    "to support",
+    "to sustain",
+    "to last",
+    "to endure",
+    "to keep we"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "名声を保つことは難しい。",
+      "en": "It is hard to maintain one's reputation."
+    },
+    {
+      "ja": "体面を保つために行った。",
+      "en": "For appearances sake, I went."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

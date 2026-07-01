@@ -1,0 +1,28 @@
+{
+  "id": "n1-2963",
+  "jlpt": "N1",
+  "kanji": "並びに",
+  "kana": "ならびに",
+  "display": "並びに",
+  "meanings_zh": [
+    "和",
+    "及",
+    "以及"
+  ],
+  "meanings_en": [
+    "and"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

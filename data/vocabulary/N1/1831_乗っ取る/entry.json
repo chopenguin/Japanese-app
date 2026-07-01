@@ -1,0 +1,31 @@
+{
+  "id": "n1-1831",
+  "jlpt": "N1",
+  "kanji": "乗っ取る",
+  "kana": "のっとる",
+  "display": "乗っ取る",
+  "meanings_zh": [
+    "攻占",
+    "夺取",
+    "侵占",
+    "劫持"
+  ],
+  "meanings_en": [
+    "to capture",
+    "to occupy",
+    "to usurp"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

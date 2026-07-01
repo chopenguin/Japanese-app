@@ -1,0 +1,39 @@
+{
+  "id": "n3-1374",
+  "jlpt": "N3",
+  "kanji": "当てる",
+  "kana": "あてる",
+  "display": "当てる",
+  "meanings_zh": [
+    "打",
+    "碰",
+    "撞",
+    "触打"
+  ],
+  "meanings_en": [
+    "to hit",
+    "to apply a patch"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らは石油を掘り当てる思惑だった。",
+      "en": "They intended to drill for oil."
+    },
+    {
+      "ja": "彼が何を考えているのか言い当てることはできない。",
+      "en": "There is no telling what he is thinking."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

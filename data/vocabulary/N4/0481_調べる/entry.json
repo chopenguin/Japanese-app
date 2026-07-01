@@ -1,0 +1,38 @@
+{
+  "id": "n4-0481",
+  "jlpt": "N4",
+  "kanji": "調べる",
+  "kana": "しらべる",
+  "display": "調べる",
+  "meanings_zh": [
+    "调查",
+    "查阅",
+    "检查",
+    "查找"
+  ],
+  "meanings_en": [
+    "to investigate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "辞書で単語を調べる。",
+      "en": "I'll look up the vocabulary in the dictionary."
+    },
+    {
+      "ja": "この単語は辞書で調べるよ。",
+      "en": "I'll look up this word in the dictionary."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

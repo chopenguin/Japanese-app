@@ -1,0 +1,34 @@
+{
+  "id": "n5-0097",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "たて",
+  "display": "たて",
+  "meanings_zh": [],
+  "meanings_en": [
+    "length",
+    "height"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "音をたてるな。",
+      "en": "Don't make a noise."
+    },
+    {
+      "ja": "彼は腹をたてた。",
+      "en": "He became irritated."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

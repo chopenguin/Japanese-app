@@ -1,0 +1,40 @@
+{
+  "id": "n2-1766",
+  "jlpt": "N2",
+  "kanji": "恋しい",
+  "kana": "こいしい",
+  "display": "恋しい",
+  "meanings_zh": [
+    "亲爱的",
+    "怀恋",
+    "眷恋"
+  ],
+  "meanings_en": [
+    "(1) dear",
+    "beloved",
+    "darling",
+    "(2) yearned for"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "故郷が恋しいな。",
+      "en": "I miss my hometown."
+    },
+    {
+      "ja": "彼女は彼が恋しい。",
+      "en": "She misses him."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

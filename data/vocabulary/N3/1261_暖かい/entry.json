@@ -1,0 +1,39 @@
+{
+  "id": "n3-1261",
+  "jlpt": "N3",
+  "kanji": "暖かい",
+  "kana": "あたたか(い)",
+  "display": "暖かい",
+  "meanings_zh": [
+    "暖",
+    "暖和",
+    "温暖",
+    "热情"
+  ],
+  "meanings_en": [
+    "warm",
+    "mild"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "懐が暖かい。",
+      "en": "I have plenty of money with me."
+    },
+    {
+      "ja": "そこ暖かい？",
+      "en": "Is it warm there?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

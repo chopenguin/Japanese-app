@@ -1,0 +1,34 @@
+{
+  "id": "n1-1351",
+  "jlpt": "N1",
+  "kanji": "差し引く",
+  "kana": "さしひく",
+  "display": "差し引く",
+  "meanings_zh": [
+    "扣除",
+    "减去",
+    "抵补",
+    "相抵"
+  ],
+  "meanings_en": [
+    "to deduct"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "１０から２を差し引くと８です。",
+      "en": "Subtract two from ten and you have eight."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

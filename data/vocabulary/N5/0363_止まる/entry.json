@@ -1,0 +1,38 @@
+{
+  "id": "n5-0363",
+  "jlpt": "N5",
+  "kanji": "止まる",
+  "kana": "とまる",
+  "display": "止まる",
+  "meanings_zh": [
+    "停",
+    "停止",
+    "停住",
+    "停下"
+  ],
+  "meanings_en": [
+    "to come to a halt"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "立ち止まるな。",
+      "en": "Move along now."
+    },
+    {
+      "ja": "ここで止まるな。",
+      "en": "Don't stop here."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

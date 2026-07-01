@@ -1,0 +1,39 @@
+{
+  "id": "n5-0423",
+  "jlpt": "N5",
+  "kanji": "乗る",
+  "kana": "のる",
+  "display": "乗る",
+  "meanings_zh": [
+    "乘坐",
+    "骑",
+    "坐",
+    "上"
+  ],
+  "meanings_en": [
+    "to get on",
+    "to ride"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "図に乗るな。",
+      "en": "Don't push your luck."
+    },
+    {
+      "ja": "調子に乗るな。",
+      "en": "Don't get carried away."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

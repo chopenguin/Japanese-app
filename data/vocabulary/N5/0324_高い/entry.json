@@ -1,0 +1,39 @@
+{
+  "id": "n5-0324",
+  "jlpt": "N5",
+  "kanji": "高い",
+  "kana": "たかい",
+  "display": "高い",
+  "meanings_zh": [
+    "高",
+    "崇高",
+    "高尚",
+    "高贵"
+  ],
+  "meanings_en": [
+    "tall",
+    "expensive"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "でも高いよ。",
+      "en": "It's expensive though."
+    },
+    {
+      "ja": "それは高い。",
+      "en": "That's tall."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

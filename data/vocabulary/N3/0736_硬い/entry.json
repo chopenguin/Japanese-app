@@ -1,0 +1,41 @@
+{
+  "id": "n3-0736",
+  "jlpt": "N3",
+  "kanji": "硬い",
+  "kana": "かたい",
+  "display": "硬い",
+  "meanings_zh": [
+    "硬",
+    "坚实",
+    "坚固",
+    "坚定"
+  ],
+  "meanings_en": [
+    "solid",
+    "hard (esp. metal",
+    "stone)",
+    "unpolished writing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "体が硬いね。",
+      "en": "Your body is stiff."
+    },
+    {
+      "ja": "身体、硬いね。",
+      "en": "My body is stiff."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

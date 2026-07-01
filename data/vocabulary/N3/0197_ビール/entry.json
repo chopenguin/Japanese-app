@@ -1,0 +1,35 @@
+{
+  "id": "n3-0197",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ビール",
+  "display": "ビール",
+  "meanings_zh": [
+    "啤酒"
+  ],
+  "meanings_en": [
+    "beer"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ビール飲む？",
+      "en": "Do you want to drink some beer?"
+    },
+    {
+      "ja": "ビールって好き？",
+      "en": "Do you like beer?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n3-0876",
+  "jlpt": "N3",
+  "kanji": "実に",
+  "kana": "じつに",
+  "display": "実に",
+  "meanings_zh": [
+    "实在",
+    "确实",
+    "的确",
+    "真"
+  ],
+  "meanings_en": [
+    "indeed",
+    "truly",
+    "surely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "実に目障りだな。",
+      "en": "It's really an eyesore."
+    },
+    {
+      "ja": "彼は実に勉強家だ。",
+      "en": "He is, indeed, a hard worker."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

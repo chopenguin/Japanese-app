@@ -1,0 +1,34 @@
+{
+  "id": "n3-0859",
+  "jlpt": "N3",
+  "kanji": "次々",
+  "kana": "つぎつぎ",
+  "display": "次々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "in succession",
+    "one by one"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "次々に亡くなった。",
+      "en": "They died one after the other."
+    },
+    {
+      "ja": "彼らは次々に死んだ。",
+      "en": "They died one after another."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

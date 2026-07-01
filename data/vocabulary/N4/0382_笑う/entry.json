@@ -1,0 +1,39 @@
+{
+  "id": "n4-0382",
+  "jlpt": "N4",
+  "kanji": "笑う",
+  "kana": "わらう",
+  "display": "笑う",
+  "meanings_zh": [
+    "笑",
+    "开",
+    "开绽",
+    "嘲笑"
+  ],
+  "meanings_en": [
+    "to laugh",
+    "to smile"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムが笑う。",
+      "en": "Tom smiles."
+    },
+    {
+      "ja": "どうして笑うの？",
+      "en": "What makes you laugh?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

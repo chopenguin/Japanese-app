@@ -1,0 +1,34 @@
+{
+  "id": "n3-0888",
+  "jlpt": "N3",
+  "kanji": "主に",
+  "kana": "おもに",
+  "display": "主に",
+  "meanings_zh": [],
+  "meanings_en": [
+    "mainly",
+    "primarily"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らは雇い主に忠実だ。",
+      "en": "They are loyal to their master."
+    },
+    {
+      "ja": "日本人は主に米を食べる。",
+      "en": "The Japanese live mainly on rice."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

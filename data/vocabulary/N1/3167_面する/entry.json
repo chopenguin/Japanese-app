@@ -1,0 +1,38 @@
+{
+  "id": "n1-3167",
+  "jlpt": "N1",
+  "kanji": "面する",
+  "kana": "めんする",
+  "display": "面する",
+  "meanings_zh": [
+    "面向",
+    "面对",
+    "面临"
+  ],
+  "meanings_en": [
+    "to face on",
+    "to look out on to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "君の行いには赤面する。",
+      "en": "I am ashamed of your conduct."
+    },
+    {
+      "ja": "君にはこっちが赤面する。",
+      "en": "I blush for you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

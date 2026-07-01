@@ -1,0 +1,33 @@
+{
+  "id": "n2-1171",
+  "jlpt": "N2",
+  "kanji": "総理大臣",
+  "kana": "そうりだいじん",
+  "display": "総理大臣",
+  "meanings_zh": [],
+  "meanings_en": [
+    "Prime Minister"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "総理大臣が辞任した。",
+      "en": "The Prime Minister has resigned."
+    },
+    {
+      "ja": "総理大臣が昨日辞職した。",
+      "en": "The Prime Minister resigned yesterday."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

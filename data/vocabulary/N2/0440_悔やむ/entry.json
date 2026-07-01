@@ -1,0 +1,38 @@
+{
+  "id": "n2-0440",
+  "jlpt": "N2",
+  "kanji": "悔やむ",
+  "kana": "くやむ",
+  "display": "悔やむ",
+  "meanings_zh": [
+    "懊悔",
+    "后悔",
+    "吊丧",
+    "吊唁"
+  ],
+  "meanings_en": [
+    "to mourn"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "よーし！覚えてろ。後で悔やむなよ。",
+      "en": "All right! You will be sorry for this."
+    },
+    {
+      "ja": "後になって悔やむようなことはしてはいけません。",
+      "en": "Don't do anything you'll regret."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

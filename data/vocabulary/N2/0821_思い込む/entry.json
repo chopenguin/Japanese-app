@@ -1,0 +1,30 @@
+{
+  "id": "n2-0821",
+  "jlpt": "N2",
+  "kanji": "思い込む",
+  "kana": "おもいこむ",
+  "display": "思い込む",
+  "meanings_zh": [
+    "深信",
+    "确信",
+    "以为",
+    "认定"
+  ],
+  "meanings_en": [
+    "to be under impression that",
+    "to be convinced that"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

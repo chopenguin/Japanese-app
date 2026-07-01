@@ -1,0 +1,38 @@
+{
+  "id": "n4-0122",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "パート",
+  "display": "パート",
+  "meanings_zh": [
+    "部分",
+    "篇",
+    "章",
+    "卷"
+  ],
+  "meanings_en": [
+    "part time"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "いいアパートね。",
+      "en": "This is a great apartment."
+    },
+    {
+      "ja": "デパートで買った。",
+      "en": "I bought it at a department store."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

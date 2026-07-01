@@ -1,0 +1,39 @@
+{
+  "id": "n1-1662",
+  "jlpt": "N1",
+  "kanji": "受け入れ",
+  "kana": "うけいれ",
+  "display": "受け入れ",
+  "meanings_zh": [
+    "接纳",
+    "收容",
+    "收进",
+    "收入"
+  ],
+  "meanings_en": [
+    "receiving",
+    "acceptance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私を受け入れて。",
+      "en": "Let me step inside."
+    },
+    {
+      "ja": "受け入れて頂けますか？",
+      "en": "Would this be acceptable to you?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

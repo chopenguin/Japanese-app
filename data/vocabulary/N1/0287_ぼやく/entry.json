@@ -1,0 +1,28 @@
+{
+  "id": "n1-0287",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ぼやく",
+  "display": "ぼやく",
+  "meanings_zh": [
+    "嘟哝",
+    "牢骚"
+  ],
+  "meanings_en": [
+    "to grumble",
+    "to complain"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

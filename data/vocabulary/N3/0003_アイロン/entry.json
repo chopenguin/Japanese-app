@@ -1,0 +1,36 @@
+{
+  "id": "n3-0003",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "アイロン",
+  "display": "アイロン",
+  "meanings_zh": [
+    "熨斗",
+    "烙铁"
+  ],
+  "meanings_en": [
+    "(electric) iron"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "アイロンがけ、大っ嫌い。",
+      "en": "I hate ironing."
+    },
+    {
+      "ja": "このアイロンを直して下さい。",
+      "en": "Please fix the iron."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

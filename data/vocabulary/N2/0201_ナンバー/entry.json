@@ -1,0 +1,38 @@
+{
+  "id": "n2-0201",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ナンバー",
+  "display": "ナンバー",
+  "meanings_zh": [
+    "数",
+    "数字",
+    "号码",
+    "牌照"
+  ],
+  "meanings_en": [
+    "number"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "車のナンバーを書き留められなかった。",
+      "en": "I was unable to write down the number of the car."
+    },
+    {
+      "ja": "その会社は日本ではナンバーワンです。",
+      "en": "That company ranks No. 1 in Japan."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

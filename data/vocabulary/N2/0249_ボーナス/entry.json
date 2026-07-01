@@ -1,0 +1,37 @@
+{
+  "id": "n2-0249",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ボーナス",
+  "display": "ボーナス",
+  "meanings_zh": [
+    "奖金",
+    "额外津贴",
+    "期末津贴"
+  ],
+  "meanings_en": [
+    "bonus"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ボーナスをもらった。",
+      "en": "I received my bonus."
+    },
+    {
+      "ja": "三ヶ月ごとにボーナスがあるんだ。",
+      "en": "Every three months, I get a bonus."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

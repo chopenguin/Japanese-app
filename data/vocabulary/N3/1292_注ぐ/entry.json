@@ -1,0 +1,42 @@
+{
+  "id": "n3-1292",
+  "jlpt": "N3",
+  "kanji": "注ぐ",
+  "kana": "そそぐ",
+  "display": "注ぐ",
+  "meanings_zh": [
+    "流入",
+    "流",
+    "降下",
+    "落下"
+  ],
+  "meanings_en": [
+    "to pour (into)",
+    "to irrigate",
+    "to pay",
+    "to fill",
+    "to feed (e.g. a fire)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "火に油を注ぐだけだ。",
+      "en": "It only adds fuel to the fire."
+    },
+    {
+      "ja": "その川は流れて海に注ぐ。",
+      "en": "The river flows down to the sea."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

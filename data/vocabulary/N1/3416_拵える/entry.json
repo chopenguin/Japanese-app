@@ -1,0 +1,35 @@
+{
+  "id": "n1-3416",
+  "jlpt": "N1",
+  "kanji": "拵える",
+  "kana": "こしらえる",
+  "display": "拵える",
+  "meanings_zh": [
+    "制造",
+    "做",
+    "筹",
+    "凑"
+  ],
+  "meanings_en": [
+    "to make",
+    "to manufacture"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その料理人は毎日違う料理を拵える。",
+      "en": "This cook cooks different meals every day."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

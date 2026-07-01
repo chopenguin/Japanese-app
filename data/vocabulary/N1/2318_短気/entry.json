@@ -1,0 +1,37 @@
+{
+  "id": "n1-2318",
+  "jlpt": "N1",
+  "kanji": "短気",
+  "kana": "たんき",
+  "display": "短気",
+  "meanings_zh": [
+    "性急",
+    "性情急躁",
+    "没耐性"
+  ],
+  "meanings_en": [
+    "quick temper"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は短気だ。",
+      "en": "He is quick of temper."
+    },
+    {
+      "ja": "短気は損気。",
+      "en": "Haste is waste."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

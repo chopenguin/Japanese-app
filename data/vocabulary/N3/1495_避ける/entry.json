@@ -1,0 +1,40 @@
+{
+  "id": "n3-1495",
+  "jlpt": "N3",
+  "kanji": "避ける",
+  "kana": "さける",
+  "display": "避ける",
+  "meanings_zh": [
+    "避",
+    "避开",
+    "躲避",
+    "逃避"
+  ],
+  "meanings_en": [
+    "(1) to avoid (physical contact )",
+    "(2) to ward off",
+    "to avert"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "悪友は避けるべきだ。",
+      "en": "You should keep away from bad company."
+    },
+    {
+      "ja": "悪友を避けるように努めなさい。",
+      "en": "Try to avoid bad company."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

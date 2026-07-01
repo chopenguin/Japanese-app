@@ -1,0 +1,39 @@
+{
+  "id": "n1-1376",
+  "jlpt": "N1",
+  "kanji": "採用",
+  "kana": "さいよう",
+  "display": "採用",
+  "meanings_zh": [
+    "采用",
+    "采取",
+    "采纳",
+    "任用"
+  ],
+  "meanings_en": [
+    "use",
+    "adopt"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らは新方針を採用した。",
+      "en": "They adopted a new policy."
+    },
+    {
+      "ja": "彼は臨時雇いを採用した。",
+      "en": "He took on extra workers."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "n3-0164",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "とにかく",
+  "display": "とにかく",
+  "meanings_zh": [
+    "无论如何",
+    "不管怎样",
+    "总之",
+    "好歹"
+  ],
+  "meanings_en": [
+    "anyhow",
+    "at any rate",
+    "anyway",
+    "somehow or other",
+    "generally speaking",
+    "in any case"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "とにかく急げ。",
+      "en": "Just hurry up."
+    },
+    {
+      "ja": "とにかく有難う。",
+      "en": "Thank you just the same."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

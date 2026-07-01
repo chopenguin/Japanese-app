@@ -1,0 +1,40 @@
+{
+  "id": "n3-1132",
+  "jlpt": "N3",
+  "kanji": "責める",
+  "kana": "せめる",
+  "display": "責める",
+  "meanings_zh": [
+    "责备",
+    "责难",
+    "苛责",
+    "折磨"
+  ],
+  "meanings_en": [
+    "to condemn",
+    "to blame",
+    "to criticize"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "心の鬼が身を責める。",
+      "en": "Suffer pangs of conscience."
+    },
+    {
+      "ja": "彼をその過失で責めるな。",
+      "en": "Don't blame him for the error."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

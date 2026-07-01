@@ -1,0 +1,36 @@
+{
+  "id": "n1-0290",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ポンプ",
+  "display": "ポンプ",
+  "meanings_zh": [
+    "泵",
+    "唧筒"
+  ],
+  "meanings_en": [
+    "pump"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "心臓とポンプは似かよっている。",
+      "en": "The human heart is analogous to a pump."
+    },
+    {
+      "ja": "ポンプはちゃんと動かなかった。",
+      "en": "The pump did not act as it should have."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n5-0275",
+  "jlpt": "N5",
+  "kanji": "近く",
+  "kana": "ちかく",
+  "display": "近く",
+  "meanings_zh": [
+    "近处",
+    "近旁",
+    "附近",
+    "不久"
+  ],
+  "meanings_en": [
+    "near"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "７時近くだ。",
+      "en": "It is close to seven o'clock."
+    },
+    {
+      "ja": "近くにいる？",
+      "en": "Are you nearby?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n1-2534",
+  "jlpt": "N1",
+  "kanji": "賭ける",
+  "kana": "かける",
+  "display": "賭ける",
+  "meanings_zh": [
+    "打赌",
+    "赌输赢",
+    "拼",
+    "不惜"
+  ],
+  "meanings_en": [
+    "to wager",
+    "to bet",
+    "to risk",
+    "to stake",
+    "to gamble"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "デイブが彼の新車に大金を払ったほうに僕は賭けるよ。",
+      "en": "I bet Dave paid a pretty penny for his new car."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

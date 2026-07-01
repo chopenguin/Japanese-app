@@ -1,0 +1,41 @@
+{
+  "id": "n3-1591",
+  "jlpt": "N3",
+  "kanji": "暮らし",
+  "kana": "くらし",
+  "display": "暮らし",
+  "meanings_zh": [
+    "生活",
+    "度日",
+    "家境",
+    "家道"
+  ],
+  "meanings_en": [
+    "living",
+    "livelihood",
+    "subsistence",
+    "circumstances"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "暮らしやすそう。",
+      "en": "It looks like a nice place to live."
+    },
+    {
+      "ja": "一人暮らしですか？",
+      "en": "Do you live alone?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

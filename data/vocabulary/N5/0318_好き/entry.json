@@ -1,0 +1,38 @@
+{
+  "id": "n5-0318",
+  "jlpt": "N5",
+  "kanji": "好き",
+  "kana": "すき",
+  "display": "好き",
+  "meanings_zh": [
+    "喜好",
+    "喜爱",
+    "爱好",
+    "嗜好"
+  ],
+  "meanings_en": [
+    "likeable"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼が大好き！",
+      "en": "I really like him!"
+    },
+    {
+      "ja": "大好きだよ！",
+      "en": "I love you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

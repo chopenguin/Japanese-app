@@ -1,0 +1,29 @@
+{
+  "id": "n1-1887",
+  "jlpt": "N1",
+  "kanji": "浸す",
+  "kana": "ひたす",
+  "display": "浸す",
+  "meanings_zh": [
+    "浸",
+    "泡"
+  ],
+  "meanings_en": [
+    "to soak",
+    "to dip",
+    "to drench"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

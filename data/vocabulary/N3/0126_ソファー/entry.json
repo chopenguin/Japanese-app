@@ -1,0 +1,36 @@
+{
+  "id": "n3-0126",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ソファー",
+  "display": "ソファー",
+  "meanings_zh": [
+    "沙发"
+  ],
+  "meanings_en": [
+    "sofa",
+    "couch"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ソファーの上だよ。",
+      "en": "It's on the sofa."
+    },
+    {
+      "ja": "ソファーに座ったよ。",
+      "en": "I sat on the sofa."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

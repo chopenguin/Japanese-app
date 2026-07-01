@@ -1,0 +1,41 @@
+{
+  "id": "n3-1366",
+  "jlpt": "N3",
+  "kanji": "倒す",
+  "kana": "たおす",
+  "display": "倒す",
+  "meanings_zh": [
+    "倒",
+    "放倒",
+    "推倒",
+    "推翻"
+  ],
+  "meanings_en": [
+    "to throw down",
+    "to beat",
+    "to bring down",
+    "to blow down"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "本末を転倒するな。",
+      "en": "Don't put the cart before the horse."
+    },
+    {
+      "ja": "独裁者を倒すのだ！",
+      "en": "I will overthrow the dictator."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

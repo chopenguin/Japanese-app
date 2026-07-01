@@ -1,0 +1,38 @@
+{
+  "id": "n4-0604",
+  "jlpt": "N4",
+  "kanji": "遊び",
+  "kana": "あそび",
+  "display": "遊び",
+  "meanings_zh": [
+    "游戏",
+    "玩耍",
+    "游玩",
+    "消遣"
+  ],
+  "meanings_en": [
+    "play"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "遊びましょう。",
+      "en": "Let's play."
+    },
+    {
+      "ja": "遊びにこいよ。",
+      "en": "Come and see me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

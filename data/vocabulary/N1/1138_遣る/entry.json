@@ -1,0 +1,33 @@
+{
+  "id": "n1-1138",
+  "jlpt": "N1",
+  "kanji": "遣る",
+  "kana": "やる",
+  "display": "遣る",
+  "meanings_zh": [
+    "派去",
+    "派遣",
+    "送去",
+    "打发去"
+  ],
+  "meanings_en": [
+    "to do",
+    "to have sexual intercourse",
+    "to kill",
+    "to give (to inferiors  animals  etc.)",
+    "to dispatch (a letter"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

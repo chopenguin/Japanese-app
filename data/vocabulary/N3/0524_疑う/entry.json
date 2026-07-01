@@ -1,0 +1,41 @@
+{
+  "id": "n3-0524",
+  "jlpt": "N3",
+  "kanji": "疑う",
+  "kana": "うたがう",
+  "display": "疑う",
+  "meanings_zh": [
+    "怀疑",
+    "疑惑",
+    "不相信",
+    "猜疑"
+  ],
+  "meanings_en": [
+    "to doubt",
+    "to distrust",
+    "to be suspicious of",
+    "to suspect"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "疑う余地はない。",
+      "en": "There is no room for doubt."
+    },
+    {
+      "ja": "それは疑う余地がない。",
+      "en": "It admits of no doubt."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

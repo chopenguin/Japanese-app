@@ -1,0 +1,40 @@
+{
+  "id": "n1-2108",
+  "jlpt": "N1",
+  "kanji": "前途",
+  "kana": "ぜんと",
+  "display": "前途",
+  "meanings_zh": [
+    "将来",
+    "前途",
+    "前程",
+    "路程"
+  ],
+  "meanings_en": [
+    "future prospects",
+    "outlook",
+    "the journey ahead"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は前途有望です。",
+      "en": "He has a bright future."
+    },
+    {
+      "ja": "君には前途がある。",
+      "en": "Life lies in front of you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

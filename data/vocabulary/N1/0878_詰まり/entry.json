@@ -1,0 +1,46 @@
+{
+  "id": "n1-0878",
+  "jlpt": "N1",
+  "kanji": "詰まり",
+  "kana": "つまり",
+  "display": "詰まり",
+  "meanings_zh": [
+    "堵塞",
+    "充塞",
+    "缩短",
+    "困窘"
+  ],
+  "meanings_en": [
+    "in short",
+    "in brief",
+    "in other words",
+    "that is to say",
+    "in the long run",
+    "after all",
+    "blockade",
+    "stuffing",
+    "ultimate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女と一緒にいると気詰まりだ。",
+      "en": "I feel ill at ease in her company."
+    },
+    {
+      "ja": "満員電車の中は息が詰まりそうだった。",
+      "en": "I thought I was going to suffocate on the crowded train."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

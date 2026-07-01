@@ -1,0 +1,39 @@
+{
+  "id": "n3-1577",
+  "jlpt": "N3",
+  "kanji": "別に",
+  "kana": "べつに",
+  "display": "別に",
+  "meanings_zh": [
+    "分开",
+    "另",
+    "并",
+    "特别"
+  ],
+  "meanings_en": [
+    "(not) particularly",
+    "nothing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "別にいいじゃんかよ。",
+      "en": "It's alright isn't it?"
+    },
+    {
+      "ja": "ソースを別にください。",
+      "en": "I'd like the sauce on the side."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

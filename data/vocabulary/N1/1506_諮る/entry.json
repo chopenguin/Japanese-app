@@ -1,0 +1,30 @@
+{
+  "id": "n1-1506",
+  "jlpt": "N1",
+  "kanji": "諮る",
+  "kana": "はかる",
+  "display": "諮る",
+  "meanings_zh": [
+    "商量",
+    "磋商",
+    "协商",
+    "咨询"
+  ],
+  "meanings_en": [
+    "to consult with",
+    "to confer"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

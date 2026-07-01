@@ -1,0 +1,40 @@
+{
+  "id": "n2-0798",
+  "jlpt": "N2",
+  "kanji": "散らす",
+  "kana": "ちらす",
+  "display": "散らす",
+  "meanings_zh": [
+    "把～～分散开",
+    "赶散",
+    "驱散",
+    "撒散 胡乱～～"
+  ],
+  "meanings_en": [
+    "to scatter",
+    "to disperse",
+    "to distribute"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私をどなり散らす人は気にならないわ。",
+      "en": "The ones who shout at me don't bother me."
+    },
+    {
+      "ja": "彼はムカつくとしょっちゅう汚い言葉を吐き散らす。",
+      "en": "He often swears when he is angry."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n2-0277",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "モダン",
+  "display": "モダン",
+  "meanings_zh": [],
+  "meanings_en": [
+    "modern"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私はモダンな家具が好きだ。",
+      "en": "I prefer modern furniture."
+    },
+    {
+      "ja": "この付近はモダンな建物が多い。",
+      "en": "There are many modern buildings around here."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n3-0769",
+  "jlpt": "N3",
+  "kanji": "今にも",
+  "kana": "いまにも",
+  "display": "今にも",
+  "meanings_zh": [
+    "马上",
+    "不久",
+    "眼看"
+  ],
+  "meanings_en": [
+    "at any time",
+    "soon"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今にも一雨きそうだ。",
+      "en": "It is threatening to rain."
+    },
+    {
+      "ja": "今にも嵐になりそうだ。",
+      "en": "A storm is imminent."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

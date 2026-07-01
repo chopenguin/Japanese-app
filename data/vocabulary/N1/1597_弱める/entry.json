@@ -1,0 +1,38 @@
+{
+  "id": "n1-1597",
+  "jlpt": "N1",
+  "kanji": "弱める",
+  "kana": "よわめる",
+  "display": "弱める",
+  "meanings_zh": [
+    "使衰弱",
+    "削弱",
+    "减弱",
+    "减低"
+  ],
+  "meanings_en": [
+    "to weaken"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "時は友情を深めるが、恋愛を弱める。",
+      "en": "Time, which strengthens friendship, weakens love."
+    },
+    {
+      "ja": "何故イギリスだけが王権を弱めることに成功したのか。",
+      "en": "Why is it that only England succeeded in abridging the King's power?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

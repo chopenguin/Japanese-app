@@ -1,0 +1,39 @@
+{
+  "id": "n1-0226",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ドライバー",
+  "display": "ドライバー",
+  "meanings_zh": [
+    "司机",
+    "驾驶员",
+    "(远距离用的)一号木棒",
+    "改锥"
+  ],
+  "meanings_en": [
+    "driver",
+    "screwdriver"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これは、ドライバーだよ。",
+      "en": "This is a screwdriver."
+    },
+    {
+      "ja": "彼はベテランのドライバーだ。",
+      "en": "He is an expert driver."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

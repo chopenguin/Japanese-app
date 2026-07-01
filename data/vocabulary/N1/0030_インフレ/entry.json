@@ -1,0 +1,33 @@
+{
+  "id": "n1-0030",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "インフレ",
+  "display": "インフレ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "inflation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "インフレが進んでいます。",
+      "en": "Prices are high."
+    },
+    {
+      "ja": "インフレ進行度は鈍っている。",
+      "en": "The rate of inflation is slowing down."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

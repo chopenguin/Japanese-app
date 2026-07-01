@@ -1,0 +1,37 @@
+{
+  "id": "n2-1013",
+  "jlpt": "N2",
+  "kanji": "寝巻",
+  "kana": "ねまき",
+  "display": "寝巻",
+  "meanings_zh": [],
+  "meanings_en": [
+    "sleep-wear",
+    "nightclothes",
+    "pyjamas",
+    "nightgown",
+    "nightdress"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "寝巻きは着ないんだ。",
+      "en": "I don't wear pajamas."
+    },
+    {
+      "ja": "寝巻きのままで朝ごはんを食べた。",
+      "en": "I had breakfast in pajamas."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

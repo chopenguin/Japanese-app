@@ -1,0 +1,34 @@
+{
+  "id": "n5-0214",
+  "jlpt": "N5",
+  "kanji": "温い",
+  "kana": "ぬるい",
+  "display": "温い",
+  "meanings_zh": [
+    "微温",
+    "不凉不热",
+    "温和不严",
+    "宽大"
+  ],
+  "meanings_en": [
+    "luke warm"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ここはちょっと温いですね？",
+      "en": "It's a bit warm in here, isn't it?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

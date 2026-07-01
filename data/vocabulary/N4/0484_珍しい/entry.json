@@ -1,0 +1,38 @@
+{
+  "id": "n4-0484",
+  "jlpt": "N4",
+  "kanji": "珍しい",
+  "kana": "めずらしい",
+  "display": "珍しい",
+  "meanings_zh": [
+    "新奇",
+    "新颖",
+    "珍奇",
+    "稀奇"
+  ],
+  "meanings_en": [
+    "rare"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "珍しい名前だね。",
+      "en": "It's an unusual name."
+    },
+    {
+      "ja": "彼が怒るのは珍しい。",
+      "en": "It is rare for him to get angry."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

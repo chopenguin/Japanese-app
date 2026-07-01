@@ -1,0 +1,29 @@
+{
+  "id": "n1-1515",
+  "jlpt": "N1",
+  "kanji": "事によると",
+  "kana": "ことによると",
+  "display": "事によると",
+  "meanings_zh": [
+    "可能",
+    "也许",
+    "或许",
+    "说不定"
+  ],
+  "meanings_en": [
+    "depending on the circumstances"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

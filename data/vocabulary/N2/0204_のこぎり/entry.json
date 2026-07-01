@@ -1,0 +1,33 @@
+{
+  "id": "n2-0204",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "のこぎり",
+  "display": "のこぎり",
+  "meanings_zh": [],
+  "meanings_en": [
+    "saw"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "父はのこぎりで木を切った。",
+      "en": "My father cut wood with a saw."
+    },
+    {
+      "ja": "彼女はのこぎりを使うのがとてもうまい。",
+      "en": "She handles a saw very well."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n3-1671",
+  "jlpt": "N3",
+  "kanji": "問い",
+  "kana": "とい",
+  "display": "問い",
+  "meanings_zh": [
+    "问",
+    "询问",
+    "提问",
+    "问题"
+  ],
+  "meanings_en": [
+    "question",
+    "query"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "以下の問いに英語で答えよ。",
+      "en": "Answer the following questions in English."
+    },
+    {
+      "ja": "彼の経歴を会社に問い合わせた。",
+      "en": "I referred to the company for his work record."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

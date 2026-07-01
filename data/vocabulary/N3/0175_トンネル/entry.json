@@ -1,0 +1,38 @@
+{
+  "id": "n3-0175",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "トンネル",
+  "display": "トンネル",
+  "meanings_zh": [
+    "隧道",
+    "隧洞",
+    "地道",
+    "坑道"
+  ],
+  "meanings_en": [
+    "tunnel"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "山を通してトンネルを通した。",
+      "en": "They drove a tunnel through the hill."
+    },
+    {
+      "ja": "汽車はトンネルを通り抜けた。",
+      "en": "The train traversed a tunnel."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

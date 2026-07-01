@@ -1,0 +1,35 @@
+{
+  "id": "n3-0131",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "タイプライター",
+  "display": "タイプライター",
+  "meanings_zh": [
+    "打字机"
+  ],
+  "meanings_en": [
+    "typewriter"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "電子タイプライターはありますか。",
+      "en": "Do you have an electronic typewriter?"
+    },
+    {
+      "ja": "タイプライターの調子がおかしい。",
+      "en": "Something is wrong with my typewriter."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

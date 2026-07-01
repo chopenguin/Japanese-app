@@ -1,0 +1,36 @@
+{
+  "id": "n4-0062",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "コンサート",
+  "display": "コンサート",
+  "meanings_zh": [
+    "音乐会",
+    "演奏会"
+  ],
+  "meanings_en": [
+    "concert"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "コンサートよかった？",
+      "en": "Did you have a good concert?"
+    },
+    {
+      "ja": "コンサートに行くの？",
+      "en": "Are you going to the concert?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

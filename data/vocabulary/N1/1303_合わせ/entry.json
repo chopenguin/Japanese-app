@@ -1,0 +1,40 @@
+{
+  "id": "n1-1303",
+  "jlpt": "N1",
+  "kanji": "合わせ",
+  "kana": "あわせ",
+  "display": "合わせ",
+  "meanings_zh": [
+    "合在一起",
+    "对照",
+    "对比",
+    "比赛"
+  ],
+  "meanings_en": [
+    "joint together",
+    "opposite",
+    "facing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "どこで待ち合わせ？",
+      "en": "Where will we rendezvous?"
+    },
+    {
+      "ja": "時間を合わせなさい。",
+      "en": "Put the clock right."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

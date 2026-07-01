@@ -1,0 +1,33 @@
+{
+  "id": "n5-0049",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "かわいい",
+  "display": "かわいい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "cute"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "かわいいなー。",
+      "en": "It's so cute."
+    },
+    {
+      "ja": "かわいいよね？",
+      "en": "It's pretty, isn't it?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

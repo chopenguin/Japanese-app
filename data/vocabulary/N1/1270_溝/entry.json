@@ -1,0 +1,39 @@
+{
+  "id": "n1-1270",
+  "jlpt": "N1",
+  "kanji": "溝",
+  "kana": "こう",
+  "display": "溝",
+  "meanings_zh": [
+    "沟",
+    "水沟",
+    "阴沟"
+  ],
+  "meanings_en": [
+    "10^38",
+    "hundred undecillion (American)",
+    "hundred sextillion (British)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "両者の溝が狭まった。",
+      "en": "The gap between them has narrowed."
+    },
+    {
+      "ja": "彼はその浅い溝を飛び越えた。",
+      "en": "He leaped over the shallow ditch."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

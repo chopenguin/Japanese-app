@@ -1,0 +1,32 @@
+{
+  "id": "n1-3088",
+  "jlpt": "N1",
+  "kanji": "埋まる",
+  "kana": "うずまる",
+  "display": "埋まる",
+  "meanings_zh": [
+    "埋上",
+    "埋着",
+    "填满",
+    "填补"
+  ],
+  "meanings_en": [
+    "to be buried",
+    "to be surrounded",
+    "to overflow",
+    "to be filled"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

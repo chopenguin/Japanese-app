@@ -1,0 +1,40 @@
+{
+  "id": "n2-1292",
+  "jlpt": "N2",
+  "kanji": "超える",
+  "kana": "こえる",
+  "display": "超える",
+  "meanings_zh": [
+    "越过",
+    "渡过",
+    "超过",
+    "超出"
+  ],
+  "meanings_en": [
+    "to exceed",
+    "to cross over",
+    "to cross"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "想像を超えるしょぼさ。",
+      "en": "It's a damned sight more unimpressive than could be imagined."
+    },
+    {
+      "ja": "制限スピードを超えるなよ。",
+      "en": "Don't go beyond the speed limit."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

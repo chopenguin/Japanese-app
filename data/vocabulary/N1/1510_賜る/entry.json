@@ -1,0 +1,30 @@
+{
+  "id": "n1-1510",
+  "jlpt": "N1",
+  "kanji": "賜る",
+  "kana": "たまわる",
+  "display": "賜る",
+  "meanings_zh": [
+    "蒙受赏赐",
+    "赐",
+    "赐予",
+    "赏赐"
+  ],
+  "meanings_en": [
+    "to grant",
+    "to bestow"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

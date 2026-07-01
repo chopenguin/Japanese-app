@@ -1,0 +1,38 @@
+{
+  "id": "n1-1687",
+  "jlpt": "N1",
+  "kanji": "襲う",
+  "kana": "おそう",
+  "display": "襲う",
+  "meanings_zh": [
+    "袭击",
+    "侵袭",
+    "侵扰",
+    "因袭"
+  ],
+  "meanings_en": [
+    "to attack"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "毎年今頃、台風がその島を襲う。",
+      "en": "About this time of the year typhoons visit the island."
+    },
+    {
+      "ja": "いつ私たちを襲うかもしれない。",
+      "en": "It could attack us at any moment."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "n1-1945",
+  "jlpt": "N1",
+  "kanji": "図る",
+  "kana": "はかる",
+  "display": "図る",
+  "meanings_zh": [
+    "图谋",
+    "策划",
+    "谋求",
+    "安排"
+  ],
+  "meanings_en": [
+    "to plot",
+    "to attempt",
+    "to plan",
+    "to take in",
+    "to deceive",
+    "to devise",
+    "to design",
+    "to refer A to B"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らと協力して世界平和を図る。",
+      "en": "I am working with them towards world peace."
+    },
+    {
+      "ja": "私たちは様々な方法で、お互いの意思疎通を図ることができます。",
+      "en": "We can communicate with each other in many ways."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "n1-2206",
+  "jlpt": "N1",
+  "kanji": "揃い",
+  "kana": "そろい",
+  "display": "揃い",
+  "meanings_zh": [
+    "成套",
+    "成付",
+    "成组",
+    "一致 套",
+    "付",
+    "组",
+    "一套"
+  ],
+  "meanings_en": [
+    "set",
+    "suit",
+    "uniform"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼とお揃いのサンダルを買ったの。",
+      "en": "I bought a pair of sandals that match him."
+    },
+    {
+      "ja": "クリスマスは、家族が勢揃いしました。",
+      "en": "The whole family got together for Christmas."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

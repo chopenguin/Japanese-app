@@ -1,0 +1,32 @@
+{
+  "id": "n1-2127",
+  "jlpt": "N1",
+  "kanji": "素っ気ない",
+  "kana": "そっけない",
+  "display": "素っ気ない",
+  "meanings_zh": [],
+  "meanings_en": [
+    "cold",
+    "short",
+    "curt",
+    "blunt"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女はいつも私に素っ気ない。",
+      "en": "She always gives me the cold shoulder."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

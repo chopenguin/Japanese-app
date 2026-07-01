@@ -1,0 +1,38 @@
+{
+  "id": "n4-0486",
+  "jlpt": "N4",
+  "kanji": "通る",
+  "kana": "とおる",
+  "display": "通る",
+  "meanings_zh": [
+    "通过",
+    "走过",
+    "穿过",
+    "通"
+  ],
+  "meanings_en": [
+    "to go through"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この橋を通るな。",
+      "en": "Don't cross this bridge."
+    },
+    {
+      "ja": "彼の声はよく通る。",
+      "en": "His voice carries very well."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

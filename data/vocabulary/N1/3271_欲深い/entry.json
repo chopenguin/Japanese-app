@@ -1,0 +1,33 @@
+{
+  "id": "n1-3271",
+  "jlpt": "N1",
+  "kanji": "欲深い",
+  "kana": "よくふかい",
+  "display": "欲深い",
+  "meanings_zh": [],
+  "meanings_en": [
+    "greedy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "さて人間とは欲深いものです。",
+      "en": "Men are greedy."
+    },
+    {
+      "ja": "強気な者はお金を儲け、弱気な者はお金を儲け、欲深い取引者は損失ぞ。",
+      "en": "Bulls make money, bears make money, hogs get slaughtered."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

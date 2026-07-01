@@ -1,0 +1,38 @@
+{
+  "id": "n5-0406",
+  "jlpt": "N5",
+  "kanji": "初めて",
+  "kana": "はじめて",
+  "display": "初めて",
+  "meanings_zh": [
+    "初次",
+    "第一次",
+    "头一次",
+    "～～后"
+  ],
+  "meanings_en": [
+    "for the first time"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "初めてだろ？",
+      "en": "First time?"
+    },
+    {
+      "ja": "初めて来たの？",
+      "en": "Is this the first time you've been here?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

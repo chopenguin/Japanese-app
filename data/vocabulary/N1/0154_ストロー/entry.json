@@ -1,0 +1,36 @@
+{
+  "id": "n1-0154",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ストロー",
+  "display": "ストロー",
+  "meanings_zh": [
+    "麦秆",
+    "麦管"
+  ],
+  "meanings_en": [
+    "straw"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ストローに穴は幾つあるでしょう？",
+      "en": "How many holes are there in a straw?"
+    },
+    {
+      "ja": "ストローは水にはいるところで曲がって見える。",
+      "en": "The straw appears bent at the place where it enters the water."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

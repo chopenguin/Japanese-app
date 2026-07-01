@@ -1,0 +1,39 @@
+{
+  "id": "n1-1162",
+  "jlpt": "N1",
+  "kanji": "現われる",
+  "kana": "あらわれる",
+  "display": "現われる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to appear",
+    "to come in sight",
+    "to become visible",
+    "to come out",
+    "to embody",
+    "to materialize",
+    "to express oneself"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "真実はいつか現われる。",
+      "en": "The truth will come out one day."
+    },
+    {
+      "ja": "まもなく彼は現われるでしょう。",
+      "en": "It will not be long before he turns up."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

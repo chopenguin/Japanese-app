@@ -1,0 +1,35 @@
+{
+  "id": "n2-0645",
+  "jlpt": "N2",
+  "kanji": "元々",
+  "kana": "もともと",
+  "display": "元々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "originally",
+    "by nature",
+    "from the start"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らは元々あった文明を破壊した。",
+      "en": "They destroyed the native civilization."
+    },
+    {
+      "ja": "メアリーに彼氏がいないってのは、わかったんだよな？じゃあ、今すぐにでもデートに誘えよ。駄目で元々だろ？",
+      "en": "Didn't you pick up that Mary doesn't have a boyfriend? Jeez, you should invite her on a date. There is nothing to lose by giving it a try."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

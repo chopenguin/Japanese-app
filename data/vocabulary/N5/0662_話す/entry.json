@@ -1,0 +1,38 @@
+{
+  "id": "n5-0662",
+  "jlpt": "N5",
+  "kanji": "話す",
+  "kana": "はなす",
+  "display": "話す",
+  "meanings_zh": [
+    "说",
+    "讲",
+    "告诉",
+    "谈"
+  ],
+  "meanings_en": [
+    "to speak"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "電話するよ。",
+      "en": "I'll phone you."
+    },
+    {
+      "ja": "話す時間ある？",
+      "en": "Do you have time to talk?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

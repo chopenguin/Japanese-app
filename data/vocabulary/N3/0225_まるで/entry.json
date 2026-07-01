@@ -1,0 +1,40 @@
+{
+  "id": "n3-0225",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "まるで",
+  "display": "まるで",
+  "meanings_zh": [
+    "完全",
+    "全然",
+    "简直",
+    "好象"
+  ],
+  "meanings_en": [
+    "quite",
+    "entirely",
+    "completely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "まるで眠れやしない。",
+      "en": "I can't sleep at all!"
+    },
+    {
+      "ja": "彼らはまるで犬と猿だ。",
+      "en": "They get along like a cat and a dog."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

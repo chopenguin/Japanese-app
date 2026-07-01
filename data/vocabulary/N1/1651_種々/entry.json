@@ -1,0 +1,33 @@
+{
+  "id": "n1-1651",
+  "jlpt": "N1",
+  "kanji": "種々",
+  "kana": "くさぐさ",
+  "display": "種々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "variety"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は種々の方法を試みた。",
+      "en": "He tried many different methods."
+    },
+    {
+      "ja": "彼に起こった種々の不幸に加えて息子が急死した。",
+      "en": "To add to his difficulties his son died a sudden death."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "n1-1540",
+  "jlpt": "N1",
+  "kanji": "而も",
+  "kana": "しかも",
+  "display": "而も",
+  "meanings_zh": [
+    "而",
+    "而且",
+    "并且"
+  ],
+  "meanings_en": [
+    "moreover",
+    "furthermore",
+    "nevertheless",
+    "and yet"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

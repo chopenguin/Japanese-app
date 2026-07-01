@@ -1,0 +1,33 @@
+{
+  "id": "n2-1217",
+  "jlpt": "N2",
+  "kanji": "貸家",
+  "kana": "かしや",
+  "display": "貸家",
+  "meanings_zh": [],
+  "meanings_en": [
+    "house for rent"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その家は貸家です。",
+      "en": "The house is to let."
+    },
+    {
+      "ja": "わたしは貸家をさがしている。",
+      "en": "I am looking for a house to rent."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

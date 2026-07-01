@@ -1,0 +1,38 @@
+{
+  "id": "n3-0227",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ミルク",
+  "display": "ミルク",
+  "meanings_zh": [
+    "牛乳",
+    "牛奶",
+    "炼乳",
+    "奶粉"
+  ],
+  "meanings_en": [
+    "milk"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ミルクはいかが？",
+      "en": "How about some milk?"
+    },
+    {
+      "ja": "ミルクは買った？",
+      "en": "Did you buy milk?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "n1-3191",
+  "jlpt": "N1",
+  "kanji": "問う",
+  "kana": "とう",
+  "display": "問う",
+  "meanings_zh": [
+    "问",
+    "打听",
+    "询问",
+    "问候"
+  ],
+  "meanings_en": [
+    "to ask",
+    "to question",
+    "to charge (i.e. with a crime)",
+    "to accuse",
+    "without regard to (neg)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼にもう一杯いかがかと問う。",
+      "en": "Ask if he wants another drink."
+    },
+    {
+      "ja": "政府が住民に問う一般投票を実施しました。",
+      "en": "The government put the question to the people in a referendum."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

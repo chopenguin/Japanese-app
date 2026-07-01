@@ -1,0 +1,36 @@
+{
+  "id": "n1-3454",
+  "jlpt": "N1",
+  "kanji": "軈て",
+  "kana": "やがて",
+  "display": "軈て",
+  "meanings_zh": [
+    "不久",
+    "马上",
+    "大约",
+    "将近"
+  ],
+  "meanings_en": [
+    "before long",
+    "soon",
+    "at length"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "軈て幽霊は濃い霧の中に消えた。",
+      "en": "Before long, the ghost disappeared into a thick fog."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

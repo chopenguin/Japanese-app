@@ -1,0 +1,37 @@
+{
+  "id": "n1-0672",
+  "jlpt": "N1",
+  "kanji": "街道",
+  "kana": "かいどう",
+  "display": "街道",
+  "meanings_zh": [
+    "大道",
+    "大街",
+    "通衢"
+  ],
+  "meanings_en": [
+    "highway"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "街道は次の村で南へ向かう。",
+      "en": "The road tends to the south at the next village."
+    },
+    {
+      "ja": "街道沿いに家が並んでいた。",
+      "en": "Houses were lined up alongside the highway."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

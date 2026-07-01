@@ -1,0 +1,33 @@
+{
+  "id": "n4-0123",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "はず",
+  "display": "はず",
+  "meanings_zh": [],
+  "meanings_en": [
+    "it should be so"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "君はずぶぬれだ。",
+      "en": "You're wet through."
+    },
+    {
+      "ja": "４０近いはずだ。",
+      "en": "He must be nearly forty."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

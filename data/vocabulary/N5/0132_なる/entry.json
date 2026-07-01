@@ -1,0 +1,33 @@
+{
+  "id": "n5-0132",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "なる",
+  "display": "なる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to become"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "なるほどね。",
+      "en": "I see."
+    },
+    {
+      "ja": "大きくなる。",
+      "en": "It's getting bigger."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

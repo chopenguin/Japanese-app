@@ -1,0 +1,39 @@
+{
+  "id": "n2-1601",
+  "jlpt": "N2",
+  "kanji": "妨げる",
+  "kana": "さまたげる",
+  "display": "妨げる",
+  "meanings_zh": [
+    "妨碍",
+    "阻碍",
+    "阻挡",
+    "阻挠"
+  ],
+  "meanings_en": [
+    "to disturb",
+    "to prevent"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "試験は教育の本当の目的を妨げる。",
+      "en": "Examinations interfere with the real purpose of education."
+    },
+    {
+      "ja": "試験は教育の本当の意味を妨げる。",
+      "en": "Examinations interfere with the real meaning of education."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

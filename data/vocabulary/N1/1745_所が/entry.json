@@ -1,0 +1,40 @@
+{
+  "id": "n1-1745",
+  "jlpt": "N1",
+  "kanji": "所が",
+  "kana": "ところが",
+  "display": "所が",
+  "meanings_zh": [
+    "然而",
+    "可是",
+    "不过",
+    "一～～"
+  ],
+  "meanings_en": [
+    "however",
+    "while",
+    "even if"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "暗い場所が怖くて。",
+      "en": "I'm afraid of the dark."
+    },
+    {
+      "ja": "虫の居所が悪いの？",
+      "en": "Did you wake up on the wrong side of the bed?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

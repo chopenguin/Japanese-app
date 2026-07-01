@@ -1,0 +1,38 @@
+{
+  "id": "n1-0774",
+  "jlpt": "N1",
+  "kanji": "貫く",
+  "kana": "つらぬく",
+  "display": "貫く",
+  "meanings_zh": [
+    "穿过",
+    "穿透",
+    "贯通",
+    "贯穿"
+  ],
+  "meanings_en": [
+    "to go through"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "光は闇を貫く。",
+      "en": "The light penetrates the darkness."
+    },
+    {
+      "ja": "その敬虔なキリスト教徒は自分の信念を断固として貫く。",
+      "en": "The devout Christian persists in his belief."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "n2-0274",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "もしかしたら",
+  "display": "もしかしたら",
+  "meanings_zh": [],
+  "meanings_en": [
+    "perhaps",
+    "maybe",
+    "by some chance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "もしかしたら遅れるかも。",
+      "en": "I might be late."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

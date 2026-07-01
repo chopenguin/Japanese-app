@@ -1,0 +1,33 @@
+{
+  "id": "n1-0716",
+  "jlpt": "N1",
+  "kanji": "叶える",
+  "kana": "かなえる",
+  "display": "叶える",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to grant (request  wish)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あなたの夢を叶える手助けをしたい。",
+      "en": "I want to help you fulfill your dreams."
+    },
+    {
+      "ja": "夢を叶えるためにはある程度の犠牲・努力・苦労は覚悟している。",
+      "en": "I've steeled myself to face a certain amount of sacrifice, effort and hardship if that's what it takes to fulfill my dream."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

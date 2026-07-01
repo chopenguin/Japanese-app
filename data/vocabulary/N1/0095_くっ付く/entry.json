@@ -1,0 +1,30 @@
+{
+  "id": "n1-0095",
+  "jlpt": "N1",
+  "kanji": "くっ付く",
+  "kana": "くっつく",
+  "display": "くっ付く",
+  "meanings_zh": [
+    "紧贴在一起",
+    "紧密粘在一起",
+    "粘着",
+    "附着"
+  ],
+  "meanings_en": [
+    "to adhere to",
+    "to keep close to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

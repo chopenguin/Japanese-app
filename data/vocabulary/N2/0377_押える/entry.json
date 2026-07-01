@@ -1,0 +1,29 @@
+{
+  "id": "n2-0377",
+  "jlpt": "N2",
+  "kanji": "押える",
+  "kana": "おさえる",
+  "display": "押える",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to stop",
+    "to restrain",
+    "to seize",
+    "to repress",
+    "to suppress",
+    "to press down"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

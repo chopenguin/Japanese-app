@@ -1,0 +1,40 @@
+{
+  "id": "n2-0739",
+  "jlpt": "N2",
+  "kanji": "刻む",
+  "kana": "きざむ",
+  "display": "刻む",
+  "meanings_zh": [
+    "切细",
+    "剁碎",
+    "刻",
+    "雕刻"
+  ],
+  "meanings_en": [
+    "to mince",
+    "to carve",
+    "to engrave"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ネギを刻むときは、手を切らないように気をつけてね。",
+      "en": "When you're chopping onions, be careful not to cut your hand."
+    },
+    {
+      "ja": "私が通っている学校では、八月六日は平和の大切さを心に刻む１日として毎年『平和学習』が行われます。",
+      "en": "At the school I attend, August 6th is observed each year as \"Peace Learning Day\" to emphasize the importance of peace."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

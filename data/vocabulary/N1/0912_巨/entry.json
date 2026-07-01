@@ -1,0 +1,35 @@
+{
+  "id": "n1-0912",
+  "jlpt": "N1",
+  "kanji": "巨",
+  "kana": "こ",
+  "display": "巨",
+  "meanings_zh": [],
+  "meanings_en": [
+    "big",
+    "large",
+    "great"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "木星は巨大だ。",
+      "en": "Jupiter is very large."
+    },
+    {
+      "ja": "天王星は巨大だ。",
+      "en": "Uranus is huge."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

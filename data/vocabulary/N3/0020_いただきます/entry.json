@@ -1,0 +1,33 @@
+{
+  "id": "n3-0020",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "いただきます",
+  "display": "いただきます",
+  "meanings_zh": [],
+  "meanings_en": [
+    "expression of gratitude before meals"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これをいただきます。",
+      "en": "I'll take this."
+    },
+    {
+      "ja": "ワインをいただきます。",
+      "en": "We'd like to have some wine."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

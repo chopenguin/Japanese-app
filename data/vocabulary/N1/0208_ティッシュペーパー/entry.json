@@ -1,0 +1,29 @@
+{
+  "id": "n1-0208",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ティッシュペーパー",
+  "display": "ティッシュペーパー",
+  "meanings_zh": [
+    "卫生纸",
+    "手纸",
+    "化妆纸",
+    "香水纸巾"
+  ],
+  "meanings_en": [
+    "tissue paper"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

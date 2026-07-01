@@ -1,0 +1,33 @@
+{
+  "id": "n1-2945",
+  "jlpt": "N1",
+  "kanji": "粉々",
+  "kana": "こなごな",
+  "display": "粉々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "in very small pieces"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "瓶は粉々に割れた。",
+      "en": "The bottle smashed to pieces."
+    },
+    {
+      "ja": "銅像が粉々になった。",
+      "en": "The bronze statue was broken into pieces."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

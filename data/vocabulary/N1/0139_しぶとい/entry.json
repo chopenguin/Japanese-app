@@ -1,0 +1,39 @@
+{
+  "id": "n1-0139",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "しぶとい",
+  "display": "しぶとい",
+  "meanings_zh": [
+    "顽固",
+    "倔强",
+    "拧",
+    "有耐性"
+  ],
+  "meanings_en": [
+    "tenacious",
+    "stubborn"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は結構しぶといね。転んでもただでは起きぬ、いい根性しているよ。",
+      "en": "He's a tenacious guy who always manages to come out on top. He's the kind of guy who can turn any situation to his advantage."
+    },
+    {
+      "ja": "乳酸菌はかなりしぶとい菌で、冷凍しても単に冬眠するだけで、解凍すればそのまま復活させることができます。",
+      "en": "Lactic-acid bacilli are such unyielding bacteria that, even if frozen, they would simply hibernate and can restore themselves as if they came back to life."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

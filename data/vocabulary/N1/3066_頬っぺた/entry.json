@@ -1,0 +1,27 @@
+{
+  "id": "n1-3066",
+  "jlpt": "N1",
+  "kanji": "頬っぺた",
+  "kana": "ほっぺた",
+  "display": "頬っぺた",
+  "meanings_zh": [
+    "颊",
+    "脸蛋"
+  ],
+  "meanings_en": [
+    "cheek"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

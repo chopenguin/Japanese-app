@@ -1,0 +1,36 @@
+{
+  "id": "n2-1420",
+  "jlpt": "N2",
+  "kanji": "南北",
+  "kana": "なんぼく",
+  "display": "南北",
+  "meanings_zh": [
+    "南北",
+    "南方和北方"
+  ],
+  "meanings_en": [
+    "south and north"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "日本は南北に長い国です。",
+      "en": "Japan is a very long country from north to south."
+    },
+    {
+      "ja": "彼は南北戦争の歴史書を書いた。",
+      "en": "He wrote a book about the American Civil War."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

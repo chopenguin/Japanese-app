@@ -1,0 +1,37 @@
+{
+  "id": "n1-0028",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "インテリ",
+  "display": "インテリ",
+  "meanings_zh": [
+    "知识分子",
+    "知识阶层"
+  ],
+  "meanings_en": [
+    "egghead",
+    "intelligentsia"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "インテリアの趣味がいいですね。",
+      "en": "You have a good taste in interior design."
+    },
+    {
+      "ja": "このプロダクトはインテリジェント総合情報システムです。",
+      "en": "This product is an intelligent integrated information system."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

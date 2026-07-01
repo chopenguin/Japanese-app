@@ -1,0 +1,35 @@
+{
+  "id": "n1-1013",
+  "jlpt": "N1",
+  "kanji": "駆けっこ",
+  "kana": "かけっこ",
+  "display": "駆けっこ",
+  "meanings_zh": [
+    "赛跑"
+  ],
+  "meanings_en": [
+    "(foot) race"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あいつと駆けっこしたんだ。",
+      "en": "I had a race with him."
+    },
+    {
+      "ja": "居酒屋まで駆けっこしましょう！",
+      "en": "Let's race to the Izakaya!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

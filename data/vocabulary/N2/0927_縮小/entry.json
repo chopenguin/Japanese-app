@@ -1,0 +1,37 @@
+{
+  "id": "n2-0927",
+  "jlpt": "N2",
+  "kanji": "縮小",
+  "kana": "しゅくしょう",
+  "display": "縮小",
+  "meanings_zh": [
+    "缩小",
+    "缩减"
+  ],
+  "meanings_en": [
+    "reduction",
+    "curtailment"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "縮小コピーを撮ってくるよ。",
+      "en": "I'm going to make reduced copies."
+    },
+    {
+      "ja": "経済は厳しい不況で縮小した。",
+      "en": "The economy recorded a negative growth."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

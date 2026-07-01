@@ -1,0 +1,33 @@
+{
+  "id": "n4-0296",
+  "jlpt": "N4",
+  "kanji": "高校生",
+  "kana": "こうこうせい",
+  "display": "高校生",
+  "meanings_zh": [],
+  "meanings_en": [
+    "high school student"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "高校生なの？",
+      "en": "Are you a high school student?"
+    },
+    {
+      "ja": "高校生ですか？",
+      "en": "Are you a senior high school student?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n1-2928",
+  "jlpt": "N1",
+  "kanji": "物足りない",
+  "kana": "ものたりない",
+  "display": "物足りない",
+  "meanings_zh": [
+    "感到有点欠缺",
+    "不能令人十分满意",
+    "不够十全十美",
+    "不够充足"
+  ],
+  "meanings_en": [
+    "unsatisfied",
+    "unsatisfactory"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "このドラマは単純な勧善懲悪もので、今一つ深みに欠けて物足りない。",
+      "en": "This drama is missing something. All it is is a simple cautionary tale with no real depth."
+    },
+    {
+      "ja": "サラダは、オリーブオイル、クルトン、それからナッツがないと物足りないよ。",
+      "en": "The salad is incomplete without olive oil, croutons and nuts."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

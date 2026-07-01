@@ -1,0 +1,37 @@
+{
+  "id": "n5-0399",
+  "jlpt": "N5",
+  "kanji": "宿題",
+  "kana": "しゅくだい",
+  "display": "宿題",
+  "meanings_zh": [
+    "课外作业",
+    "有待将来解决的问题",
+    "悬案"
+  ],
+  "meanings_en": [
+    "homework"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "宿題やった？",
+      "en": "Did you do your homework?"
+    },
+    {
+      "ja": "宿題は完璧？",
+      "en": "Have you completed your homework?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n3-0550",
+  "jlpt": "N3",
+  "kanji": "居る",
+  "kana": "おる",
+  "display": "居る",
+  "meanings_zh": [
+    "在",
+    "有",
+    "居住",
+    "停留"
+  ],
+  "meanings_en": [
+    "to be (animate)",
+    "to be",
+    "to exist"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は次の角に居る。",
+      "en": "He's at the next corner."
+    },
+    {
+      "ja": "奴ら、中に居るの？",
+      "en": "Are they in?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "n2-0822",
+  "jlpt": "N2",
+  "kanji": "思い付く",
+  "kana": "おもいつく",
+  "display": "思い付く",
+  "meanings_zh": [
+    "想出",
+    "想起",
+    "想到"
+  ],
+  "meanings_en": [
+    "to think of",
+    "to hit upon"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "君が一つの形式に拘っている限り、素晴らしい考えを思い付くことはできない。",
+      "en": "As long as you stick to one style, you can't hit upon a wonderful idea."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

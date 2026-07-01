@@ -1,0 +1,39 @@
+{
+  "id": "n2-0592",
+  "jlpt": "N2",
+  "kanji": "掘る",
+  "kana": "ほる",
+  "display": "掘る",
+  "meanings_zh": [
+    "挖",
+    "挖掘",
+    "刨",
+    "开"
+  ],
+  "meanings_en": [
+    "to dig",
+    "to excavate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "アナグマは深い穴を掘る。",
+      "en": "Badgers dig deep holes."
+    },
+    {
+      "ja": "トンネルを掘るとしたらどれくらい簡単なのか。",
+      "en": "How easy would it be to bore a tunnel through it?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

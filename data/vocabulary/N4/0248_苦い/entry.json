@@ -1,0 +1,38 @@
+{
+  "id": "n4-0248",
+  "jlpt": "N4",
+  "kanji": "苦い",
+  "kana": "にがい",
+  "display": "苦い",
+  "meanings_zh": [
+    "苦",
+    "痛苦",
+    "难受",
+    "不高兴"
+  ],
+  "meanings_en": [
+    "bitter"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "めちゃ苦い。",
+      "en": "It's so bitter."
+    },
+    {
+      "ja": "恋の味は苦い。",
+      "en": "The taste of love is bitter."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

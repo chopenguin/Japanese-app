@@ -1,0 +1,40 @@
+{
+  "id": "n2-1280",
+  "jlpt": "N2",
+  "kanji": "仲良し",
+  "kana": "なかよし",
+  "display": "仲良し",
+  "meanings_zh": [
+    "相好",
+    "友好",
+    "相好的人",
+    "好朋友"
+  ],
+  "meanings_en": [
+    "intimate friend",
+    "bosom buddy",
+    "chum"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムとは仲良しよ。",
+      "en": "I'm good friends with Tom."
+    },
+    {
+      "ja": "三人って仲良しなの？",
+      "en": "Are you three good friends?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

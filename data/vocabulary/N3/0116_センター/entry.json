@@ -1,0 +1,38 @@
+{
+  "id": "n3-0116",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "センター",
+  "display": "センター",
+  "meanings_zh": [
+    "中心地",
+    "中心区",
+    "中心(机构)",
+    "(中心)站"
+  ],
+  "meanings_en": [
+    "a center"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "コールセンターで働いてます。",
+      "en": "I work in a call center."
+    },
+    {
+      "ja": "カスタマーセンターに電話したら？",
+      "en": "Why don't you call customer service?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "n1-0570",
+  "jlpt": "N1",
+  "kanji": "可愛い",
+  "kana": "かわいい",
+  "display": "可愛い",
+  "meanings_zh": [
+    "讨人喜欢",
+    "可爱",
+    "心爱",
+    "小巧玲珑"
+  ],
+  "meanings_en": [
+    "pretty",
+    "cute",
+    "lovely",
+    "charming",
+    "dear",
+    "darling",
+    "pet"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は可愛い。",
+      "en": "She's a cutie."
+    },
+    {
+      "ja": "猫って可愛い。",
+      "en": "Cats are cute."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

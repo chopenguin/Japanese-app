@@ -1,0 +1,35 @@
+{
+  "id": "n1-0569",
+  "jlpt": "N1",
+  "kanji": "可哀想",
+  "kana": "かわいそう",
+  "display": "可哀想",
+  "meanings_zh": [],
+  "meanings_en": [
+    "poor",
+    "pitiable",
+    "pathetic"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は可哀想に思って、その子達の面倒をみた。",
+      "en": "She cared for the children out of charity."
+    },
+    {
+      "ja": "可哀想なことに、事故で足を折っちゃったんだ。",
+      "en": "Unfortunately, he broke his leg in the accident."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n4-0135",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ベル",
+  "display": "ベル",
+  "meanings_zh": [],
+  "meanings_en": [
+    "bell"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ベルが鳴った。",
+      "en": "The bell rang."
+    },
+    {
+      "ja": "ベルは正午に鳴る。",
+      "en": "The bell rings at noon."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

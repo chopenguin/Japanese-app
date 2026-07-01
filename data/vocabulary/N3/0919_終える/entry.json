@@ -1,0 +1,37 @@
+{
+  "id": "n3-0919",
+  "jlpt": "N3",
+  "kanji": "終える",
+  "kana": "おえる",
+  "display": "終える",
+  "meanings_zh": [
+    "做完",
+    "完成",
+    "结束"
+  ],
+  "meanings_en": [
+    "to finish"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は仕事を終えると帰宅した。",
+      "en": "When he finished the work, he went home."
+    },
+    {
+      "ja": "宿題を終えるのに３時間かかった。",
+      "en": "It took me three hours to finish the homework."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

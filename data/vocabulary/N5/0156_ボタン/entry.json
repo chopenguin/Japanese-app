@@ -1,0 +1,38 @@
+{
+  "id": "n5-0156",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ボタン",
+  "display": "ボタン",
+  "meanings_zh": [
+    "纽扣",
+    "扣子",
+    "电钮",
+    "按钮"
+  ],
+  "meanings_en": [
+    "button"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ボタンを押す。",
+      "en": "Press the button."
+    },
+    {
+      "ja": "ボタンが取れた。",
+      "en": "The button came off."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "n1-0282",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ホール",
+  "display": "ホール",
+  "meanings_zh": [],
+  "meanings_en": [
+    "hall",
+    "hole"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ホールは満員だった。",
+      "en": "The hall was filled to capacity."
+    },
+    {
+      "ja": "ホールに電話がある。",
+      "en": "There's a telephone in the hall."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "n4-0300",
+  "jlpt": "N4",
+  "kanji": "込む",
+  "kana": "こむ",
+  "display": "込む",
+  "meanings_zh": [
+    "人多",
+    "拥挤",
+    "混杂",
+    "费事 ～～进",
+    "～～进去",
+    "彻底",
+    "深"
+  ],
+  "meanings_en": [
+    "to be crowded"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "綿は水を吸い込む。",
+      "en": "Cotton sucks up water."
+    },
+    {
+      "ja": "そう落ち込むなよ。",
+      "en": "Keep your chin up."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

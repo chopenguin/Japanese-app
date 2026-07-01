@@ -1,0 +1,40 @@
+{
+  "id": "n1-2356",
+  "jlpt": "N1",
+  "kanji": "築く",
+  "kana": "きずく",
+  "display": "築く",
+  "meanings_zh": [
+    "筑",
+    "构筑",
+    "修建",
+    "建立"
+  ],
+  "meanings_en": [
+    "to build",
+    "to pile up",
+    "to amass"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "多くの家族が新生活を築くために辺境地方に移住した。",
+      "en": "Many families left to make a new life on the frontier."
+    },
+    {
+      "ja": "費用は別として、その橋を築くには長い時間がかかるだろう。",
+      "en": "Apart from the cost, it will take long to build the bridge."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

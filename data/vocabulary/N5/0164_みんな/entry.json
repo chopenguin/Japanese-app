@@ -1,0 +1,33 @@
+{
+  "id": "n5-0164",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "みんな",
+  "display": "みんな",
+  "meanings_zh": [],
+  "meanings_en": [
+    "everyone"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "みんな嫌い。",
+      "en": "I don't like any of them."
+    },
+    {
+      "ja": "みんなはどこ？",
+      "en": "Where is everybody?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

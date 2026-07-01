@@ -1,0 +1,41 @@
+{
+  "id": "n2-0709",
+  "jlpt": "N2",
+  "kanji": "広げる",
+  "kana": "ひろげる",
+  "display": "広げる",
+  "meanings_zh": [
+    "开",
+    "打开",
+    "翻开",
+    "摊开"
+  ],
+  "meanings_en": [
+    "to spread",
+    "to extend",
+    "to expand",
+    "to enlarge"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "よい映画は人の視野を広げる。",
+      "en": "Good movies broaden your horizons."
+    },
+    {
+      "ja": "鷲の羽は広げると１メーターにもなる。",
+      "en": "An eagle's wings are more than one meter across."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

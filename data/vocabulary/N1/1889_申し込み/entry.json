@@ -1,0 +1,45 @@
+{
+  "id": "n1-1889",
+  "jlpt": "N1",
+  "kanji": "申し込み",
+  "kana": "もうしこみ",
+  "display": "申し込み",
+  "meanings_zh": [
+    "提议",
+    "提出要求",
+    "申请",
+    "应征"
+  ],
+  "meanings_en": [
+    "application",
+    "entry",
+    "request",
+    "subscription",
+    "offer",
+    "proposal",
+    "overture",
+    "challenge"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "書面でお申し込み下さい。",
+      "en": "Apply in writing."
+    },
+    {
+      "ja": "結婚の申し込みが殺到した。",
+      "en": "Marriage proposals flooded in."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

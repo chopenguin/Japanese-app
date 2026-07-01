@@ -1,0 +1,36 @@
+{
+  "id": "n1-0244",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "パジャマ",
+  "display": "パジャマ",
+  "meanings_zh": [
+    "(分上下身的)西式睡衣"
+  ],
+  "meanings_en": [
+    "pajamas",
+    "pyjamas"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はパジャマ姿だ。",
+      "en": "He is in pajamas."
+    },
+    {
+      "ja": "私、パジャマだよ。",
+      "en": "I'm in my pajamas."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

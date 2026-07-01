@@ -1,0 +1,40 @@
+{
+  "id": "n3-1064",
+  "jlpt": "N3",
+  "kanji": "進める",
+  "kana": "すすめる",
+  "display": "進める",
+  "meanings_zh": [
+    "使前进",
+    "向前移动",
+    "推进",
+    "开展"
+  ],
+  "meanings_en": [
+    "to advance",
+    "to promote",
+    "to hasten"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そのチームはすぐに計画を進めるだろう。",
+      "en": "The team will go ahead with the plan soon."
+    },
+    {
+      "ja": "阿吽の呼吸で事を進める彼らが羨ましい。",
+      "en": "I find it enviable that they are able to progress in such harmony."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

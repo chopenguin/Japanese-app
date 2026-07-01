@@ -1,0 +1,35 @@
+{
+  "id": "n3-0140",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "たびたび",
+  "display": "たびたび",
+  "meanings_zh": [],
+  "meanings_en": [
+    "often",
+    "repeatedly",
+    "frequently"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私はたびたび彼を訪ねます。",
+      "en": "I often call on him."
+    },
+    {
+      "ja": "彼はたびたび学校に遅刻する。",
+      "en": "He is often late for school."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

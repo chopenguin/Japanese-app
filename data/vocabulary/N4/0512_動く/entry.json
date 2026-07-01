@@ -1,0 +1,38 @@
+{
+  "id": "n4-0512",
+  "jlpt": "N4",
+  "kanji": "動く",
+  "kana": "うごく",
+  "display": "動く",
+  "meanings_zh": [
+    "动",
+    "摇动",
+    "摆动",
+    "开动"
+  ],
+  "meanings_en": [
+    "to move"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "心が動くね。",
+      "en": "That sounds very tempting."
+    },
+    {
+      "ja": "動くな撃つぞ。",
+      "en": "Don't move, or I'll shoot you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

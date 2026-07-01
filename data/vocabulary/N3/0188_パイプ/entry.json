@@ -1,0 +1,41 @@
+{
+  "id": "n3-0188",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "パイプ",
+  "display": "パイプ",
+  "meanings_zh": [
+    "管",
+    "导管",
+    "管道",
+    "烟斗"
+  ],
+  "meanings_en": [
+    "(1) pipe",
+    "tube",
+    "(2) channels",
+    "official or otherwise"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "床下にパイプを通す。",
+      "en": "Run pipes under the floor."
+    },
+    {
+      "ja": "パイプに何か詰まった。",
+      "en": "Something is stuck in the pipe."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

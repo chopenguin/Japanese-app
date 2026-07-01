@@ -1,0 +1,38 @@
+{
+  "id": "n1-3310",
+  "jlpt": "N1",
+  "kanji": "流し",
+  "kana": "ながし",
+  "display": "流し",
+  "meanings_zh": [
+    "流",
+    "冲",
+    "洗碗池",
+    "水池子"
+  ],
+  "meanings_en": [
+    "sink"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は涙を流した。",
+      "en": "I was brought to tears."
+    },
+    {
+      "ja": "彼女は涙を流した。",
+      "en": "She shed tears."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

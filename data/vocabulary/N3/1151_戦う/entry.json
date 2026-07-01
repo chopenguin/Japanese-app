@@ -1,0 +1,40 @@
+{
+  "id": "n3-1151",
+  "jlpt": "N3",
+  "kanji": "戦う",
+  "kana": "たたかう",
+  "display": "戦う",
+  "meanings_zh": [
+    "作战",
+    "打仗",
+    "进行战争",
+    "战斗"
+  ],
+  "meanings_en": [
+    "to fight",
+    "to battle",
+    "to combat"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "戦士が戦う。",
+      "en": "Warriors fight."
+    },
+    {
+      "ja": "正義のために戦う。",
+      "en": "I fight in the cause of justice."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

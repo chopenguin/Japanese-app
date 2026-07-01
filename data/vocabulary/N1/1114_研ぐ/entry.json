@@ -1,0 +1,34 @@
+{
+  "id": "n1-1114",
+  "jlpt": "N1",
+  "kanji": "研ぐ",
+  "kana": "とぐ",
+  "display": "研ぐ",
+  "meanings_zh": [
+    "磨快",
+    "擦亮",
+    "磨光",
+    "淘"
+  ],
+  "meanings_en": [
+    "to sharpen",
+    "to grind",
+    "to scour",
+    "to hone",
+    "to polish",
+    "to wash (rice)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

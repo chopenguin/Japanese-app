@@ -1,0 +1,39 @@
+{
+  "id": "n1-0206",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ちょくちょく",
+  "display": "ちょくちょく",
+  "meanings_zh": [
+    "时常",
+    "往往"
+  ],
+  "meanings_en": [
+    "often",
+    "frequently",
+    "now and then",
+    "occasionally"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ちょくちょくサボるよ。",
+      "en": "I often play truant."
+    },
+    {
+      "ja": "トムはちょくちょく授業をサボる。",
+      "en": "Tom often cuts classes."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

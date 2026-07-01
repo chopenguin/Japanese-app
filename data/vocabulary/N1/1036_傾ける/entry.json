@@ -1,0 +1,47 @@
+{
+  "id": "n1-1036",
+  "jlpt": "N1",
+  "kanji": "傾ける",
+  "kana": "かたむける",
+  "display": "傾ける",
+  "meanings_zh": [
+    "使～～倾斜",
+    "使～～歪",
+    "倾注",
+    "倾"
+  ],
+  "meanings_en": [
+    "to incline",
+    "to list",
+    "to bend",
+    "to lean",
+    "to tip",
+    "to tilt",
+    "to slant",
+    "to concentrate on",
+    "to ruin (a country)",
+    "to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "人の意見に耳を傾けることも大切だと思うよ。",
+      "en": "I think it's also important to listen to other people's opinions."
+    },
+    {
+      "ja": "彼は君の言うことならなんでも耳を傾けるだろう。",
+      "en": "He listens to whatever you say."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

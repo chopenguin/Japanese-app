@@ -1,0 +1,38 @@
+{
+  "id": "n5-0339",
+  "jlpt": "N5",
+  "kanji": "座る",
+  "kana": "すわる",
+  "display": "座る",
+  "meanings_zh": [
+    "坐",
+    "跪坐",
+    "居某地位",
+    "占据席位"
+  ],
+  "meanings_en": [
+    "to sit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その上に座るな。",
+      "en": "Don't sit on it."
+    },
+    {
+      "ja": "後ろに座るかも。",
+      "en": "I may sit in the back."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

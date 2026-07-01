@@ -1,0 +1,30 @@
+{
+  "id": "n1-2057",
+  "jlpt": "N1",
+  "kanji": "折り返す",
+  "kana": "おりかえす",
+  "display": "折り返す",
+  "meanings_zh": [
+    "折回",
+    "叠回",
+    "翻回",
+    "卷回"
+  ],
+  "meanings_en": [
+    "to turn up",
+    "to fold back"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

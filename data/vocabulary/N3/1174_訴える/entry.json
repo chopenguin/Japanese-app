@@ -1,0 +1,40 @@
+{
+  "id": "n3-1174",
+  "jlpt": "N3",
+  "kanji": "訴える",
+  "kana": "うったえる",
+  "display": "訴える",
+  "meanings_zh": [
+    "诉讼",
+    "控告",
+    "控诉",
+    "申诉"
+  ],
+  "meanings_en": [
+    "to sue (a person)",
+    "to resort to",
+    "to appeal to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はしばしば歯痛を訴える。",
+      "en": "He often complains that he has a toothache."
+    },
+    {
+      "ja": "我々は暴力に訴えるべきでない。",
+      "en": "We should not resort to violence."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n5-0465",
+  "jlpt": "N5",
+  "kanji": "走る",
+  "kana": "はしる",
+  "display": "走る",
+  "meanings_zh": [
+    "跑",
+    "奔流",
+    "逃走",
+    "逃跑"
+  ],
+  "meanings_en": [
+    "to run"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は速く走る。",
+      "en": "He is a fast runner."
+    },
+    {
+      "ja": "あなたは走る。",
+      "en": "You do run."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n1-0309",
+  "jlpt": "N1",
+  "kanji": "やり遂げる",
+  "kana": "やりとげる",
+  "display": "やり遂げる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to accomplish"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "一日かかってもやり遂げる。",
+      "en": "We'll finish it if it takes us all day."
+    },
+    {
+      "ja": "彼はその仕事をやり遂げる力がある。",
+      "en": "He is equal to the task."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

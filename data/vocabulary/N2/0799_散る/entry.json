@@ -1,0 +1,39 @@
+{
+  "id": "n2-0799",
+  "jlpt": "N2",
+  "kanji": "散る",
+  "kana": "ちる",
+  "display": "散る",
+  "meanings_zh": [
+    "落",
+    "谢",
+    "凋谢",
+    "散"
+  ],
+  "meanings_en": [
+    "to fall",
+    "to scatter (e.g. blossoms)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "秋には葉が散る。",
+      "en": "The leaves fall in autumn."
+    },
+    {
+      "ja": "邪魔だ。気が散るよ。",
+      "en": "It's a distraction."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

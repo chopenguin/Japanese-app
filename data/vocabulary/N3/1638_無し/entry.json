@@ -1,0 +1,36 @@
+{
+  "id": "n3-1638",
+  "jlpt": "N3",
+  "kanji": "無し",
+  "kana": "なし",
+  "display": "無し",
+  "meanings_zh": [
+    "无",
+    "没有"
+  ],
+  "meanings_en": [
+    "without"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "忘れ物無し？",
+      "en": "Have you forgotten anything?"
+    },
+    {
+      "ja": "文無しなんだ。",
+      "en": "I'm broke."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

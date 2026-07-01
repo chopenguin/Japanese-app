@@ -1,0 +1,35 @@
+{
+  "id": "n1-0227",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ドライブイン",
+  "display": "ドライブイン",
+  "meanings_zh": [
+    "路旁餐馆"
+  ],
+  "meanings_en": [
+    "drive in"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "次のドライブインで休憩していこう。",
+      "en": "Let's turn off at the next rest stop."
+    },
+    {
+      "ja": "街道沿いのドライブインで昼食をとった。",
+      "en": "We had lunch at a roadside restaurant."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

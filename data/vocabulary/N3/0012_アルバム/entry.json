@@ -1,0 +1,38 @@
+{
+  "id": "n3-0012",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "アルバム",
+  "display": "アルバム",
+  "meanings_zh": [
+    "相片簿",
+    "照相簿",
+    "影集",
+    "纪念册"
+  ],
+  "meanings_en": [
+    "album"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "棚にアルバムがある。",
+      "en": "There is an album on the shelf."
+    },
+    {
+      "ja": "彼は私にアルバムを見せた。",
+      "en": "He showed me his album."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

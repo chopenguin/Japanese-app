@@ -1,0 +1,40 @@
+{
+  "id": "n3-0894",
+  "jlpt": "N3",
+  "kanji": "取れる",
+  "kana": "とれる",
+  "display": "取れる",
+  "meanings_zh": [
+    "脱落",
+    "掉下",
+    "去掉",
+    "需要"
+  ],
+  "meanings_en": [
+    "to come off",
+    "to be taken off",
+    "to be removed"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムと連絡が取れる？",
+      "en": "Can you contact Tom?"
+    },
+    {
+      "ja": "トムと連絡は取れるの？",
+      "en": "Is Tom reachable?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n4-0587",
+  "jlpt": "N4",
+  "kanji": "眠い",
+  "kana": "ねむい",
+  "display": "眠い",
+  "meanings_zh": [
+    "困",
+    "困倦",
+    "想睡觉"
+  ],
+  "meanings_en": [
+    "sleepy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "眠いですか？",
+      "en": "Are you sleepy?"
+    },
+    {
+      "ja": "まだ眠いの？",
+      "en": "Are you still sleepy?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

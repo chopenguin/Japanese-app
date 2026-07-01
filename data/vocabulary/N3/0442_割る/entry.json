@@ -1,0 +1,41 @@
+{
+  "id": "n3-0442",
+  "jlpt": "N3",
+  "kanji": "割る",
+  "kana": "わる",
+  "display": "割る",
+  "meanings_zh": [
+    "分",
+    "切",
+    "割",
+    "劈"
+  ],
+  "meanings_en": [
+    "to divide",
+    "to cut",
+    "to break",
+    "to halve"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "鏡を割るな。",
+      "en": "Never break a mirror."
+    },
+    {
+      "ja": "６割る２は３です。",
+      "en": "Six divided by two is three."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

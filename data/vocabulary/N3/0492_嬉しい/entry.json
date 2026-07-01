@@ -1,0 +1,40 @@
+{
+  "id": "n3-0492",
+  "jlpt": "N3",
+  "kanji": "嬉しい",
+  "kana": "うれしい",
+  "display": "嬉しい",
+  "meanings_zh": [
+    "高兴",
+    "快活",
+    "喜悦",
+    "欢喜"
+  ],
+  "meanings_en": [
+    "happy",
+    "glad",
+    "pleasant"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ああ嬉しい。",
+      "en": "How glad I am!"
+    },
+    {
+      "ja": "私も嬉しいわ。",
+      "en": "I'm happy, too."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

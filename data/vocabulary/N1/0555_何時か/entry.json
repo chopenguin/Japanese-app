@@ -1,0 +1,44 @@
+{
+  "id": "n1-0555",
+  "jlpt": "N1",
+  "kanji": "何時か",
+  "kana": "いつか",
+  "display": "何時か",
+  "meanings_zh": [
+    "不知不觉",
+    "不知什么时候",
+    "曾经",
+    "以前"
+  ],
+  "meanings_en": [
+    "sometime",
+    "someday",
+    "one day",
+    "some time or other",
+    "the other day",
+    "in due course",
+    "in time"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今何時か分かる？",
+      "en": "Do you know what time it is?"
+    },
+    {
+      "ja": "会議は何時から？",
+      "en": "What time will the meeting start?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

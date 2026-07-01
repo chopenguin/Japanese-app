@@ -1,0 +1,38 @@
+{
+  "id": "n5-0386",
+  "jlpt": "N5",
+  "kanji": "若い",
+  "kana": "わかい",
+  "display": "若い",
+  "meanings_zh": [
+    "年轻",
+    "小",
+    "幼稚",
+    "未成熟"
+  ],
+  "meanings_en": [
+    "young"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はまだ若い。",
+      "en": "He is still young."
+    },
+    {
+      "ja": "彼は気が若い。",
+      "en": "He is young at heart."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

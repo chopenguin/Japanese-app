@@ -1,0 +1,34 @@
+{
+  "id": "n3-1656",
+  "jlpt": "N3",
+  "kanji": "滅多に",
+  "kana": "めったに",
+  "display": "滅多に",
+  "meanings_zh": [],
+  "meanings_en": [
+    "rarely (with neg. verb)",
+    "seldom"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "滅多に会わない。",
+      "en": "I rarely see them."
+    },
+    {
+      "ja": "津波は滅多にない。",
+      "en": "Tsunamis are very rare."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n4-0103",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "チェックする",
+  "display": "チェックする",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to check"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は仕事を一つ終えるごとにリストの上でチェックする。",
+      "en": "I check off each task on my list as soon as I complete it."
+    },
+    {
+      "ja": "ヤニーは、Facebookをチェックすることにした。",
+      "en": "Yanni decided to check Facebook."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

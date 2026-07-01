@@ -1,0 +1,38 @@
+{
+  "id": "n2-1669",
+  "jlpt": "N2",
+  "kanji": "目立つ",
+  "kana": "めだつ",
+  "display": "目立つ",
+  "meanings_zh": [
+    "显眼",
+    "显著",
+    "引人注目"
+  ],
+  "meanings_en": [
+    "to be conspicuous",
+    "to stand out"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "林に竹が目立つ。",
+      "en": "Bamboo stands out in the woods."
+    },
+    {
+      "ja": "彼の額の傷は目立つ。",
+      "en": "The scar on his forehead is conspicuous."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

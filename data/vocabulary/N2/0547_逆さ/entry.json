@@ -1,0 +1,40 @@
+{
+  "id": "n2-0547",
+  "jlpt": "N2",
+  "kanji": "逆さ",
+  "kana": "さかさ",
+  "display": "逆さ",
+  "meanings_zh": [
+    "逆",
+    "倒",
+    "颠倒",
+    "相反"
+  ],
+  "meanings_en": [
+    "reverse",
+    "inversion",
+    "upside down"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "逆さまだよ。",
+      "en": "It's upside down."
+    },
+    {
+      "ja": "何もかも逆さまだ。",
+      "en": "Everything is upside down."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

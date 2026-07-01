@@ -1,0 +1,39 @@
+{
+  "id": "n3-0026",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "いらいら",
+  "display": "いらいら",
+  "meanings_zh": [
+    "急躁情绪",
+    "焦急状态",
+    "着急",
+    "焦急"
+  ],
+  "meanings_en": [
+    "getting nervous",
+    "irritation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "本当にいらいらします。",
+      "en": "It really gets on my nerves."
+    },
+    {
+      "ja": "君は僕をいらいらさせる。",
+      "en": "You piss me off!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

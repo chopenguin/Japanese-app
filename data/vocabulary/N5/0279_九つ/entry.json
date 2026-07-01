@@ -1,0 +1,38 @@
+{
+  "id": "n5-0279",
+  "jlpt": "N5",
+  "kanji": "九つ",
+  "kana": "ここのつ",
+  "display": "九つ",
+  "meanings_zh": [
+    "九个",
+    "九岁",
+    "正午十二点",
+    "午夜零点"
+  ],
+  "meanings_en": [
+    "nine"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "新二は九つのココナッツを食べました。",
+      "en": "Shinji ate nine coconuts."
+    },
+    {
+      "ja": "一つ、二つ、三つ、四つ、五つ、六つ、七つ、八つ、九つ、十。",
+      "en": "One, two, three, four, five, six, seven, eight, nine, ten."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

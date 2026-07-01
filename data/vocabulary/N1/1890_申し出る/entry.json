@@ -1,0 +1,35 @@
+{
+  "id": "n1-1890",
+  "jlpt": "N1",
+  "kanji": "申し出る",
+  "kana": "もうしでる",
+  "display": "申し出る",
+  "meanings_zh": [
+    "提议",
+    "建议",
+    "提出",
+    "报名"
+  ],
+  "meanings_en": [
+    "to report to",
+    "to tell",
+    "to suggest",
+    "to submit",
+    "to request",
+    "to make an offer",
+    "to come forward with informati"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

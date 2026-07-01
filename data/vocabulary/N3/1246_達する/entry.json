@@ -1,0 +1,39 @@
+{
+  "id": "n3-1246",
+  "jlpt": "N3",
+  "kanji": "達する",
+  "kana": "たっする",
+  "display": "達する",
+  "meanings_zh": [
+    "到",
+    "到达",
+    "达",
+    "达到"
+  ],
+  "meanings_en": [
+    "to reach",
+    "to get to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "資金を調達する。",
+      "en": "I raise funds."
+    },
+    {
+      "ja": "練習すれば上達するよ。",
+      "en": "You'll improve with practice."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

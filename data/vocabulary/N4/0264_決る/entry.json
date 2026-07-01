@@ -1,0 +1,29 @@
+{
+  "id": "n4-0264",
+  "jlpt": "N4",
+  "kanji": "決る",
+  "kana": "きまる",
+  "display": "決る",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to be decided"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "青春期がどのくらい長く続くかは生物学的要因によって決る。",
+      "en": "How long adolescence continues is determined by biological factors."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

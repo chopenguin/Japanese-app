@@ -1,0 +1,35 @@
+{
+  "id": "n2-1477",
+  "jlpt": "N2",
+  "kanji": "発つ",
+  "kana": "たつ",
+  "display": "発つ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to depart (on a plane",
+    "train",
+    "etc.)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は日曜日に発つ。",
+      "en": "I'm leaving on Sunday."
+    },
+    {
+      "ja": "えっ、明日発つの。",
+      "en": "Oh, you're leaving tomorrow!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

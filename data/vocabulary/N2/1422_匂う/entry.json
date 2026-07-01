@@ -1,0 +1,36 @@
+{
+  "id": "n2-1422",
+  "jlpt": "N2",
+  "kanji": "匂う",
+  "kana": "におう",
+  "display": "匂う",
+  "meanings_zh": [
+    "有香味儿",
+    "散发香味",
+    "发出芳香",
+    "隐约发出"
+  ],
+  "meanings_en": [
+    "to be fragrant",
+    "to smell",
+    "to stink"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "春になれば花が甘く咲き匂う。",
+      "en": "When spring sets in, the flowers smell sweet."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

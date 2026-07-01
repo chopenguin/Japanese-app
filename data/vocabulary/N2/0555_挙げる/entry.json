@@ -1,0 +1,39 @@
+{
+  "id": "n2-0555",
+  "jlpt": "N2",
+  "kanji": "挙げる",
+  "kana": "あげる",
+  "display": "挙げる",
+  "meanings_zh": [
+    "举例",
+    "列举",
+    "举行",
+    "竭尽"
+  ],
+  "meanings_en": [
+    "to raise",
+    "to fly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は一ヶ月後に結婚式を挙げる。",
+      "en": "I'm having a wedding in a month."
+    },
+    {
+      "ja": "彼が得点を挙げると群集は大声を上げた。",
+      "en": "The crowd yelled when he scored a goal."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

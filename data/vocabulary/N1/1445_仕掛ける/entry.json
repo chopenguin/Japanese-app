@@ -1,0 +1,38 @@
+{
+  "id": "n1-1445",
+  "jlpt": "N1",
+  "kanji": "仕掛ける",
+  "kana": "しかける",
+  "display": "仕掛ける",
+  "meanings_zh": [
+    "开始做",
+    "着手",
+    "做到中途",
+    "主动地作"
+  ],
+  "meanings_en": [
+    "to commence",
+    "to lay (mines)",
+    "to set (traps)",
+    "to wage (war)",
+    "to challenge"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私たちは罠を仕掛けるべきだ。",
+      "en": "We should set a trap."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

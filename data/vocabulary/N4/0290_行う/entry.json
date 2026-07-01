@@ -1,0 +1,38 @@
+{
+  "id": "n4-0290",
+  "jlpt": "N4",
+  "kanji": "行う",
+  "kana": "おこなう",
+  "display": "行う",
+  "meanings_zh": [
+    "行",
+    "做",
+    "办",
+    "实行"
+  ],
+  "meanings_en": [
+    "to do"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "言うは易く行うは難し。",
+      "en": "It's easier said than done."
+    },
+    {
+      "ja": "言うことと行うことは別である。",
+      "en": "Saying and doing are two different things."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

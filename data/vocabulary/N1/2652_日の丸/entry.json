@@ -1,0 +1,37 @@
+{
+  "id": "n1-2652",
+  "jlpt": "N1",
+  "kanji": "日の丸",
+  "kana": "ひのまる",
+  "display": "日の丸",
+  "meanings_zh": [
+    "太阳形",
+    "太阳旗",
+    "日本国旗"
+  ],
+  "meanings_en": [
+    "the Japanese flag"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "日の丸がはためいていた。",
+      "en": "Japanese flags were flying."
+    },
+    {
+      "ja": "その日、日の丸の旗がはためいていた。",
+      "en": "On that day, Japanese flags were flying."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

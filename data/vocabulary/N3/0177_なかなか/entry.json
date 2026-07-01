@@ -1,0 +1,40 @@
+{
+  "id": "n3-0177",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "なかなか",
+  "display": "なかなか",
+  "meanings_zh": [
+    "颇",
+    "很",
+    "非常",
+    "相当"
+  ],
+  "meanings_en": [
+    "very",
+    "considerably",
+    "easily"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "なかなかやるなあ。",
+      "en": "It's pretty good."
+    },
+    {
+      "ja": "なかなかの学者だ。",
+      "en": "He is very much a scholar."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n5-0039",
+  "jlpt": "N5",
+  "kanji": "お弁当",
+  "kana": "おべんとう",
+  "display": "お弁当",
+  "meanings_zh": [],
+  "meanings_en": [
+    "boxed lunch"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "普通のお弁当にしてね。",
+      "en": "Make it a normal packed lunch, OK?"
+    },
+    {
+      "ja": "あれはトムのお弁当箱？",
+      "en": "Is that Tom's lunch box?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

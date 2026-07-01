@@ -1,0 +1,30 @@
+{
+  "id": "n1-1115",
+  "jlpt": "N1",
+  "kanji": "見すぼらしい",
+  "kana": "みすぼらしい",
+  "display": "見すぼらしい",
+  "meanings_zh": [
+    "难看",
+    "寒碜",
+    "破旧",
+    "褴褛"
+  ],
+  "meanings_en": [
+    "shabby",
+    "seedy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

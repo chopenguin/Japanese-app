@@ -1,0 +1,38 @@
+{
+  "id": "n3-1267",
+  "jlpt": "N3",
+  "kanji": "知らせ",
+  "kana": "しらせ",
+  "display": "知らせ",
+  "meanings_zh": [
+    "通知",
+    "信",
+    "信息",
+    "消息"
+  ],
+  "meanings_en": [
+    "notice"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私に知らせて。",
+      "en": "Let me know."
+    },
+    {
+      "ja": "御知らせします。",
+      "en": "Attention please!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

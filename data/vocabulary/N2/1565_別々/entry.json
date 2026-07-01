@@ -1,0 +1,34 @@
+{
+  "id": "n2-1565",
+  "jlpt": "N2",
+  "kanji": "別々",
+  "kana": "べつべつ",
+  "display": "別々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "separately",
+    "individually"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "別々に払います。",
+      "en": "Please bill us separately."
+    },
+    {
+      "ja": "別々に包んでください。",
+      "en": "Could you wrap this separately, please?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

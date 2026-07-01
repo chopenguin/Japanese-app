@@ -1,0 +1,41 @@
+{
+  "id": "n2-1117",
+  "jlpt": "N2",
+  "kanji": "接する",
+  "kana": "せっする",
+  "display": "接する",
+  "meanings_zh": [
+    "接触",
+    "接连",
+    "邻接",
+    "毗连"
+  ],
+  "meanings_en": [
+    "to come in contact with",
+    "to connect",
+    "to attend",
+    "to receive"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "フランスはスペインに隣接する。",
+      "en": "France is adjacent to Spain."
+    },
+    {
+      "ja": "フランスはイタリアと国境を接する。",
+      "en": "France has a common border with Italy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

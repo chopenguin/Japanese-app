@@ -1,0 +1,33 @@
+{
+  "id": "n5-0017",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "いす",
+  "display": "いす",
+  "meanings_zh": [],
+  "meanings_en": [
+    "chair"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は先払いする。",
+      "en": "I pay the money in advance."
+    },
+    {
+      "ja": "このいすは軽い。",
+      "en": "This chair is light."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

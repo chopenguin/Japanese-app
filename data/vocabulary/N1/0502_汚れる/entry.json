@@ -1,0 +1,39 @@
+{
+  "id": "n1-0502",
+  "jlpt": "N1",
+  "kanji": "汚れる",
+  "kana": "けがれる",
+  "display": "汚れる",
+  "meanings_zh": [
+    "污染",
+    "弄脏",
+    "不道德",
+    "失去贞操"
+  ],
+  "meanings_en": [
+    "to get dirty",
+    "to become dirty"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "おべべが汚れるよ。",
+      "en": "You're making your clothes dirty."
+    },
+    {
+      "ja": "服が汚れるのは嫌だな。",
+      "en": "I don't want to get my clothes dirty."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n1-1642",
+  "jlpt": "N1",
+  "kanji": "手遅れ",
+  "kana": "ておくれ",
+  "display": "手遅れ",
+  "meanings_zh": [
+    "耽误",
+    "为时已晚",
+    "错过时机"
+  ],
+  "meanings_en": [
+    "too late",
+    "belated treatment"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "手遅れだね。",
+      "en": "It's too late."
+    },
+    {
+      "ja": "もう手遅れだ。",
+      "en": "The damage is done."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

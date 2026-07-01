@@ -1,0 +1,39 @@
+{
+  "id": "n3-0051",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "カード",
+  "display": "カード",
+  "meanings_zh": [
+    "卡",
+    "卡片",
+    "纸牌",
+    "扑克牌"
+  ],
+  "meanings_en": [
+    "card",
+    "curd"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "カード使えますか？",
+      "en": "Do you accept credit cards?"
+    },
+    {
+      "ja": "図書カードあるよ。",
+      "en": "I have a library card."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

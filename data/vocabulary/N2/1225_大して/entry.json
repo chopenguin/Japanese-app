@@ -1,0 +1,37 @@
+{
+  "id": "n2-1225",
+  "jlpt": "N2",
+  "kanji": "大して",
+  "kana": "たいして",
+  "display": "大して",
+  "meanings_zh": [
+    "并不太～～",
+    "并不怎么～～"
+  ],
+  "meanings_en": [
+    "(not so) much",
+    "(not) very"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "大して難しくないよ。",
+      "en": "It's not very difficult."
+    },
+    {
+      "ja": "彼らの事業は拡大している。",
+      "en": "Their business is expanding."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

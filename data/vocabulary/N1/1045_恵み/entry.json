@@ -1,0 +1,38 @@
+{
+  "id": "n1-1045",
+  "jlpt": "N1",
+  "kanji": "恵み",
+  "kana": "めぐみ",
+  "display": "恵み",
+  "meanings_zh": [
+    "恩惠",
+    "恩泽",
+    "周济",
+    "施舍"
+  ],
+  "meanings_en": [
+    "blessing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "神の恵みのあらんことを！",
+      "en": "God bless you!"
+    },
+    {
+      "ja": "神の恵みがありますように。",
+      "en": "May God bless you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

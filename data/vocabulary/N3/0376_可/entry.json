@@ -1,0 +1,37 @@
+{
+  "id": "n3-0376",
+  "jlpt": "N3",
+  "kanji": "可",
+  "kana": "か",
+  "display": "可",
+  "meanings_zh": [
+    "可",
+    "可以",
+    "及格"
+  ],
+  "meanings_en": [
+    "passable"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "可能ですか？",
+      "en": "Is that possible?"
+    },
+    {
+      "ja": "彼女は可愛い。",
+      "en": "She's a cutie."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

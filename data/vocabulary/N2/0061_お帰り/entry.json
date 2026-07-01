@@ -1,0 +1,34 @@
+{
+  "id": "n2-0061",
+  "jlpt": "N2",
+  "kanji": "お帰り",
+  "kana": "おかえり",
+  "display": "お帰り",
+  "meanings_zh": [],
+  "meanings_en": [
+    "return",
+    "welcome"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お帰りなさい。",
+      "en": "Welcome home."
+    },
+    {
+      "ja": "お母さま、お帰りなさい。",
+      "en": "Welcome home, Mother."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "n2-1352",
+  "jlpt": "N2",
+  "kanji": "転がす",
+  "kana": "ころがす",
+  "display": "転がす",
+  "meanings_zh": [
+    "滚动",
+    "转动",
+    "搬倒",
+    "翻倒"
+  ],
+  "meanings_en": [
+    "to roll"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

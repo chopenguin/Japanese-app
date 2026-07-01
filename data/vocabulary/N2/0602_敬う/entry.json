@@ -1,0 +1,38 @@
+{
+  "id": "n2-0602",
+  "jlpt": "N2",
+  "kanji": "敬う",
+  "kana": "うやまう",
+  "display": "敬う",
+  "meanings_zh": [
+    "敬",
+    "尊敬",
+    "敬重"
+  ],
+  "meanings_en": [
+    "to show respect",
+    "to honour"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は年輩の人を敬う。",
+      "en": "I respect elderly people."
+    },
+    {
+      "ja": "両親は私に老人を敬うように言った。",
+      "en": "My parents told me that we should respect the elderly."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

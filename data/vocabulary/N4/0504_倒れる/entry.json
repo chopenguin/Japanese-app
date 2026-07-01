@@ -1,0 +1,38 @@
+{
+  "id": "n4-0504",
+  "jlpt": "N4",
+  "kanji": "倒れる",
+  "kana": "たおれる",
+  "display": "倒れる",
+  "meanings_zh": [
+    "倒",
+    "塌",
+    "倒毁",
+    "垮台"
+  ],
+  "meanings_en": [
+    "to break down"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "内部分裂した家は倒れる。",
+      "en": "A house divided against itself can't stand."
+    },
+    {
+      "ja": "ケリーはぶっ倒れるまで働いた。",
+      "en": "Kelly worked until he dropped."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

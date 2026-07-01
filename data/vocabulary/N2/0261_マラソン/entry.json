@@ -1,0 +1,33 @@
+{
+  "id": "n2-0261",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "マラソン",
+  "display": "マラソン",
+  "meanings_zh": [],
+  "meanings_en": [
+    "marathon"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トム、マラソンで優勝したよ。",
+      "en": "Tom won the marathon."
+    },
+    {
+      "ja": "マラソン大会は雨天決行です。",
+      "en": "The marathon will be held, rain or shine."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

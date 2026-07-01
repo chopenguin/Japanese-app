@@ -1,0 +1,38 @@
+{
+  "id": "n2-0714",
+  "jlpt": "N2",
+  "kanji": "更ける",
+  "kana": "ふける",
+  "display": "更ける",
+  "meanings_zh": [
+    "深",
+    "阑"
+  ],
+  "meanings_en": [
+    "to get late",
+    "to advance",
+    "to wear on"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "夜が更けるにつれて寒くなった。",
+      "en": "It became colder as the night wore on."
+    },
+    {
+      "ja": "夜が更けるまで彼らの話は尽きなかった。",
+      "en": "They didn't run out of conversation until late at night."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

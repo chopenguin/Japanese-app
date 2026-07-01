@@ -1,0 +1,33 @@
+{
+  "id": "n3-0835",
+  "jlpt": "N3",
+  "kanji": "支払",
+  "kana": "しはらい",
+  "display": "支払",
+  "meanings_zh": [],
+  "meanings_en": [
+    "payment"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "小切手で支払う。",
+      "en": "I will pay for it by check."
+    },
+    {
+      "ja": "現金で支払います。",
+      "en": "I'll pay in cash."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

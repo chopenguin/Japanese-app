@@ -1,0 +1,38 @@
+{
+  "id": "n1-0888",
+  "jlpt": "N1",
+  "kanji": "久しい",
+  "kana": "ひさしい",
+  "display": "久しい",
+  "meanings_zh": [
+    "好久",
+    "许久"
+  ],
+  "meanings_en": [
+    "long",
+    "long-continued",
+    "old (story)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この習慣は絶えて久しい。",
+      "en": "This custom became extinct a long time ago."
+    },
+    {
+      "ja": "その習慣が廃止されて久しい。",
+      "en": "The practice has long been done away with."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

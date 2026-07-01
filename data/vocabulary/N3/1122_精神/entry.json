@@ -1,0 +1,41 @@
+{
+  "id": "n3-1122",
+  "jlpt": "N3",
+  "kanji": "精神",
+  "kana": "せいしん",
+  "display": "精神",
+  "meanings_zh": [
+    "精神",
+    "心神",
+    "思想"
+  ],
+  "meanings_en": [
+    "mind",
+    "soul",
+    "heart",
+    "spirit",
+    "intention"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "読書は精神を育てる。",
+      "en": "Reading develops the mind."
+    },
+    {
+      "ja": "彼には精神障害が有る。",
+      "en": "He is mentally handicapped."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

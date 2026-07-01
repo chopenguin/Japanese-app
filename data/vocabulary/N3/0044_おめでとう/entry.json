@@ -1,0 +1,37 @@
+{
+  "id": "n3-0044",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "おめでとう",
+  "display": "おめでとう",
+  "meanings_zh": [
+    "恭喜恭喜",
+    "可喜可贺"
+  ],
+  "meanings_en": [
+    "Congratulations!",
+    "an auspicious occasion!"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "おめでとう！",
+      "en": "Congratulations!"
+    },
+    {
+      "ja": "優勝おめでとう。",
+      "en": "Congratulations on the victory!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

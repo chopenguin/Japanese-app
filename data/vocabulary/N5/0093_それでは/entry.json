@@ -1,0 +1,38 @@
+{
+  "id": "n5-0093",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "それでは",
+  "display": "それでは",
+  "meanings_zh": [
+    "那么",
+    "那么说",
+    "那就",
+    "如果是那样"
+  ],
+  "meanings_en": [
+    "in that situation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それでは本末転倒だ。",
+      "en": "That's reversing the logical order of things."
+    },
+    {
+      "ja": "それでは契約と違う。",
+      "en": "That's against the contract."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

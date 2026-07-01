@@ -1,0 +1,35 @@
+{
+  "id": "n1-2454",
+  "jlpt": "N1",
+  "kanji": "壷",
+  "kana": "つぼ",
+  "display": "壷",
+  "meanings_zh": [],
+  "meanings_en": [
+    "tsubo jar",
+    "pot",
+    "vase"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "向こうの思う壷だぞ。",
+      "en": "You will play into their hands."
+    },
+    {
+      "ja": "壷には砂糖が残っていない。",
+      "en": "There is no sugar left in the pot."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

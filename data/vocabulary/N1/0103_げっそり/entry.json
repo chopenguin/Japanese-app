@@ -1,0 +1,35 @@
+{
+  "id": "n1-0103",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "げっそり",
+  "display": "げっそり",
+  "meanings_zh": [
+    "急剧消瘦",
+    "(骤然)灰心",
+    "失望",
+    "无精打采"
+  ],
+  "meanings_en": [
+    "being disheartened",
+    "losing weight"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女、しばらく見ない間にげっそりと痩せちゃったけど、何か大きな病気でもしたのかな。",
+      "en": "She's become very thin in the long time since I last saw her. I wonder if she's fallen seriously ill or something."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

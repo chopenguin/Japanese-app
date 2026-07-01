@@ -1,0 +1,34 @@
+{
+  "id": "n1-1633",
+  "jlpt": "N1",
+  "kanji": "手掛ける",
+  "kana": "てがける",
+  "display": "手掛ける",
+  "meanings_zh": [
+    "亲自动手",
+    "亲手做",
+    "亲自照料",
+    "亲自照管"
+  ],
+  "meanings_en": [
+    "to handle",
+    "to manage",
+    "to work with",
+    "to rear",
+    "to look after",
+    "to have experience with"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

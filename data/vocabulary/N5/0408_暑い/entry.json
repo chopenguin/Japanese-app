@@ -1,0 +1,35 @@
+{
+  "id": "n5-0408",
+  "jlpt": "N5",
+  "kanji": "暑い",
+  "kana": "あつい",
+  "display": "暑い",
+  "meanings_zh": [
+    "热"
+  ],
+  "meanings_en": [
+    "hot"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今日は暑い。",
+      "en": "It's hot today."
+    },
+    {
+      "ja": "部屋が暑い。",
+      "en": "The room is hot."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n2-0263",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "みじめ",
+  "display": "みじめ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(arch) sad",
+    "pitiful",
+    "wretched"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私はみじめで不幸だった。",
+      "en": "I was miserable and unhappy."
+    },
+    {
+      "ja": "彼は生活がみじめなんですよ。",
+      "en": "He's leading a dog's life."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

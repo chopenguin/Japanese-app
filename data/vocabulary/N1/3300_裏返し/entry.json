@@ -1,0 +1,37 @@
+{
+  "id": "n1-3300",
+  "jlpt": "N1",
+  "kanji": "裏返し",
+  "kana": "うらがえし",
+  "display": "裏返し",
+  "meanings_zh": [
+    "翻里作面",
+    "表里相反"
+  ],
+  "meanings_en": [
+    "inside out",
+    "upside down"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "シャツ、裏返しよ。",
+      "en": "Your shirt is inside out."
+    },
+    {
+      "ja": "Tシャツ裏返しだよ。",
+      "en": "You're wearing your T-shirt inside out."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n2-0173",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ダブル",
+  "display": "ダブル",
+  "meanings_zh": [
+    "双",
+    "双重",
+    "双人用",
+    "两倍"
+  ],
+  "meanings_en": [
+    "double"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ダブルにしてください。",
+      "en": "A double, please."
+    },
+    {
+      "ja": "ダブルルームを予約しています。",
+      "en": "I've reserved a double."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

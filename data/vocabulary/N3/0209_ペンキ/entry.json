@@ -1,0 +1,35 @@
+{
+  "id": "n3-0209",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ペンキ",
+  "display": "ペンキ",
+  "meanings_zh": [
+    "油漆"
+  ],
+  "meanings_en": [
+    "(n) paint (nl: pek)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ペンキ塗りたて注意",
+      "en": "Caution! Wet Paint"
+    },
+    {
+      "ja": "手にペンキが付いた。",
+      "en": "My hands are stained with paint."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

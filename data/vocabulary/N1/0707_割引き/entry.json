@@ -1,0 +1,36 @@
+{
+  "id": "n1-0707",
+  "jlpt": "N1",
+  "kanji": "割引き",
+  "kana": "わりびき",
+  "display": "割引き",
+  "meanings_zh": [],
+  "meanings_en": [
+    "discount",
+    "reduction",
+    "rebate",
+    "tenths discounted"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "現金で払ったら、割引きがあるんだ？",
+      "en": "Will you give any discount if I pay in cash?"
+    },
+    {
+      "ja": "あのお店の商品は全部１割引きになってるよ。",
+      "en": "Everything at that store is 10 percent off the regular price."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "n2-0626",
+  "jlpt": "N2",
+  "kanji": "建つ",
+  "kana": "たつ",
+  "display": "建つ",
+  "meanings_zh": [
+    "建",
+    "盖"
+  ],
+  "meanings_en": [
+    "to erect",
+    "to be erected",
+    "to be built"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "口では大阪の城も建つ。",
+      "en": "Easier said than done."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

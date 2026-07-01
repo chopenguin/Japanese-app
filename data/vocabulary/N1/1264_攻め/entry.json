@@ -1,0 +1,36 @@
+{
+  "id": "n1-1264",
+  "jlpt": "N1",
+  "kanji": "攻め",
+  "kana": "せめ",
+  "display": "攻め",
+  "meanings_zh": [
+    "进攻"
+  ],
+  "meanings_en": [
+    "attack",
+    "offence"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らは町に攻め寄せた。",
+      "en": "They advanced on the town."
+    },
+    {
+      "ja": "彼は来客攻めにあった。",
+      "en": "He was besieged by callers."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

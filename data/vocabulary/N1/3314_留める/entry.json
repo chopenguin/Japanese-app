@@ -1,0 +1,40 @@
+{
+  "id": "n1-3314",
+  "jlpt": "N1",
+  "kanji": "留める",
+  "kana": "とどめる",
+  "display": "留める",
+  "meanings_zh": [
+    "停下",
+    "停住",
+    "阻止",
+    "留下"
+  ],
+  "meanings_en": [
+    "to stop",
+    "to cease",
+    "to put an end to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼が言ったことなど気に留めるな。",
+      "en": "Don't take any notice of what he said."
+    },
+    {
+      "ja": "重要だと思える事は何でも書き留めるべきです。",
+      "en": "You should write down whatever seems to be important."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n2-1199",
+  "jlpt": "N2",
+  "kanji": "揃える",
+  "kana": "そろえる",
+  "display": "揃える",
+  "meanings_zh": [
+    "使一致",
+    "使～～齐备",
+    "备齐",
+    "凑齐"
+  ],
+  "meanings_en": [
+    "to put things in order",
+    "to arrange",
+    "to make uniform",
+    "to get something ready"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムはとっても頭がいいって、人々は口を揃える。",
+      "en": "People say Tom is very smart."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

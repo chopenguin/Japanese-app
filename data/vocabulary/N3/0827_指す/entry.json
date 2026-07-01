@@ -1,0 +1,40 @@
+{
+  "id": "n3-0827",
+  "jlpt": "N3",
+  "kanji": "指す",
+  "kana": "さす",
+  "display": "指す",
+  "meanings_zh": [
+    "指",
+    "指示",
+    "指名",
+    "指定"
+  ],
+  "meanings_en": [
+    "to point",
+    "to put up umbrella",
+    "to play"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "磁石の針は北を指す。",
+      "en": "Compass needles point to the north."
+    },
+    {
+      "ja": "人を指すのは失礼です。",
+      "en": "It is rude to point at people."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

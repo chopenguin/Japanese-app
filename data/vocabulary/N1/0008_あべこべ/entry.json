@@ -1,0 +1,35 @@
+{
+  "id": "n1-0008",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "あべこべ",
+  "display": "あべこべ",
+  "meanings_zh": [
+    "反",
+    "相反",
+    "颠倒"
+  ],
+  "meanings_en": [
+    "contrary",
+    "opposite",
+    "inverse"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あなたはシャツをあべこべに着ている。",
+      "en": "You are wearing your shirt inside out."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

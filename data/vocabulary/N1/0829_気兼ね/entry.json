@@ -1,0 +1,37 @@
+{
+  "id": "n1-0829",
+  "jlpt": "N1",
+  "kanji": "気兼ね",
+  "kana": "きがね",
+  "display": "気兼ね",
+  "meanings_zh": [],
+  "meanings_en": [
+    "hesitance",
+    "diffidence",
+    "feeling constraint",
+    "fear of troubling someone",
+    "having scruples about doing someth"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "思ったことを気兼ねなく言っていいんだよ。",
+      "en": "Feel free to share your thoughts."
+    },
+    {
+      "ja": "トムは気兼ねすることなく自分の意見を述べたことがない。",
+      "en": "Tom never felt comfortable expressing his own opinion."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

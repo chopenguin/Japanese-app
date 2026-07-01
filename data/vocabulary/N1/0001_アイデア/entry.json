@@ -1,0 +1,33 @@
+{
+  "id": "n1-0001",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "アイデア",
+  "display": "アイデア",
+  "meanings_zh": [],
+  "meanings_en": [
+    "idea"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ナイスアイデア！",
+      "en": "That's a good idea!"
+    },
+    {
+      "ja": "君のアイデアいいね。",
+      "en": "I like your ideas."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

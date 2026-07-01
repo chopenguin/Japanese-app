@@ -1,0 +1,39 @@
+{
+  "id": "n3-0077",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "コピー",
+  "display": "コピー",
+  "meanings_zh": [
+    "抄本",
+    "誊本",
+    "副本",
+    "文稿"
+  ],
+  "meanings_en": [
+    "(1) a (photo)copy",
+    "(2) blurb on a book jacket"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "コピー用紙が要ります。",
+      "en": "I need printer paper."
+    },
+    {
+      "ja": "コピーとっとかなきゃ。",
+      "en": "I need to make a copy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

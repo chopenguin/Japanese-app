@@ -1,0 +1,34 @@
+{
+  "id": "n1-2630",
+  "jlpt": "N1",
+  "kanji": "突っ張る",
+  "kana": "つっぱる",
+  "display": "突っ張る",
+  "meanings_zh": [
+    "顶上",
+    "支上",
+    "支撑",
+    "顶"
+  ],
+  "meanings_en": [
+    "to support",
+    "to become stiff",
+    "to become taut",
+    "to thrust (ones opponent)",
+    "to stick to (ones opinion)",
+    "to in"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

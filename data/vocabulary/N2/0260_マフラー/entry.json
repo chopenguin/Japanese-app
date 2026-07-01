@@ -1,0 +1,38 @@
+{
+  "id": "n2-0260",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "マフラー",
+  "display": "マフラー",
+  "meanings_zh": [
+    "围巾",
+    "消声器",
+    "减音器"
+  ],
+  "meanings_en": [
+    "muffler",
+    "scarf"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女はマフラーを脱いだ。",
+      "en": "She took off her scarf."
+    },
+    {
+      "ja": "トムってマフラー持ってる？",
+      "en": "Does Tom have a scarf?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

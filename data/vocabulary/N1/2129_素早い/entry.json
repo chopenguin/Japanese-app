@@ -1,0 +1,41 @@
+{
+  "id": "n1-2129",
+  "jlpt": "N1",
+  "kanji": "素早い",
+  "kana": "すばやい",
+  "display": "素早い",
+  "meanings_zh": [
+    "快速",
+    "敏捷",
+    "麻利",
+    "利落"
+  ],
+  "meanings_en": [
+    "fast",
+    "quick",
+    "prompt",
+    "agile"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は素早い。",
+      "en": "He moves quickly."
+    },
+    {
+      "ja": "まばたきのように素早い。",
+      "en": "As quick as a wink."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

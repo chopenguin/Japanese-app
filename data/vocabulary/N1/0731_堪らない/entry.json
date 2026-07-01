@@ -1,0 +1,36 @@
+{
+  "id": "n1-0731",
+  "jlpt": "N1",
+  "kanji": "堪らない",
+  "kana": "たまらない",
+  "display": "堪らない",
+  "meanings_zh": [
+    "难以形容",
+    "不得了",
+    "难堪",
+    "忍受不了"
+  ],
+  "meanings_en": [
+    "intolerable",
+    "unbearable",
+    "unendurable"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "うちの息子ね、ナメクジが大好きなの。彼曰く、ナメクジのねばねば、ぬるぬるが堪らないんだって。",
+      "en": "My son really likes slugs. He says they're sticky and slippery, and he finds that fascinating."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

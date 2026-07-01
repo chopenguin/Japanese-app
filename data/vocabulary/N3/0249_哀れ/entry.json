@@ -1,0 +1,41 @@
+{
+  "id": "n3-0249",
+  "jlpt": "N3",
+  "kanji": "哀れ",
+  "kana": "あわれ",
+  "display": "哀れ",
+  "meanings_zh": [
+    "悲哀",
+    "悲伤",
+    "可怜",
+    "凄惨"
+  ],
+  "meanings_en": [
+    "helpless",
+    "pity",
+    "sorrow",
+    "grief"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "哀れに思う。",
+      "en": "I feel sorry for him."
+    },
+    {
+      "ja": "哀れみは恋に近い。",
+      "en": "Pity is akin to love."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

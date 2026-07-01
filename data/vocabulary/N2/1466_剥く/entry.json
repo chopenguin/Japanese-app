@@ -1,0 +1,35 @@
+{
+  "id": "n2-1466",
+  "jlpt": "N2",
+  "kanji": "剥く",
+  "kana": "むく",
+  "display": "剥く",
+  "meanings_zh": [
+    "剥",
+    "削"
+  ],
+  "meanings_en": [
+    "to peel",
+    "to skin",
+    "to pare",
+    "to hull"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "栗を剥くのって、めんどくさっ。",
+      "en": "It's a hassle to take the husks off of chestnuts."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

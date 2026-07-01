@@ -1,0 +1,42 @@
+{
+  "id": "n1-2698",
+  "jlpt": "N1",
+  "kanji": "悩み",
+  "kana": "なやみ",
+  "display": "悩み",
+  "meanings_zh": [
+    "烦恼",
+    "苦恼",
+    "痛苦"
+  ],
+  "meanings_en": [
+    "trouble(s)",
+    "worry",
+    "distress",
+    "anguish",
+    "agony",
+    "problem"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "深刻な悩みがあるの。",
+      "en": "I have serious problems."
+    },
+    {
+      "ja": "それが悩みの種なんだ。",
+      "en": "That's the trouble."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

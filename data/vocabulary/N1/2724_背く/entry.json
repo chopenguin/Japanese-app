@@ -1,0 +1,32 @@
+{
+  "id": "n1-2724",
+  "jlpt": "N1",
+  "kanji": "背く",
+  "kana": "そむく",
+  "display": "背く",
+  "meanings_zh": [
+    "背着",
+    "背向",
+    "违背",
+    "不遵从"
+  ],
+  "meanings_en": [
+    "to run counter to",
+    "to go against",
+    "to disobey",
+    "to infringe"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

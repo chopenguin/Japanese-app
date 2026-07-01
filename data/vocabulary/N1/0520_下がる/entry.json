@@ -1,0 +1,41 @@
+{
+  "id": "n1-0520",
+  "jlpt": "N1",
+  "kanji": "下がる",
+  "kana": "さがる",
+  "display": "下がる",
+  "meanings_zh": [
+    "下降",
+    "降落",
+    "降低"
+  ],
+  "meanings_en": [
+    "to hang down",
+    "to abate",
+    "to retire",
+    "to fall",
+    "to step back"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "温度が下がる。",
+      "en": "The temperature falls."
+    },
+    {
+      "ja": "彼の努力に頭が下がる。",
+      "en": "I take my hat off to him for his hard work."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n3-0042",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "オフィス",
+  "display": "オフィス",
+  "meanings_zh": [
+    "办公室",
+    "办事处",
+    "事务所",
+    "营业所"
+  ],
+  "meanings_en": [
+    "office"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女のオフィスはどこ？",
+      "en": "Where's her office?"
+    },
+    {
+      "ja": "私のオフィスは2階です。",
+      "en": "My office is on the second floor."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

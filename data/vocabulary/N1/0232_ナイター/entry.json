@@ -1,0 +1,36 @@
+{
+  "id": "n1-0232",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ナイター",
+  "display": "ナイター",
+  "meanings_zh": [
+    "夜场(比赛)"
+  ],
+  "meanings_en": [
+    "game under lights (e.g. baseball) (lit: nighter)",
+    "night game"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私はよくテレビでナイターを見る。",
+      "en": "I often watch night games on TV."
+    },
+    {
+      "ja": "昨夜はナイターを見て楽しみましたか。",
+      "en": "Did you enjoy watching the night game last night?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

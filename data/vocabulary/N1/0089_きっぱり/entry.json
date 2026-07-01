@@ -1,0 +1,40 @@
+{
+  "id": "n1-0089",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "きっぱり",
+  "display": "きっぱり",
+  "meanings_zh": [
+    "断然",
+    "干脆",
+    "斩钉截铁",
+    "清楚"
+  ],
+  "meanings_en": [
+    "clearly",
+    "plainly",
+    "distinctly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女はきっぱり断った。",
+      "en": "She refused outright."
+    },
+    {
+      "ja": "彼はきっぱりと断った。",
+      "en": "He gave a flat refusal."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n5-0546",
+  "jlpt": "N5",
+  "kanji": "日曜日",
+  "kana": "にちようび",
+  "display": "日曜日",
+  "meanings_zh": [],
+  "meanings_en": [
+    "Sunday"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "日曜日、暇？",
+      "en": "Are you free on Sunday?"
+    },
+    {
+      "ja": "日曜日に会おう。",
+      "en": "Let's meet on Sunday."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

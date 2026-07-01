@@ -1,0 +1,39 @@
+{
+  "id": "n5-0402",
+  "jlpt": "N5",
+  "kanji": "出る",
+  "kana": "でる",
+  "display": "出る",
+  "meanings_zh": [
+    "出",
+    "出去",
+    "出来",
+    "露出"
+  ],
+  "meanings_en": [
+    "to appear",
+    "to leave"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何時に出る？",
+      "en": "What time are we leaving?"
+    },
+    {
+      "ja": "牛は乳が出る。",
+      "en": "A cow gives us milk."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n3-1063",
+  "jlpt": "N3",
+  "kanji": "辛い",
+  "kana": "つらい",
+  "display": "辛い",
+  "meanings_zh": [
+    "苦",
+    "痛苦",
+    "艰苦",
+    "难过"
+  ],
+  "meanings_en": [
+    "painful",
+    "heart-breaking"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "花粉症は辛い。",
+      "en": "Hay fever is tough."
+    },
+    {
+      "ja": "時差ボケで辛い。",
+      "en": "I've got a bad case of jet lag."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

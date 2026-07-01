@@ -1,0 +1,36 @@
+{
+  "id": "n2-1085",
+  "jlpt": "N2",
+  "kanji": "整う",
+  "kana": "ととのう",
+  "display": "整う",
+  "meanings_zh": [
+    "协调",
+    "整齐",
+    "完整"
+  ],
+  "meanings_en": [
+    "to be prepared",
+    "to be in order",
+    "to be put in order",
+    "to be arranged"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あなたの出発の準備がすべて整うよう取り計らいます。",
+      "en": "I will see to it that everything is ready for your departure."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n1-0190",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "タイムリー",
+  "display": "タイムリー",
+  "meanings_zh": [
+    "适时",
+    "及时",
+    "适合时机"
+  ],
+  "meanings_en": [
+    "timely",
+    "run-batted-in (baseball)",
+    "RBI"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "もし彼のタイムリーヒットがなかったら、私たちのチームは試合に負けていただろう。",
+      "en": "If it had not been for his timely hit, our team would have lost the game."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n4-0056",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "こと",
+  "display": "こと",
+  "meanings_zh": [
+    "啊",
+    "哇",
+    "呀",
+    "吗"
+  ],
+  "meanings_en": [
+    "thing",
+    "matter"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何てことだ！",
+      "en": "Oh no!"
+    },
+    {
+      "ja": "僕のこと好き？",
+      "en": "Do you love me?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

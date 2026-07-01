@@ -1,0 +1,40 @@
+{
+  "id": "n3-1618",
+  "jlpt": "N3",
+  "kanji": "防ぐ",
+  "kana": "ふせぐ",
+  "display": "防ぐ",
+  "meanings_zh": [
+    "防御",
+    "防守",
+    "防卫",
+    "防止"
+  ],
+  "meanings_en": [
+    "to defend (against)",
+    "to protect",
+    "to prevent"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "塩は魚が腐るのを防ぐ。",
+      "en": "Salt preserves fish from spoilage."
+    },
+    {
+      "ja": "冷蔵庫は食品の腐敗を防ぐ。",
+      "en": "The refrigerator preserves food from decay."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

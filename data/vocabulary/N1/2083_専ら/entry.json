@@ -1,0 +1,36 @@
+{
+  "id": "n1-2083",
+  "jlpt": "N1",
+  "kanji": "専ら",
+  "kana": "もっぱら",
+  "display": "専ら",
+  "meanings_zh": [
+    "专",
+    "主要",
+    "净",
+    "专心致志"
+  ],
+  "meanings_en": [
+    "wholly",
+    "solely",
+    "entirely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "政治に対する私の関心は専ら学問上のものです。",
+      "en": "My interest in politics is strictly academic."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

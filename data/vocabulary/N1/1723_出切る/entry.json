@@ -1,0 +1,28 @@
+{
+  "id": "n1-1723",
+  "jlpt": "N1",
+  "kanji": "出切る",
+  "kana": "できる",
+  "display": "出切る",
+  "meanings_zh": [
+    "全部出去",
+    "全部出来"
+  ],
+  "meanings_en": [
+    "to be out of",
+    "to have no more at hand"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

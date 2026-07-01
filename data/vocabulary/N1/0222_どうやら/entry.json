@@ -1,0 +1,39 @@
+{
+  "id": "n1-0222",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "どうやら",
+  "display": "どうやら",
+  "meanings_zh": [
+    "好歹",
+    "凑合",
+    "好容易才",
+    "仿佛"
+  ],
+  "meanings_en": [
+    "it seems like",
+    "somehow or other"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はどうやら正しいようだ。",
+      "en": "I have a feeling he is right."
+    },
+    {
+      "ja": "どうやら明日は雨のようだ。",
+      "en": "I'm afraid it will rain tomorrow."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

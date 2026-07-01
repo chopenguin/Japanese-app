@@ -1,0 +1,39 @@
+{
+  "id": "n2-1737",
+  "jlpt": "N2",
+  "kanji": "立ち止まる",
+  "kana": "たちどまる",
+  "display": "立ち止まる",
+  "meanings_zh": [
+    "站住",
+    "停步",
+    "止步"
+  ],
+  "meanings_en": [
+    "to stop",
+    "to halt",
+    "to stand still"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "立ち止まるな。",
+      "en": "Move along now."
+    },
+    {
+      "ja": "一連の流れのなかで、いったん立ち止まることを実行することは難しいです。",
+      "en": "It is difficult to actually stand up against the flow."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

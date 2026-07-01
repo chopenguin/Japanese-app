@@ -1,0 +1,41 @@
+{
+  "id": "n3-0014",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "あんまり",
+  "display": "あんまり",
+  "meanings_zh": [
+    "太",
+    "过于",
+    "过分",
+    "过火"
+  ],
+  "meanings_en": [
+    "not very",
+    "not much",
+    "remainder",
+    "rest"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あんまり無理するなよ。",
+      "en": "Don't overdo it."
+    },
+    {
+      "ja": "あんまり金を欲しがるな。",
+      "en": "Don't be so greedy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

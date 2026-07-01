@@ -1,0 +1,40 @@
+{
+  "id": "n1-0183",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ぞんざい",
+  "display": "ぞんざい",
+  "meanings_zh": [
+    "粗草",
+    "草率",
+    "马虎",
+    "潦草"
+  ],
+  "meanings_en": [
+    "rude",
+    "careless",
+    "slovenly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は引き出しに物をぞんざいに押し込んだ。",
+      "en": "He put his things carelessly in the drawer."
+    },
+    {
+      "ja": "その警官は私に対してかなりぞんざいだった。",
+      "en": "The policeman was rather abrupt with me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n1-0326",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "レンタカー",
+  "display": "レンタカー",
+  "meanings_zh": [
+    "(由租用者驾驶的)出赁汽车"
+  ],
+  "meanings_en": [
+    "hire car (lit: rent-a-car)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "レンタカーです。",
+      "en": "It's a rented car."
+    },
+    {
+      "ja": "レンタカーなのよ。",
+      "en": "It's a rental car."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

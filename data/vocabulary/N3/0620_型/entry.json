@@ -1,0 +1,37 @@
+{
+  "id": "n3-0620",
+  "jlpt": "N3",
+  "kanji": "型",
+  "kana": "かた",
+  "display": "型",
+  "meanings_zh": [],
+  "meanings_en": [
+    "mold",
+    "model",
+    "style",
+    "shape",
+    "data-type"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "血液型何型？",
+      "en": "What's your blood type?"
+    },
+    {
+      "ja": "典型的です。",
+      "en": "That's typical."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

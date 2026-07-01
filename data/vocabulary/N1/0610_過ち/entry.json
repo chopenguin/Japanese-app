@@ -1,0 +1,40 @@
+{
+  "id": "n1-0610",
+  "jlpt": "N1",
+  "kanji": "過ち",
+  "kana": "あやまち",
+  "display": "過ち",
+  "meanings_zh": [
+    "错误",
+    "错儿",
+    "失败",
+    "过错"
+  ],
+  "meanings_en": [
+    "fault",
+    "error",
+    "indiscretion"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は過ちを悟った。",
+      "en": "He saw that he was wrong."
+    },
+    {
+      "ja": "母は彼の過ちを許した。",
+      "en": "My mother excused his mistake."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

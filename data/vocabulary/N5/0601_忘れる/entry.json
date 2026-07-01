@@ -1,0 +1,38 @@
+{
+  "id": "n5-0601",
+  "jlpt": "N5",
+  "kanji": "忘れる",
+  "kana": "わすれる",
+  "display": "忘れる",
+  "meanings_zh": [
+    "忘记",
+    "忘掉",
+    "忘怀",
+    "忘却"
+  ],
+  "meanings_en": [
+    "to forget"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "死を忘れるな。",
+      "en": "Don't forget death."
+    },
+    {
+      "ja": "トムを忘れるな。",
+      "en": "Don't forget Tom."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

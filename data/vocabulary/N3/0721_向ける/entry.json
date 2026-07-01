@@ -1,0 +1,39 @@
+{
+  "id": "n3-0721",
+  "jlpt": "N3",
+  "kanji": "向ける",
+  "kana": "むける",
+  "display": "向ける",
+  "meanings_zh": [
+    "向",
+    "朝",
+    "对",
+    "派"
+  ],
+  "meanings_en": [
+    "to turn towards",
+    "to point"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "銃を私に向けるな。",
+      "en": "Don't point your gun at me."
+    },
+    {
+      "ja": "トムはカメラを向けるといつも変顔をする。",
+      "en": "Tom always makes a funny face when I point the camera at him."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

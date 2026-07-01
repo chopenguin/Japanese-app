@@ -1,0 +1,33 @@
+{
+  "id": "n5-0139",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "はし",
+  "display": "はし",
+  "meanings_zh": [],
+  "meanings_en": [
+    "chopsticks"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "損はしないよ。",
+      "en": "You cannot lose."
+    },
+    {
+      "ja": "釣りはしますか？",
+      "en": "Do you fish?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

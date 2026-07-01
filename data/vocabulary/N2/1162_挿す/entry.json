@@ -1,0 +1,29 @@
+{
+  "id": "n2-1162",
+  "jlpt": "N2",
+  "kanji": "挿す",
+  "kana": "さす",
+  "display": "挿す",
+  "meanings_zh": [
+    "插"
+  ],
+  "meanings_en": [
+    "to insert",
+    "to put in",
+    "to graft",
+    "to wear in belt"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

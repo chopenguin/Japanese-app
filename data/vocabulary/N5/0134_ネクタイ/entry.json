@@ -1,0 +1,36 @@
+{
+  "id": "n5-0134",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ネクタイ",
+  "display": "ネクタイ",
+  "meanings_zh": [
+    "领带"
+  ],
+  "meanings_en": [
+    "tie",
+    "necktie"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ネクタイは？",
+      "en": "Where is your tie?"
+    },
+    {
+      "ja": "ネクタイを直して。",
+      "en": "Adjust your tie."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

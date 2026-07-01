@@ -1,0 +1,33 @@
+{
+  "id": "n5-0006",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "あの",
+  "display": "あの",
+  "meanings_zh": [],
+  "meanings_en": [
+    "that over there"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あの車です。",
+      "en": "It was that car."
+    },
+    {
+      "ja": "あの煙を見て。",
+      "en": "Look at that smoke."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

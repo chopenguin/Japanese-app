@@ -1,0 +1,38 @@
+{
+  "id": "n3-0474",
+  "jlpt": "N3",
+  "kanji": "間違い",
+  "kana": "まちがい",
+  "display": "間違い",
+  "meanings_zh": [
+    "错儿",
+    "错误",
+    "过错",
+    "一定"
+  ],
+  "meanings_en": [
+    "mistake"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "間違いない！",
+      "en": "I'm absolutely sure!"
+    },
+    {
+      "ja": "間違いない。",
+      "en": "I have no doubts."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

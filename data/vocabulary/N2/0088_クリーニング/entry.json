@@ -1,0 +1,40 @@
+{
+  "id": "n2-0088",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "クリーニング",
+  "display": "クリーニング",
+  "meanings_zh": [
+    "洗濯",
+    "洗衣服",
+    "干洗",
+    "西式洗衣"
+  ],
+  "meanings_en": [
+    "cleaning",
+    "dry cleaning",
+    "laundry service"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "クリーニング屋はどこですか？",
+      "en": "Where is the laundry?"
+    },
+    {
+      "ja": "クリーニング取ってきておいて。",
+      "en": "Please pick up my dry cleaning."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

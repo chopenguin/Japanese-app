@@ -1,0 +1,33 @@
+{
+  "id": "n1-1026",
+  "jlpt": "N1",
+  "kanji": "群がる",
+  "kana": "むらがる",
+  "display": "群がる",
+  "meanings_zh": [
+    "聚",
+    "聚集"
+  ],
+  "meanings_en": [
+    "to swarm",
+    "to gather"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その歌手はファンの群がる中を苦心して進んだ。",
+      "en": "The singer fought his way through the crowd of fans."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

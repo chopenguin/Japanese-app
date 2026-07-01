@@ -1,0 +1,38 @@
+{
+  "id": "n5-0369",
+  "jlpt": "N5",
+  "kanji": "持つ",
+  "kana": "もつ",
+  "display": "持つ",
+  "meanings_zh": [
+    "持",
+    "拿",
+    "带",
+    "携带"
+  ],
+  "meanings_en": [
+    "to hold"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "僕が持つよ。",
+      "en": "Let me carry it for you."
+    },
+    {
+      "ja": "袋は僕が持つよ。",
+      "en": "Let me get your bags for you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

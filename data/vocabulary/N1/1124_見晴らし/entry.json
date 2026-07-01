@@ -1,0 +1,36 @@
+{
+  "id": "n1-1124",
+  "jlpt": "N1",
+  "kanji": "見晴らし",
+  "kana": "みはらし",
+  "display": "見晴らし",
+  "meanings_zh": [
+    "眺望",
+    "景致"
+  ],
+  "meanings_en": [
+    "view"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "その丘は見晴らしがよい。",
+      "en": "The hill commands a fine view."
+    },
+    {
+      "ja": "そのホテルは見晴らしがよい。",
+      "en": "The hotel has a good prospect."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

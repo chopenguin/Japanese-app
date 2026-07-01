@@ -1,0 +1,40 @@
+{
+  "id": "n2-1593",
+  "jlpt": "N2",
+  "kanji": "方面",
+  "kana": "ほうめん",
+  "display": "方面",
+  "meanings_zh": [
+    "方面",
+    "领域",
+    "地区"
+  ],
+  "meanings_en": [
+    "direction",
+    "district",
+    "field (e.g.",
+    "of study)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "君、どっち方面に住んでるの？",
+      "en": "In which district do you live?"
+    },
+    {
+      "ja": "２５号線北方面の入り口付近にいます。",
+      "en": "I'm near the on ramp to 25 north."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

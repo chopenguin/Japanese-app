@@ -1,0 +1,29 @@
+{
+  "id": "n2-0031",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "うどん",
+  "display": "うどん",
+  "meanings_zh": [],
+  "meanings_en": [
+    "noodles (Japanese)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "うどんでも食べませんか？",
+      "en": "Would you like to eat some udon?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

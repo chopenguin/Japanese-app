@@ -1,0 +1,39 @@
+{
+  "id": "n1-0091",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "キャリア",
+  "display": "キャリア",
+  "meanings_zh": [
+    "履历",
+    "经历",
+    "生涯",
+    "职业"
+  ],
+  "meanings_en": [
+    "career",
+    "career government employee"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼の職業上のキャリアは破綻していた。",
+      "en": "His professional career was bankrupt."
+    },
+    {
+      "ja": "独身のうちにキャリアを積んどきたい。",
+      "en": "I want to have a career before I get married."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

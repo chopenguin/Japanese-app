@@ -1,0 +1,45 @@
+{
+  "id": "n1-0971",
+  "jlpt": "N1",
+  "kanji": "仰ぐ",
+  "kana": "あおぐ",
+  "display": "仰ぐ",
+  "meanings_zh": [
+    "仰",
+    "瞻",
+    "尊为",
+    "推为"
+  ],
+  "meanings_en": [
+    "to look up (to)",
+    "to respect",
+    "to depend on",
+    "to ask for",
+    "to seek",
+    "to revere",
+    "to drink",
+    "to take"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は何事にも彼の指導を仰ぐ。",
+      "en": "I look to him for direction in everything."
+    },
+    {
+      "ja": "彼らは彼をリーダーとして仰ぐ。",
+      "en": "They look up to him as their leader."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

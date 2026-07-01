@@ -1,0 +1,39 @@
+{
+  "id": "n2-1216",
+  "jlpt": "N2",
+  "kanji": "貸し出し",
+  "kana": "かしだし",
+  "display": "貸し出し",
+  "meanings_zh": [
+    "出借",
+    "出租",
+    "放款",
+    "贷款"
+  ],
+  "meanings_en": [
+    "lending",
+    "loaning"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "貸し出しは何冊までですか？",
+      "en": "How many books can I borrow?"
+    },
+    {
+      "ja": "金利が低下したので銀行貸し出しが増加している。",
+      "en": "Bank lending is rising because of lower interest rates."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

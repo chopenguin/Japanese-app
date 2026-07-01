@@ -1,0 +1,35 @@
+{
+  "id": "n3-0141",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "たまらない",
+  "display": "たまらない",
+  "meanings_zh": [],
+  "meanings_en": [
+    "intolerable",
+    "unbearable",
+    "unendurable"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "痛くてたまらない。",
+      "en": "I can't bear the pain."
+    },
+    {
+      "ja": "暑くてたまらない。",
+      "en": "I'm baking!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n5-0058",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "コーヒー",
+  "display": "コーヒー",
+  "meanings_zh": [
+    "咖啡"
+  ],
+  "meanings_en": [
+    "coffee"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "コーヒー作るわ。",
+      "en": "I will make some coffee."
+    },
+    {
+      "ja": "コーヒーはどう？",
+      "en": "Won't you have some coffee?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

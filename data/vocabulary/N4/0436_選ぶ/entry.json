@@ -1,0 +1,38 @@
+{
+  "id": "n4-0436",
+  "jlpt": "N4",
+  "kanji": "選ぶ",
+  "kana": "えらぶ",
+  "display": "選ぶ",
+  "meanings_zh": [
+    "选择",
+    "挑选",
+    "与其～～不如～～",
+    "选举"
+  ],
+  "meanings_en": [
+    "to choose"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "金を選ぶべきだった。",
+      "en": "I should have taken the money."
+    },
+    {
+      "ja": "君は選ぶ必要がある。",
+      "en": "You have to choose."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

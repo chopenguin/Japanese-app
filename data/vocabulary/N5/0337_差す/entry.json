@@ -1,0 +1,39 @@
+{
+  "id": "n5-0337",
+  "jlpt": "N5",
+  "kanji": "差す",
+  "kana": "さす",
+  "display": "差す",
+  "meanings_zh": [
+    "上涨",
+    "浸润",
+    "照射",
+    "透露"
+  ],
+  "meanings_en": [
+    "to stretch out hands",
+    "to raise an umbrella"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼の言動には嫌気が差す。",
+      "en": "His behavior makes me sick."
+    },
+    {
+      "ja": "人を指差すのは無作法だ。",
+      "en": "It is bad manners to point at people."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

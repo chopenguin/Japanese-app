@@ -1,0 +1,38 @@
+{
+  "id": "n1-0440",
+  "jlpt": "N1",
+  "kanji": "引き分け",
+  "kana": "ひきわけ",
+  "display": "引き分け",
+  "meanings_zh": [
+    "平局",
+    "和局",
+    "不分胜负"
+  ],
+  "meanings_en": [
+    "a draw (in competition)",
+    "tie game"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "試合は引き分けになった。",
+      "en": "The game was drawn."
+    },
+    {
+      "ja": "その試合は引き分けに終わった。",
+      "en": "The game ended in a draw."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

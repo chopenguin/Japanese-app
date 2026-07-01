@@ -1,0 +1,39 @@
+{
+  "id": "n2-0774",
+  "jlpt": "N2",
+  "kanji": "在る",
+  "kana": "ある",
+  "display": "在る",
+  "meanings_zh": [
+    "在",
+    "归",
+    "属",
+    "在于"
+  ],
+  "meanings_en": [
+    "to live",
+    "to be"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "山小屋は頂上の下の方に在る。",
+      "en": "The hut is below the peak."
+    },
+    {
+      "ja": "人間の価値は、その人の人柄に在るのであって、その人の財産にあるのではない。",
+      "en": "A man's worth depends on what he is, and not what he has."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

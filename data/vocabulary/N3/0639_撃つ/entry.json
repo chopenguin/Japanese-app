@@ -1,0 +1,40 @@
+{
+  "id": "n3-0639",
+  "jlpt": "N3",
+  "kanji": "撃つ",
+  "kana": "うつ",
+  "display": "撃つ",
+  "meanings_zh": [
+    "射击",
+    "放枪",
+    "开枪",
+    "打枪"
+  ],
+  "meanings_en": [
+    "to attack",
+    "to defeat",
+    "to destroy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "動くな撃つぞ。",
+      "en": "Don't move, or I'll shoot you."
+    },
+    {
+      "ja": "あいつを撃つ。",
+      "en": "I'm gonna shoot him."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

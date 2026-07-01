@@ -1,0 +1,34 @@
+{
+  "id": "n1-0125",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "さっと",
+  "display": "さっと",
+  "meanings_zh": [],
+  "meanings_en": [
+    "quickly",
+    "suddenly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は服をさっと着た。",
+      "en": "She slipped into her clothes."
+    },
+    {
+      "ja": "彼はさっと角を曲がった。",
+      "en": "He whipped around the corner."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

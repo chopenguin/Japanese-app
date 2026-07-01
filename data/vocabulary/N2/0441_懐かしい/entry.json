@@ -1,0 +1,38 @@
+{
+  "id": "n2-0441",
+  "jlpt": "N2",
+  "kanji": "懐かしい",
+  "kana": "なつかしい",
+  "display": "懐かしい",
+  "meanings_zh": [
+    "怀念",
+    "眷恋"
+  ],
+  "meanings_en": [
+    "dear",
+    "desired",
+    "missed"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "懐かしいな。",
+      "en": "It brings back memories."
+    },
+    {
+      "ja": "これ、懐かしい。",
+      "en": "This brings back memories."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

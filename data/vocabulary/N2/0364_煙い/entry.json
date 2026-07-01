@@ -1,0 +1,29 @@
+{
+  "id": "n2-0364",
+  "jlpt": "N2",
+  "kanji": "煙い",
+  "kana": "けむい",
+  "display": "煙い",
+  "meanings_zh": [],
+  "meanings_en": [
+    "smoky"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "タバコが煙い！",
+      "en": "Your smoking bothers me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

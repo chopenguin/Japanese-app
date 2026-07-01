@@ -1,0 +1,30 @@
+{
+  "id": "n1-1426",
+  "jlpt": "N1",
+  "kanji": "散蒔く",
+  "kana": "ばらまく",
+  "display": "散蒔く",
+  "meanings_zh": [
+    "撒播",
+    "散布",
+    "到处花钱"
+  ],
+  "meanings_en": [
+    "to disseminate",
+    "to scatter",
+    "to give money freely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

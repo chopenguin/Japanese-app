@@ -1,0 +1,29 @@
+{
+  "id": "n1-2577",
+  "jlpt": "N1",
+  "kanji": "蕩ける",
+  "kana": "とろける",
+  "display": "蕩ける",
+  "meanings_zh": [
+    "溶化",
+    "融解",
+    "心荡神驰",
+    "神魂飘荡"
+  ],
+  "meanings_en": [
+    "to be enchanted with"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

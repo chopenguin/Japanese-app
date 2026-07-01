@@ -1,0 +1,38 @@
+{
+  "id": "n2-0137",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "シリーズ",
+  "display": "シリーズ",
+  "meanings_zh": [
+    "连续",
+    "一套",
+    "丛书",
+    "辑录"
+  ],
+  "meanings_en": [
+    "series"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "アトランタ・ブレーブスは、ワールドシリーズで優勝できると思いますか。",
+      "en": "Do you think the Braves will take the series?"
+    },
+    {
+      "ja": "シカゴカブスは１９０８年を最後にワールドシリーズに勝ったことがない。",
+      "en": "The Chicago Cubs have not won the World Series since 1908."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

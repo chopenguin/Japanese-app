@@ -1,0 +1,38 @@
+{
+  "id": "n1-0544",
+  "jlpt": "N1",
+  "kanji": "何となく",
+  "kana": "なんとなく",
+  "display": "何となく",
+  "meanings_zh": [
+    "总觉得",
+    "不由得",
+    "无意中"
+  ],
+  "meanings_en": [
+    "somehow or other",
+    "for some reason or another"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何となく雨みたいだ。",
+      "en": "It looks like rain."
+    },
+    {
+      "ja": "何となくはわかりました。",
+      "en": "I sort of understand."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

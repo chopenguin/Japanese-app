@@ -1,0 +1,38 @@
+{
+  "id": "n3-0059",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "キャプテン",
+  "display": "キャプテン",
+  "meanings_zh": [
+    "首领",
+    "头目",
+    "头头儿",
+    "船长"
+  ],
+  "meanings_en": [
+    "captain"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私がキャプテンです。",
+      "en": "I'm the captain."
+    },
+    {
+      "ja": "トムは良いキャプテンだ。",
+      "en": "Tom is a good captain."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

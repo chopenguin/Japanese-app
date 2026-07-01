@@ -1,0 +1,42 @@
+{
+  "id": "n1-2588",
+  "jlpt": "N1",
+  "kanji": "動き",
+  "kana": "うごき",
+  "display": "動き",
+  "meanings_zh": [
+    "动",
+    "活动",
+    "变化",
+    "动向"
+  ],
+  "meanings_en": [
+    "movement",
+    "activity",
+    "trend",
+    "development",
+    "change"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "俺は動き続ける。",
+      "en": "I gotta keep on movin'."
+    },
+    {
+      "ja": "愛の動きは不可解。",
+      "en": "Love moves in mysterious ways."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

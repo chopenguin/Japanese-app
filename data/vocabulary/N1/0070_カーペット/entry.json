@@ -1,0 +1,35 @@
+{
+  "id": "n1-0070",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "カーペット",
+  "display": "カーペット",
+  "meanings_zh": [
+    "地毯"
+  ],
+  "meanings_en": [
+    "carpet"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "床にカーペットを敷いた。",
+      "en": "They laid the carpet on the floor."
+    },
+    {
+      "ja": "彼女はカーペットを洗濯した。",
+      "en": "She washed a carpet."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

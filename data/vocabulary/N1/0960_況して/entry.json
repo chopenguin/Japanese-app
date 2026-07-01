@@ -1,0 +1,32 @@
+{
+  "id": "n1-0960",
+  "jlpt": "N1",
+  "kanji": "況して",
+  "kana": "まして",
+  "display": "況して",
+  "meanings_zh": [
+    "何况",
+    "况且",
+    "更～～",
+    "更"
+  ],
+  "meanings_en": [
+    "still more",
+    "still less (with neg. verb)",
+    "to say nothing of",
+    "not to mention"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

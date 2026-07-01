@@ -1,0 +1,37 @@
+{
+  "id": "n1-2384",
+  "jlpt": "N1",
+  "kanji": "忠告",
+  "kana": "ちゅうこく",
+  "display": "忠告",
+  "meanings_zh": [
+    "忠告",
+    "劝告"
+  ],
+  "meanings_en": [
+    "advice",
+    "warning"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼の忠告を侮るな。",
+      "en": "Don't make light of his advice."
+    },
+    {
+      "ja": "私は彼に忠告した。",
+      "en": "I gave him some advice."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

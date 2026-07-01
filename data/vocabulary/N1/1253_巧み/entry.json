@@ -1,0 +1,39 @@
+{
+  "id": "n1-1253",
+  "jlpt": "N1",
+  "kanji": "巧み",
+  "kana": "たくみ",
+  "display": "巧み",
+  "meanings_zh": [
+    "巧妙",
+    "精巧",
+    "技巧",
+    "技术"
+  ],
+  "meanings_en": [
+    "skill",
+    "cleverness"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は、話術が巧みだ。",
+      "en": "He has a good art of talking."
+    },
+    {
+      "ja": "ビルは論争が巧みだ。",
+      "en": "Bill is skillful in arguing and debating."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "n1-1807",
+  "jlpt": "N1",
+  "kanji": "省みる",
+  "kana": "かえりみる",
+  "display": "省みる",
+  "meanings_zh": [
+    "反省",
+    "反躬自问",
+    "自问"
+  ],
+  "meanings_en": [
+    "to reflect"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n1-2474",
+  "jlpt": "N1",
+  "kanji": "諦め",
+  "kana": "あきらめ",
+  "display": "諦め",
+  "meanings_zh": [
+    "断念",
+    "死心",
+    "想开",
+    "达观"
+  ],
+  "meanings_en": [
+    "resignation",
+    "acceptance",
+    "consolation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "諦めないで。",
+      "en": "Don't give up!"
+    },
+    {
+      "ja": "諦めてるの？",
+      "en": "Are you giving up?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

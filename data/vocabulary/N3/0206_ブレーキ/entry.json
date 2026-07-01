@@ -1,0 +1,38 @@
+{
+  "id": "n3-0206",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ブレーキ",
+  "display": "ブレーキ",
+  "meanings_zh": [
+    "制动器",
+    "车闸",
+    "刹车(器)",
+    "阻碍"
+  ],
+  "meanings_en": [
+    "a brake"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ブレーキをかけろ！",
+      "en": "Hit the brakes!"
+    },
+    {
+      "ja": "彼はブレーキを踏んだ。",
+      "en": "He pressed the brake pedal."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

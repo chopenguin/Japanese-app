@@ -1,0 +1,36 @@
+{
+  "id": "n3-0076",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "この",
+  "display": "この",
+  "meanings_zh": [
+    "这",
+    "这个"
+  ],
+  "meanings_en": [
+    "this"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この本です。",
+      "en": "It's this book."
+    },
+    {
+      "ja": "この場所に？",
+      "en": "Just right here?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

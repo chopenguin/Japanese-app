@@ -1,0 +1,38 @@
+{
+  "id": "n1-1758",
+  "jlpt": "N1",
+  "kanji": "諸",
+  "kana": "しょ",
+  "display": "諸",
+  "meanings_zh": [
+    "诸",
+    "各"
+  ],
+  "meanings_en": [
+    "various",
+    "many",
+    "several"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "おはよう諸君。",
+      "en": "Good morning, everyone."
+    },
+    {
+      "ja": "金は諸悪の根源。",
+      "en": "Money is the root of all evil."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

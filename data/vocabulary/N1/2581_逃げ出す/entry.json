@@ -1,0 +1,39 @@
+{
+  "id": "n1-2581",
+  "jlpt": "N1",
+  "kanji": "逃げ出す",
+  "kana": "にげだす",
+  "display": "逃げ出す",
+  "meanings_zh": [
+    "逃出",
+    "逃走",
+    "逃掉",
+    "溜掉"
+  ],
+  "meanings_en": [
+    "to run away",
+    "to escape from"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "現実から逃げ出す。",
+      "en": "Fall from reality."
+    },
+    {
+      "ja": "もうすぐここから逃げ出すのだ。",
+      "en": "We're getting out of here in a moment."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

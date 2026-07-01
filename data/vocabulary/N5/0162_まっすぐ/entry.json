@@ -1,0 +1,34 @@
+{
+  "id": "n5-0162",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "まっすぐ",
+  "display": "まっすぐ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "straight ahead",
+    "direct"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "まっすぐ行け。",
+      "en": "Go straight on."
+    },
+    {
+      "ja": "絵はまっすぐですか。",
+      "en": "Is the picture straight?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

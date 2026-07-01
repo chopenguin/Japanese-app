@@ -1,0 +1,37 @@
+{
+  "id": "n2-0484",
+  "jlpt": "N2",
+  "kanji": "括弧",
+  "kana": "かっこ",
+  "display": "括弧",
+  "meanings_zh": [
+    "括号",
+    "括弧"
+  ],
+  "meanings_en": [
+    "parenthesis",
+    "brackets"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この語句は、括弧で囲んだ方がいいよ。",
+      "en": "You should put this phrase in parentheses."
+    },
+    {
+      "ja": "括弧は使わず、補足情報はコメント欄にてご対応ください。必要に応じて、2文を追加することもできます。",
+      "en": "Please do not use parentheses, but provide any supplementary information in the comments section. If necessary, two sentences may be added."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

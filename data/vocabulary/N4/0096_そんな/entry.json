@@ -1,0 +1,37 @@
+{
+  "id": "n4-0096",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "そんな",
+  "display": "そんな",
+  "meanings_zh": [
+    "那样的",
+    "哪里",
+    "不会"
+  ],
+  "meanings_en": [
+    "that sort of"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そんな馬鹿な。",
+      "en": "That's crazy."
+    },
+    {
+      "ja": "そんなばかな。",
+      "en": "There's no way."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "n1-3415",
+  "jlpt": "N1",
+  "kanji": "拗れる",
+  "kana": "こじれる",
+  "display": "拗れる",
+  "meanings_zh": [
+    "别扭",
+    "执拗",
+    "复杂化",
+    "恶化"
+  ],
+  "meanings_en": [
+    "to get complicated",
+    "to grow worse"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

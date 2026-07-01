@@ -1,0 +1,34 @@
+{
+  "id": "n1-0727",
+  "jlpt": "N1",
+  "kanji": "勧告",
+  "kana": "かんこく",
+  "display": "勧告",
+  "meanings_zh": [
+    "劝告"
+  ],
+  "meanings_en": [
+    "advice",
+    "counsel",
+    "remonstrance",
+    "recommendation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "豪雨災害で多数の命が奪われた要因の一つとして、行政が避難勧告の発令に踏み切れず先送りしたことが指摘されている。",
+      "en": "The government's delay in issuing evacuation advisories has been identified as a main factor in the loss of so many lives during the torrential downpours."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

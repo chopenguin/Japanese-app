@@ -1,0 +1,35 @@
+{
+  "id": "n1-0087",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "きっかり",
+  "display": "きっかり",
+  "meanings_zh": [
+    "正",
+    "整",
+    "恰",
+    "正好"
+  ],
+  "meanings_en": [
+    "exactly",
+    "precisely"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "１０時きっかりです。",
+      "en": "It's ten o'clock sharp."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

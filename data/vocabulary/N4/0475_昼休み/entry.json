@@ -1,0 +1,36 @@
+{
+  "id": "n4-0475",
+  "jlpt": "N4",
+  "kanji": "昼休み",
+  "kana": "ひるやすみ",
+  "display": "昼休み",
+  "meanings_zh": [
+    "午休",
+    "歇晌"
+  ],
+  "meanings_en": [
+    "noon break"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "お昼休みはいつ？",
+      "en": "When is your lunch break?"
+    },
+    {
+      "ja": "お昼休みは、１時間です。",
+      "en": "Lunch break is an hour long."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n5-0041",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "かかる",
+  "display": "かかる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to take time or money"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "体重が気にかかる。",
+      "en": "I'm worried about my weight."
+    },
+    {
+      "ja": "壁にもたれかかるな。",
+      "en": "Don't lean against the wall."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

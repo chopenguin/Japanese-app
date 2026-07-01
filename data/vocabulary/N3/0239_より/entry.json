@@ -1,0 +1,34 @@
+{
+  "id": "n3-0239",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "より",
+  "display": "より",
+  "meanings_zh": [],
+  "meanings_en": [
+    "twist",
+    "ply"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "論より証拠。",
+      "en": "The proof of the pudding is in the eating."
+    },
+    {
+      "ja": "見目より心。",
+      "en": "Handsome is that handsome does."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

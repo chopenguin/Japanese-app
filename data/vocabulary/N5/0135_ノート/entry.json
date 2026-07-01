@@ -1,0 +1,39 @@
+{
+  "id": "n5-0135",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ノート",
+  "display": "ノート",
+  "meanings_zh": [
+    "笔记",
+    "备忘录",
+    "注解",
+    "注释"
+  ],
+  "meanings_en": [
+    "notebook",
+    "exercise book"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ノートは収めて。",
+      "en": "Put your notebook away."
+    },
+    {
+      "ja": "私はノートがほしい。",
+      "en": "I want a notebook."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

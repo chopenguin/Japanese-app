@@ -1,0 +1,37 @@
+{
+  "id": "n1-0152",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ストライキ",
+  "display": "ストライキ",
+  "meanings_zh": [
+    "罢工",
+    "罢市",
+    "罢课"
+  ],
+  "meanings_en": [
+    "strike"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "労働者達はストライキ中です。",
+      "en": "The workers are on strike."
+    },
+    {
+      "ja": "ストライキはほとんどむだだった。",
+      "en": "The strike was to little purpose."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

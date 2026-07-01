@@ -1,0 +1,31 @@
+{
+  "id": "n2-0039",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "おおざっぱ",
+  "display": "おおざっぱ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "rough (not precise)",
+    "broad",
+    "sketchy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "おおざっぱに言うと、英国の季節も日本のものとほとんど同じだ。",
+      "en": "Roughly speaking, the seasons in England correspond with those in Japan."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

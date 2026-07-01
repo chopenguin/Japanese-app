@@ -1,0 +1,40 @@
+{
+  "id": "n2-0609",
+  "jlpt": "N2",
+  "kanji": "繋がる",
+  "kana": "つながる",
+  "display": "繋がる",
+  "meanings_zh": [
+    "连接",
+    "连系",
+    "排列",
+    "排队"
+  ],
+  "meanings_en": [
+    "to be tied together",
+    "to be connected to",
+    "to be related to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "自慰は狂気に繋がる。",
+      "en": "Masturbation leads to insanity."
+    },
+    {
+      "ja": "僅かな不注意が大惨事に繋がる恐れがある。",
+      "en": "Slight inattention can cause a great disaster."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

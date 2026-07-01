@@ -1,0 +1,34 @@
+{
+  "id": "n2-1387",
+  "jlpt": "N2",
+  "kanji": "討つ",
+  "kana": "うつ",
+  "display": "討つ",
+  "meanings_zh": [
+    "杀",
+    "讨",
+    "攻"
+  ],
+  "meanings_en": [
+    "to attack",
+    "to avenge"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は迫害者を懲らしめて人民たちのあだを討つだろう。",
+      "en": "He will avenge the people on their oppressor."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n5-0276",
+  "jlpt": "N5",
+  "kanji": "金曜日",
+  "kana": "きんようび",
+  "display": "金曜日",
+  "meanings_zh": [],
+  "meanings_en": [
+    "Friday"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "花の金曜日だ！",
+      "en": "Thank God it's Friday!"
+    },
+    {
+      "ja": "また金曜日にね！",
+      "en": "See you on Friday."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

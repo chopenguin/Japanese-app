@@ -1,0 +1,40 @@
+{
+  "id": "n3-0094",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "しばしば",
+  "display": "しばしば",
+  "meanings_zh": [
+    "屡次",
+    "每每",
+    "常常",
+    "再三"
+  ],
+  "meanings_en": [
+    "often",
+    "again and again",
+    "frequently"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "近頃彼にしばしば会う。",
+      "en": "I have seen much of him lately."
+    },
+    {
+      "ja": "僕はしばしばお金に困る。",
+      "en": "I am often in difficulties."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

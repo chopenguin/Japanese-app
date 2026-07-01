@@ -1,0 +1,38 @@
+{
+  "id": "n5-0176",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "レコード",
+  "display": "レコード",
+  "meanings_zh": [
+    "成绩",
+    "记录",
+    "最高记录",
+    "唱片"
+  ],
+  "meanings_en": [
+    "record"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らは、レコードを買います。",
+      "en": "They will buy a record."
+    },
+    {
+      "ja": "昨晩はレコードを聴きました。",
+      "en": "I listened to some records last night."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

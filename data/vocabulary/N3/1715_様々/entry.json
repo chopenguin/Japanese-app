@@ -1,0 +1,34 @@
+{
+  "id": "n3-1715",
+  "jlpt": "N3",
+  "kanji": "様々",
+  "kana": "さまざま",
+  "display": "様々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "varied",
+    "various"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼の庭はいつも様々な花が咲く。",
+      "en": "Many kinds of flowers always come out in his garden."
+    },
+    {
+      "ja": "道路は様々な乗物で混雑していた。",
+      "en": "The road was crowded with various vehicles."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

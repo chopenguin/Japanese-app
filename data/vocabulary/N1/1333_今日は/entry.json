@@ -1,0 +1,38 @@
+{
+  "id": "n1-1333",
+  "jlpt": "N1",
+  "kanji": "今日は",
+  "kana": "こんにちは",
+  "display": "今日は",
+  "meanings_zh": [
+    "你好",
+    "您好",
+    "你们好"
+  ],
+  "meanings_en": [
+    "hello",
+    "good day (daytime greeting  id)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今日は暑い。",
+      "en": "It's hot today."
+    },
+    {
+      "ja": "今日は私が。",
+      "en": "It is on me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

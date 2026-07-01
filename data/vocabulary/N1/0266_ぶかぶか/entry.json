@@ -1,0 +1,37 @@
+{
+  "id": "n1-0266",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ぶかぶか",
+  "display": "ぶかぶか",
+  "meanings_zh": [
+    "肥大",
+    "达达达地"
+  ],
+  "meanings_en": [
+    "too big",
+    "baggy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "このズボン、ぶかぶかだよ。",
+      "en": "These trousers are too large."
+    },
+    {
+      "ja": "このドレスは私にはぶかぶかです。",
+      "en": "This dress is too big for me."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

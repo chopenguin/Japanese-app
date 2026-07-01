@@ -1,0 +1,40 @@
+{
+  "id": "n5-0589",
+  "jlpt": "N5",
+  "kanji": "聞く",
+  "kana": "きく",
+  "display": "聞く",
+  "meanings_zh": [
+    "听",
+    "听说",
+    "听到",
+    "听从"
+  ],
+  "meanings_en": [
+    "to hear",
+    "to listen to",
+    "to ask"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "一曲聞くか。",
+      "en": "Will you listen to a piece of music?"
+    },
+    {
+      "ja": "なぜ聞くの？",
+      "en": "Why do you ask?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n3-0701",
+  "jlpt": "N3",
+  "kanji": "誇り",
+  "kana": "ほこり",
+  "display": "誇り",
+  "meanings_zh": [
+    "自豪",
+    "骄傲",
+    "自尊心",
+    "荣誉"
+  ],
+  "meanings_en": [
+    "pride"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は兄を誇りに思う。",
+      "en": "I'm proud of my brother."
+    },
+    {
+      "ja": "新しい校舎は村の誇りだ。",
+      "en": "The new school building is the boast of the village."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

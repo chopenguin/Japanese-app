@@ -1,0 +1,36 @@
+{
+  "id": "n2-1267",
+  "jlpt": "N2",
+  "kanji": "着ける",
+  "kana": "つける",
+  "display": "着ける",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(1) to attach",
+    "to join",
+    "to add",
+    "to append"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "英語を身に着けるのは簡単だ。",
+      "en": "English is not hard to learn."
+    },
+    {
+      "ja": "昼までに彼の家に着けると思う？",
+      "en": "Do you think we'll reach his house before noon?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

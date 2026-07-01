@@ -1,0 +1,38 @@
+{
+  "id": "n1-0149",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "しょっちゅう",
+  "display": "しょっちゅう",
+  "meanings_zh": [
+    "经常",
+    "总是",
+    "老是"
+  ],
+  "meanings_en": [
+    "always",
+    "constantly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "僕はしょっちゅう行きます。",
+      "en": "I go often."
+    },
+    {
+      "ja": "彼はしょっちゅう私を訪れる。",
+      "en": "He drops in on me very often."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

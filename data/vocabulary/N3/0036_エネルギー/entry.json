@@ -1,0 +1,38 @@
+{
+  "id": "n3-0036",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "エネルギー",
+  "display": "エネルギー",
+  "meanings_zh": [
+    "能",
+    "能源",
+    "能量",
+    "精力"
+  ],
+  "meanings_en": [
+    "(n) energy (de: Energie)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "怒りはエネルギー。",
+      "en": "Anger is an energy."
+    },
+    {
+      "ja": "熱はエネルギーの一種である。",
+      "en": "Heat is a form of energy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

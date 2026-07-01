@@ -1,0 +1,39 @@
+{
+  "id": "n1-0325",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "レンジ",
+  "display": "レンジ",
+  "meanings_zh": [
+    "(西式)炉灶",
+    "范围",
+    "领域",
+    "有效距离"
+  ],
+  "meanings_en": [
+    "range",
+    "stove"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "レンジ使える？",
+      "en": "Can you use a microwave?"
+    },
+    {
+      "ja": "レンジに入れて。",
+      "en": "Put it in the microwave."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

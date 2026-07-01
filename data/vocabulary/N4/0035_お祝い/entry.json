@@ -1,0 +1,38 @@
+{
+  "id": "n4-0035",
+  "jlpt": "N4",
+  "kanji": "お祝い",
+  "kana": "おいわい",
+  "display": "お祝い",
+  "meanings_zh": [
+    "祝贺",
+    "庆祝",
+    "喜庆",
+    "祝贺的礼品"
+  ],
+  "meanings_en": [
+    "congratulation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "御成功をお祝いします。",
+      "en": "I congratulate you on your success."
+    },
+    {
+      "ja": "心からお祝いを申し上げます。",
+      "en": "I offer you my hearty congratulations."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

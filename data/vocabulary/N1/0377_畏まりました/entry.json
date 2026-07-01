@@ -1,0 +1,29 @@
+{
+  "id": "n1-0377",
+  "jlpt": "N1",
+  "kanji": "畏まりました",
+  "kana": "かしこまりました",
+  "display": "畏まりました",
+  "meanings_zh": [],
+  "meanings_en": [
+    "certainly!"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "畏まりました。",
+      "en": "As you wish."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

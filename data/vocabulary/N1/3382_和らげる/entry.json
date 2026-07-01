@@ -1,0 +1,38 @@
+{
+  "id": "n1-3382",
+  "jlpt": "N1",
+  "kanji": "和らげる",
+  "kana": "やわらげる",
+  "display": "和らげる",
+  "meanings_zh": [
+    "使柔和",
+    "使缓和"
+  ],
+  "meanings_en": [
+    "to soften",
+    "to moderate",
+    "to relieve"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この薬は筋肉痛を和らげる。",
+      "en": "This medicine helps relieve muscle pain."
+    },
+    {
+      "ja": "泣くことは悲しみを和らげる。",
+      "en": "To weep is to make less the depth of grief."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

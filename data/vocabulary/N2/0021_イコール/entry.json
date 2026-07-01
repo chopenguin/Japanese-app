@@ -1,0 +1,37 @@
+{
+  "id": "n2-0021",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "イコール",
+  "display": "イコール",
+  "meanings_zh": [
+    "等号",
+    "相等",
+    "等于"
+  ],
+  "meanings_en": [
+    "equal"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らは宗教イコール教会に行くことだと考えている。",
+      "en": "They equate religion with church-going."
+    },
+    {
+      "ja": "誰でも２足す２イコール４であることを知っている。",
+      "en": "Everybody knows that two and two make four."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

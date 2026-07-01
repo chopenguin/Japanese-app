@@ -1,0 +1,41 @@
+{
+  "id": "n3-1300",
+  "jlpt": "N3",
+  "kanji": "眺め",
+  "kana": "ながめ",
+  "display": "眺め",
+  "meanings_zh": [
+    "眺望",
+    "了望",
+    "景色",
+    "风景"
+  ],
+  "meanings_en": [
+    "scene",
+    "view",
+    "prospect",
+    "outlook"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "外を眺めていた。",
+      "en": "I was looking outside."
+    },
+    {
+      "ja": "壮大な眺めですね。",
+      "en": "It's a magnificent view, isn't it?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

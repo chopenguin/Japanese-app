@@ -1,0 +1,38 @@
+{
+  "id": "n1-1862",
+  "jlpt": "N1",
+  "kanji": "侵す",
+  "kana": "おかす",
+  "display": "侵す",
+  "meanings_zh": [
+    "侵犯",
+    "侵入",
+    "侵害",
+    "侵占"
+  ],
+  "meanings_en": [
+    "to invade",
+    "to raid",
+    "to trespass",
+    "to violate",
+    "to intrude on"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "酸は金属を侵す。",
+      "en": "Acids act on metals."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

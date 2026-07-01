@@ -1,0 +1,33 @@
+{
+  "id": "n5-0505",
+  "jlpt": "N5",
+  "kanji": "朝御飯",
+  "kana": "あさごはん",
+  "display": "朝御飯",
+  "meanings_zh": [],
+  "meanings_en": [
+    "breakfast"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "朝御飯ができています。",
+      "en": "Breakfast is ready."
+    },
+    {
+      "ja": "朝御飯を食べる前に花に水をやりなさい。",
+      "en": "Water the flowers before you eat breakfast."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n5-0084",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ゼロ",
+  "display": "ゼロ",
+  "meanings_zh": [
+    "零",
+    "乑"
+  ],
+  "meanings_en": [
+    "zero"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "リズム感ゼロね。",
+      "en": "You have no sense of rhythm."
+    },
+    {
+      "ja": "一の前はゼロです。",
+      "en": "Zero comes before one."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

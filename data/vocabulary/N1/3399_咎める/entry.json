@@ -1,0 +1,37 @@
+{
+  "id": "n1-3399",
+  "jlpt": "N1",
+  "kanji": "咎める",
+  "kana": "とがめる",
+  "display": "咎める",
+  "meanings_zh": [
+    "责难",
+    "责备",
+    "挑剔",
+    "盘问"
+  ],
+  "meanings_en": [
+    "to blame",
+    "to find fault",
+    "to take someone to task",
+    "to aggravate (an injury)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そのガイドを咎めるな。",
+      "en": "Don't blame the guide."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

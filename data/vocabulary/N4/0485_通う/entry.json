@@ -1,0 +1,38 @@
+{
+  "id": "n4-0485",
+  "jlpt": "N4",
+  "kanji": "通う",
+  "kana": "かよう",
+  "display": "通う",
+  "meanings_zh": [
+    "往来",
+    "来往",
+    "通行",
+    "上学"
+  ],
+  "meanings_en": [
+    "to commute"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は歩いて学校に通う。",
+      "en": "I go to school on foot."
+    },
+    {
+      "ja": "小学生は６年間学校に通う。",
+      "en": "Elementary school children go to school for a term of six years."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

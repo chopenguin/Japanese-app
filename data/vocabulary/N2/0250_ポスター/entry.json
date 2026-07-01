@@ -1,0 +1,38 @@
+{
+  "id": "n2-0250",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ポスター",
+  "display": "ポスター",
+  "meanings_zh": [
+    "招贴",
+    "广告画",
+    "宣传画",
+    "海报"
+  ],
+  "meanings_en": [
+    "poster"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ポスターは即刻壁から撤去された。",
+      "en": "The posters were immediately removed from the wall."
+    },
+    {
+      "ja": "あのポスターって、どういう意味？",
+      "en": "What does that poster mean?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

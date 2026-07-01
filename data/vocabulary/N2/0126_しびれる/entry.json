@@ -1,0 +1,35 @@
+{
+  "id": "n2-0126",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "しびれる",
+  "display": "しびれる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to become numb",
+    "to go to sleep (i.e.",
+    "a limb)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "左手がしびれるんです。",
+      "en": "My left hand is numb."
+    },
+    {
+      "ja": "その電線に触るとしびれるよ。",
+      "en": "If you touch that wire, you will receive a shock."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

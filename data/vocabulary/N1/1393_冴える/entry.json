@@ -1,0 +1,37 @@
+{
+  "id": "n1-1393",
+  "jlpt": "N1",
+  "kanji": "冴える",
+  "kana": "さえる",
+  "display": "冴える",
+  "meanings_zh": [
+    "寒冷",
+    "寒凉",
+    "冷峭",
+    "清寒料峭"
+  ],
+  "meanings_en": [
+    "to be clear",
+    "to be serene",
+    "to be cold",
+    "to be skillful"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "コーヒーを一杯飲むと頭が冴える。",
+      "en": "I feel more alert after drinking a cup of coffee."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n1-0506",
+  "jlpt": "N1",
+  "kanji": "押さえる",
+  "kana": "おさえる",
+  "display": "押さえる",
+  "meanings_zh": [
+    "压",
+    "按",
+    "摁",
+    "捂"
+  ],
+  "meanings_en": [
+    "to stop",
+    "to restrain",
+    "to seize",
+    "to repress",
+    "to suppress",
+    "to press down"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "低血糖症の人は、感情を押さえる力がないので、すぐに怖がったり怒ったりする。",
+      "en": "Since people suffering from low-level blood sugar disorder lack the ability to suppress their emotions, they easily get frightened and angry."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

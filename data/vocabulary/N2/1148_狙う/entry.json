@@ -1,0 +1,36 @@
+{
+  "id": "n2-1148",
+  "jlpt": "N2",
+  "kanji": "狙う",
+  "kana": "ねらう",
+  "display": "狙う",
+  "meanings_zh": [
+    "瞄准",
+    "寻找～～的机会"
+  ],
+  "meanings_en": [
+    "to aim at"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "どうせ、狙うなら東大よ。",
+      "en": "If you’re going to aim for something, aim for the University of Tokyo."
+    },
+    {
+      "ja": "どうせ、狙うなら灯台よ。",
+      "en": "Anyway, if aiming then aim at the lighthouse."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

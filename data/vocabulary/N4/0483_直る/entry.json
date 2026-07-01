@@ -1,0 +1,39 @@
+{
+  "id": "n4-0483",
+  "jlpt": "N4",
+  "kanji": "直る",
+  "kana": "なおる",
+  "display": "直る",
+  "meanings_zh": [
+    "改正过来",
+    "矫正过来",
+    "修理好",
+    "复原"
+  ],
+  "meanings_en": [
+    "to be fixed",
+    "to be repaired"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "すぐに立ち直るよね！",
+      "en": "I believe you'll get over it soon."
+    },
+    {
+      "ja": "離婚から立ち直るには時間がかかる。",
+      "en": "It takes time to heal from a divorce."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

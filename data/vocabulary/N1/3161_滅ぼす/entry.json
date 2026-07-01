@@ -1,0 +1,39 @@
+{
+  "id": "n1-3161",
+  "jlpt": "N1",
+  "kanji": "滅ぼす",
+  "kana": "ほろぼす",
+  "display": "滅ぼす",
+  "meanings_zh": [
+    "使灭亡",
+    "毁灭"
+  ],
+  "meanings_en": [
+    "to destroy",
+    "to overthrow",
+    "to wreck",
+    "to ruin"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "好奇心は身を滅ぼす。",
+      "en": "Curiosity killed the cat."
+    },
+    {
+      "ja": "核兵器はわが地球を滅ぼすと思う。",
+      "en": "We think nuclear weapons will destroy our earth."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

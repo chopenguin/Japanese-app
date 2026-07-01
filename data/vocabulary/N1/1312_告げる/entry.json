@@ -1,0 +1,38 @@
+{
+  "id": "n1-1312",
+  "jlpt": "N1",
+  "kanji": "告げる",
+  "kana": "つげる",
+  "display": "告げる",
+  "meanings_zh": [
+    "告诉",
+    "告知",
+    "通知",
+    "告"
+  ],
+  "meanings_en": [
+    "to inform"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "熱狂の宴が始まりを告げる。",
+      "en": "A frenzied feasting tells of the beginning."
+    },
+    {
+      "ja": "問題はだれが彼に真実を告げるかだ。",
+      "en": "The problem is who is going to tell him the truth."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

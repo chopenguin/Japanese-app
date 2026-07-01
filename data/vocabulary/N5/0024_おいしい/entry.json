@@ -1,0 +1,38 @@
+{
+  "id": "n5-0024",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "おいしい",
+  "display": "おいしい",
+  "meanings_zh": [
+    "好吃",
+    "好喝",
+    "可口",
+    "味道鲜美"
+  ],
+  "meanings_en": [
+    "delicious"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この魚おいしい。",
+      "en": "This fish is delicious."
+    },
+    {
+      "ja": "バナナおいしい。",
+      "en": "Bananas are delicious."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

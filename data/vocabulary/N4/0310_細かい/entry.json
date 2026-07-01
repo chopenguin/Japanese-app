@@ -1,0 +1,39 @@
+{
+  "id": "n4-0310",
+  "jlpt": "N4",
+  "kanji": "細かい",
+  "kana": "こまかい",
+  "display": "細かい",
+  "meanings_zh": [
+    "小",
+    "细",
+    "零碎",
+    "详细"
+  ],
+  "meanings_en": [
+    "small",
+    "fine"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は細かいんだ。",
+      "en": "I'm fussy."
+    },
+    {
+      "ja": "細かい雨が降っていた。",
+      "en": "A fine rain was falling."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "n2-1285",
+  "jlpt": "N2",
+  "kanji": "貯蔵",
+  "kana": "ちょぞう",
+  "display": "貯蔵",
+  "meanings_zh": [
+    "储藏",
+    "储存",
+    "贮存"
+  ],
+  "meanings_en": [
+    "storage",
+    "preservation"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "貯蔵庫のドアのそばの刈り残した伸びた芝はどうなんだい。",
+      "en": "What about the tall grass you left over by the cellar door?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

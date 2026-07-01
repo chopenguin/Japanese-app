@@ -1,0 +1,30 @@
+{
+  "id": "n1-2093",
+  "jlpt": "N1",
+  "kanji": "染みる",
+  "kana": "しみる",
+  "display": "染みる",
+  "meanings_zh": [
+    "染上",
+    "沾染",
+    "感染",
+    "渗"
+  ],
+  "meanings_en": [
+    "to pierce",
+    "to permeate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

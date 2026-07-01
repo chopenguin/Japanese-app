@@ -1,0 +1,38 @@
+{
+  "id": "n3-1368",
+  "jlpt": "N3",
+  "kanji": "凍る",
+  "kana": "こおる",
+  "display": "凍る",
+  "meanings_zh": [
+    "结冰",
+    "结冻"
+  ],
+  "meanings_en": [
+    "to freeze",
+    "to be frozen over",
+    "to congeal"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "凍るように冷たい。",
+      "en": "It is freezing cold."
+    },
+    {
+      "ja": "水は摂氏０度で凍る。",
+      "en": "Water freezes at 0 degrees Centigrade."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

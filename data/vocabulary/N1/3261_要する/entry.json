@@ -1,0 +1,40 @@
+{
+  "id": "n1-3261",
+  "jlpt": "N1",
+  "kanji": "要する",
+  "kana": "ようする",
+  "display": "要する",
+  "meanings_zh": [
+    "需要",
+    "须要",
+    "须",
+    "要"
+  ],
+  "meanings_en": [
+    "to demand",
+    "to require",
+    "to take"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "要するに人生は短い。",
+      "en": "In a word, life is short."
+    },
+    {
+      "ja": "その家は大修理を要する。",
+      "en": "The house requires repairs."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

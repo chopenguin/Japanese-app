@@ -1,0 +1,41 @@
+{
+  "id": "n1-0022",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "いざ",
+  "display": "いざ",
+  "meanings_zh": [
+    "喂",
+    "唉",
+    "好啦",
+    "来吧"
+  ],
+  "meanings_en": [
+    "now",
+    "come (now)",
+    "well",
+    "crucial moment"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "いざという時役に立つよ。",
+      "en": "This will come in handy in a pinch."
+    },
+    {
+      "ja": "いざとなれば勇気が湧いてくる。",
+      "en": "Your courage will come out in a crisis."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n2-1691",
+  "jlpt": "N2",
+  "kanji": "有難い",
+  "kana": "ありがたい",
+  "display": "有難い",
+  "meanings_zh": [
+    "难得",
+    "少有",
+    "可贵",
+    "值得欢迎"
+  ],
+  "meanings_en": [
+    "grateful",
+    "thankful",
+    "welcome",
+    "appreciated",
+    "evoking gratitude"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "それは有難い。",
+      "en": "That's very big of you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

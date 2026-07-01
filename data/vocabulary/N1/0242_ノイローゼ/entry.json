@@ -1,0 +1,38 @@
+{
+  "id": "n1-0242",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ノイローゼ",
+  "display": "ノイローゼ",
+  "meanings_zh": [
+    "神经过敏",
+    "神经官能症",
+    "神经病",
+    "神经衰弱"
+  ],
+  "meanings_en": [
+    "(de:) (n) neurosis (de: Neurose)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ノイローゼになるかと思ったわ。",
+      "en": "I thought I was going to have a nervous breakdown."
+    },
+    {
+      "ja": "本物のノイローゼの奴がノイローゼだなんて自称するのかね？",
+      "en": "Do you think real neurotics really go and call themselves such?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

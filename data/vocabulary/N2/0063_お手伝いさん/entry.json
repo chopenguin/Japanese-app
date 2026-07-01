@@ -1,0 +1,33 @@
+{
+  "id": "n2-0063",
+  "jlpt": "N2",
+  "kanji": "お手伝いさん",
+  "kana": "おてつだいさん",
+  "display": "お手伝いさん",
+  "meanings_zh": [],
+  "meanings_en": [
+    "maid"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私はあなたのお手伝いさんじゃありません。",
+      "en": "I'm not your maid."
+    },
+    {
+      "ja": "お手伝いさんはすぐに食卓から食器をかたづけた。",
+      "en": "The maid immediately cleaned the dishes from the table."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

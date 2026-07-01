@@ -1,0 +1,40 @@
+{
+  "id": "n3-0462",
+  "jlpt": "N3",
+  "kanji": "換える",
+  "kana": "かえる",
+  "display": "換える",
+  "meanings_zh": [
+    "换",
+    "交换",
+    "变换"
+  ],
+  "meanings_en": [
+    "to exchange",
+    "to interchange",
+    "to substitute",
+    "to replace"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "乗り換えるのですか。",
+      "en": "Do I have to change trains?"
+    },
+    {
+      "ja": "東京駅で乗り換えるんだよ。",
+      "en": "Change trains at Tokyo Station."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

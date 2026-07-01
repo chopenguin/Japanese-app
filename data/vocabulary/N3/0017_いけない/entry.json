@@ -1,0 +1,41 @@
+{
+  "id": "n3-0017",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "いけない",
+  "display": "いけない",
+  "meanings_zh": [
+    "不可以",
+    "不行",
+    "不准",
+    "不要"
+  ],
+  "meanings_en": [
+    "must not do",
+    "bad",
+    "wrong",
+    "not good"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "いけない人！",
+      "en": "You're bad."
+    },
+    {
+      "ja": "なぜいけないの？",
+      "en": "Why not?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "n2-1487",
+  "jlpt": "N2",
+  "kanji": "反る",
+  "kana": "かえる",
+  "display": "反る",
+  "meanings_zh": [
+    "翻 完全",
+    "十分"
+  ],
+  "meanings_en": [
+    "to warp",
+    "to be warped",
+    "to curve"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

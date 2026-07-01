@@ -1,0 +1,38 @@
+{
+  "id": "n3-0203",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "（副）",
+  "display": "ふと",
+  "meanings_zh": [],
+  "meanings_en": [
+    "suddenly",
+    "casually",
+    "accidentally",
+    "incidentally",
+    "unexpectedly",
+    "unintentionally"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "僕はふと足を止めた。",
+      "en": "Suddenly, my feet stopped."
+    },
+    {
+      "ja": "ふと街で彼に会った。",
+      "en": "I met him on the street by chance."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n1-0481",
+  "jlpt": "N1",
+  "kanji": "演じる",
+  "kana": "えんじる",
+  "display": "演じる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to perform (a play)",
+    "to play (a part)",
+    "to act (a part)",
+    "to commit (a blunder)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "重要な役を演じる。",
+      "en": "I play an important part."
+    },
+    {
+      "ja": "誰がお姫様の役を演じるの。",
+      "en": "Who will play the role of the princess?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

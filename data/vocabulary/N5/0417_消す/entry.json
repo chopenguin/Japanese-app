@@ -1,0 +1,39 @@
+{
+  "id": "n5-0417",
+  "jlpt": "N5",
+  "kanji": "消す",
+  "kana": "けす",
+  "display": "消す",
+  "meanings_zh": [
+    "熄灭",
+    "扑灭",
+    "关掉",
+    "消失"
+  ],
+  "meanings_en": [
+    "to erase",
+    "to turn off power"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "電気を消すな。",
+      "en": "Don't turn off the light."
+    },
+    {
+      "ja": "ごめん、取り消すよ。",
+      "en": "I'm sorry. I take back my words."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

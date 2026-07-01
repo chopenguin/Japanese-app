@@ -1,0 +1,38 @@
+{
+  "id": "n2-0652",
+  "jlpt": "N2",
+  "kanji": "現に",
+  "kana": "げんに",
+  "display": "現に",
+  "meanings_zh": [
+    "实际",
+    "现在",
+    "亲眼"
+  ],
+  "meanings_en": [
+    "actually",
+    "really"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は彼の突然の出現に我を忘れた。",
+      "en": "I was beside myself with his sudden appearance."
+    },
+    {
+      "ja": "英語はイディオム表現に富んだ言語である。",
+      "en": "English is a language abounding in idiomatic expressions."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

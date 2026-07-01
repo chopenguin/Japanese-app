@@ -1,0 +1,34 @@
+{
+  "id": "n3-0977",
+  "jlpt": "N3",
+  "kanji": "少々",
+  "kana": "しょうしょう",
+  "display": "少々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "just a minute",
+    "small quantity"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "少々自慢なのです。",
+      "en": "I'm rather proud of it."
+    },
+    {
+      "ja": "少々お待ち下さい。",
+      "en": "Hold on, please."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

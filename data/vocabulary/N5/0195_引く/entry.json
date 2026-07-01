@@ -1,0 +1,38 @@
+{
+  "id": "n5-0195",
+  "jlpt": "N5",
+  "kanji": "引く",
+  "kana": "ひく",
+  "display": "引く",
+  "meanings_zh": [
+    "拉",
+    "曳",
+    "牵",
+    "拖"
+  ],
+  "meanings_en": [
+    "to pull"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "風邪引くよ。",
+      "en": "You'll catch a cold."
+    },
+    {
+      "ja": "風邪はよく引くの？",
+      "en": "Do you catch colds often?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

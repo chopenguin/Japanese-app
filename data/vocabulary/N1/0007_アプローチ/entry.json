@@ -1,0 +1,38 @@
+{
+  "id": "n1-0007",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "アプローチ",
+  "display": "アプローチ",
+  "meanings_zh": [
+    "接近",
+    "靠近",
+    "探讨",
+    "研究"
+  ],
+  "meanings_en": [
+    "approach (in golf)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "うまいアプローチだね。",
+      "en": "That's a good approach."
+    },
+    {
+      "ja": "この分析には以下のアプローチがとられた。",
+      "en": "The approach employed in this analysis was as follows."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

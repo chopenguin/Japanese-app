@@ -1,0 +1,38 @@
+{
+  "id": "n3-0201",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ビデオ",
+  "display": "ビデオ",
+  "meanings_zh": [
+    "影象",
+    "录象",
+    "视频",
+    "录象机"
+  ],
+  "meanings_en": [
+    "video"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ビデオ見たい人いるの？",
+      "en": "Who wants to watch a video?"
+    },
+    {
+      "ja": "ビデオで映画を見ました。",
+      "en": "I watched a movie on video."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n3-0022",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "いつか",
+  "display": "いつか",
+  "meanings_zh": [],
+  "meanings_en": [
+    "sometime",
+    "someday",
+    "one day"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "旅行はいつから？",
+      "en": "When do you start on your trip?"
+    },
+    {
+      "ja": "いつか電話してよ。",
+      "en": "Call me sometime."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

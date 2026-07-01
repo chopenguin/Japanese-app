@@ -1,0 +1,29 @@
+{
+  "id": "n2-0505",
+  "jlpt": "N2",
+  "kanji": "漢和",
+  "kana": "かんわ",
+  "display": "漢和",
+  "meanings_zh": [],
+  "meanings_en": [
+    "Chinese Character-Japanese (e.g. dictionary)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "漢和辞典で漢字の意味を調べたの。",
+      "en": "I looked up the meaning of a kanji in a Sino-Japanese dictionary."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

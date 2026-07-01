@@ -1,0 +1,34 @@
+{
+  "id": "n1-1161",
+  "jlpt": "N1",
+  "kanji": "現われ",
+  "kana": "あらわれ",
+  "display": "現われ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "embodiment",
+    "materialization"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "真実はいつか現われる。",
+      "en": "The truth will come out one day."
+    },
+    {
+      "ja": "彼は結局現われなかった。",
+      "en": "He didn't turn up after all."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

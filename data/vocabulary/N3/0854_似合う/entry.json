@@ -1,0 +1,41 @@
+{
+  "id": "n3-0854",
+  "jlpt": "N3",
+  "kanji": "似合う",
+  "kana": "にあう",
+  "display": "似合う",
+  "meanings_zh": [
+    "相称",
+    "相配",
+    "适称",
+    "合适"
+  ],
+  "meanings_en": [
+    "to suit",
+    "to match",
+    "to become",
+    "to be like"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "黒が似合うね。",
+      "en": "You look good in black."
+    },
+    {
+      "ja": "本当によく似合う。",
+      "en": "It really suits you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

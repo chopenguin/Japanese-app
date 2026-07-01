@@ -1,0 +1,37 @@
+{
+  "id": "n2-0139",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "スカーフ",
+  "display": "スカーフ",
+  "meanings_zh": [
+    "(方形或长方形)女用头巾",
+    "围巾",
+    "披肩"
+  ],
+  "meanings_en": [
+    "scarf"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "頭をスカーフで包みなさい。",
+      "en": "Wrap your head in a scarf."
+    },
+    {
+      "ja": "このスカーフはすべすべする。",
+      "en": "This scarf feels soft."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

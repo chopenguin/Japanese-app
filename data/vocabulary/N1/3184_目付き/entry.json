@@ -1,0 +1,28 @@
+{
+  "id": "n1-3184",
+  "jlpt": "N1",
+  "kanji": "目付き",
+  "kana": "めつき",
+  "display": "目付き",
+  "meanings_zh": [
+    "眼神"
+  ],
+  "meanings_en": [
+    "look",
+    "expression of the eyes",
+    "eyes"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

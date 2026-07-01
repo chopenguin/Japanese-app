@@ -1,0 +1,33 @@
+{
+  "id": "n2-0787",
+  "jlpt": "N2",
+  "kanji": "擦る",
+  "kana": "こする",
+  "display": "擦る",
+  "meanings_zh": [
+    "摩擦",
+    "擦",
+    "揉",
+    "搓"
+  ],
+  "meanings_en": [
+    "to rub",
+    "to chafe",
+    "to file",
+    "to frost (glass)",
+    "to strike (match)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

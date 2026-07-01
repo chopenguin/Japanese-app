@@ -1,0 +1,39 @@
+{
+  "id": "n2-0767",
+  "jlpt": "N2",
+  "kanji": "砕く",
+  "kana": "くだく",
+  "display": "砕く",
+  "meanings_zh": [
+    "打碎",
+    "砸碎",
+    "弄碎",
+    "粉碎"
+  ],
+  "meanings_en": [
+    "to break",
+    "to smash"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "愛は人の心を砕くこともできるのさ。",
+      "en": "But love can break your heart."
+    },
+    {
+      "ja": "ピックは硬い地表を砕くために用いられる長い取っ手の道具だ。",
+      "en": "A pick is a long handled tool used for breaking up hard ground surfaces."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n1-0293",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "マスコミ",
+  "display": "マスコミ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "mass communication"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "マスコミが報道しなかったのはなぜ？",
+      "en": "Why is it the mass media didn't report this?"
+    },
+    {
+      "ja": "イメージはマスコミの情報に形成される。",
+      "en": "An image is formed by the information in the media."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

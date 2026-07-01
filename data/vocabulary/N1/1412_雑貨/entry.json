@@ -1,0 +1,37 @@
+{
+  "id": "n1-1412",
+  "jlpt": "N1",
+  "kanji": "雑貨",
+  "kana": "ざっか",
+  "display": "雑貨",
+  "meanings_zh": [
+    "杂货"
+  ],
+  "meanings_en": [
+    "miscellaneous goods",
+    "general goods",
+    "sundries"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女の父は雑貨店をしている。",
+      "en": "Her father has a general store."
+    },
+    {
+      "ja": "昔ながらの雑貨屋という店構えだね。",
+      "en": "It looks like an old-fashioned general store."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

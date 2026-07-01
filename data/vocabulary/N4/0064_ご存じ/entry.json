@@ -1,0 +1,34 @@
+{
+  "id": "n4-0064",
+  "jlpt": "N4",
+  "kanji": "ご存じ",
+  "kana": "ごぞんじ",
+  "display": "ご存じ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "knowing",
+    "acquaintance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ご存じだった？",
+      "en": "Were you aware of this?"
+    },
+    {
+      "ja": "既にご存じのように。",
+      "en": "As you already know."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

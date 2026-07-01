@@ -1,0 +1,38 @@
+{
+  "id": "n4-0371",
+  "jlpt": "N4",
+  "kanji": "勝つ",
+  "kana": "かつ",
+  "display": "勝つ",
+  "meanings_zh": [
+    "胜",
+    "赢",
+    "战胜",
+    "获胜"
+  ],
+  "meanings_en": [
+    "to win"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "戦いに勝つ。",
+      "en": "We will win the day."
+    },
+    {
+      "ja": "真実が勝つ。",
+      "en": "Truth prevails."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

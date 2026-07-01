@@ -1,0 +1,38 @@
+{
+  "id": "n2-0116",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "さようなら",
+  "display": "さようなら",
+  "meanings_zh": [
+    "再见",
+    "再会",
+    "告别",
+    "离开"
+  ],
+  "meanings_en": [
+    "good-bye"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "さようなら！",
+      "en": "Good-bye!"
+    },
+    {
+      "ja": "さようなら。",
+      "en": "See you again."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

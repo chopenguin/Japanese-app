@@ -1,0 +1,33 @@
+{
+  "id": "n1-2204",
+  "jlpt": "N1",
+  "kanji": "其処ら",
+  "kana": "そこら",
+  "display": "其処ら",
+  "meanings_zh": [
+    "那一带",
+    "那里",
+    "一般",
+    "那样"
+  ],
+  "meanings_en": [
+    "everywhere",
+    "somewhere",
+    "approximately",
+    "that area",
+    "around there"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

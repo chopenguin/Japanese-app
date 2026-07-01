@@ -1,0 +1,38 @@
+{
+  "id": "n4-0028",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "おかしい",
+  "display": "おかしい",
+  "meanings_zh": [
+    "可笑",
+    "滑稽",
+    "奇怪",
+    "不正常"
+  ],
+  "meanings_en": [
+    "strange or funny"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何かがおかしい。",
+      "en": "Something is strange."
+    },
+    {
+      "ja": "彼の話はおかしい。",
+      "en": "His story sounds strange."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n3-1383",
+  "jlpt": "N3",
+  "kanji": "動かす",
+  "kana": "うごかす",
+  "display": "動かす",
+  "meanings_zh": [
+    "动",
+    "活动",
+    "摇动",
+    "移动"
+  ],
+  "meanings_en": [
+    "to move",
+    "to shift"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "信仰は山をも動かす。",
+      "en": "Faith can move mountains."
+    },
+    {
+      "ja": "動かすの手伝ってよ。",
+      "en": "Help me move it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

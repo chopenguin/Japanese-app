@@ -1,0 +1,35 @@
+{
+  "id": "n1-2250",
+  "jlpt": "N1",
+  "kanji": "帯びる",
+  "kana": "おびる",
+  "display": "帯びる",
+  "meanings_zh": [
+    "佩带",
+    "携带",
+    "担任",
+    "担负"
+  ],
+  "meanings_en": [
+    "to wear",
+    "to carry",
+    "to be entrusted",
+    "to have",
+    "to take on",
+    "to have a trace of",
+    "to be tinged with"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

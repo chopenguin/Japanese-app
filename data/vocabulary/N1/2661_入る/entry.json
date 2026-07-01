@@ -1,0 +1,43 @@
+{
+  "id": "n1-2661",
+  "jlpt": "N1",
+  "kanji": "入る",
+  "kana": "いる",
+  "display": "入る",
+  "meanings_zh": [
+    "入",
+    "进入",
+    "没",
+    "没入"
+  ],
+  "meanings_en": [
+    "to get in",
+    "to go in",
+    "to come in",
+    "to flow into",
+    "to set",
+    "to set in"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "芝生に入るな。",
+      "en": "Keep off the grass!"
+    },
+    {
+      "ja": "私が中に入る。",
+      "en": "I'll go in."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

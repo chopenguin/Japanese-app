@@ -1,0 +1,38 @@
+{
+  "id": "n2-1440",
+  "jlpt": "N2",
+  "kanji": "燃やす",
+  "kana": "もやす",
+  "display": "燃やす",
+  "meanings_zh": [
+    "烧",
+    "燃烧",
+    "燃起",
+    "迸发出"
+  ],
+  "meanings_en": [
+    "to burn"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "石炭や石油やガスを燃やすと、様々なガスが発生する。",
+      "en": "If we burn fuels such as coal, oil and gas, they give off various gases."
+    },
+    {
+      "ja": "プラスチックを燃やすと有毒ガスが発生する場合があります。",
+      "en": "Burning plastic can release toxic gases."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

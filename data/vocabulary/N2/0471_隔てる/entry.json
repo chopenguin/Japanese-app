@@ -1,0 +1,38 @@
+{
+  "id": "n2-0471",
+  "jlpt": "N2",
+  "kanji": "隔てる",
+  "kana": "へだてる",
+  "display": "隔てる",
+  "meanings_zh": [
+    "隔开",
+    "分开",
+    "间隔",
+    "遮挡"
+  ],
+  "meanings_en": [
+    "to be shut out"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "海とこれを隔てるのは何ですか？",
+      "en": "What is it that separates this from the sea?"
+    },
+    {
+      "ja": "罪を犯す人と犯さない人とを隔てる壁は我々が考えているより薄い。",
+      "en": "The wall separating criminals from non-criminals is not as thick as we think."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

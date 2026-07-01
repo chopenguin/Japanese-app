@@ -1,0 +1,35 @@
+{
+  "id": "n4-0152",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ワープロ",
+  "display": "ワープロ",
+  "meanings_zh": [
+    "语言处理机"
+  ],
+  "meanings_en": [
+    "word processor"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ワープロを買いたい。",
+      "en": "I want to buy a word processor."
+    },
+    {
+      "ja": "このワープロは大変便利だ。",
+      "en": "This word-processor is very convenient."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "n1-2958",
+  "jlpt": "N1",
+  "kanji": "平たい",
+  "kana": "ひらたい",
+  "display": "平たい",
+  "meanings_zh": [
+    "平",
+    "平坦",
+    "扁",
+    "扁平"
+  ],
+  "meanings_en": [
+    "flat",
+    "even",
+    "level",
+    "simple",
+    "plain"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "古代人たちは地球は平たいと信じていた。",
+      "en": "The ancients believed the earth was flat."
+    },
+    {
+      "ja": "膝の前面にある平たい皿状の骨は膝蓋骨と言います。",
+      "en": "The flat, dish-shaped bone in front of the knee joint is called the patella."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

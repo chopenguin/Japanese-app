@@ -1,0 +1,39 @@
+{
+  "id": "n2-0506",
+  "jlpt": "N2",
+  "kanji": "甘やかす",
+  "kana": "あまやかす",
+  "display": "甘やかす",
+  "meanings_zh": [
+    "姑息",
+    "娇养",
+    "纵容",
+    "放任"
+  ],
+  "meanings_en": [
+    "to pamper",
+    "to spoil"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "子供を甘やかすな。",
+      "en": "Don't spoil your child."
+    },
+    {
+      "ja": "甘やかすからつけあがるんだ。",
+      "en": "They take advantage of you because you spoil them."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

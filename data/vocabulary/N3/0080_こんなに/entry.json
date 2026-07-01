@@ -1,0 +1,39 @@
+{
+  "id": "n3-0080",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "こんなに",
+  "display": "こんなに",
+  "meanings_zh": [
+    "这样",
+    "这么",
+    "如此"
+  ],
+  "meanings_en": [
+    "so",
+    "like this",
+    "in this way"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "普段こんなに無口なの？",
+      "en": "Are you normally this quiet?"
+    },
+    {
+      "ja": "なんでこんなに安いの？",
+      "en": "Why's it so cheap?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

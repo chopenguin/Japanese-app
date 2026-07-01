@@ -1,0 +1,38 @@
+{
+  "id": "n1-0135",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "システム",
+  "display": "システム",
+  "meanings_zh": [
+    "组织",
+    "系统",
+    "体系",
+    "机构"
+  ],
+  "meanings_en": [
+    "system"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムはシステムエンジニアだ。",
+      "en": "Tom is a systems engineer."
+    },
+    {
+      "ja": "これはすごいシステムだと思う。",
+      "en": "I think this is a great system."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

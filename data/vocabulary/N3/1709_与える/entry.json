@@ -1,0 +1,40 @@
+{
+  "id": "n3-1709",
+  "jlpt": "N3",
+  "kanji": "与える",
+  "kana": "あたえる",
+  "display": "与える",
+  "meanings_zh": [
+    "给",
+    "与",
+    "给予",
+    "供给"
+  ],
+  "meanings_en": [
+    "to give",
+    "to present",
+    "to award"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "豚に真珠を与えるな。",
+      "en": "Cast not pearls before swine."
+    },
+    {
+      "ja": "悪い本は害を与える。",
+      "en": "Bad books will do you harm."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

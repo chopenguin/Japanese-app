@@ -1,0 +1,40 @@
+{
+  "id": "n3-1214",
+  "jlpt": "N3",
+  "kanji": "対する",
+  "kana": "たいする",
+  "display": "対する",
+  "meanings_zh": [
+    "对",
+    "面对",
+    "面向",
+    "对于"
+  ],
+  "meanings_en": [
+    "to face",
+    "to confront",
+    "to oppose"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムは反対するかもよ。",
+      "en": "Tom might object."
+    },
+    {
+      "ja": "彼は事毎に私に反対する。",
+      "en": "He opposes me at every turn."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

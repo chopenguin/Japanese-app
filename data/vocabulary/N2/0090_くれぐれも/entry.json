@@ -1,0 +1,39 @@
+{
+  "id": "n2-0090",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "くれぐれも",
+  "display": "くれぐれも",
+  "meanings_zh": [
+    "反复",
+    "周到",
+    "仔细"
+  ],
+  "meanings_en": [
+    "repeatedly",
+    "sincerely",
+    "earnestly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "くれぐれもお体をお大事に。",
+      "en": "Please take good care of yourself."
+    },
+    {
+      "ja": "あの方にくれぐれもよろしく。",
+      "en": "Give him my best regards."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

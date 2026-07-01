@@ -1,0 +1,34 @@
+{
+  "id": "n5-0098",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "たばこ",
+  "display": "たばこ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "tobacco",
+    "cigarettes"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "たばこ止めたら？",
+      "en": "Why don't you give up smoking?"
+    },
+    {
+      "ja": "父はたばこを吸う。",
+      "en": "My father smokes."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

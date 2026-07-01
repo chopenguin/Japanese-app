@@ -1,0 +1,30 @@
+{
+  "id": "n1-0873",
+  "jlpt": "N1",
+  "kanji": "掬う",
+  "kana": "すくう",
+  "display": "掬う",
+  "meanings_zh": [
+    "抄取",
+    "捞取",
+    "掬取",
+    "捧"
+  ],
+  "meanings_en": [
+    "to scoop",
+    "to ladle out"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n1-0113",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "コンタクト",
+  "display": "コンタクト",
+  "meanings_zh": [
+    "接触",
+    "接点",
+    "触点"
+  ],
+  "meanings_en": [
+    "contact",
+    "contact lens"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "コンタクト見つかった？",
+      "en": "Did you find your contact lenses?"
+    },
+    {
+      "ja": "コンタクトをつけてるんだ。",
+      "en": "I wear contact lenses."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

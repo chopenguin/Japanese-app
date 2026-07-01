@@ -1,0 +1,39 @@
+{
+  "id": "n1-0311",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ゆとり",
+  "display": "ゆとり",
+  "meanings_zh": [
+    "宽裕",
+    "余地"
+  ],
+  "meanings_en": [
+    "reserve",
+    "affluence",
+    "room",
+    "time (to spare)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼には結婚するゆとりはない。",
+      "en": "He cannot afford to marry."
+    },
+    {
+      "ja": "彼には新車を買うゆとりがない。",
+      "en": "He can't afford a new car."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

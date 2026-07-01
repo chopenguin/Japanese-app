@@ -1,0 +1,33 @@
+{
+  "id": "n3-0152",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ですから",
+  "display": "ですから",
+  "meanings_zh": [],
+  "meanings_en": [
+    "therefore"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "法律ですから。",
+      "en": "It's the law."
+    },
+    {
+      "ja": "重そうですから。",
+      "en": "Because it seems to be heavy."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

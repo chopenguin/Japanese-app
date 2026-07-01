@@ -1,0 +1,38 @@
+{
+  "id": "n3-0333",
+  "jlpt": "N3",
+  "kanji": "越す",
+  "kana": "こす",
+  "display": "越す",
+  "meanings_zh": [
+    "越过",
+    "跨过",
+    "经过",
+    "渡过"
+  ],
+  "meanings_en": [
+    "to go over (e.g. with audience)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "引っ越すの？",
+      "en": "Are we moving?"
+    },
+    {
+      "ja": "どこに引っ越すの？",
+      "en": "Where are you moving to?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n1-3143",
+  "jlpt": "N1",
+  "kanji": "名高い",
+  "kana": "なだかい",
+  "display": "名高い",
+  "meanings_zh": [
+    "有名",
+    "著名",
+    "出名"
+  ],
+  "meanings_en": [
+    "famous",
+    "celebrated",
+    "well-known"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼女は歌手として名高い。",
+      "en": "She is famous as a singer."
+    },
+    {
+      "ja": "その湖は水質汚染で悪名高い。",
+      "en": "The lake is notorious for its contamination."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

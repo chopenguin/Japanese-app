@@ -1,0 +1,38 @@
+{
+  "id": "n3-0275",
+  "jlpt": "N3",
+  "kanji": "意識",
+  "kana": "いしき",
+  "display": "意識",
+  "meanings_zh": [
+    "意识",
+    "认识",
+    "觉悟"
+  ],
+  "meanings_en": [
+    "consciousness",
+    "senses"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "意識を失いました。",
+      "en": "I lost consciousness."
+    },
+    {
+      "ja": "意識がありません。",
+      "en": "She is unconscious."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

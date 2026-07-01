@@ -1,0 +1,28 @@
+{
+  "id": "n1-2428",
+  "jlpt": "N1",
+  "kanji": "捗る",
+  "kana": "はかどる",
+  "display": "捗る",
+  "meanings_zh": [
+    "进展"
+  ],
+  "meanings_en": [
+    "to make progress",
+    "to move right ahead (with the work)",
+    "to advance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

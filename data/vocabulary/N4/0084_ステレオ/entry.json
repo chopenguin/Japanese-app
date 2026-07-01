@@ -1,0 +1,38 @@
+{
+  "id": "n4-0084",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ステレオ",
+  "display": "ステレオ",
+  "meanings_zh": [
+    "立体",
+    "立体声",
+    "立体声设备",
+    "实感音响设备"
+  ],
+  "meanings_en": [
+    "stereo"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ステレオの音、小さくしてよ。",
+      "en": "Turn down the stereo."
+    },
+    {
+      "ja": "自分のステレオを持っています。",
+      "en": "I have my own stereo set."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

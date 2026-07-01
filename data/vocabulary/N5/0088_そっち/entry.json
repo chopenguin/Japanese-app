@@ -1,0 +1,33 @@
+{
+  "id": "n5-0088",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "そっち",
+  "display": "そっち",
+  "meanings_zh": [],
+  "meanings_en": [
+    "over there"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そっちの天気は？",
+      "en": "How's the weather there?"
+    },
+    {
+      "ja": "今そっちに行く。",
+      "en": "I'm going there now."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n2-0297",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "レジャー",
+  "display": "レジャー",
+  "meanings_zh": [
+    "空闲",
+    "闲暇",
+    "业余时间",
+    "业余时间的娱乐"
+  ],
+  "meanings_en": [
+    "leisure"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私には彼のレジャー観が面白い。",
+      "en": "I'm amused by his idea of leisure."
+    },
+    {
+      "ja": "まず仕事かレジャーかと聞かれる。",
+      "en": "First you'll be asked if you're on business or leisure."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

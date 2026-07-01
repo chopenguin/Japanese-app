@@ -1,0 +1,33 @@
+{
+  "id": "n2-0425",
+  "jlpt": "N2",
+  "kanji": "俄",
+  "kana": "にわか",
+  "display": "俄",
+  "meanings_zh": [],
+  "meanings_en": [
+    "sudden",
+    "abrupt",
+    "unexpected",
+    "improvised",
+    "offhand"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ウオーッ、みんなの励ましをもらって俄然やる気が出てきたぞ！",
+      "en": "All right! Everybody around me is so encouraging I'm getting a rush of motivation."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

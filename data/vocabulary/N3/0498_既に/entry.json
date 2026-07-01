@@ -1,0 +1,38 @@
+{
+  "id": "n3-0498",
+  "jlpt": "N3",
+  "kanji": "既に",
+  "kana": "すでに",
+  "display": "既に",
+  "meanings_zh": [
+    "已",
+    "已经",
+    "业已"
+  ],
+  "meanings_en": [
+    "already",
+    "too late"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あ、既にあった！",
+      "en": "Oh! It was already there."
+    },
+    {
+      "ja": "既にご存じのように。",
+      "en": "As you already know."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

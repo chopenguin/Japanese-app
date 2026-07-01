@@ -1,0 +1,42 @@
+{
+  "id": "n3-0128",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "それぞれ",
+  "display": "それぞれ",
+  "meanings_zh": [
+    "各",
+    "分别",
+    "各各",
+    "每个"
+  ],
+  "meanings_en": [
+    "each",
+    "every",
+    "either",
+    "respectively",
+    "severally"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "人それぞれ。",
+      "en": "There's all kinds of people."
+    },
+    {
+      "ja": "人それぞれだよ。",
+      "en": "To each their own."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

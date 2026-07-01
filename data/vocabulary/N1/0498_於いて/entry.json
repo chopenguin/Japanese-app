@@ -1,0 +1,31 @@
+{
+  "id": "n1-0498",
+  "jlpt": "N1",
+  "kanji": "於いて",
+  "kana": "おいて",
+  "display": "於いて",
+  "meanings_zh": [
+    "在",
+    "于",
+    "在～～方面",
+    "关于"
+  ],
+  "meanings_en": [
+    "at",
+    "in",
+    "on"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

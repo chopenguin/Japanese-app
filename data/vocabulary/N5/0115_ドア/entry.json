@@ -1,0 +1,36 @@
+{
+  "id": "n5-0115",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ドア",
+  "display": "ドア",
+  "meanings_zh": [
+    "门",
+    "扉"
+  ],
+  "meanings_en": [
+    "Western style door"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ドア閉めて。",
+      "en": "Close the door."
+    },
+    {
+      "ja": "半ドアだよ。",
+      "en": "Your door isn't closed."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

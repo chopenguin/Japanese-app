@@ -1,0 +1,38 @@
+{
+  "id": "n3-1492",
+  "jlpt": "N3",
+  "kanji": "被る",
+  "kana": "かぶる",
+  "display": "被る",
+  "meanings_zh": [
+    "戴",
+    "蒙",
+    "盖",
+    "套"
+  ],
+  "meanings_en": [
+    "to suffer"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "教室では帽子を被るべきではない。",
+      "en": "Your hat should not be worn in the classroom."
+    },
+    {
+      "ja": "二酸化炭素によって危害を被ることがある。",
+      "en": "Carbon dioxide sometimes harms people."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

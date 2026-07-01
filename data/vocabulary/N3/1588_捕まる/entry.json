@@ -1,0 +1,39 @@
+{
+  "id": "n3-1588",
+  "jlpt": "N3",
+  "kanji": "捕まる",
+  "kana": "つかまる",
+  "display": "捕まる",
+  "meanings_zh": [
+    "被捉住",
+    "被捕获",
+    "被逮住",
+    "抓住"
+  ],
+  "meanings_en": [
+    "to be caught",
+    "to be arrested"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "警察に捕まるかと思った。",
+      "en": "I thought I was going to get caught by the police."
+    },
+    {
+      "ja": "警察に捕まるような恐れがあるのですか。",
+      "en": "Is there any risk of being caught by the police?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

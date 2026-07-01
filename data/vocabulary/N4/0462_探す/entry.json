@@ -1,0 +1,38 @@
+{
+  "id": "n4-0462",
+  "jlpt": "N4",
+  "kanji": "探す",
+  "kana": "さがす",
+  "display": "探す",
+  "meanings_zh": [
+    "寻找",
+    "寻求",
+    "追求",
+    "搜寻"
+  ],
+  "meanings_en": [
+    "to look for"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "他の仕事を探すよ。",
+      "en": "I'll find another job."
+    },
+    {
+      "ja": "探す人が、見つけるのだ。",
+      "en": "Who searches, finds."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

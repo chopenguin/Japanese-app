@@ -1,0 +1,38 @@
+{
+  "id": "n5-0616",
+  "jlpt": "N5",
+  "kanji": "無くす",
+  "kana": "なくす",
+  "display": "無くす",
+  "meanings_zh": [
+    "丢",
+    "丢失",
+    "丢掉",
+    "丧失"
+  ],
+  "meanings_en": [
+    "to lose something"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "新しい政府は国から腐敗を無くすと約束した。",
+      "en": "The new government promised to rid the country of corruption."
+    },
+    {
+      "ja": "大事な書類を無くすとはあなたも不注意でしたね。",
+      "en": "It was careless of you to lose the important documents."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

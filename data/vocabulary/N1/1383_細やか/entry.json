@@ -1,0 +1,34 @@
+{
+  "id": "n1-1383",
+  "jlpt": "N1",
+  "kanji": "細やか",
+  "kana": "こまやか",
+  "display": "細やか",
+  "meanings_zh": [
+    "浓厚",
+    "细腻",
+    "深厚",
+    "细致"
+  ],
+  "meanings_en": [
+    "friendly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "細やかなお心遣いに感謝いたします。",
+      "en": "I appreciate your attention to detail."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "n3-0908",
+  "jlpt": "N3",
+  "kanji": "収める",
+  "kana": "おさめる",
+  "display": "収める",
+  "meanings_zh": [
+    "收",
+    "接受",
+    "取得",
+    "获得"
+  ],
+  "meanings_en": [
+    "to obtain",
+    "to reap",
+    "to pay",
+    "to supply",
+    "to accept"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼が選挙で勝利を収めるのは明らかだ。",
+      "en": "It is apparent that he will win the election."
+    },
+    {
+      "ja": "その若者はこの仕事で成功を収めるであろう。",
+      "en": "That young man is going to go far in this profession."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

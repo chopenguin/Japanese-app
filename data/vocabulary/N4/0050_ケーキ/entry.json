@@ -1,0 +1,36 @@
+{
+  "id": "n4-0050",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ケーキ",
+  "display": "ケーキ",
+  "meanings_zh": [
+    "洋点心",
+    "西洋糕点"
+  ],
+  "meanings_en": [
+    "cake"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ケーキは嘘だ。",
+      "en": "The cake is a lie."
+    },
+    {
+      "ja": "ケーキをどうぞ。",
+      "en": "Help yourself to the cake."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

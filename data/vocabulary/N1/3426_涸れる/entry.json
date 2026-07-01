@@ -1,0 +1,29 @@
+{
+  "id": "n1-3426",
+  "jlpt": "N1",
+  "kanji": "涸れる",
+  "kana": "かれる",
+  "display": "涸れる",
+  "meanings_zh": [
+    "干",
+    "干涸",
+    "枯竭"
+  ],
+  "meanings_en": [
+    "to dry up",
+    "to run out"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

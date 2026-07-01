@@ -1,0 +1,31 @@
+{
+  "id": "n1-3411",
+  "jlpt": "N1",
+  "kanji": "嫋か",
+  "kana": "しなやか",
+  "display": "嫋か",
+  "meanings_zh": [
+    "柔软",
+    "软和",
+    "颤颤巍巍",
+    "有弹性"
+  ],
+  "meanings_en": [
+    "supple",
+    "flexible",
+    "elastic"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

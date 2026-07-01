@@ -1,0 +1,34 @@
+{
+  "id": "n5-0660",
+  "jlpt": "N5",
+  "kanji": "六日",
+  "kana": "むいか",
+  "display": "六日",
+  "meanings_zh": [],
+  "meanings_en": [
+    "six days",
+    "sixth day of the month"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムは、六日間だけ迷子の犬を預かることにしました。",
+      "en": "Tom only looked after the stray for 6 days."
+    },
+    {
+      "ja": "私が通っている学校では、八月六日は平和の大切さを心に刻む１日として毎年『平和学習』が行われます。",
+      "en": "At the school I attend, August 6th is observed each year as \"Peace Learning Day\" to emphasize the importance of peace."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

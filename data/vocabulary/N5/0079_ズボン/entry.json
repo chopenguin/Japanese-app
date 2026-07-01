@@ -1,0 +1,36 @@
+{
+  "id": "n5-0079",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ズボン",
+  "display": "ズボン",
+  "meanings_zh": [
+    "裤子",
+    "西(服)裤"
+  ],
+  "meanings_en": [
+    "trousers"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ズボン返してよ。",
+      "en": "Give me back my pants."
+    },
+    {
+      "ja": "このズボンいくら？",
+      "en": "How much do these pants cost?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

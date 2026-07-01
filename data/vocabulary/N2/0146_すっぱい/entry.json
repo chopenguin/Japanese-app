@@ -1,0 +1,34 @@
+{
+  "id": "n2-0146",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "すっぱい",
+  "display": "すっぱい",
+  "meanings_zh": [],
+  "meanings_en": [
+    "sour",
+    "acid"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "酢はすっぱい味がする。",
+      "en": "Vinegar has a sharp taste."
+    },
+    {
+      "ja": "レモンはすっぱい果物だ。",
+      "en": "The lemon is a sour fruit."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

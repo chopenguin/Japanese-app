@@ -1,0 +1,40 @@
+{
+  "id": "n3-0913",
+  "jlpt": "N3",
+  "kanji": "就く",
+  "kana": "つく",
+  "display": "就く",
+  "meanings_zh": [
+    "就",
+    "登上",
+    "从事"
+  ],
+  "meanings_en": [
+    "to settle in (place)",
+    "to take (seat",
+    "position)",
+    "to study (under teacher)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この国で仕事に就くのは難しいよ。",
+      "en": "It's hard to get a job in this country."
+    },
+    {
+      "ja": "友人の好意で職に就くことができた。",
+      "en": "I was able to get a job through the good offices of my friend."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

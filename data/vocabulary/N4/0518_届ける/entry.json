@@ -1,0 +1,38 @@
+{
+  "id": "n4-0518",
+  "jlpt": "N4",
+  "kanji": "届ける",
+  "kana": "とどける",
+  "display": "届ける",
+  "meanings_zh": [
+    "送到",
+    "送给",
+    "送去",
+    "报"
+  ],
+  "meanings_en": [
+    "to reach"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これを届けるよう頼まれたんです。",
+      "en": "I was asked to deliver this."
+    },
+    {
+      "ja": "多くの方々に届けることができた。",
+      "en": "I was able to reach a lot of people."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

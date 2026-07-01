@@ -1,0 +1,32 @@
+{
+  "id": "n1-3289",
+  "jlpt": "N1",
+  "kanji": "濫用",
+  "kana": "らんよう",
+  "display": "濫用",
+  "meanings_zh": [],
+  "meanings_en": [
+    "abuse",
+    "misuse",
+    "misappropriation",
+    "using to excess"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ケネス・スターがまたしても権力を濫用し、私がインターネットを使う権利を剥奪したのです。",
+      "en": "Kenneth Starr abused his power again and took away my right to get on-line."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

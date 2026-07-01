@@ -1,0 +1,40 @@
+{
+  "id": "n3-1669",
+  "jlpt": "N3",
+  "kanji": "戻す",
+  "kana": "もどす",
+  "display": "戻す",
+  "meanings_zh": [
+    "还",
+    "归还",
+    "送回",
+    "退回"
+  ],
+  "meanings_en": [
+    "to restore",
+    "to put back",
+    "to return"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "戻す寸前だった。",
+      "en": "I almost threw up."
+    },
+    {
+      "ja": "トムとよりを戻すの？",
+      "en": "Are you and Tom getting back together?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

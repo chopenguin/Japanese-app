@@ -1,0 +1,34 @@
+{
+  "id": "n1-2091",
+  "jlpt": "N1",
+  "kanji": "浅ましい",
+  "kana": "あさましい",
+  "display": "浅ましい",
+  "meanings_zh": [
+    "卑鄙",
+    "下流",
+    "可耻",
+    "可叹"
+  ],
+  "meanings_en": [
+    "wretched",
+    "miserable",
+    "shameful",
+    "mean",
+    "despicable",
+    "abject"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "n1-0708",
+  "jlpt": "N1",
+  "kanji": "割合に",
+  "kana": "わりあいに",
+  "display": "割合に",
+  "meanings_zh": [],
+  "meanings_en": [
+    "comparatively"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今から２５年後には、就業者２人につき退職者１人の割合になるだろう。",
+      "en": "Twenty-five years from now there will be one retired person for each two working."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

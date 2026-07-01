@@ -1,0 +1,37 @@
+{
+  "id": "n4-0219",
+  "jlpt": "N4",
+  "kanji": "間違える",
+  "kana": "まちがえる",
+  "display": "間違える",
+  "meanings_zh": [
+    "弄错",
+    "搞错",
+    "做错"
+  ],
+  "meanings_en": [
+    "to make a mistake"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私、よく間違えるの。",
+      "en": "I often make mistakes."
+    },
+    {
+      "ja": "間違えるのが嫌なの。",
+      "en": "I'm scared to make a mistake."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

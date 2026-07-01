@@ -1,0 +1,40 @@
+{
+  "id": "n3-0673",
+  "jlpt": "N3",
+  "kanji": "賢い",
+  "kana": "かしこい",
+  "display": "賢い",
+  "meanings_zh": [
+    "聪明",
+    "贤明",
+    "伶俐",
+    "乖"
+  ],
+  "meanings_en": [
+    "wise",
+    "clever",
+    "smart"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムは賢い。",
+      "en": "Tom is smart."
+    },
+    {
+      "ja": "猫は賢いよ。",
+      "en": "Cats are smart."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

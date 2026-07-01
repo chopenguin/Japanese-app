@@ -1,0 +1,37 @@
+{
+  "id": "n3-0027",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "いらっしゃい",
+  "display": "いらっしゃい",
+  "meanings_zh": [
+    "来",
+    "去",
+    "你来了"
+  ],
+  "meanings_en": [
+    "welcome"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "いらっしゃい。",
+      "en": "Welcome."
+    },
+    {
+      "ja": "早くいらっしゃい。",
+      "en": "Come quick!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

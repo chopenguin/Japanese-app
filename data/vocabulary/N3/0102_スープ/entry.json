@@ -1,0 +1,35 @@
+{
+  "id": "n3-0102",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "スープ",
+  "display": "スープ",
+  "meanings_zh": [
+    "(西餐的)汤"
+  ],
+  "meanings_en": [
+    "(Western) soup"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "スープはどう？",
+      "en": "How's the soup?"
+    },
+    {
+      "ja": "スープはいかが？",
+      "en": "Would you like some soup?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

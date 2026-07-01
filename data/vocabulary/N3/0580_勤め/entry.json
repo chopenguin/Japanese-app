@@ -1,0 +1,41 @@
+{
+  "id": "n3-0580",
+  "jlpt": "N3",
+  "kanji": "勤め",
+  "kana": "つとめ",
+  "display": "勤め",
+  "meanings_zh": [
+    "工作",
+    "差事"
+  ],
+  "meanings_en": [
+    "(1) service",
+    "duty",
+    "business",
+    "responsibility",
+    "task",
+    "(2) Buddhist religious services"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は毎日勤めに出ます。",
+      "en": "I go to work every day."
+    },
+    {
+      "ja": "どちらにお勤めですか。",
+      "en": "Who do you work for?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

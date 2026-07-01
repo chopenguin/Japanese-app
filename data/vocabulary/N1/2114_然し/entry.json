@@ -1,0 +1,39 @@
+{
+  "id": "n1-2114",
+  "jlpt": "N1",
+  "kanji": "然し",
+  "kana": "しかし",
+  "display": "然し",
+  "meanings_zh": [
+    "然而",
+    "可是",
+    "但是",
+    "只是"
+  ],
+  "meanings_en": [
+    "however",
+    "but"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "心配なんて全然してないよ。",
+      "en": "I'm not worried at all."
+    },
+    {
+      "ja": "僕の弟さ、家の手伝い全然しないんだ。",
+      "en": "My little brother never helps around the house."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

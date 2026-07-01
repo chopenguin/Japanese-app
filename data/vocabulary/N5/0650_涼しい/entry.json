@@ -1,0 +1,38 @@
+{
+  "id": "n5-0650",
+  "jlpt": "N5",
+  "kanji": "涼しい",
+  "kana": "すずしい",
+  "display": "涼しい",
+  "meanings_zh": [
+    "凉快",
+    "凉爽",
+    "明亮",
+    "清澈"
+  ],
+  "meanings_en": [
+    "refreshing"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "秋は涼しいです。",
+      "en": "Autumn is cool."
+    },
+    {
+      "ja": "今日は涼しいです。",
+      "en": "It's cool today."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

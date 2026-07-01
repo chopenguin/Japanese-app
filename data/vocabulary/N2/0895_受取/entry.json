@@ -1,0 +1,38 @@
+{
+  "id": "n2-0895",
+  "jlpt": "N2",
+  "kanji": "受取",
+  "kana": "うけとり",
+  "display": "受取",
+  "meanings_zh": [
+    "收",
+    "领",
+    "收据",
+    "收条"
+  ],
+  "meanings_en": [
+    "receipt"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "手荷物受取所で待っています。",
+      "en": "I will be waiting for you at baggage claim."
+    },
+    {
+      "ja": "未払い給料の受取りを諦めました。",
+      "en": "I gave up on receiving the unpaid salary."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

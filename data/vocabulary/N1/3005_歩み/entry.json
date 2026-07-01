@@ -1,0 +1,38 @@
+{
+  "id": "n1-3005",
+  "jlpt": "N1",
+  "kanji": "歩み",
+  "kana": "あゆみ",
+  "display": "歩み",
+  "meanings_zh": [
+    "步行",
+    "走",
+    "脚步",
+    "步调"
+  ],
+  "meanings_en": [
+    "walking"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は彼女の方に歩み寄った。",
+      "en": "He walked up to her."
+    },
+    {
+      "ja": "何て歩みののろいやつだろう。",
+      "en": "How slow you are!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "n1-1328",
+  "jlpt": "N1",
+  "kanji": "此の",
+  "kana": "この",
+  "display": "此の",
+  "meanings_zh": [
+    "这",
+    "这个"
+  ],
+  "meanings_en": [
+    "this"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "此の状況を利用すべきだ。",
+      "en": "We have to take advantage of this situation."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

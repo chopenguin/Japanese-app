@@ -1,0 +1,36 @@
+{
+  "id": "n1-2405",
+  "jlpt": "N1",
+  "kanji": "挑む",
+  "kana": "いどむ",
+  "display": "挑む",
+  "meanings_zh": [
+    "挑战",
+    "挑衅",
+    "寻衅",
+    "找碴儿"
+  ],
+  "meanings_en": [
+    "to challenge",
+    "to contend for",
+    "to make love to"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "仏政府は国家予算の帳尻を合わせるよう納税者に挑むオンラインゲームを売り出した。",
+      "en": "The French government has launched an online game that challenges taxpayers to balance the national budget."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

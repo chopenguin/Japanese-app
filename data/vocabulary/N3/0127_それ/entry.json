@@ -1,0 +1,39 @@
+{
+  "id": "n3-0127",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "（接。感）",
+  "display": "それ",
+  "meanings_zh": [
+    "喂",
+    "哎呀",
+    "嘿",
+    "看"
+  ],
+  "meanings_en": [
+    "it",
+    "that"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "話がそれた。",
+      "en": "The story wandered."
+    },
+    {
+      "ja": "それ消して。",
+      "en": "Turn it off."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n1-3313",
+  "jlpt": "N1",
+  "kanji": "溜まり",
+  "kana": "たまり",
+  "display": "溜まり",
+  "meanings_zh": [
+    "积存",
+    "积存处",
+    "聚集的地方",
+    "集中处"
+  ],
+  "meanings_en": [
+    "collected things",
+    "gathering place",
+    "arrears"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "雨のあと、道路に水溜まりができた。",
+      "en": "After the rain, there were puddles on the street."
+    },
+    {
+      "ja": "雨が岩場の窪んだところにいくつもの水溜まりを作っていた。",
+      "en": "Rain formed pools in the hollow spaces on the rocks."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "n1-2340",
+  "jlpt": "N1",
+  "kanji": "知り合い",
+  "kana": "しりあい",
+  "display": "知り合い",
+  "meanings_zh": [
+    "相识",
+    "结识",
+    "认识",
+    "相识的人"
+  ],
+  "meanings_en": [
+    "acquaintance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼と知り合いになった。",
+      "en": "I got to know him."
+    },
+    {
+      "ja": "私は彼と知り合いです。",
+      "en": "I am acquainted with him."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

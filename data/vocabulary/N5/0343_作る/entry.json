@@ -1,0 +1,38 @@
+{
+  "id": "n5-0343",
+  "jlpt": "N5",
+  "kanji": "作る",
+  "kana": "つくる",
+  "display": "作る",
+  "meanings_zh": [
+    "做",
+    "作",
+    "造",
+    "弄"
+  ],
+  "meanings_en": [
+    "to make"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "蚕は繭を作る。",
+      "en": "Silkworms spin cocoons."
+    },
+    {
+      "ja": "夕飯、作るね。",
+      "en": "I'll make dinner."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

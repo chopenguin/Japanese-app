@@ -1,0 +1,36 @@
+{
+  "id": "n4-0046",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ガラス",
+  "display": "ガラス",
+  "meanings_zh": [
+    "玻璃",
+    "光玻璃"
+  ],
+  "meanings_en": [
+    "a glass pane"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ガラスは壊れやすい。",
+      "en": "Glass breaks easily."
+    },
+    {
+      "ja": "雨は窓ガラスを叩く。",
+      "en": "The rain beats against the window pane."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

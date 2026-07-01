@@ -1,0 +1,41 @@
+{
+  "id": "n1-1860",
+  "jlpt": "N1",
+  "kanji": "信者",
+  "kana": "しんじゃ",
+  "display": "信者",
+  "meanings_zh": [
+    "教徒",
+    "信徒",
+    "崇拜者",
+    "爱好者"
+  ],
+  "meanings_en": [
+    "believer",
+    "adherent",
+    "devotee",
+    "Christian"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "キリスト教の信者だったことはない。",
+      "en": "I was never a believer of Christianity."
+    },
+    {
+      "ja": "ブードゥー教の信者ではありません。",
+      "en": "I'm not a believer of voodoo."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

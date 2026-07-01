@@ -1,0 +1,33 @@
+{
+  "id": "n1-2148",
+  "jlpt": "N1",
+  "kanji": "掻き回す",
+  "kana": "かきまわす",
+  "display": "掻き回す",
+  "meanings_zh": [
+    "搅和",
+    "搅拌",
+    "混合",
+    "乱翻",
+    "翻弄"
+  ],
+  "meanings_en": [
+    "to stir up",
+    "to churn",
+    "to ransack",
+    "to disturb"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

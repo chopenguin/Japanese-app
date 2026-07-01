@@ -1,0 +1,38 @@
+{
+  "id": "n4-0116",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "なるほど",
+  "display": "なるほど",
+  "meanings_zh": [
+    "诚然",
+    "的确",
+    "果然",
+    "怪不得"
+  ],
+  "meanings_en": [
+    "now I understand"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "なるほどね。",
+      "en": "I see."
+    },
+    {
+      "ja": "ああ、なるほど！",
+      "en": "Ah, gotcha!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

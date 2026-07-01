@@ -1,0 +1,36 @@
+{
+  "id": "n1-0738",
+  "jlpt": "N1",
+  "kanji": "幹線",
+  "kana": "かんせん",
+  "display": "幹線",
+  "meanings_zh": [
+    "干线"
+  ],
+  "meanings_en": [
+    "main line",
+    "trunk line"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "新しい新幹線の速いこと！",
+      "en": "How fast the new Shinkansen goes!"
+    },
+    {
+      "ja": "交通事故が幹線道路で起こった。",
+      "en": "The traffic accident took place on the main highway."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

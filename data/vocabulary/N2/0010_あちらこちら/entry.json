@@ -1,0 +1,29 @@
+{
+  "id": "n2-0010",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "あちらこちら",
+  "display": "あちらこちら",
+  "meanings_zh": [],
+  "meanings_en": [
+    "here and there"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼の目はあちらこちらに動いた。",
+      "en": "His eyes went to and fro."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

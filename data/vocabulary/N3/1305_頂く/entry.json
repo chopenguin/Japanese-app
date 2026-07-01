@@ -1,0 +1,39 @@
+{
+  "id": "n3-1305",
+  "jlpt": "N3",
+  "kanji": "頂く",
+  "kana": "いただく",
+  "display": "頂く",
+  "meanings_zh": [
+    "顶",
+    "戴",
+    "顶在头上",
+    "顶在上面"
+  ],
+  "meanings_en": [
+    "to receive",
+    "to take food or drink (hum)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "以下の空欄部分にご記入頂くだけで結構です。",
+      "en": "All you have to do is fill in the blanks below."
+    },
+    {
+      "ja": "この件についてさらに話し合うためにお越し頂く日時を決めて下さい。",
+      "en": "Please make an appointment to come in and discuss this further."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

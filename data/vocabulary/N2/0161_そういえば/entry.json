@@ -1,0 +1,36 @@
+{
+  "id": "n2-0161",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "そういえば",
+  "display": "そういえば",
+  "meanings_zh": [
+    "那么说来",
+    "那么一说"
+  ],
+  "meanings_en": [
+    "which reminds me .."
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そういえば、そこへは何時に行くの？",
+      "en": "By the way, what time will you go there?"
+    },
+    {
+      "ja": "そういえば、昨夜は何時に家に着いた？",
+      "en": "Speaking of last night, what time did you get home?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

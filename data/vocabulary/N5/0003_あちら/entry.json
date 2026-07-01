@@ -1,0 +1,38 @@
+{
+  "id": "n5-0003",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "あちら",
+  "display": "あちら",
+  "meanings_zh": [
+    "那儿",
+    "那里",
+    "那边",
+    "那个"
+  ],
+  "meanings_en": [
+    "there"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トイレはあちらにあります。",
+      "en": "The toilet is over there."
+    },
+    {
+      "ja": "あちらに富士山が見えます。",
+      "en": "We can see Mt. Fuji over there."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

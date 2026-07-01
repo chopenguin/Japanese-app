@@ -1,0 +1,39 @@
+{
+  "id": "n2-1034",
+  "jlpt": "N2",
+  "kanji": "真似る",
+  "kana": "まねる",
+  "display": "真似る",
+  "meanings_zh": [
+    "学",
+    "模仿",
+    "仿效",
+    "效法"
+  ],
+  "meanings_en": [
+    "to mimic",
+    "to imitate"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "子どもは両親の習慣を真似るものだ。",
+      "en": "Children imitate their parents' habits."
+    },
+    {
+      "ja": "子供は大抵親の考えや姿勢を真似る。",
+      "en": "Children usually think and behave like their parents."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

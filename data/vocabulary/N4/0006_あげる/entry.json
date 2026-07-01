@@ -1,0 +1,33 @@
+{
+  "id": "n4-0006",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "あげる",
+  "display": "あげる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to give"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "してあげる。",
+      "en": "I'll do it for you."
+    },
+    {
+      "ja": "待ってあげる。",
+      "en": "I'll wait for you."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

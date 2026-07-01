@@ -1,0 +1,40 @@
+{
+  "id": "n1-1996",
+  "jlpt": "N1",
+  "kanji": "正しく",
+  "kana": "まさしく",
+  "display": "正しく",
+  "meanings_zh": [
+    "的确",
+    "确实",
+    "正是",
+    "没错儿"
+  ],
+  "meanings_en": [
+    "surely",
+    "no doubt",
+    "evidently"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムは正しくない。",
+      "en": "Tom isn't correct."
+    },
+    {
+      "ja": "礼儀正しくしなさい。",
+      "en": "Mind your manners."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "n1-3347",
+  "jlpt": "N1",
+  "kanji": "零す",
+  "kana": "こぼす",
+  "display": "零す",
+  "meanings_zh": [
+    "洒",
+    "撒",
+    "泼",
+    "漏"
+  ],
+  "meanings_en": [
+    "to spill"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n1-1610",
+  "jlpt": "N1",
+  "kanji": "取りあえず",
+  "kana": "とりあえず",
+  "display": "取りあえず",
+  "meanings_zh": [],
+  "meanings_en": [
+    "at once",
+    "first of all",
+    "for the time being"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "取りあえず、トムはオーストラリア、嫁さんはニュージーランドで暮らしてるんだ。",
+      "en": "For the time being, Tom is living in Australia, and his wife is living in New Zealand."
+    },
+    {
+      "ja": "彼は取りあえず借金は返済したらしいが、一体あんな大金を誰が都合したのだろうか。",
+      "en": "Well, it seems he's paid off his debts for now, but who on Earth arranged that amount of money?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "n1-2335",
+  "jlpt": "N1",
+  "kanji": "段々",
+  "kana": "だんだん",
+  "display": "段々",
+  "meanings_zh": [],
+  "meanings_en": [
+    "gradually",
+    "by degrees"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "段々暗くなっていきます。",
+      "en": "It's getting darker little by little."
+    },
+    {
+      "ja": "段々思い出し始めてきた。",
+      "en": "I am beginning to remember it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

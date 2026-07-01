@@ -1,0 +1,36 @@
+{
+  "id": "n3-1436",
+  "jlpt": "N3",
+  "kanji": "濃い",
+  "kana": "こい",
+  "display": "濃い",
+  "meanings_zh": [],
+  "meanings_en": [
+    "thick (as of color",
+    "liquid)",
+    "dense",
+    "strong"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "血は水より濃い。",
+      "en": "Blood is thicker than water."
+    },
+    {
+      "ja": "彼女は化粧が濃い。",
+      "en": "She wears a lot of makeup."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "n2-1713",
+  "jlpt": "N2",
+  "kanji": "溶く",
+  "kana": "とく",
+  "display": "溶く",
+  "meanings_zh": [
+    "溶解",
+    "化开"
+  ],
+  "meanings_en": [
+    "to dissolve (paint)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "n1-2875",
+  "jlpt": "N1",
+  "kanji": "付き合う",
+  "kana": "つきあう",
+  "display": "付き合う",
+  "meanings_zh": [
+    "交际",
+    "来往",
+    "交往",
+    "往还"
+  ],
+  "meanings_en": [
+    "to associate with",
+    "to keep company with",
+    "to get on with"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼と付き合うのは難しい。",
+      "en": "He is difficult to get along with."
+    },
+    {
+      "ja": "そんな男とは付き合うな。",
+      "en": "Don't keep company with such a man."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

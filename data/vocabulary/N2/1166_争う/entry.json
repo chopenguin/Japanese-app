@@ -1,0 +1,41 @@
+{
+  "id": "n2-1166",
+  "jlpt": "N2",
+  "kanji": "争う",
+  "kana": "あらそう",
+  "display": "争う",
+  "meanings_zh": [
+    "争",
+    "争夺",
+    "斗争",
+    "奋斗"
+  ],
+  "meanings_en": [
+    "to dispute",
+    "to argue",
+    "to be at variance",
+    "to compete"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "わずかな額のことで言い争うのはよせ。",
+      "en": "Don't haggle over a small sum of money."
+    },
+    {
+      "ja": "お金のことで言い争うのはやめなさい。",
+      "en": "Stop arguing about money."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

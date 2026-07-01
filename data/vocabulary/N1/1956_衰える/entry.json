@@ -1,0 +1,44 @@
+{
+  "id": "n1-1956",
+  "jlpt": "N1",
+  "kanji": "衰える",
+  "kana": "おとろえる",
+  "display": "衰える",
+  "meanings_zh": [
+    "衰弱",
+    "衰老",
+    "衰退",
+    "衰减"
+  ],
+  "meanings_en": [
+    "to become weak",
+    "to decline",
+    "to wear",
+    "to abate",
+    "to decay",
+    "to wither",
+    "to waste away"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "年をとるにつれて記憶力は段々衰える。",
+      "en": "As we grow older, our memory becomes weaker."
+    },
+    {
+      "ja": "人間は年を取るにつれて、体力が衰える。",
+      "en": "As humans age, their physical strength declines."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

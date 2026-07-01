@@ -1,0 +1,40 @@
+{
+  "id": "n1-0855",
+  "jlpt": "N1",
+  "kanji": "起こす",
+  "kana": "おこす",
+  "display": "起こす",
+  "meanings_zh": [
+    "唤起",
+    "唤醒",
+    "叫醒",
+    "扶起"
+  ],
+  "meanings_en": [
+    "to raise",
+    "to cause",
+    "to wake someone"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "寝た子を起こすなよ。",
+      "en": "Let sleeping dogs lie."
+    },
+    {
+      "ja": "寝ている子供を起こすな。",
+      "en": "Don't wake up the sleeping child."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

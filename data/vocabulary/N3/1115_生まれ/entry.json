@@ -1,0 +1,39 @@
+{
+  "id": "n3-1115",
+  "jlpt": "N3",
+  "kanji": "生まれ",
+  "kana": "うまれ",
+  "display": "生まれ",
+  "meanings_zh": [
+    "出生",
+    "诞生",
+    "出生地",
+    "籍贯"
+  ],
+  "meanings_en": [
+    "birth",
+    "birth-place"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "冬生まれです。",
+      "en": "I was born in winter."
+    },
+    {
+      "ja": "何曜日生まれ？",
+      "en": "What day of the week were you born on?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

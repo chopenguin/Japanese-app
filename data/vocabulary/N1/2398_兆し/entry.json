@@ -1,0 +1,40 @@
+{
+  "id": "n1-2398",
+  "jlpt": "N1",
+  "kanji": "兆し",
+  "kana": "きざし",
+  "display": "兆し",
+  "meanings_zh": [
+    "兆头",
+    "征兆",
+    "征象",
+    "征候"
+  ],
+  "meanings_en": [
+    "signs",
+    "omen",
+    "symptoms"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "雨は止む兆しが無い。",
+      "en": "The rain shows no sign of stopping."
+    },
+    {
+      "ja": "まだ目にみえる春の兆しはなかった。",
+      "en": "There were still no visual signs of spring."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

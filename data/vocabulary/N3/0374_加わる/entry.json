@@ -1,0 +1,41 @@
+{
+  "id": "n3-0374",
+  "jlpt": "N3",
+  "kanji": "加わる",
+  "kana": "くわわる",
+  "display": "加わる",
+  "meanings_zh": [
+    "加上",
+    "添上",
+    "添加",
+    "增长"
+  ],
+  "meanings_en": [
+    "to join in",
+    "to accede to",
+    "to increase",
+    "to gain in (influence)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼が私達に加わるのは当然だと思った。",
+      "en": "We took it for granted that he would join us."
+    },
+    {
+      "ja": "彼が私たちに加わるかどうか私は知らない。",
+      "en": "I don't know whether he'll join us or not."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

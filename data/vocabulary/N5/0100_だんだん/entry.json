@@ -1,0 +1,33 @@
+{
+  "id": "n5-0100",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "だんだん",
+  "display": "だんだん",
+  "meanings_zh": [],
+  "meanings_en": [
+    "gradually"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "日はだんだん長くなる。",
+      "en": "The day is getting longer and longer."
+    },
+    {
+      "ja": "だんだん腹立ってきた。",
+      "en": "Little by little I'm getting angry."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

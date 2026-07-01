@@ -1,0 +1,35 @@
+{
+  "id": "n3-0099",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "しゃべる",
+  "display": "しゃべる",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to talk",
+    "to chat",
+    "to chatter"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "今はしゃべるな。",
+      "en": "Don't talk now."
+    },
+    {
+      "ja": "彼はよくしゃべる。",
+      "en": "He talks a lot."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

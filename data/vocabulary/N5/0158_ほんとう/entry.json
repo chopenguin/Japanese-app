@@ -1,0 +1,33 @@
+{
+  "id": "n5-0158",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ほんとう",
+  "display": "ほんとう",
+  "meanings_zh": [],
+  "meanings_en": [
+    "truth"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ほんとうに男らしくないよね。",
+      "en": "He really does have small dick energy."
+    },
+    {
+      "ja": "彼等はほんとうに勝ったのです。",
+      "en": "They did win."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

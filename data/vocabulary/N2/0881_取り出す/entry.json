@@ -1,0 +1,40 @@
+{
+  "id": "n2-0881",
+  "jlpt": "N2",
+  "kanji": "取り出す",
+  "kana": "とりだす",
+  "display": "取り出す",
+  "meanings_zh": [
+    "拿出",
+    "取出",
+    "掏出",
+    "选出"
+  ],
+  "meanings_en": [
+    "to take out",
+    "to produce",
+    "to pick out"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "石から血を取り出すことはできない。",
+      "en": "You cannot get blood out of a stone."
+    },
+    {
+      "ja": "簡単な実験で誰でも海水から塩を取り出すことが出来ます。",
+      "en": "Anyone can produce salt from seawater with a simple experiment."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

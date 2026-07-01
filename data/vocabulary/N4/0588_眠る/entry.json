@@ -1,0 +1,38 @@
+{
+  "id": "n4-0588",
+  "jlpt": "N4",
+  "kanji": "眠る",
+  "kana": "ねむる",
+  "display": "眠る",
+  "meanings_zh": [
+    "睡觉",
+    "睡眠",
+    "死",
+    "安息"
+  ],
+  "meanings_en": [
+    "to sleep"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私と友に眠る。",
+      "en": "She lies here beside me."
+    },
+    {
+      "ja": "私は部屋で眠る。",
+      "en": "I sleep in my room."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

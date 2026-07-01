@@ -1,0 +1,33 @@
+{
+  "id": "n4-0128",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ひげ",
+  "display": "ひげ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "beard"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "昨日ひげ剃った？",
+      "en": "Did you shave yesterday?"
+    },
+    {
+      "ja": "ひげがなくなった！",
+      "en": "The beard's gone!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

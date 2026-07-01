@@ -1,0 +1,38 @@
+{
+  "id": "n5-0168",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "もっと",
+  "display": "もっと",
+  "meanings_zh": [
+    "更",
+    "更加",
+    "进一步",
+    "再稍微"
+  ],
+  "meanings_en": [
+    "more"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "もっと欲しい。",
+      "en": "I want more."
+    },
+    {
+      "ja": "もっと見たい？",
+      "en": "Do you want to see more?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "n1-1736",
+  "jlpt": "N1",
+  "kanji": "潤う",
+  "kana": "うるおう",
+  "display": "潤う",
+  "meanings_zh": [
+    "润",
+    "湿",
+    "宽绰起来",
+    "得利"
+  ],
+  "meanings_en": [
+    "to be moist",
+    "to be damp",
+    "to get wet",
+    "to profit by",
+    "to be watered",
+    "to receive benefits",
+    "to favor",
+    "to charm",
+    "t"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "このクリーム試してみて、肌がめっちゃ潤うから。",
+      "en": "Try this cream. It's so moisturizing."
+    },
+    {
+      "ja": "ボーナスが出てよかったね。これで、家計も愛も潤うね。",
+      "en": "Good thing you got your bonus. Now we can both pay the bills and treat ourselves."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

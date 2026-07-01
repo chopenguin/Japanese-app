@@ -1,0 +1,32 @@
+{
+  "id": "n1-2683",
+  "jlpt": "N1",
+  "kanji": "年号",
+  "kana": "ねんごう",
+  "display": "年号",
+  "meanings_zh": [
+    "年号"
+  ],
+  "meanings_en": [
+    "name of an era",
+    "year number"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "1989年1月昭和天皇の没後、年号が「平成」と改まりました。",
+      "en": "The emperor passed away in January of 1989. Therefore, the name of the era changed from Showa to Heisei."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

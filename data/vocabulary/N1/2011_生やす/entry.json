@@ -1,0 +1,29 @@
+{
+  "id": "n1-2011",
+  "jlpt": "N1",
+  "kanji": "生やす",
+  "kana": "はやす",
+  "display": "生やす",
+  "meanings_zh": [
+    "使～～生长",
+    "留"
+  ],
+  "meanings_en": [
+    "to grow",
+    "to cultivate",
+    "to wear beard"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

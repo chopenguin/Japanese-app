@@ -1,0 +1,40 @@
+{
+  "id": "n1-1666",
+  "jlpt": "N1",
+  "kanji": "授ける",
+  "kana": "さずける",
+  "display": "授ける",
+  "meanings_zh": [
+    "授",
+    "授予",
+    "赋予",
+    "赐给"
+  ],
+  "meanings_en": [
+    "to grant",
+    "to award",
+    "to teach"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "言論の自由は社会に多くの利益を授ける。",
+      "en": "Many advantages accrue to society from the freedom of speech."
+    },
+    {
+      "ja": "聖霊がある方の上に下って、その上にとどまられるのが見えたなら、その方こそ聖霊によってバプテスマを授ける方である。",
+      "en": "The man on whom you see the Spirit come down and remain is he who will baptize with the Holy Spirit."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

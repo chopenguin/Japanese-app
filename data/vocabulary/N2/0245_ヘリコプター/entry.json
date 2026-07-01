@@ -1,0 +1,36 @@
+{
+  "id": "n2-0245",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ヘリコプター",
+  "display": "ヘリコプター",
+  "meanings_zh": [
+    "直升飞机",
+    "旋翼飞机"
+  ],
+  "meanings_en": [
+    "helicopter"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼らはヘリコプターで救出された。",
+      "en": "They were rescued by helicopter."
+    },
+    {
+      "ja": "彼はヘリコプターで病院に運ばれた。",
+      "en": "He was transported to the hospital by helicopter."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

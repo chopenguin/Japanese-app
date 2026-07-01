@@ -1,0 +1,35 @@
+{
+  "id": "n3-0215",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ほぼ",
+  "display": "ほぼ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "almost",
+    "roughly",
+    "approximately"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ほぼ終わった。",
+      "en": "I'm almost done."
+    },
+    {
+      "ja": "おかげでほぼ完徹だ。",
+      "en": "Thanks to which I was up nearly all night."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

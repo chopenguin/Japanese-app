@@ -1,0 +1,36 @@
+{
+  "id": "n1-2279",
+  "jlpt": "N1",
+  "kanji": "大ざっぱ",
+  "kana": "おおざっぱ",
+  "display": "大ざっぱ",
+  "meanings_zh": [
+    "粗枝大叶",
+    "草率",
+    "粗率",
+    "粗略丯"
+  ],
+  "meanings_en": [
+    "rough (as in not precise)",
+    "broad",
+    "sketchy"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あの人って大ざっぱな性格だからね。",
+      "en": "He's the type who doesn't worry about details."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "n1-2193",
+  "jlpt": "N1",
+  "kanji": "其れ",
+  "kana": "それ",
+  "display": "其れ",
+  "meanings_zh": [
+    "那个",
+    "那个东西",
+    "那",
+    "那时"
+  ],
+  "meanings_en": [
+    "it",
+    "that"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

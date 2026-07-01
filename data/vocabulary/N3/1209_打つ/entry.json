@@ -1,0 +1,38 @@
+{
+  "id": "n3-1209",
+  "jlpt": "N3",
+  "kanji": "打つ",
+  "kana": "ぶつ",
+  "display": "打つ",
+  "meanings_zh": [
+    "打",
+    "击",
+    "演说"
+  ],
+  "meanings_en": [
+    "to hit",
+    "to strike"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "打つ手がないね。",
+      "en": "I'm all out of tricks."
+    },
+    {
+      "ja": "牡丹餅で腰打つ。",
+      "en": "His bread is buttered on both sides."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

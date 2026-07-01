@@ -1,0 +1,33 @@
+{
+  "id": "n4-0133",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "ぶどう",
+  "display": "ぶどう",
+  "meanings_zh": [],
+  "meanings_en": [
+    "grapes"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ぶどう酒がありません。",
+      "en": "They have no more wine."
+    },
+    {
+      "ja": "ぶどう酒を一瓶ください。",
+      "en": "Give me a bottle of wine."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

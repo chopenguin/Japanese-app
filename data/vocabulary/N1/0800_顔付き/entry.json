@@ -1,0 +1,33 @@
+{
+  "id": "n1-0800",
+  "jlpt": "N1",
+  "kanji": "顔付き",
+  "kana": "かおつき",
+  "display": "顔付き",
+  "meanings_zh": [],
+  "meanings_en": [
+    "(outward) looks",
+    "features",
+    "face",
+    "countenance",
+    "expression"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は優しい顔付きをしている。",
+      "en": "He has a kind expression."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

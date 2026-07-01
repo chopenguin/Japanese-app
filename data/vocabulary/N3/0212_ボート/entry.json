@@ -1,0 +1,36 @@
+{
+  "id": "n3-0212",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ボート",
+  "display": "ボート",
+  "meanings_zh": [
+    "小船",
+    "小艇"
+  ],
+  "meanings_en": [
+    "rowing boat"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ボートをくれないか。",
+      "en": "Can you give me a boat?"
+    },
+    {
+      "ja": "私はボートが欲しい。",
+      "en": "I want a boat."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

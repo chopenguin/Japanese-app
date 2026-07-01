@@ -1,0 +1,36 @@
+{
+  "id": "n2-1071",
+  "jlpt": "N2",
+  "kanji": "酔っ払い",
+  "kana": "よっぱらい",
+  "display": "酔っ払い",
+  "meanings_zh": [
+    "醉汉",
+    "醉鬼"
+  ],
+  "meanings_en": [
+    "drunkard"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この酔っ払い！",
+      "en": "You are drunk!"
+    },
+    {
+      "ja": "みんな酔っ払いだった。",
+      "en": "Everyone was drunk."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

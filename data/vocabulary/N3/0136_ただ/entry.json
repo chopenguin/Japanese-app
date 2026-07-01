@@ -1,0 +1,35 @@
+{
+  "id": "n3-0136",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "ただ",
+  "display": "ただ",
+  "meanings_zh": [],
+  "meanings_en": [
+    "free of charge",
+    "mere",
+    "only"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "言っただろ！",
+      "en": "I told you before!"
+    },
+    {
+      "ja": "ただの犬よ。",
+      "en": "It's just a dog."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n2-0220",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ビタミン",
+  "display": "ビタミン",
+  "meanings_zh": [
+    "维生素",
+    "维他命"
+  ],
+  "meanings_en": [
+    "vitamin"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ビタミンは摂ってますか？",
+      "en": "Are you taking vitamins?"
+    },
+    {
+      "ja": "果物は、ビタミンが豊富です。",
+      "en": "Fruit is rich in vitamins."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

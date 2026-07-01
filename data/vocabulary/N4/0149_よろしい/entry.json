@@ -1,0 +1,39 @@
+{
+  "id": "n4-0149",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "よろしい",
+  "display": "よろしい",
+  "meanings_zh": [
+    "好",
+    "恰好",
+    "适当",
+    "没关系"
+  ],
+  "meanings_en": [
+    "(respectful) OK",
+    "all right"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "万事よろしい。",
+      "en": "All is well."
+    },
+    {
+      "ja": "それでよろしい。",
+      "en": "That will do."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

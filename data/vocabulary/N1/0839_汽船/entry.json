@@ -1,0 +1,35 @@
+{
+  "id": "n1-0839",
+  "jlpt": "N1",
+  "kanji": "汽船",
+  "kana": "きせん",
+  "display": "汽船",
+  "meanings_zh": [
+    "轮船"
+  ],
+  "meanings_en": [
+    "steamship"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "汽船は見えなくなった。",
+      "en": "The steamer is now out of sight."
+    },
+    {
+      "ja": "その汽船は香港に立ち寄った。",
+      "en": "The liner called at Hong Kong."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

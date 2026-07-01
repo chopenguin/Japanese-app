@@ -1,0 +1,40 @@
+{
+  "id": "n3-1635",
+  "jlpt": "N3",
+  "kanji": "務め",
+  "kana": "つとめ",
+  "display": "務め",
+  "meanings_zh": [
+    "本分",
+    "义务",
+    "任务",
+    "责任"
+  ],
+  "meanings_en": [
+    "(1) service",
+    "duty",
+    "(2) Buddhist religious services"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は市長を務めた。",
+      "en": "He served as mayor."
+    },
+    {
+      "ja": "彼は議長を務めた。",
+      "en": "He acted as chairman."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

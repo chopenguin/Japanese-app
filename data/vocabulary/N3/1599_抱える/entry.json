@@ -1,0 +1,38 @@
+{
+  "id": "n3-1599",
+  "jlpt": "N3",
+  "kanji": "抱える",
+  "kana": "かかえる",
+  "display": "抱える",
+  "meanings_zh": [
+    "抱",
+    "夹",
+    "承担",
+    "担负"
+  ],
+  "meanings_en": [
+    "to hold or carry under or in the arms"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "そのことが我々が抱える問題に新しい面を加える。",
+      "en": "That adds a new dimension to our problem."
+    },
+    {
+      "ja": "彼女はその丸太を半ば引きずるように、半ば抱えるようにして運んだ。",
+      "en": "She half dragged, half carried the log."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

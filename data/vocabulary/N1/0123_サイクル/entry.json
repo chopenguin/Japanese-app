@@ -1,0 +1,38 @@
+{
+  "id": "n1-0123",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "サイクル",
+  "display": "サイクル",
+  "meanings_zh": [
+    "周期",
+    "循环",
+    "一转",
+    "周(波)"
+  ],
+  "meanings_en": [
+    "cycle"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "リサイクルするの？",
+      "en": "Do you recycle?"
+    },
+    {
+      "ja": "これはリサイクルできる？",
+      "en": "Is this recyclable?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

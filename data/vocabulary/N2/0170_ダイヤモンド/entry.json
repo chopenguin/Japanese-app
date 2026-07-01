@@ -1,0 +1,38 @@
+{
+  "id": "n2-0170",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "ダイヤモンド",
+  "display": "ダイヤモンド",
+  "meanings_zh": [
+    "钻石",
+    "金刚石",
+    "方块",
+    "内野"
+  ],
+  "meanings_en": [
+    "diamond"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "これは模造ダイヤモンドです。",
+      "en": "This is an imitation diamond."
+    },
+    {
+      "ja": "このダイヤモンドは偽物です。",
+      "en": "This diamond is fake."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

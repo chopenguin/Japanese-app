@@ -1,0 +1,39 @@
+{
+  "id": "n3-1047",
+  "jlpt": "N3",
+  "kanji": "申し込む",
+  "kana": "もうしこむ",
+  "display": "申し込む",
+  "meanings_zh": [
+    "提议",
+    "提出",
+    "申请",
+    "应征"
+  ],
+  "meanings_en": [
+    "to apply for",
+    "to make an application"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "奨学金を申し込むつもりだよ。",
+      "en": "I am going to apply for a scholarship."
+    },
+    {
+      "ja": "その奨学金に申し込むつもりです。",
+      "en": "I'm going to apply for the scholarship."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

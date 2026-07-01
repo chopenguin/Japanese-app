@@ -1,0 +1,29 @@
+{
+  "id": "n1-0118",
+  "jlpt": "N1",
+  "kanji": "ご苦労様",
+  "kana": "ごくろうさま",
+  "display": "ご苦労様",
+  "meanings_zh": [],
+  "meanings_en": [
+    "Thank you very much for your...."
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ご苦労様でした。",
+      "en": "Thank you for your trouble."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

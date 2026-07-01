@@ -1,0 +1,41 @@
+{
+  "id": "n3-1135",
+  "jlpt": "N3",
+  "kanji": "切れ",
+  "kana": "きれ",
+  "display": "切れ",
+  "meanings_zh": [
+    "快",
+    "能切",
+    "快钝",
+    "小片"
+  ],
+  "meanings_en": [
+    "cloth",
+    "piece",
+    "cut",
+    "chop"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "電話が切れた。",
+      "en": "The telephone was still."
+    },
+    {
+      "ja": "電球が切れた。",
+      "en": "The light bulb has burned out."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "n3-0680",
+  "jlpt": "N3",
+  "kanji": "現す",
+  "kana": "あらわす",
+  "display": "現す",
+  "meanings_zh": [
+    "现",
+    "露",
+    "显露"
+  ],
+  "meanings_en": [
+    "to show",
+    "to indicate",
+    "to display"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "この夢は実現するだろう。",
+      "en": "This dream will come true."
+    },
+    {
+      "ja": "いつか私の夢は実現する。",
+      "en": "Some day my dream will come true."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

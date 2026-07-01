@@ -1,0 +1,34 @@
+{
+  "id": "n5-0153",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "ほか",
+  "display": "ほか",
+  "meanings_zh": [],
+  "meanings_en": [
+    "other",
+    "the rest"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ほかの意見もある。",
+      "en": "There are other opinions, too."
+    },
+    {
+      "ja": "それほかしといてや。",
+      "en": "Leave it as it is."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

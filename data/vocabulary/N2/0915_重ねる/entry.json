@@ -1,0 +1,42 @@
+{
+  "id": "n2-0915",
+  "jlpt": "N2",
+  "kanji": "重ねる",
+  "kana": "かさねる",
+  "display": "重ねる",
+  "meanings_zh": [
+    "重叠地堆放",
+    "码",
+    "摞",
+    "再加上"
+  ],
+  "meanings_en": [
+    "to pile up",
+    "to put something on another",
+    "to heap up",
+    "to add",
+    "to repeat"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "歳を重ねると見えてくるものがある。",
+      "en": "It is the case that when the years stack up, you come to see things."
+    },
+    {
+      "ja": "歳を重ねるにつれ、健康状態は悪くなった。",
+      "en": "As I grew older, my health declined."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

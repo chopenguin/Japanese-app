@@ -1,0 +1,38 @@
+{
+  "id": "n4-0541",
+  "jlpt": "N4",
+  "kanji": "美しい",
+  "kana": "うつくしい",
+  "display": "美しい",
+  "meanings_zh": [
+    "美",
+    "美丽",
+    "好看",
+    "漂亮"
+  ],
+  "meanings_en": [
+    "beautiful"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は美しい。",
+      "en": "I'm beautiful."
+    },
+    {
+      "ja": "人生は美しい。",
+      "en": "Life is beautiful."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

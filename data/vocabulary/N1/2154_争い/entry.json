@@ -1,0 +1,44 @@
+{
+  "id": "n1-2154",
+  "jlpt": "N1",
+  "kanji": "争い",
+  "kana": "あらそい",
+  "display": "争い",
+  "meanings_zh": [
+    "争",
+    "争论",
+    "争吵",
+    "纠纷"
+  ],
+  "meanings_en": [
+    "dispute",
+    "strife",
+    "quarrel",
+    "dissension",
+    "conflict",
+    "rivalry",
+    "contest"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "ポスト争いは厳しい。",
+      "en": "Competition for the position is very intense."
+    },
+    {
+      "ja": "彼らは言い争いをした。",
+      "en": "They quarreled."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

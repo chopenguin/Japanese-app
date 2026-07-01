@@ -1,0 +1,32 @@
+{
+  "id": "n1-0435",
+  "jlpt": "N1",
+  "kanji": "引き下げる",
+  "kana": "ひきさげる",
+  "display": "引き下げる",
+  "meanings_zh": [
+    "拉下",
+    "划",
+    "降低",
+    "减低"
+  ],
+  "meanings_en": [
+    "to pull down",
+    "to lower",
+    "to reduce",
+    "to withdraw"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

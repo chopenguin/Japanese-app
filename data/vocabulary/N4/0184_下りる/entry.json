@@ -1,0 +1,38 @@
+{
+  "id": "n4-0184",
+  "jlpt": "N4",
+  "kanji": "下りる",
+  "kana": "おりる",
+  "display": "下りる",
+  "meanings_zh": [
+    "下",
+    "下来",
+    "降",
+    "降落"
+  ],
+  "meanings_en": [
+    "to get off"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "階段を下りるのがつらくてね。",
+      "en": "I have trouble walking down stairs."
+    },
+    {
+      "ja": "そんなに騒々しく階段を駆け下りるな。",
+      "en": "Don't run down the stairs so noisily."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

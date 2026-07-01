@@ -1,0 +1,34 @@
+{
+  "id": "n1-0035",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "エレガント",
+  "display": "エレガント",
+  "meanings_zh": [
+    "雅致(的)",
+    "优美(的)",
+    "漂亮(的)",
+    "上品的"
+  ],
+  "meanings_en": [
+    "elegant"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "なんてエレガントなヨットなんでしょう！",
+      "en": "What an elegant yacht!"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

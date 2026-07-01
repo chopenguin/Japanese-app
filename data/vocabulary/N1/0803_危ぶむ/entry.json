@@ -1,0 +1,37 @@
+{
+  "id": "n1-0803",
+  "jlpt": "N1",
+  "kanji": "危ぶむ",
+  "kana": "あやぶむ",
+  "display": "危ぶむ",
+  "meanings_zh": [
+    "担心",
+    "认为危险",
+    "怀疑",
+    "不相信"
+  ],
+  "meanings_en": [
+    "to fear",
+    "to have misgivings",
+    "to be doubtful",
+    "to mistrust"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "私は彼の成功を危ぶむ。",
+      "en": "I am doubtful of his success."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

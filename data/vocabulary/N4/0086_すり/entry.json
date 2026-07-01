@@ -1,0 +1,33 @@
+{
+  "id": "n4-0086",
+  "jlpt": "N4",
+  "kanji": "",
+  "kana": "すり",
+  "display": "すり",
+  "meanings_zh": [],
+  "meanings_en": [
+    "pickpocket"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "靴がすり減った。",
+      "en": "My shoes are worn out."
+    },
+    {
+      "ja": "すりに用心せよ。",
+      "en": "Look out for pickpockets."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

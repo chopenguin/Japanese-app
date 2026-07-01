@@ -1,0 +1,36 @@
+{
+  "id": "n2-0132",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "シャッター",
+  "display": "シャッター",
+  "meanings_zh": [
+    "快门",
+    "百叶窗"
+  ],
+  "meanings_en": [
+    "shutter"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "シャッター開けるの忘れてた。",
+      "en": "I forgot to open the blinds."
+    },
+    {
+      "ja": "シャッターを押してくれますか。",
+      "en": "Could you press this button?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

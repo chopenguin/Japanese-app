@@ -1,0 +1,40 @@
+{
+  "id": "n3-1136",
+  "jlpt": "N3",
+  "kanji": "切れる",
+  "kana": "きれる",
+  "display": "切れる",
+  "meanings_zh": [
+    "能切",
+    "锐利",
+    "快",
+    "断"
+  ],
+  "meanings_en": [
+    "(1) to cut well",
+    "to be sharp",
+    "(2) to break (off)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は頭が切れる。",
+      "en": "He is sharp-witted."
+    },
+    {
+      "ja": "堪忍袋の緒が切れる。",
+      "en": "My patience has come to the breaking point."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

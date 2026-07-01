@@ -1,0 +1,42 @@
+{
+  "id": "n3-1145",
+  "jlpt": "N3",
+  "kanji": "先ず",
+  "kana": "まず",
+  "display": "先ず",
+  "meanings_zh": [
+    "先",
+    "首先",
+    "最初",
+    "开头"
+  ],
+  "meanings_en": [
+    "first (of all)",
+    "to start with",
+    "about",
+    "almost",
+    "hardly (with neg. verb)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "先ずは、名前を決めないとね。",
+      "en": "In the first place, we have to decide on the name."
+    },
+    {
+      "ja": "先ずは、格好から入らないとね。",
+      "en": "The first thing to do is just to get a nice outfit for it."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

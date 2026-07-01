@@ -1,0 +1,37 @@
+{
+  "id": "n2-0159",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "セメント",
+  "display": "セメント",
+  "meanings_zh": [
+    "水泥",
+    "洋灰",
+    "堵牙用石膏"
+  ],
+  "meanings_en": [
+    "cement"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "石の塊はセメントで接合された。",
+      "en": "The blocks of stone were jointed with cement."
+    },
+    {
+      "ja": "セメントは２、３時間で固まる。",
+      "en": "The cement will set in a couple of hours."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

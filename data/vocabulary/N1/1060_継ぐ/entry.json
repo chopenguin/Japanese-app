@@ -1,0 +1,38 @@
+{
+  "id": "n1-1060",
+  "jlpt": "N1",
+  "kanji": "継ぐ",
+  "kana": "つぐ",
+  "display": "継ぐ",
+  "meanings_zh": [
+    "接",
+    "接上",
+    "连接",
+    "连上"
+  ],
+  "meanings_en": [
+    "to succeed"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "王位を継ぐ。",
+      "en": "I succeed to the throne."
+    },
+    {
+      "ja": "彼は王位を継ぐだろう。",
+      "en": "He will succeed to the throne."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

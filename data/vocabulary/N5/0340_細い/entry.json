@@ -1,0 +1,36 @@
+{
+  "id": "n5-0340",
+  "jlpt": "N5",
+  "kanji": "細い",
+  "kana": "ほそい",
+  "display": "細い",
+  "meanings_zh": [
+    "吝啬",
+    "花钱精打细算"
+  ],
+  "meanings_en": [
+    "thin"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "とても心細いです。",
+      "en": "I'm so lonely."
+    },
+    {
+      "ja": "君がいないと心細い。",
+      "en": "When you are away, I feel lost."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

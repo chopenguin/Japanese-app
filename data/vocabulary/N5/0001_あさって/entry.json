@@ -1,0 +1,35 @@
+{
+  "id": "n5-0001",
+  "jlpt": "N5",
+  "kanji": "",
+  "kana": "あさって",
+  "display": "あさって",
+  "meanings_zh": [
+    "后天"
+  ],
+  "meanings_en": [
+    "day after tomorrow"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "あさって来てください。",
+      "en": "Come the day after tomorrow."
+    },
+    {
+      "ja": "あさってはトムの誕生日だ。",
+      "en": "The day after tomorrow is Tom's birthday."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

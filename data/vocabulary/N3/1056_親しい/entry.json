@@ -1,0 +1,39 @@
+{
+  "id": "n3-1056",
+  "jlpt": "N3",
+  "kanji": "親しい",
+  "kana": "したしい",
+  "display": "親しい",
+  "meanings_zh": [
+    "近",
+    "亲近",
+    "亲密",
+    "亲切"
+  ],
+  "meanings_en": [
+    "intimate",
+    "close (e.g. friend)"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は親しい友人だ。",
+      "en": "He is my close friend."
+    },
+    {
+      "ja": "彼とは親しい間柄だ。",
+      "en": "I'm on good terms with him."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

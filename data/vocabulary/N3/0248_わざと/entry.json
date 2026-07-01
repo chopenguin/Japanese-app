@@ -1,0 +1,37 @@
+{
+  "id": "n3-0248",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "わざと",
+  "display": "わざと",
+  "meanings_zh": [
+    "故意地",
+    "特意地",
+    "有意(识)地"
+  ],
+  "meanings_en": [
+    "on purpose"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "わざとやったのね！",
+      "en": "You did this intentionally!"
+    },
+    {
+      "ja": "それって、わざと？",
+      "en": "Is that on purpose?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

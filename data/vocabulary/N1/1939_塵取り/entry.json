@@ -1,0 +1,29 @@
+{
+  "id": "n1-1939",
+  "jlpt": "N1",
+  "kanji": "塵取り",
+  "kana": "ちりとり",
+  "display": "塵取り",
+  "meanings_zh": [
+    "鷂箕",
+    "垃圾撮子",
+    "畚箕",
+    "撮箕"
+  ],
+  "meanings_en": [
+    "dustpan"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

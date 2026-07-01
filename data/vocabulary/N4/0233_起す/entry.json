@@ -1,0 +1,33 @@
+{
+  "id": "n4-0233",
+  "jlpt": "N4",
+  "kanji": "起す",
+  "kana": "おこす",
+  "display": "起す",
+  "meanings_zh": [],
+  "meanings_en": [
+    "to wake"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "試験は大きな問題を提起する。",
+      "en": "Examinations pose a big problem."
+    },
+    {
+      "ja": "子宮内膜炎は、細菌が子宮内に入り、内膜に炎症を起す病気である。",
+      "en": "Endometritis is a disease where bacteria enter the uterus and cause inflammation of the inner membrane."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

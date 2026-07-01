@@ -1,0 +1,36 @@
+{
+  "id": "n3-0093",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "じっと",
+  "display": "じっと",
+  "meanings_zh": [],
+  "meanings_en": [
+    "fixedly",
+    "firmly",
+    "patiently",
+    "quietly"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "じっとして！",
+      "en": "Hold it!"
+    },
+    {
+      "ja": "じっとしてて。",
+      "en": "Be still."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

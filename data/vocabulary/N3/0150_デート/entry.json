@@ -1,0 +1,39 @@
+{
+  "id": "n3-0150",
+  "jlpt": "N3",
+  "kanji": "",
+  "kana": "デート",
+  "display": "デート",
+  "meanings_zh": [
+    "日期",
+    "年代",
+    "年月日",
+    "(男女间的)约会"
+  ],
+  "meanings_en": [
+    "date",
+    "go on a date"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "デートしませんか？",
+      "en": "Will you go on a date with me?"
+    },
+    {
+      "ja": "これってデートなの？",
+      "en": "Is this a date?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

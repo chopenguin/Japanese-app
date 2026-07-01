@@ -1,0 +1,27 @@
+{
+  "id": "n2-0566",
+  "jlpt": "N2",
+  "kanji": "教わる",
+  "kana": "おそわる",
+  "display": "教わる",
+  "meanings_zh": [
+    "受教",
+    "学习"
+  ],
+  "meanings_en": [
+    "to be taught"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

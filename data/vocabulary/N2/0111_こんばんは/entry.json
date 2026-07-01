@@ -1,0 +1,33 @@
+{
+  "id": "n2-0111",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "こんばんは",
+  "display": "こんばんは",
+  "meanings_zh": [],
+  "meanings_en": [
+    "good evening"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "こんばんは。",
+      "en": "Good evening."
+    },
+    {
+      "ja": "こんばんは。ご機嫌いかが？",
+      "en": "Good evening, how are you?"
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

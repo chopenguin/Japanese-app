@@ -1,0 +1,39 @@
+{
+  "id": "n4-0357",
+  "jlpt": "N4",
+  "kanji": "拾う",
+  "kana": "ひろう",
+  "display": "拾う",
+  "meanings_zh": [
+    "拾",
+    "捡",
+    "挑出",
+    "选出"
+  ],
+  "meanings_en": [
+    "to pick up",
+    "to gather"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムを拾うつもりだ。",
+      "en": "I'm going to pick Tom up."
+    },
+    {
+      "ja": "タクシーを拾うのに苦労した。",
+      "en": "I had trouble getting a taxi."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

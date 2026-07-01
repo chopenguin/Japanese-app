@@ -1,0 +1,31 @@
+{
+  "id": "n2-1278",
+  "jlpt": "N2",
+  "kanji": "中味",
+  "kana": "なかみ",
+  "display": "中味",
+  "meanings_zh": [
+    "内容",
+    "容纳的东西"
+  ],
+  "meanings_en": [
+    "contents",
+    "interior",
+    "substance",
+    "filling",
+    "(sword) blade"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

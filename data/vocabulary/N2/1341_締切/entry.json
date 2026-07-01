@@ -1,0 +1,38 @@
+{
+  "id": "n2-1341",
+  "jlpt": "N2",
+  "kanji": "締切",
+  "kana": "しめきり",
+  "display": "締切",
+  "meanings_zh": [],
+  "meanings_en": [
+    "closing",
+    "cut-off",
+    "end",
+    "deadline",
+    "Closed",
+    "No Entrance"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "締切りは月曜日です。",
+      "en": "The deadline is Monday."
+    },
+    {
+      "ja": "締切に間に合うように死に物狂いでやってるよ。",
+      "en": "I'm killing myself to meet the deadline."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "n2-0086",
+  "jlpt": "N2",
+  "kanji": "",
+  "kana": "くっつける",
+  "display": "くっつける",
+  "meanings_zh": [
+    "把～～粘上",
+    "把～～贴上",
+    "使靠近",
+    "使挨上"
+  ],
+  "meanings_en": [
+    "to attach"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

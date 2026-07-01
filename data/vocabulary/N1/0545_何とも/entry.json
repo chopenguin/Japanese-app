@@ -1,0 +1,40 @@
+{
+  "id": "n1-0545",
+  "jlpt": "N1",
+  "kanji": "何とも",
+  "kana": "なんとも",
+  "display": "何とも",
+  "meanings_zh": [
+    "真的",
+    "实在",
+    "无关紧要",
+    "没什么"
+  ],
+  "meanings_en": [
+    "nothing (with neg. verb)",
+    "quite",
+    "not a bit"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "何とも言えない。",
+      "en": "I can't say."
+    },
+    {
+      "ja": "何とも思わない。",
+      "en": "I feel nothing at all."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

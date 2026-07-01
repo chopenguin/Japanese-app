@@ -1,0 +1,46 @@
+{
+  "id": "n1-1444",
+  "jlpt": "N1",
+  "kanji": "仕掛け",
+  "kana": "しかけ",
+  "display": "仕掛け",
+  "meanings_zh": [
+    "开始做",
+    "着手",
+    "做到中途",
+    "制作中"
+  ],
+  "meanings_en": [
+    "device",
+    "trick",
+    "mechanism",
+    "gadget",
+    "(small) scale",
+    "half finished",
+    "commencement",
+    "set up",
+    "challenge"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "トムはわなを仕掛けた。",
+      "en": "Tom set a trap."
+    },
+    {
+      "ja": "この仕掛けはスイッチで動く。",
+      "en": "This device is actuated by a switch."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

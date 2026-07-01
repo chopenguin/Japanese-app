@@ -1,0 +1,33 @@
+{
+  "id": "n1-0162",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "スポーツカー",
+  "display": "スポーツカー",
+  "meanings_zh": [],
+  "meanings_en": [
+    "sports car"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼はスポーツカーのマニアだ。",
+      "en": "He has mania for sports cars."
+    },
+    {
+      "ja": "赤いスポーツカーを買ったんだ。",
+      "en": "I bought a red sports car."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "missing"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

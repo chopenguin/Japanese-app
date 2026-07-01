@@ -1,0 +1,39 @@
+{
+  "id": "n1-0166",
+  "jlpt": "N1",
+  "kanji": "",
+  "kana": "ずれ",
+  "display": "ずれ",
+  "meanings_zh": [
+    "分歧",
+    "不一致",
+    "差距",
+    "差异"
+  ],
+  "meanings_en": [
+    "gap",
+    "slippage"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "千円札くずれますか。",
+      "en": "Can you break a 1000 yen bill?"
+    },
+    {
+      "ja": "先んずれば人を制す。",
+      "en": "First come, first served."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}

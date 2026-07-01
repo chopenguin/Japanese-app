@@ -1,0 +1,38 @@
+{
+  "id": "n3-0400",
+  "jlpt": "N3",
+  "kanji": "解く",
+  "kana": "とく",
+  "display": "解く",
+  "meanings_zh": [
+    "解",
+    "解开",
+    "拆",
+    "拆开"
+  ],
+  "meanings_en": [
+    "to unfasten"
+  ],
+  "audio": {
+    "status": "pending",
+    "files": []
+  },
+  "examples": [
+    {
+      "ja": "彼は難問を解くのが好きだ。",
+      "en": "He likes to work out the difficult questions."
+    },
+    {
+      "ja": "その問題を解くのは難しい。",
+      "en": "The problem is difficult to solve."
+    }
+  ],
+  "source": {
+    "jlpt_and_reading": "OpenJLPT",
+    "chinese_meaning": "NihongDict"
+  },
+  "review": {
+    "zh_meaning_checked": false,
+    "kana_checked": true
+  }
+}
