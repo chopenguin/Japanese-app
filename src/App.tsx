@@ -38,6 +38,11 @@ type SpellingQuestion = {
 
 type Question = ChoiceQuestion | SpellingQuestion;
 
+type SpellingTile = {
+  id: string;
+  text: string;
+};
+
 const hiraganaPool = Array.from(
   "あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽゃゅょっー",
 );
@@ -131,7 +136,12 @@ function getSpellingTiles(word: VocabularySummary, seed: string) {
   const pool = isKatakanaText(word.kana) ? katakanaPool : hiraganaPool;
   const randomTiles = shuffle(pool, seed).slice(0, Math.max(0, 15 - target.length));
 
-  return shuffle([...target, ...randomTiles].slice(0, 15), `${seed}:tiles`);
+  return shuffle([...target, ...randomTiles].slice(0, 15), `${seed}:tiles`).map(
+    (text, index) => ({
+      id: `${seed}:tile:${index}:${text}`,
+      text,
+    }),
+  );
 }
 
 function JapanesePrompt({ word }: { word: VocabularySummary }) {
@@ -155,7 +165,7 @@ function App() {
   const [questions, setQuestions] = useState<Question[]>([]);
   const [questionIndex, setQuestionIndex] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState("");
-  const [spellingAnswer, setSpellingAnswer] = useState("");
+  const [selectedSpellingTiles, setSelectedSpellingTiles] = useState<SpellingTile[]>([]);
   const [correctCount, setCorrectCount] = useState(0);
   const [isAnswered, setIsAnswered] = useState(false);
   const [voiceVolume, setVoiceVolume] = useState(80);
@@ -204,7 +214,7 @@ function App() {
     setQuestions(buildQuestions(selectedStage, levelWords));
     setQuestionIndex(0);
     setSelectedAnswer("");
-    setSpellingAnswer("");
+    setSelectedSpellingTiles([]);
     setCorrectCount(0);
     setIsAnswered(false);
     setView("game");
@@ -228,23 +238,28 @@ function App() {
     if (isCorrect) setCorrectCount((count) => count + 1);
   };
 
-  const appendSpellingTile = (tile: string) => {
+  const appendSpellingTile = (tile: SpellingTile) => {
     if (isAnswered) return;
-    setSpellingAnswer((answer) => `${answer}${tile}`);
+    setSelectedSpellingTiles((tiles) => [...tiles, tile]);
+  };
+
+  const removeSpellingTile = (tileId: string) => {
+    if (isAnswered) return;
+    setSelectedSpellingTiles((tiles) => tiles.filter((tile) => tile.id !== tileId));
   };
 
   const goNextQuestion = () => {
     if (questionIndex >= questions.length - 1) {
       setView("preview");
       setSelectedAnswer("");
-      setSpellingAnswer("");
+      setSelectedSpellingTiles([]);
       setIsAnswered(false);
       return;
     }
 
     setQuestionIndex((index) => index + 1);
     setSelectedAnswer("");
-    setSpellingAnswer("");
+    setSelectedSpellingTiles([]);
     setIsAnswered(false);
   };
 
@@ -446,38 +461,63 @@ function App() {
             ) : (
               <div className="spelling-panel">
                 <div className="spelling-answer" aria-label="拼字答案">
-                  {spellingAnswer || " "}
+                  {selectedSpellingTiles.length > 0 ? (
+                    selectedSpellingTiles.map((tile) => (
+                      <button
+                        disabled={isAnswered}
+                        key={tile.id}
+                        onClick={() => removeSpellingTile(tile.id)}
+                        type="button"
+                      >
+                        {tile.text}
+                      </button>
+                    ))
+                  ) : (
+                    <span />
+                  )}
                 </div>
                 <div className="tile-grid">
-                  {spellingTiles.map((tile, index) => (
-                    <button
-                      disabled={isAnswered}
-                      key={`${tile}-${index}`}
-                      onClick={() => appendSpellingTile(tile)}
-                      type="button"
-                    >
-                      {tile}
-                    </button>
-                  ))}
+                  {spellingTiles.map((tile) => {
+                    const isUsed = selectedSpellingTiles.some(
+                      (selectedTile) => selectedTile.id === tile.id,
+                    );
+                    return (
+                      <button
+                        className={isUsed ? "used" : ""}
+                        disabled={isAnswered || isUsed}
+                        key={tile.id}
+                        onClick={() => appendSpellingTile(tile)}
+                        type="button"
+                      >
+                        {tile.text}
+                      </button>
+                    );
+                  })}
                 </div>
                 <div className="spelling-actions">
                   <button
-                    disabled={isAnswered || spellingAnswer.length === 0}
-                    onClick={() => setSpellingAnswer((answer) => answer.slice(0, -1))}
+                    disabled={isAnswered || selectedSpellingTiles.length === 0}
+                    onClick={() =>
+                      setSelectedSpellingTiles((tiles) => tiles.slice(0, -1))
+                    }
                     type="button"
                   >
                     退一格
                   </button>
                   <button
-                    disabled={isAnswered || spellingAnswer.length === 0}
-                    onClick={() => setSpellingAnswer("")}
+                    disabled={isAnswered || selectedSpellingTiles.length === 0}
+                    onClick={() => setSelectedSpellingTiles([])}
                     type="button"
                   >
                     清除
                   </button>
                   <button
-                    disabled={isAnswered || spellingAnswer.trim().length === 0}
-                    onClick={() => answerCurrentQuestion(spellingAnswer)}
+                    disabled={isAnswered || selectedSpellingTiles.length === 0}
+                    onClick={() =>
+                      answerCurrentQuestion(
+                        selectedSpellingTiles.map((tile) => tile.text).join(""),
+                      )
+                    }
                     type="button"
                   >
                     檢查
