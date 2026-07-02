@@ -406,6 +406,16 @@ h2 {
   line-height: 1.25;
 }
 
+.question-card ruby {
+  ruby-align: center;
+}
+
+.question-card rt {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+}
+
 .question-card small {
   color: var(--muted);
   font-size: 17px;
@@ -456,26 +466,55 @@ h2 {
   background: #f4ded9;
 }
 
-.spelling-box {
+.spelling-panel {
   display: grid;
-  grid-template-columns: 1fr 86px;
   gap: 10px;
 }
 
-.spelling-box input {
+.spelling-answer {
   min-height: 54px;
-  min-width: 0;
-  padding: 0 14px;
+  padding: 12px 14px;
+  border: 1px dashed #cdbba5;
+  border-radius: 8px;
+  background: rgba(255, 250, 241, 0.76);
+  color: #312a22;
+  display: grid;
+  place-items: center;
+  font-size: 22px;
+  font-weight: 900;
+  letter-spacing: 0;
+}
+
+.tile-grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.tile-grid button {
+  aspect-ratio: 1;
   border: 1px solid var(--line);
   border-radius: 8px;
   background: var(--paper);
   color: #312a22;
-  font: inherit;
-  font-size: 18px;
-  font-weight: 800;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: 900;
+  box-shadow: 0 3px 0 #e4d4bf;
 }
 
-.spelling-box button,
+.tile-grid button:active {
+  transform: translateY(3px);
+  box-shadow: none;
+}
+
+.spelling-actions {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+}
+
+.spelling-actions button,
 .answer-panel button {
   min-height: 54px;
   border-radius: 8px;
@@ -485,7 +524,14 @@ h2 {
   font-weight: 850;
 }
 
-.spelling-box button:disabled {
+.spelling-actions button:first-child,
+.spelling-actions button:nth-child(2) {
+  background: rgba(49, 42, 34, 0.1);
+  color: #312a22;
+}
+
+.tile-grid button:disabled,
+.spelling-actions button:disabled {
   cursor: default;
   opacity: 0.45;
 }

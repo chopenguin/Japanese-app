@@ -38,6 +38,14 @@ type SpellingQuestion = {
 
 type Question = ChoiceQuestion | SpellingQuestion;
 
+const hiraganaPool = Array.from(
+  "あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽゃゅょっー",
+);
+
+const katakanaPool = Array.from(
+  "アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポャュョッー",
+);
+
 function shuffle<T>(items: T[], seed: string) {
   let state = 2166136261;
   for (let index = 0; index < seed.length; index += 1) {
@@ -110,6 +118,36 @@ function speakJapanese(word: VocabularySummary, volume: number) {
   window.speechSynthesis.speak(utterance);
 }
 
+function isKatakanaText(value: string) {
+  const kanaChars = Array.from(value).filter((char) => /[\u3040-\u30ffー]/u.test(char));
+  if (kanaChars.length === 0) return false;
+  return kanaChars.every((char) => /[\u30a0-\u30ffー]/u.test(char));
+}
+
+function getSpellingTiles(word: VocabularySummary, seed: string) {
+  const target = Array.from(word.kana || getPrimaryJapanese(word)).filter(
+    (char) => /[\u3040-\u30ffー]/u.test(char),
+  );
+  const pool = isKatakanaText(word.kana) ? katakanaPool : hiraganaPool;
+  const randomTiles = shuffle(pool, seed).slice(0, Math.max(0, 15 - target.length));
+
+  return shuffle([...target, ...randomTiles].slice(0, 15), `${seed}:tiles`);
+}
+
+function JapanesePrompt({ word }: { word: VocabularySummary }) {
+  const primary = getPrimaryJapanese(word);
+  if (!hasSeparateKana(word)) return <h2>{primary}</h2>;
+
+  return (
+    <h2>
+      <ruby>
+        {primary}
+        <rt>{word.kana}</rt>
+      </ruby>
+    </h2>
+  );
+}
+
 function App() {
   const [selectedLevel, setSelectedLevel] = useState<JlptLevel>("N5");
   const [selectedStage, setSelectedStage] = useState<Stage | null>(null);
@@ -129,6 +167,10 @@ function App() {
   const levelWords = useMemo(() => getLevelWords(selectedLevel), [selectedLevel]);
   const selectedLevelIndex = jlptLevels.indexOf(selectedLevel) + 1;
   const currentQuestion = questions[questionIndex];
+  const spellingTiles = useMemo(() => {
+    if (!currentQuestion || currentQuestion.type !== "spelling") return [];
+    return getSpellingTiles(currentQuestion.word, currentQuestion.id);
+  }, [currentQuestion]);
 
   const openLevel = (level: JlptLevel) => {
     setSelectedLevel(level);
@@ -184,6 +226,11 @@ function App() {
     setSelectedAnswer(normalizedAnswer);
     setIsAnswered(true);
     if (isCorrect) setCorrectCount((count) => count + 1);
+  };
+
+  const appendSpellingTile = (tile: string) => {
+    if (isAnswered) return;
+    setSpellingAnswer((answer) => `${answer}${tile}`);
   };
 
   const goNextQuestion = () => {
@@ -352,12 +399,7 @@ function App() {
               )}
 
               {currentQuestion.type === "ja-to-zh" && (
-                <>
-                  <h2>{getPrimaryJapanese(currentQuestion.word)}</h2>
-                  {hasSeparateKana(currentQuestion.word) && (
-                    <small>{currentQuestion.word.kana}</small>
-                  )}
-                </>
+                <JapanesePrompt word={currentQuestion.word} />
               )}
 
               {currentQuestion.type === "spelling" && (
@@ -393,29 +435,54 @@ function App() {
                       type="button"
                     >
                       {currentQuestion.type === "zh-to-ja"
-                        ? getPrimaryJapanese(option)
+                        ? hasSeparateKana(option)
+                          ? `${getPrimaryJapanese(option)}（${option.kana}）`
+                          : getPrimaryJapanese(option)
                         : option.meanings_zh.slice(0, 2).join("、")}
                     </button>
                   );
                 })}
               </div>
             ) : (
-              <div className="spelling-box">
-                <input
-                  autoCapitalize="off"
-                  autoCorrect="off"
-                  disabled={isAnswered}
-                  onChange={(event) => setSpellingAnswer(event.target.value)}
-                  placeholder="輸入假名"
-                  value={spellingAnswer}
-                />
-                <button
-                  disabled={isAnswered || spellingAnswer.trim().length === 0}
-                  onClick={() => answerCurrentQuestion(spellingAnswer)}
-                  type="button"
-                >
-                  檢查
-                </button>
+              <div className="spelling-panel">
+                <div className="spelling-answer" aria-label="拼字答案">
+                  {spellingAnswer || " "}
+                </div>
+                <div className="tile-grid">
+                  {spellingTiles.map((tile, index) => (
+                    <button
+                      disabled={isAnswered}
+                      key={`${tile}-${index}`}
+                      onClick={() => appendSpellingTile(tile)}
+                      type="button"
+                    >
+                      {tile}
+                    </button>
+                  ))}
+                </div>
+                <div className="spelling-actions">
+                  <button
+                    disabled={isAnswered || spellingAnswer.length === 0}
+                    onClick={() => setSpellingAnswer((answer) => answer.slice(0, -1))}
+                    type="button"
+                  >
+                    退一格
+                  </button>
+                  <button
+                    disabled={isAnswered || spellingAnswer.length === 0}
+                    onClick={() => setSpellingAnswer("")}
+                    type="button"
+                  >
+                    清除
+                  </button>
+                  <button
+                    disabled={isAnswered || spellingAnswer.trim().length === 0}
+                    onClick={() => answerCurrentQuestion(spellingAnswer)}
+                    type="button"
+                  >
+                    檢查
+                  </button>
+                </div>
               </div>
             )}
 
