@@ -177,8 +177,21 @@ h2 {
   box-shadow: 0 8px 18px rgba(77, 57, 36, 0.07);
 }
 
+.settings-entry {
+  width: 100%;
+  min-height: 46px;
+  margin-top: 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 250, 241, 0.72);
+  color: #5f5143;
+  cursor: pointer;
+  font-weight: 850;
+}
+
 .map-screen,
-.preview-screen {
+.preview-screen,
+.settings-screen {
   min-height: 100vh;
   padding-bottom: 26px;
 }
@@ -204,6 +217,11 @@ h2 {
   font-size: 34px;
   font-weight: 500;
   line-height: 1;
+}
+
+.back-button.dark {
+  background: rgba(49, 42, 34, 0.08);
+  color: #312a22;
 }
 
 .map-header .eyebrow {
@@ -362,6 +380,86 @@ h2 {
   text-align: right;
 }
 
+.settings-header {
+  min-height: 72px;
+  padding: calc(env(safe-area-inset-top) + 14px) 20px 14px;
+  display: grid;
+  grid-template-columns: 38px 1fr 38px;
+  align-items: center;
+}
+
+.settings-header h2 {
+  text-align: center;
+}
+
+.settings-content {
+  display: grid;
+  gap: 14px;
+  padding: 8px 20px 24px;
+}
+
+.settings-card {
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 250, 241, 0.92);
+  box-shadow: 0 10px 24px rgba(77, 57, 36, 0.07);
+}
+
+.settings-card h3 {
+  margin: 0 0 14px;
+  color: #312a22;
+  font-size: 17px;
+  letter-spacing: 0;
+}
+
+.range-row {
+  display: grid;
+  grid-template-columns: 46px 1fr 34px;
+  gap: 12px;
+  align-items: center;
+  min-height: 42px;
+  color: #5f5143;
+  font-size: 14px;
+  font-weight: 800;
+}
+
+.range-row + .range-row {
+  margin-top: 8px;
+}
+
+.range-row input {
+  width: 100%;
+  accent-color: #8d6b49;
+}
+
+.range-row strong {
+  text-align: right;
+}
+
+.choice-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 9px;
+}
+
+.choice-grid button {
+  min-height: 46px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--paper);
+  color: #5f5143;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 850;
+}
+
+.choice-grid button.active {
+  border-color: #312a22;
+  background: #312a22;
+  color: #fffaf1;
+}
+
 @media (min-width: 720px) {
   body {
     padding: 18px 0;
@@ -377,6 +475,8 @@ h2 {
 @media (max-width: 380px) {
   .home-screen,
   .map-header,
+  .settings-header,
+  .settings-content,
   .stage-map {
     padding-left: 14px;
     padding-right: 14px;

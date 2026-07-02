@@ -15,12 +15,16 @@ const levelDescriptions: Record<JlptLevel, string> = {
   N1: "高階表達",
 };
 
-type View = "home" | "map" | "preview";
+type View = "home" | "map" | "preview" | "settings";
 
 function App() {
   const [selectedLevel, setSelectedLevel] = useState<JlptLevel>("N5");
   const [selectedStage, setSelectedStage] = useState<Stage | null>(null);
   const [view, setView] = useState<View>("home");
+  const [voiceVolume, setVoiceVolume] = useState(80);
+  const [effectVolume, setEffectVolume] = useState(60);
+  const [voice, setVoice] = useState("default");
+  const [theme, setTheme] = useState("classic");
 
   const stages = useMemo(() => getStages(selectedLevel), [selectedLevel]);
   const selectedLevelIndex = jlptLevels.indexOf(selectedLevel) + 1;
@@ -77,6 +81,14 @@ function App() {
             <button type="button">學過單字</button>
             <button type="button">最愛單字</button>
           </div>
+
+          <button
+            className="settings-entry"
+            onClick={() => setView("settings")}
+            type="button"
+          >
+            設定
+          </button>
         </section>
       )}
 
@@ -150,6 +162,91 @@ function App() {
                 </li>
               ))}
             </ul>
+          </div>
+        </section>
+      )}
+
+      {view === "settings" && (
+        <section className="settings-screen">
+          <div className="settings-header">
+            <button
+              aria-label="返回"
+              className="back-button dark"
+              onClick={goBack}
+              type="button"
+            >
+              ‹
+            </button>
+            <h2>設定</h2>
+            <span />
+          </div>
+
+          <div className="settings-content">
+            <section className="settings-card">
+              <h3>音量</h3>
+              <label className="range-row">
+                <span>語音</span>
+                <input
+                  max="100"
+                  min="0"
+                  onChange={(event) => setVoiceVolume(Number(event.target.value))}
+                  type="range"
+                  value={voiceVolume}
+                />
+                <strong>{voiceVolume}</strong>
+              </label>
+              <label className="range-row">
+                <span>音效</span>
+                <input
+                  max="100"
+                  min="0"
+                  onChange={(event) => setEffectVolume(Number(event.target.value))}
+                  type="range"
+                  value={effectVolume}
+                />
+                <strong>{effectVolume}</strong>
+              </label>
+            </section>
+
+            <section className="settings-card">
+              <h3>配音</h3>
+              <div className="choice-grid">
+                {[
+                  ["default", "預設"],
+                  ["voice-a", "Voice A"],
+                  ["voice-b", "Voice B"],
+                ].map(([id, label]) => (
+                  <button
+                    className={voice === id ? "active" : ""}
+                    key={id}
+                    onClick={() => setVoice(id)}
+                    type="button"
+                  >
+                    {label}
+                  </button>
+                ))}
+              </div>
+            </section>
+
+            <section className="settings-card">
+              <h3>主題</h3>
+              <div className="choice-grid">
+                {[
+                  ["classic", "米白"],
+                  ["green", "抹茶"],
+                  ["mono", "黑白"],
+                ].map(([id, label]) => (
+                  <button
+                    className={theme === id ? "active" : ""}
+                    key={id}
+                    onClick={() => setTheme(id)}
+                    type="button"
+                  >
+                    {label}
+                  </button>
+                ))}
+              </div>
+            </section>
           </div>
         </section>
       )}
