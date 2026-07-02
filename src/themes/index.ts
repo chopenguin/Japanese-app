@@ -4,6 +4,7 @@ export type AppTheme = {
   id: ThemeId;
   name: string;
   className: string;
+  backdropClassName: string;
 };
 
 import { defaultTheme } from "./default";

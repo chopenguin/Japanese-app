@@ -159,6 +159,17 @@ function JapanesePrompt({ word }: { word: VocabularySummary }) {
   );
 }
 
+function ThemeBackdrop({ className }: { className: string }) {
+  return (
+    <div className={`theme-backdrop ${className}`} aria-hidden="true">
+      <span />
+      <span />
+      <span />
+      <span />
+    </div>
+  );
+}
+
 function App() {
   const [selectedLevel, setSelectedLevel] = useState<JlptLevel>("N5");
   const [selectedStage, setSelectedStage] = useState<Stage | null>(null);
@@ -279,6 +290,7 @@ function App() {
 
   return (
     <main className={`phone-shell ${activeTheme.className}`}>
+      <ThemeBackdrop className={activeTheme.backdropClassName} />
       {view === "home" && (
         <section className="home-screen" aria-labelledby="app-title">
           <div className="home-header">
