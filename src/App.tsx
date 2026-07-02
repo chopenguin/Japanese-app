@@ -88,28 +88,28 @@ function buildQuestionOptions(
   return shuffle([word, ...distractors], `${seed}:options`);
 }
 
-function buildQuestions(stage: Stage, pool: VocabularySummary[]) {
+function buildQuestions(stage: Stage, pool: VocabularySummary[], runSeed: string) {
   const questions = stage.words.flatMap<Question>((word) => [
     {
-      id: `${word.id}:zh-to-ja`,
+      id: `${runSeed}:${word.id}:zh-to-ja`,
       type: "zh-to-ja",
       word,
-      options: buildQuestionOptions(word, pool, `${stage.id}:${word.id}:zh`),
+      options: buildQuestionOptions(word, pool, `${runSeed}:${word.id}:zh`),
     },
     {
-      id: `${word.id}:ja-to-zh`,
+      id: `${runSeed}:${word.id}:ja-to-zh`,
       type: "ja-to-zh",
       word,
-      options: buildQuestionOptions(word, pool, `${stage.id}:${word.id}:ja`),
+      options: buildQuestionOptions(word, pool, `${runSeed}:${word.id}:ja`),
     },
     {
-      id: `${word.id}:spelling`,
+      id: `${runSeed}:${word.id}:spelling`,
       type: "spelling",
       word,
     },
   ]);
 
-  return shuffle(questions, `${stage.id}:questions`);
+  return shuffle(questions, `${runSeed}:questions`);
 }
 
 function speakJapanese(word: VocabularySummary, volume: number) {
@@ -211,7 +211,8 @@ function App() {
   const startStage = () => {
     if (!selectedStage) return;
 
-    setQuestions(buildQuestions(selectedStage, levelWords));
+    const runSeed = `${selectedStage.id}:${Date.now()}:${Math.random()}`;
+    setQuestions(buildQuestions(selectedStage, levelWords, runSeed));
     setQuestionIndex(0);
     setSelectedAnswer("");
     setSelectedSpellingTiles([]);
