@@ -144,38 +144,39 @@
 
 .theme-ocean {
   --wallpaper-image:
-    radial-gradient(circle at 22% 18%, rgba(122, 226, 232, 0.48), transparent 28%),
-    linear-gradient(160deg, #05324b 0%, #08708d 48%, #64d6c2 100%);
-  --paper: #f1fffb;
-  --paper-strong: #d6f8f5;
-  --line: #2c8ea3;
-  --line-soft: rgba(44, 142, 163, 0.3);
-  --text-main: #073242;
-  --text-strong: #032735;
-  --text-soft: #164d5d;
-  --text-inverted: #f1fffb;
-  --header-muted: rgba(241, 255, 251, 0.78);
-  --header-control: rgba(241, 255, 251, 0.2);
-  --header-chip: rgba(241, 255, 251, 0.18);
-  --muted: #4f7781;
-  --shadow: 0 18px 38px rgba(3, 50, 76, 0.18);
-  --shell-shadow: 0 0 48px rgba(2, 32, 49, 0.35);
-  --button-shadow: 0 9px 0 rgba(9, 112, 141, 0.18);
-  --press-shadow: 0 4px 0 #88cfd0;
-  --active-press-shadow: 0 5px 0 #031e2a;
-  --surface-glass: rgba(241, 255, 251, 0.9);
-  --surface-strong: rgba(241, 255, 251, 0.96);
-  --surface-soft: rgba(214, 248, 245, 0.78);
-  --control-soft: rgba(7, 112, 141, 0.14);
-  --success-line: #168f80;
-  --success-bg: #d4f6eb;
-  --danger-line: #c56d75;
-  --danger-bg: #f7dce0;
-  --stage-muted: #6b9aa5;
-  --page-bg: #d9f5f1;
-  --body-bg: #05324b;
-  --button-dark: #07506a;
-  --button-dark-text: #f1fffb;
+    radial-gradient(circle at 52% -10%, rgba(80, 180, 210, 0.28), transparent 34%),
+    radial-gradient(circle at 20% 84%, rgba(5, 112, 138, 0.38), transparent 28%),
+    linear-gradient(180deg, #011522 0%, #042b44 42%, #031525 100%);
+  --paper: #e7f8fb;
+  --paper-strong: #cbeaf0;
+  --line: #1d728a;
+  --line-soft: rgba(70, 163, 188, 0.3);
+  --text-main: #041f2d;
+  --text-strong: #031522;
+  --text-soft: #0d3f52;
+  --text-inverted: #e9fbff;
+  --header-muted: rgba(233, 251, 255, 0.76);
+  --header-control: rgba(147, 215, 230, 0.22);
+  --header-chip: rgba(147, 215, 230, 0.18);
+  --muted: #4f7a87;
+  --shadow: 0 18px 40px rgba(1, 21, 34, 0.28);
+  --shell-shadow: 0 0 52px rgba(0, 9, 20, 0.56);
+  --button-shadow: 0 8px 0 rgba(1, 39, 58, 0.28);
+  --press-shadow: 0 4px 0 #74bac7;
+  --active-press-shadow: 0 5px 0 #000913;
+  --surface-glass: rgba(231, 248, 251, 0.9);
+  --surface-strong: rgba(242, 253, 255, 0.97);
+  --surface-soft: rgba(203, 234, 240, 0.78);
+  --control-soft: rgba(29, 114, 138, 0.16);
+  --success-line: #158e90;
+  --success-bg: #d2f1ef;
+  --danger-line: #b86a82;
+  --danger-bg: #f2d9e1;
+  --stage-muted: #6693a0;
+  --page-bg: #092c44;
+  --body-bg: #011522;
+  --button-dark: #052d46;
+  --button-dark-text: #e9fbff;
   --radius-card: 12px;
   --radius-control: 999px;
   --radius-pill: 999px;
@@ -193,58 +194,59 @@
 
 .theme-manga {
   --wallpaper-image:
-    radial-gradient(circle at 18% 18%, #ffffff 0 2px, transparent 3px),
-    repeating-linear-gradient(135deg, rgba(5, 5, 5, 0.16) 0 1px, transparent 1px 9px),
-    #fefefe;
-  --paper: #ffffff;
-  --paper-strong: #f7f7f7;
-  --line: #050505;
-  --line-soft: #050505;
-  --text-main: #050505;
-  --text-strong: #000000;
-  --text-soft: #161616;
-  --text-inverted: #ffffff;
-  --header-muted: #ffffff;
-  --header-control: #ffffff;
-  --header-chip: #ffffff;
-  --muted: #353535;
-  --shadow: 7px 7px 0 #050505;
-  --shell-shadow: 0 0 0 3px #050505, 12px 12px 0 rgba(5, 5, 5, 0.18);
-  --button-shadow: 5px 5px 0 #050505;
-  --press-shadow: 4px 4px 0 #050505;
-  --active-press-shadow: 5px 5px 0 #ffffff;
-  --surface-glass: rgba(255, 255, 255, 0.95);
-  --surface-strong: #ffffff;
-  --surface-soft: #f4f4f4;
-  --control-soft: #ffffff;
-  --success-line: #050505;
-  --success-bg: #ffffff;
-  --danger-line: #050505;
-  --danger-bg: #d9d9d9;
-  --stage-muted: #4a4a4a;
-  --page-bg: #ffffff;
-  --body-bg: #fefefe;
-  --button-dark: #050505;
-  --button-dark-text: #ffffff;
-  --radius-card: 0;
-  --radius-control: 0;
-  --radius-pill: 0;
-  --n5: #050505;
-  --n5-soft: #ffffff;
-  --n4: #050505;
-  --n4-soft: #f2f2f2;
-  --n3: #050505;
-  --n3-soft: #e8e8e8;
-  --n2: #050505;
-  --n2-soft: #dddddd;
-  --n1: #050505;
-  --n1-soft: #d0d0d0;
+    repeating-linear-gradient(100deg, rgba(61, 54, 45, 0.08) 0 1px, transparent 1px 13px),
+    repeating-linear-gradient(8deg, rgba(61, 54, 45, 0.05) 0 1px, transparent 1px 19px),
+    linear-gradient(180deg, #fbf7ef 0%, #efe7da 100%);
+  --paper: #fffaf0;
+  --paper-strong: #f1eadf;
+  --line: #51483d;
+  --line-soft: rgba(81, 72, 61, 0.28);
+  --text-main: #342f2a;
+  --text-strong: #201d1a;
+  --text-soft: #4b433b;
+  --text-inverted: #fffaf0;
+  --header-muted: rgba(255, 250, 240, 0.78);
+  --header-control: rgba(255, 250, 240, 0.22);
+  --header-chip: rgba(255, 250, 240, 0.18);
+  --muted: #756b5e;
+  --shadow: 5px 5px 0 rgba(81, 72, 61, 0.28), 0 14px 30px rgba(52, 47, 42, 0.08);
+  --shell-shadow: 0 0 0 2px #51483d, 10px 12px 0 rgba(81, 72, 61, 0.16);
+  --button-shadow: 4px 5px 0 rgba(81, 72, 61, 0.32);
+  --press-shadow: 3px 4px 0 rgba(81, 72, 61, 0.34);
+  --active-press-shadow: 4px 5px 0 #201d1a;
+  --surface-glass: rgba(255, 250, 240, 0.92);
+  --surface-strong: rgba(255, 250, 240, 0.98);
+  --surface-soft: rgba(241, 234, 223, 0.82);
+  --control-soft: rgba(81, 72, 61, 0.12);
+  --success-line: #5f7f5d;
+  --success-bg: #e2ebd9;
+  --danger-line: #a15d5d;
+  --danger-bg: #efdcda;
+  --stage-muted: #8b8175;
+  --page-bg: #f3eadc;
+  --body-bg: #efe7da;
+  --button-dark: #3a342e;
+  --button-dark-text: #fffaf0;
+  --radius-card: 6px 9px 5px 8px;
+  --radius-control: 7px 10px 6px 9px;
+  --radius-pill: 999px;
+  --n5: #687f64;
+  --n5-soft: #e5ead9;
+  --n4: #5d7891;
+  --n4-soft: #dfe7ed;
+  --n3: #a48655;
+  --n3-soft: #eee4d1;
+  --n2: #7c6f94;
+  --n2-soft: #e6e0ee;
+  --n1: #a06664;
+  --n1-soft: #eedcda;
 }
 
 .theme-antarctic {
   --wallpaper-image:
-    radial-gradient(circle at 78% 10%, rgba(255, 255, 255, 0.84), transparent 16%),
-    linear-gradient(180deg, #bfefff 0%, #eafaff 45%, #d6f2ff 100%);
+    radial-gradient(circle at 78% 10%, rgba(255, 255, 255, 0.9), transparent 16%),
+    radial-gradient(circle at 16% 32%, rgba(255, 255, 255, 0.42), transparent 22%),
+    linear-gradient(180deg, #a8e6fb 0%, #eafaff 44%, #d0edf8 100%);
   --paper: #fbfeff;
   --paper-strong: #e5f8ff;
   --line: #83cde5;
@@ -271,8 +273,8 @@
   --danger-line: #bd7379;
   --danger-bg: #f6dde2;
   --stage-muted: #7faabd;
-  --page-bg: #e8f8fd;
-  --body-bg: #bfefff;
+  --page-bg: #e5f7fc;
+  --body-bg: #a8e6fb;
   --button-dark: #12394f;
   --button-dark-text: #fbfeff;
   --radius-card: 10px;
@@ -391,81 +393,113 @@
 }
 
 .theme-backdrop-ocean span {
-  border: 2px solid rgba(241, 255, 251, 0.3);
   border-radius: 999px;
-  animation: ocean-drift 10s ease-in-out infinite;
+  opacity: 0.72;
 }
 
 .theme-backdrop-ocean span:nth-child(1) {
-  width: 190px;
-  height: 190px;
-  top: 44px;
-  right: -92px;
+  width: 76px;
+  height: 28px;
+  top: 118px;
+  left: -92px;
+  background:
+    radial-gradient(circle at 30% 45%, rgba(233, 251, 255, 0.9) 0 2px, transparent 3px),
+    linear-gradient(90deg, rgba(70, 163, 188, 0.76), rgba(9, 76, 105, 0.76));
+  clip-path: polygon(0 50%, 22% 16%, 72% 16%, 100% 0, 86% 50%, 100% 100%, 72% 84%, 22% 84%);
+  animation: fish-swim 14s linear infinite;
 }
 
 .theme-backdrop-ocean span:nth-child(2) {
-  width: 140px;
-  height: 140px;
-  left: -70px;
-  top: 38%;
-  animation-delay: -3s;
+  width: 56px;
+  height: 20px;
+  top: 44%;
+  right: -70px;
+  background: linear-gradient(90deg, rgba(13, 119, 147, 0.68), rgba(125, 210, 226, 0.72));
+  clip-path: polygon(0 0, 24% 48%, 0 100%, 38% 82%, 100% 82%, 80% 48%, 100% 14%, 38% 14%);
+  animation: fish-swim-reverse 12s linear infinite;
+  animation-delay: -4s;
 }
 
 .theme-backdrop-ocean span:nth-child(3) {
-  width: 240px;
-  height: 44px;
-  border-radius: 999px 40px 999px 40px;
-  right: -48px;
-  bottom: 18%;
-  transform: rotate(-8deg);
-  animation-delay: -6s;
+  width: 170px;
+  height: 170px;
+  right: -72px;
+  bottom: 22%;
+  border: 1px solid rgba(147, 215, 230, 0.22);
+  background:
+    radial-gradient(circle at 32% 32%, rgba(233, 251, 255, 0.2), transparent 18%),
+    rgba(147, 215, 230, 0.06);
+  animation: ocean-drift 11s ease-in-out infinite;
 }
 
 .theme-backdrop-ocean span:nth-child(4) {
-  width: 86px;
-  height: 86px;
-  left: 44%;
-  bottom: 64px;
-  animation-delay: -8s;
+  width: 2px;
+  height: 230px;
+  left: 18%;
+  bottom: -18px;
+  border-radius: 999px;
+  background: rgba(147, 215, 230, 0.18);
+  box-shadow:
+    38px -18px 0 rgba(147, 215, 230, 0.1),
+    96px 12px 0 rgba(147, 215, 230, 0.14),
+    180px -30px 0 rgba(147, 215, 230, 0.08);
+  animation: ocean-drift 9s ease-in-out infinite;
+  animation-delay: -5s;
 }
 
 .theme-backdrop-manga span {
-  background: #050505;
+  background: rgba(81, 72, 61, 0.34);
 }
 
 .theme-backdrop-manga span:nth-child(1) {
-  width: 190px;
-  height: 190px;
-  right: -74px;
-  top: 34px;
-  border-radius: 999px;
+  width: 210px;
+  height: 150px;
+  right: -82px;
+  top: 46px;
+  border-radius: 42% 58% 53% 47%;
   background:
-    repeating-radial-gradient(circle, #050505 0 2px, transparent 2px 8px),
-    #ffffff;
-  border: 3px solid #050505;
+    repeating-linear-gradient(100deg, rgba(81, 72, 61, 0.2) 0 1px, transparent 1px 7px),
+    rgba(255, 250, 240, 0.34);
+  border: 2px solid rgba(81, 72, 61, 0.44);
+  transform: rotate(-7deg);
 }
 
 .theme-backdrop-manga span:nth-child(2) {
-  width: 130px;
-  height: 28px;
+  width: 160px;
+  height: 12px;
   left: -18px;
   top: 164px;
+  border-radius: 999px;
+  background: rgba(81, 72, 61, 0.26);
   transform: rotate(-10deg);
+  box-shadow:
+    10px 18px 0 rgba(81, 72, 61, 0.16),
+    24px 38px 0 rgba(81, 72, 61, 0.12);
 }
 
 .theme-backdrop-manga span:nth-child(3) {
-  width: 2px;
+  width: 3px;
   height: 230px;
   left: 54px;
   bottom: 60px;
+  border-radius: 999px;
+  background: rgba(81, 72, 61, 0.28);
   transform: rotate(22deg);
+  box-shadow:
+    16px -8px 0 rgba(81, 72, 61, 0.16),
+    -14px 22px 0 rgba(81, 72, 61, 0.12);
 }
 
 .theme-backdrop-manga span:nth-child(4) {
-  width: 180px;
-  height: 2px;
+  width: 190px;
+  height: 54px;
   right: 18px;
   bottom: 94px;
+  border-radius: 52% 48% 45% 55%;
+  background:
+    repeating-linear-gradient(0deg, rgba(81, 72, 61, 0.12) 0 1px, transparent 1px 6px),
+    rgba(255, 250, 240, 0.2);
+  border: 1px solid rgba(81, 72, 61, 0.26);
   transform: rotate(-6deg);
 }
 
@@ -474,13 +508,14 @@
 }
 
 .theme-backdrop-antarctic span:nth-child(1) {
-  width: 150px;
-  height: 88px;
-  left: -32px;
-  bottom: 36px;
+  width: 190px;
+  height: 74px;
+  left: -46px;
+  bottom: 42px;
   border-radius: 52% 48% 38% 42%;
   background: rgba(255, 255, 255, 0.78);
   border: 1px solid rgba(131, 205, 229, 0.28);
+  box-shadow: 160px -18px 0 rgba(255, 255, 255, 0.5);
 }
 
 .theme-backdrop-antarctic span:nth-child(2) {
@@ -510,13 +545,21 @@
 }
 
 .theme-backdrop-antarctic span:nth-child(4) {
-  width: 210px;
-  height: 40px;
-  right: -36px;
-  bottom: 28px;
-  border-radius: 50% 50% 0 0;
-  background: rgba(255, 255, 255, 0.72);
-  border: 1px solid rgba(131, 205, 229, 0.24);
+  width: 58px;
+  height: 34px;
+  left: 32px;
+  top: 145px;
+  border-radius: 46% 54% 50% 50%;
+  background:
+    radial-gradient(circle at 72% 34%, #102f3f 0 2px, transparent 3px),
+    #fbfeff;
+  border: 1px solid rgba(131, 205, 229, 0.34);
+  box-shadow:
+    -18px 4px 0 rgba(251, 254, 255, 0.56),
+    18px 5px 0 rgba(251, 254, 255, 0.56),
+    118px 238px 0 rgba(255, 255, 255, 0.6);
+  animation: penguin-bob 8s ease-in-out infinite;
+  animation-delay: -3s;
 }
 
 @keyframes matcha-float {
@@ -549,6 +592,34 @@
 
   50% {
     transform: translate3d(10px, -10px, 0);
+  }
+}
+
+@keyframes fish-swim {
+  0% {
+    transform: translateX(0) translateY(0);
+  }
+
+  50% {
+    transform: translateX(270px) translateY(18px);
+  }
+
+  100% {
+    transform: translateX(540px) translateY(-8px);
+  }
+}
+
+@keyframes fish-swim-reverse {
+  0% {
+    transform: translateX(0) translateY(0);
+  }
+
+  50% {
+    transform: translateX(-260px) translateY(-14px);
+  }
+
+  100% {
+    transform: translateX(-540px) translateY(8px);
   }
 }
 
