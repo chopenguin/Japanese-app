@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import {
   getLevelWords,
   getLevelCount,
@@ -10,6 +10,7 @@ import {
   type Stage,
   type VocabularySummary,
 } from "./vocabulary";
+import { getTheme, themes, type ThemeId } from "./themes";
 
 const levelDescriptions: Record<JlptLevel, string> = {
   N5: "入門基礎",
@@ -171,12 +172,24 @@ function App() {
   const [voiceVolume, setVoiceVolume] = useState(80);
   const [effectVolume, setEffectVolume] = useState(60);
   const [voice, setVoice] = useState("default");
-  const [theme, setTheme] = useState("classic");
+  const [theme, setTheme] = useState<ThemeId>("default");
 
   const stages = useMemo(() => getStages(selectedLevel), [selectedLevel]);
   const levelWords = useMemo(() => getLevelWords(selectedLevel), [selectedLevel]);
   const selectedLevelIndex = jlptLevels.indexOf(selectedLevel) + 1;
   const currentQuestion = questions[questionIndex];
+  const activeTheme = getTheme(theme);
+
+  useEffect(() => {
+    const themeClassNames = themes.map((themeOption) => themeOption.className);
+    document.body.classList.remove(...themeClassNames);
+    document.body.classList.add(activeTheme.className);
+
+    return () => {
+      document.body.classList.remove(activeTheme.className);
+    };
+  }, [activeTheme.className]);
+
   const spellingTiles = useMemo(() => {
     if (!currentQuestion || currentQuestion.type !== "spelling") return [];
     return getSpellingTiles(currentQuestion.word, currentQuestion.id);
@@ -265,7 +278,7 @@ function App() {
   };
 
   return (
-    <main className="phone-shell">
+    <main className={`phone-shell ${activeTheme.className}`}>
       {view === "home" && (
         <section className="home-screen" aria-labelledby="app-title">
           <div className="home-header">
@@ -618,18 +631,14 @@ function App() {
             <section className="settings-card">
               <h3>主題</h3>
               <div className="choice-grid">
-                {[
-                  ["classic", "米白"],
-                  ["green", "抹茶"],
-                  ["mono", "黑白"],
-                ].map(([id, label]) => (
+                {themes.map((themeOption) => (
                   <button
-                    className={theme === id ? "active" : ""}
-                    key={id}
-                    onClick={() => setTheme(id)}
+                    className={theme === themeOption.id ? "active" : ""}
+                    key={themeOption.id}
+                    onClick={() => setTheme(themeOption.id)}
                     type="button"
                   >
-                    {label}
+                    {themeOption.name}
                   </button>
                 ))}
               </div>

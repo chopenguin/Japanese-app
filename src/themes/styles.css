@@ -1,0 +1,74 @@
+.theme-default {
+  --paper: #fffaf1;
+  --paper-strong: #fff4df;
+  --line: #ddccb6;
+  --text-main: #312a22;
+  --text-strong: #302820;
+  --text-soft: #3d342b;
+  --muted: #897763;
+  --shadow: 0 14px 36px rgba(77, 57, 36, 0.11);
+  --page-bg: #f4eadb;
+  --body-bg: #efe6d7;
+  --button-dark: #312a22;
+  --button-dark-text: #fffaf1;
+  --n5: #78b884;
+  --n5-soft: #e8f2df;
+  --n4: #6ea2c8;
+  --n4-soft: #e5f0f4;
+  --n3: #d99d52;
+  --n3-soft: #f7ead8;
+  --n2: #a67ab0;
+  --n2-soft: #eee3ef;
+  --n1: #d16f68;
+  --n1-soft: #f4e0dc;
+}
+
+.theme-matcha {
+  --paper: #fbfaf0;
+  --paper-strong: #f0f2df;
+  --line: #c9d0ae;
+  --text-main: #263026;
+  --text-strong: #1f2b20;
+  --text-soft: #344233;
+  --muted: #68745f;
+  --shadow: 0 14px 36px rgba(47, 69, 44, 0.12);
+  --page-bg: #edf0df;
+  --body-bg: #e4ead5;
+  --button-dark: #2f4a34;
+  --button-dark-text: #fbfaf0;
+  --n5: #6f9d69;
+  --n5-soft: #e2edd9;
+  --n4: #729f96;
+  --n4-soft: #e1ece8;
+  --n3: #ad985d;
+  --n3-soft: #eee8d5;
+  --n2: #8b8d68;
+  --n2-soft: #e9ead9;
+  --n1: #a36d63;
+  --n1-soft: #eee1dc;
+}
+
+.theme-mono {
+  --paper: #fbfaf7;
+  --paper-strong: #eeeeec;
+  --line: #cfcfca;
+  --text-main: #202020;
+  --text-strong: #111111;
+  --text-soft: #333333;
+  --muted: #70706b;
+  --shadow: 0 14px 36px rgba(0, 0, 0, 0.1);
+  --page-bg: #eeeeea;
+  --body-bg: #e3e3df;
+  --button-dark: #202020;
+  --button-dark-text: #fbfaf7;
+  --n5: #6f6f6a;
+  --n5-soft: #eeeeea;
+  --n4: #5c5c59;
+  --n4-soft: #e7e7e3;
+  --n3: #494945;
+  --n3-soft: #dfdfdb;
+  --n2: #373734;
+  --n2-soft: #d8d8d4;
+  --n1: #252522;
+  --n1-soft: #d0d0cc;
+}
