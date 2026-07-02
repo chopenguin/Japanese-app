@@ -44,6 +44,18 @@ function getWordsForStage(stageData, vocabularyManifest, level, stageNumber) {
   });
 }
 
+function getWordsForLevel(vocabularyManifest, level) {
+  return vocabularyManifest.levels[level].items;
+}
+
+function getSynthesisText(word, textSource) {
+  if (textSource === "kana") {
+    return word.kana || word.kanji || word.display;
+  }
+
+  return word.display || word.kanji || word.kana;
+}
+
 async function synthesize({ endpoint, speaker, text }) {
   const queryUrl = new URL("/audio_query", endpoint);
   queryUrl.searchParams.set("speaker", String(speaker));
@@ -79,9 +91,15 @@ async function main() {
   const voiceId = getArg("voice", "voicevox-female");
   const speaker = Number(getArg("speaker", "2"));
   const level = normalizeLevel(getArg("level", "N5"));
-  const stageNumber = Number(getArg("stage", "1"));
+  const stageArg = getArg("stage", "1");
+  const stageNumber = Number(stageArg);
   const limit = Number(getArg("limit", "0"));
   const overwrite = hasArg("overwrite");
+  const generateAll = hasArg("all") || stageArg === "all";
+  const textSource = getArg("text-source", "display");
+  if (!["display", "kana"].includes(textSource)) {
+    throw new Error(`Unsupported text source: ${textSource}`);
+  }
 
   const vocabularyManifest = await readJson(
     path.join(projectRoot, "data/vocabulary/manifest.json"),
@@ -93,20 +111,21 @@ async function main() {
   );
   const voiceManifest = await readJson(manifestPath);
 
-  const words = getWordsForStage(stageData, vocabularyManifest, level, stageNumber).slice(
-    0,
-    limit > 0 ? limit : undefined,
-  );
+  const words = (
+    generateAll
+      ? getWordsForLevel(vocabularyManifest, level)
+      : getWordsForStage(stageData, vocabularyManifest, level, stageNumber)
+  ).slice(0, limit > 0 ? limit : undefined);
   const outDir = path.join(projectRoot, `public/audio/voices/${voiceId}/${level}`);
   await mkdir(outDir, { recursive: true });
 
   const generated = [];
-  for (const word of words) {
+  for (const [index, word] of words.entries()) {
     const outPath = path.join(outDir, `${word.id}.wav`);
     if (!overwrite) {
       try {
         await readFile(outPath);
-        console.log(`skip ${word.id}`);
+        console.log(`skip ${index + 1}/${words.length} ${word.id}`);
         generated.push(word.id);
         continue;
       } catch {
@@ -114,8 +133,8 @@ async function main() {
       }
     }
 
-    const text = word.kana || word.kanji || word.display;
-    console.log(`generate ${level} ${word.id} ${text}`);
+    const text = getSynthesisText(word, textSource);
+    console.log(`generate ${index + 1}/${words.length} ${level} ${word.id} ${text}`);
     const audio = await synthesize({ endpoint, speaker, text });
     await writeFile(outPath, audio);
     generated.push(word.id);
