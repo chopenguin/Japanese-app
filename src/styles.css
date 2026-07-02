@@ -191,6 +191,7 @@ h2 {
 
 .map-screen,
 .preview-screen,
+.game-screen,
 .settings-screen {
   min-height: 100vh;
   padding-bottom: 26px;
@@ -380,6 +381,146 @@ h2 {
   text-align: right;
 }
 
+.game-content {
+  display: grid;
+  gap: 14px;
+  padding: 18px 20px 24px;
+}
+
+.question-card {
+  min-height: 184px;
+  padding: 24px 18px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 250, 241, 0.94);
+  box-shadow: var(--shadow);
+  display: grid;
+  place-items: center;
+  align-content: center;
+  gap: 10px;
+  text-align: center;
+}
+
+.question-card h2 {
+  font-size: 30px;
+  line-height: 1.25;
+}
+
+.question-card small {
+  color: var(--muted);
+  font-size: 17px;
+  font-weight: 800;
+}
+
+.question-card strong {
+  color: #4e4236;
+  font-size: 22px;
+  line-height: 1.35;
+}
+
+.speak-button {
+  min-width: 116px;
+  min-height: 42px;
+  border-radius: 8px;
+  background: #312a22;
+  color: #fffaf1;
+  cursor: pointer;
+  font-weight: 850;
+}
+
+.option-list {
+  display: grid;
+  gap: 10px;
+}
+
+.option-list button {
+  min-height: 58px;
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--paper);
+  color: #312a22;
+  cursor: pointer;
+  font-size: 17px;
+  font-weight: 850;
+  line-height: 1.35;
+}
+
+.option-list button.correct {
+  border-color: #6ea477;
+  background: #dff0df;
+}
+
+.option-list button.wrong {
+  border-color: #c46f66;
+  background: #f4ded9;
+}
+
+.spelling-box {
+  display: grid;
+  grid-template-columns: 1fr 86px;
+  gap: 10px;
+}
+
+.spelling-box input {
+  min-height: 54px;
+  min-width: 0;
+  padding: 0 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--paper);
+  color: #312a22;
+  font: inherit;
+  font-size: 18px;
+  font-weight: 800;
+}
+
+.spelling-box button,
+.answer-panel button {
+  min-height: 54px;
+  border-radius: 8px;
+  background: #312a22;
+  color: #fffaf1;
+  cursor: pointer;
+  font-weight: 850;
+}
+
+.spelling-box button:disabled {
+  cursor: default;
+  opacity: 0.45;
+}
+
+.answer-panel {
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 250, 241, 0.96);
+  display: grid;
+  gap: 7px;
+  box-shadow: 0 10px 24px rgba(77, 57, 36, 0.07);
+}
+
+.answer-panel span {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.answer-panel strong {
+  color: #312a22;
+  font-size: 20px;
+}
+
+.answer-panel em {
+  color: #5f5143;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.answer-panel button {
+  margin-top: 6px;
+}
+
 .settings-header {
   min-height: 72px;
   padding: calc(env(safe-area-inset-top) + 14px) 20px 14px;
@@ -477,6 +618,7 @@ h2 {
   .map-header,
   .settings-header,
   .settings-content,
+  .game-content,
   .stage-map {
     padding-left: 14px;
     padding-right: 14px;

@@ -1,4 +1,5 @@
 import manifest from "../data/vocabulary/manifest.json";
+import stageData from "../data/stages/stages.json";
 
 export type JlptLevel = "N5" | "N4" | "N3" | "N2" | "N1";
 
@@ -23,6 +24,24 @@ type VocabularyManifest = {
   levels: Record<JlptLevel, LevelManifest>;
 };
 
+type StageManifest = {
+  generated_at: string;
+  schema_version: number;
+  seed: string;
+  words_per_stage: number;
+  levels: Record<
+    JlptLevel,
+    {
+      count: number;
+      stages: Array<{
+        id: string;
+        number: number;
+        word_ids: string[];
+      }>;
+    }
+  >;
+};
+
 export type Stage = {
   id: string;
   level: JlptLevel;
@@ -34,25 +53,41 @@ export type Stage = {
 export const jlptLevels: JlptLevel[] = ["N5", "N4", "N3", "N2", "N1"];
 
 export const vocabularyManifest = manifest as VocabularyManifest;
+export const stageManifest = stageData as StageManifest;
+const vocabularyById = new Map(
+  jlptLevels.flatMap((level) =>
+    vocabularyManifest.levels[level].items.map((item) => [item.id, item] as const),
+  ),
+);
 
 export function getLevelCount(level: JlptLevel) {
   return vocabularyManifest.levels[level].count;
 }
 
 export function getStages(level: JlptLevel): Stage[] {
-  const words = vocabularyManifest.levels[level].items;
-
-  return Array.from({ length: Math.ceil(words.length / 10) }, (_, index) => {
-    const stageWords = words.slice(index * 10, index * 10 + 10);
-    const first = stageWords[0]?.display ?? "";
-    const last = stageWords.at(-1)?.display ?? "";
+  return stageManifest.levels[level].stages.map((stage) => {
+    const words = stage.word_ids
+      .map((wordId) => vocabularyById.get(wordId))
+      .filter((word): word is VocabularySummary => Boolean(word));
 
     return {
-      id: `${level.toLowerCase()}-${index + 1}`,
+      id: stage.id,
       level,
-      number: index + 1,
-      title: first && last ? `${first} - ${last}` : `${level} Stage ${index + 1}`,
-      words: stageWords,
+      number: stage.number,
+      title: `${level} Stage ${stage.number}`,
+      words,
     };
   });
+}
+
+export function getLevelWords(level: JlptLevel) {
+  return vocabularyManifest.levels[level].items;
+}
+
+export function getPrimaryJapanese(word: VocabularySummary) {
+  return word.kanji || word.display;
+}
+
+export function hasSeparateKana(word: VocabularySummary) {
+  return word.kana && word.kana !== getPrimaryJapanese(word);
 }

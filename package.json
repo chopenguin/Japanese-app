@@ -6,7 +6,8 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
-    "build:vocabulary": "node scripts/build-vocabulary-data.mjs"
+    "build:vocabulary": "node scripts/build-vocabulary-data.mjs",
+    "build:stages": "node scripts/build-stage-data.mjs"
   },
   "devDependencies": {
     "@types/react": "^19.2.17",
