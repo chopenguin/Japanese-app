@@ -8,9 +8,7 @@
     "preview": "vite preview",
     "build:vocabulary": "node scripts/build-vocabulary-data.mjs",
     "build:stages": "node scripts/build-stage-data.mjs",
-    "audio:voicevox": "node scripts/generate-voicevox-audio.mjs",
-    "audio:review": "node scripts/review-voicevox-audio.mjs",
-    "audio:apply-review": "node scripts/apply-audio-review.mjs"
+    "audio:voicevox": "node scripts/generate-voicevox-audio.mjs"
   },
   "devDependencies": {
     "@types/react": "^19.2.17",
