@@ -338,7 +338,7 @@ h2 {
   padding: 10px 0;
   border-bottom: 1px solid var(--line-soft);
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(110px, 42%);
+  grid-template-columns: minmax(0, 1fr) 34px minmax(96px, 38%);
   gap: 12px;
   align-items: center;
 }
@@ -377,6 +377,20 @@ h2 {
   font-weight: 800;
   line-height: 1.35;
   text-align: right;
+}
+
+.word-audio-button {
+  width: 34px;
+  height: 34px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-control);
+  background: var(--paper);
+  color: var(--text-main);
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 900;
+  display: grid;
+  place-items: center;
 }
 
 .game-content {

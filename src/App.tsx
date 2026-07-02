@@ -1,5 +1,11 @@
 import { useEffect, useMemo, useState } from "react";
 import {
+  playWordAudio,
+  preloadStageAudio,
+  voiceOptions,
+  type VoiceId,
+} from "./audio";
+import {
   getLevelWords,
   getLevelCount,
   getPrimaryJapanese,
@@ -113,17 +119,6 @@ function buildQuestions(stage: Stage, pool: VocabularySummary[], runSeed: string
   return shuffle(questions, `${runSeed}:questions`);
 }
 
-function speakJapanese(word: VocabularySummary, volume: number) {
-  if (!("speechSynthesis" in window)) return;
-
-  window.speechSynthesis.cancel();
-  const utterance = new SpeechSynthesisUtterance(word.kana || getPrimaryJapanese(word));
-  utterance.lang = "ja-JP";
-  utterance.rate = 0.86;
-  utterance.volume = volume / 100;
-  window.speechSynthesis.speak(utterance);
-}
-
 function isKatakanaText(value: string) {
   const kanaChars = Array.from(value).filter((char) => /[\u3040-\u30ffー]/u.test(char));
   if (kanaChars.length === 0) return false;
@@ -182,7 +177,7 @@ function App() {
   const [isAnswered, setIsAnswered] = useState(false);
   const [voiceVolume, setVoiceVolume] = useState(80);
   const [effectVolume, setEffectVolume] = useState(60);
-  const [voice, setVoice] = useState("default");
+  const [voice, setVoice] = useState<VoiceId>("browser");
   const [theme, setTheme] = useState<ThemeId>("default");
 
   const stages = useMemo(() => getStages(selectedLevel), [selectedLevel]);
@@ -200,6 +195,11 @@ function App() {
       document.body.classList.remove(activeTheme.className);
     };
   }, [activeTheme.className]);
+
+  useEffect(() => {
+    if (!selectedStage || view !== "preview") return;
+    void preloadStageAudio(selectedStage.words, selectedStage.level, voice);
+  }, [selectedStage, voice, view]);
 
   const spellingTiles = useMemo(() => {
     if (!currentQuestion || currentQuestion.type !== "spelling") return [];
@@ -399,6 +399,16 @@ function App() {
                     <strong>{getPrimaryJapanese(word)}</strong>
                     {hasSeparateKana(word) && <small>{word.kana}</small>}
                   </span>
+                  <button
+                    aria-label={`播放 ${word.kana || getPrimaryJapanese(word)}`}
+                    className="word-audio-button"
+                    onClick={() =>
+                      void playWordAudio(word, selectedStage.level, voice, voiceVolume)
+                    }
+                    type="button"
+                  >
+                    ▶
+                  </button>
                   <em>{word.meanings_zh.slice(0, 2).join("、")}</em>
                 </li>
               ))}
@@ -440,14 +450,37 @@ function App() {
               )}
 
               {currentQuestion.type === "ja-to-zh" && (
-                <JapanesePrompt word={currentQuestion.word} />
+                <>
+                  <JapanesePrompt word={currentQuestion.word} />
+                  <button
+                    className="speak-button"
+                    onClick={() =>
+                      void playWordAudio(
+                        currentQuestion.word,
+                        selectedStage.level,
+                        voice,
+                        voiceVolume,
+                      )
+                    }
+                    type="button"
+                  >
+                    播放語音
+                  </button>
+                </>
               )}
 
               {currentQuestion.type === "spelling" && (
                 <>
                   <button
                     className="speak-button"
-                    onClick={() => speakJapanese(currentQuestion.word, voiceVolume)}
+                    onClick={() =>
+                      void playWordAudio(
+                        currentQuestion.word,
+                        selectedStage.level,
+                        voice,
+                        voiceVolume,
+                      )
+                    }
                     type="button"
                   >
                     播放語音
@@ -623,18 +656,14 @@ function App() {
             <section className="settings-card">
               <h3>配音</h3>
               <div className="choice-grid">
-                {[
-                  ["default", "預設"],
-                  ["voice-a", "Voice A"],
-                  ["voice-b", "Voice B"],
-                ].map(([id, label]) => (
+                {voiceOptions.map((voiceOption) => (
                   <button
-                    className={voice === id ? "active" : ""}
-                    key={id}
-                    onClick={() => setVoice(id)}
+                    className={voice === voiceOption.id ? "active" : ""}
+                    key={voiceOption.id}
+                    onClick={() => setVoice(voiceOption.id)}
                     type="button"
                   >
-                    {label}
+                    {voiceOption.name}
                   </button>
                 ))}
               </div>

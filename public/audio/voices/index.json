@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "voices": [
+    {
+      "id": "voicevox-female",
+      "name": "標準女聲",
+      "type": "audio-pack",
+      "manifest": "/audio/voices/voicevox-female/manifest.json"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "voicevox-female",
+  "name": "標準女聲",
+  "engine": "VOICEVOX",
+  "engine_version": "0.25.2",
+  "speaker": {
+    "name": "四国めたん",
+    "style": "ノーマル",
+    "id": 2
+  },
+  "language": "ja-JP",
+  "format": "wav",
+  "sample_rate": 24000,
+  "license_note": "Generated with VOICEVOX:四国めたん. VOICEVOX 與各音聲庫授權需依官方規約標示。",
+  "coverage": {
+    "N5": [
+      "n5-0010",
+      "n5-0034",
+      "n5-0096",
+      "n5-0108",
+      "n5-0322",
+      "n5-0343",
+      "n5-0438",
+      "n5-0467",
+      "n5-0544",
+      "n5-0586"
+    ]
+  },
+  "generated_at": "2026-07-02T09:44:17.296Z"
+}
