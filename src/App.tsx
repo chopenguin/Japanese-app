@@ -21,81 +21,83 @@ function App() {
 
   const stages = useMemo(() => getStages(selectedLevel), [selectedLevel]);
   const totalWords = getLevelCount(selectedLevel);
+  const selectedLevelIndex = jlptLevels.indexOf(selectedLevel) + 1;
 
   return (
-    <main className="app-shell">
-      <section className="app-header" aria-labelledby="app-title">
-        <div>
+    <main className="phone-shell">
+      <section className="home-screen" aria-labelledby="app-title">
+        <div className="home-header">
           <p className="eyebrow">Japanese Vocabulary</p>
-          <h1 id="app-title">日文單字練習</h1>
+          <h1 id="app-title">日文單字</h1>
+          <p className="home-subtitle">選擇 JLPT 等級，開始一關 10 個單字的練習。</p>
         </div>
-        <div className="today-card">
-          <span className="today-label">今日複習</span>
-          <strong>0</strong>
+
+        <div className="level-stack" aria-label="JLPT levels">
+          {jlptLevels.map((level) => (
+            <button
+              className={`level-card level-${level.toLowerCase()} ${
+                selectedLevel === level ? "active" : ""
+              }`}
+              key={level}
+              onClick={() => {
+                setSelectedLevel(level);
+                setSelectedStage(null);
+              }}
+              type="button"
+            >
+              <span className="level-title">JLPT {level}</span>
+              <span className="level-detail">
+                {levelDescriptions[level]} / {getLevelCount(level).toLocaleString()} 詞
+              </span>
+            </button>
+          ))}
+        </div>
+
+        <div className="home-actions">
+          <button type="button">學過單字</button>
+          <button type="button">最愛單字</button>
         </div>
       </section>
 
-      <section className="level-panel" aria-label="JLPT levels">
-        {jlptLevels.map((level) => (
-          <button
-            className={`level-button ${selectedLevel === level ? "active" : ""}`}
-            key={level}
-            onClick={() => {
-              setSelectedLevel(level);
-              setSelectedStage(null);
-            }}
-            type="button"
-          >
-            <span>{level}</span>
-            <small>{levelDescriptions[level]}</small>
-            <strong>{getLevelCount(level).toLocaleString()} 詞</strong>
-          </button>
-        ))}
-      </section>
-
-      <section className="content-grid">
-        <section className="stage-list" aria-labelledby="stage-list-title">
-          <div className="section-heading">
-            <div>
-              <p className="eyebrow">{selectedLevel}</p>
-              <h2 id="stage-list-title">關卡列表</h2>
-            </div>
-            <span>
-              {stages.length} 關 / {totalWords.toLocaleString()} 詞
-            </span>
+      <section className="map-screen">
+        <div className={`map-header level-${selectedLevel.toLowerCase()}-theme`}>
+          <div>
+            <p className="eyebrow">Level {selectedLevelIndex}</p>
+            <h2>JLPT {selectedLevel}</h2>
           </div>
+          <span>{stages.length} 關</span>
+        </div>
 
-          <div className="stages">
-            {stages.map((stage) => (
-              <button
-                className={`stage-row ${
-                  selectedStage?.id === stage.id ? "selected" : ""
-                }`}
-                key={stage.id}
-                onClick={() => setSelectedStage(stage)}
-                type="button"
-              >
-                <span className="stage-number">{stage.number}</span>
-                <span className="stage-copy">
-                  <strong>第 {stage.number} 關</strong>
-                  <small>{stage.title}</small>
-                </span>
-                <span className="stage-meta">10 詞</span>
-              </button>
-            ))}
-          </div>
-        </section>
+        <div className="map-summary">
+          <span>{totalWords.toLocaleString()} 個單字</span>
+          <span>每關 10 詞</span>
+          <span>30 題練習</span>
+        </div>
 
-        <aside className="preview-panel" aria-label="Stage preview">
+        <div className="stage-map" aria-label={`${selectedLevel} stage map`}>
+          {stages.map((stage) => (
+            <button
+              className={`stage-dot ${selectedStage?.id === stage.id ? "active" : ""}`}
+              key={stage.id}
+              onClick={() => setSelectedStage(stage)}
+              type="button"
+            >
+              <span>{stage.number}</span>
+            </button>
+          ))}
+        </div>
+
+        <aside className="stage-sheet" aria-label="Stage preview">
           {selectedStage ? (
             <>
-              <div className="section-heading compact">
+              <div className="sheet-heading">
                 <div>
                   <p className="eyebrow">
                     {selectedStage.level} / 第 {selectedStage.number} 關
                   </p>
                   <h2>單字預覽</h2>
                 </div>
+                <button type="button">開始</button>
               </div>
               <ul className="word-preview">
                 {selectedStage.words.map((word) => (
@@ -110,10 +112,10 @@ function App() {
               </ul>
             </>
           ) : (
-            <div className="empty-preview">
-              <p className="eyebrow">Preview</p>
+            <div className="empty-sheet">
+              <p className="eyebrow">Stage Preview</p>
               <h2>選一個關卡</h2>
-              <p>每關固定 10 個單字，之後會組成 30 題練習。</p>
+              <p>點選上方關卡，可以先確認本關 10 個單字。</p>
             </div>
           )}
         </aside>
