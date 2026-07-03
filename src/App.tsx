@@ -26,7 +26,17 @@ const levelDescriptions: Record<JlptLevel, string> = {
   N1: "高階表達",
 };
 
-type View = "home" | "map" | "preview" | "game" | "settings";
+type View =
+  | "home"
+  | "map"
+  | "preview"
+  | "game"
+  | "settings"
+  | "wordLevelSelect"
+  | "wordList";
+
+type WordLibraryMode = "learned" | "favorites";
+type StageReviewStatus = "unplayed" | "review-due" | "review-waiting" | "mastered";
 
 type QuestionType = "zh-to-ja" | "ja-to-zh" | "spelling";
 
@@ -50,6 +60,19 @@ type SpellingTile = {
   text: string;
 };
 
+type WordGroup = {
+  key: string;
+  label: string;
+  words: VocabularySummary[];
+};
+
+type StageProgress = {
+  stageId: string;
+  completedAt: number;
+  reviewCount: number;
+  nextReviewAt: number | null;
+};
+
 const hiraganaPool = Array.from(
   "あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽゃゅょっー",
 );
@@ -57,6 +80,25 @@ const hiraganaPool = Array.from(
 const katakanaPool = Array.from(
   "アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポャュョッー",
 );
+
+const learnedStorageKey = "japanese-app.learned-word-ids";
+const favoriteStorageKey = "japanese-app.favorite-word-ids";
+const stageProgressStorageKey = "japanese-app.stage-progress";
+const reviewIntervalsInDays = [1, 2, 4, 7, 15] as const;
+
+const kanaRows = [
+  { key: "a", label: "あ行", chars: "あいうえおぁぃぅぇぉ" },
+  { key: "ka", label: "か行", chars: "かきくけこがぎぐげご" },
+  { key: "sa", label: "さ行", chars: "さしすせそざじずぜぞ" },
+  { key: "ta", label: "た行", chars: "たちつてとだぢづでどっ" },
+  { key: "na", label: "な行", chars: "なにぬねの" },
+  { key: "ha", label: "は行", chars: "はひふへほばびぶべぼぱぴぷぺぽ" },
+  { key: "ma", label: "ま行", chars: "まみむめも" },
+  { key: "ya", label: "や行", chars: "やゆよゃゅょ" },
+  { key: "ra", label: "ら行", chars: "らりるれろ" },
+  { key: "wa", label: "わ行", chars: "わをん" },
+  { key: "other", label: "その他", chars: "" },
+] as const;
 
 function shuffle<T>(items: T[], seed: string) {
   let state = 2166136261;
@@ -80,6 +122,151 @@ function shuffle<T>(items: T[], seed: string) {
   }
 
   return result;
+}
+
+function loadWordIdSet(key: string) {
+  try {
+    const storedValue = window.localStorage.getItem(key);
+    if (!storedValue) return new Set<string>();
+    const ids = JSON.parse(storedValue);
+    return Array.isArray(ids) ? new Set(ids.filter((id) => typeof id === "string")) : new Set<string>();
+  } catch {
+    return new Set<string>();
+  }
+}
+
+function saveWordIdSet(key: string, ids: Set<string>) {
+  window.localStorage.setItem(key, JSON.stringify([...ids]));
+}
+
+function loadStageProgress() {
+  try {
+    const storedValue = window.localStorage.getItem(stageProgressStorageKey);
+    if (!storedValue) return {} as Record<string, StageProgress>;
+    const parsedValue = JSON.parse(storedValue);
+    if (!parsedValue || typeof parsedValue !== "object" || Array.isArray(parsedValue)) {
+      return {} as Record<string, StageProgress>;
+    }
+
+    return Object.fromEntries(
+      Object.entries(parsedValue).filter((entry): entry is [string, StageProgress] => {
+        const value = entry[1] as Partial<StageProgress>;
+        return (
+          typeof entry[0] === "string" &&
+          typeof value.stageId === "string" &&
+          typeof value.completedAt === "number" &&
+          typeof value.reviewCount === "number" &&
+          (typeof value.nextReviewAt === "number" || value.nextReviewAt === null)
+        );
+      }),
+    );
+  } catch {
+    return {} as Record<string, StageProgress>;
+  }
+}
+
+function saveStageProgress(progress: Record<string, StageProgress>) {
+  window.localStorage.setItem(stageProgressStorageKey, JSON.stringify(progress));
+}
+
+function toHiragana(value: string) {
+  return value.replace(/[\u30a1-\u30f6]/g, (char) =>
+    String.fromCharCode(char.charCodeAt(0) - 0x60),
+  );
+}
+
+function getWordSortKey(word: VocabularySummary) {
+  return toHiragana(word.kana || getPrimaryJapanese(word));
+}
+
+function getKanaRowKey(word: VocabularySummary) {
+  const firstKana = Array.from(getWordSortKey(word)).find((char) =>
+    /[\u3040-\u309f]/u.test(char),
+  );
+  if (!firstKana) return "other";
+
+  return kanaRows.find((row) => row.chars.includes(firstKana))?.key ?? "other";
+}
+
+function groupWordsByKanaRow(words: VocabularySummary[]): WordGroup[] {
+  const sortedWords = [...words].sort((left, right) =>
+    getWordSortKey(left).localeCompare(getWordSortKey(right), "ja"),
+  );
+
+  return kanaRows
+    .map((row) => ({
+      key: row.key,
+      label: row.label,
+      words: sortedWords.filter((word) => getKanaRowKey(word) === row.key),
+    }))
+    .filter((group) => group.words.length > 0);
+}
+
+function getReviewStatus(progress: StageProgress | undefined, now = Date.now()): StageReviewStatus {
+  if (!progress) return "unplayed";
+  if (progress.reviewCount >= reviewIntervalsInDays.length) return "mastered";
+  if (progress.nextReviewAt !== null && progress.nextReviewAt <= now) return "review-due";
+  return "review-waiting";
+}
+
+function getDemoStageProgress(stage: Stage): StageProgress | undefined {
+  if (stage.level !== "N5") return undefined;
+
+  const now = Date.now();
+  const baseProgress = {
+    stageId: stage.id,
+    completedAt: now - 1000 * 60 * 60 * 24 * 2,
+  };
+
+  if (stage.number === 2) {
+    return {
+      ...baseProgress,
+      reviewCount: 1,
+      nextReviewAt: now - 1000 * 60 * 60,
+    };
+  }
+
+  if (stage.number === 3) {
+    return {
+      ...baseProgress,
+      reviewCount: 2,
+      nextReviewAt: now + 1000 * 60 * 60 * 24 * 3,
+    };
+  }
+
+  if (stage.number === 4) {
+    return {
+      ...baseProgress,
+      reviewCount: reviewIntervalsInDays.length,
+      nextReviewAt: null,
+    };
+  }
+
+  return undefined;
+}
+
+function getStageStatus(
+  stage: Stage,
+  progressByStageId: Record<string, StageProgress>,
+) {
+  return getReviewStatus(progressByStageId[stage.id] ?? getDemoStageProgress(stage));
+}
+
+function getNextStageProgress(stage: Stage, currentProgress: StageProgress | undefined) {
+  const now = Date.now();
+  const nextReviewCount = Math.min(
+    (currentProgress?.reviewCount ?? 0) + 1,
+    reviewIntervalsInDays.length,
+  );
+  const isMastered = nextReviewCount >= reviewIntervalsInDays.length;
+  const intervalDays = reviewIntervalsInDays[nextReviewCount - 1] ?? 0;
+
+  return {
+    stageId: stage.id,
+    completedAt: now,
+    reviewCount: nextReviewCount,
+    nextReviewAt: isMastered ? null : now + intervalDays * 24 * 60 * 60 * 1000,
+  };
 }
 
 function buildQuestionOptions(
@@ -154,6 +341,80 @@ function JapanesePrompt({ word }: { word: VocabularySummary }) {
   );
 }
 
+function FavoriteButton({
+  isFavorite,
+  onToggle,
+  word,
+}: {
+  isFavorite: boolean;
+  onToggle: (wordId: string) => void;
+  word: VocabularySummary;
+}) {
+  return (
+    <button
+      aria-label={`${isFavorite ? "取消最愛" : "加入最愛"} ${word.kana || getPrimaryJapanese(word)}`}
+      aria-pressed={isFavorite}
+      className={`favorite-button ${isFavorite ? "active" : ""}`}
+      onClick={() => onToggle(word.id)}
+      type="button"
+    >
+      ♥
+    </button>
+  );
+}
+
+function SpeakIconButton({
+  label,
+  onPlay,
+}: {
+  label: string;
+  onPlay: () => void;
+}) {
+  return (
+    <button
+      aria-label={label}
+      className="speak-icon-button"
+      onClick={onPlay}
+      type="button"
+    >
+      🔊
+    </button>
+  );
+}
+
+function WordRow({
+  isFavorite,
+  level,
+  onFavoriteToggle,
+  onPlay,
+  word,
+}: {
+  isFavorite: boolean;
+  level: JlptLevel;
+  onFavoriteToggle: (wordId: string) => void;
+  onPlay: (word: VocabularySummary, level: JlptLevel) => void;
+  word: VocabularySummary;
+}) {
+  return (
+    <li className="word-row">
+      <FavoriteButton
+        isFavorite={isFavorite}
+        onToggle={onFavoriteToggle}
+        word={word}
+      />
+      <span>
+        <strong>{getPrimaryJapanese(word)}</strong>
+        {hasSeparateKana(word) && <small>{word.kana}</small>}
+      </span>
+      <SpeakIconButton
+        label={`播放 ${word.kana || getPrimaryJapanese(word)}`}
+        onPlay={() => onPlay(word, level)}
+      />
+      <em>{word.meanings_zh.slice(0, 2).join("、")}</em>
+    </li>
+  );
+}
+
 function ThemeBackdrop({ className }: { className: string }) {
   return (
     <div className={`theme-backdrop ${className}`} aria-hidden="true">
@@ -179,9 +440,29 @@ function App() {
   const [effectVolume, setEffectVolume] = useState(60);
   const [voice, setVoice] = useState<VoiceId>("browser");
   const [theme, setTheme] = useState<ThemeId>("default");
+  const [wordLibraryMode, setWordLibraryMode] = useState<WordLibraryMode>("learned");
+  const [wordLibraryLevel, setWordLibraryLevel] = useState<JlptLevel>("N5");
+  const [learnedWordIds, setLearnedWordIds] = useState<Set<string>>(
+    () => loadWordIdSet(learnedStorageKey),
+  );
+  const [favoriteWordIds, setFavoriteWordIds] = useState<Set<string>>(
+    () => loadWordIdSet(favoriteStorageKey),
+  );
+  const [stageProgressById, setStageProgressById] = useState<
+    Record<string, StageProgress>
+  >(() => loadStageProgress());
 
   const stages = useMemo(() => getStages(selectedLevel), [selectedLevel]);
   const levelWords = useMemo(() => getLevelWords(selectedLevel), [selectedLevel]);
+  const wordLibraryWords = useMemo(() => {
+    const wordIds =
+      wordLibraryMode === "learned" ? learnedWordIds : favoriteWordIds;
+    return getLevelWords(wordLibraryLevel).filter((word) => wordIds.has(word.id));
+  }, [favoriteWordIds, learnedWordIds, wordLibraryLevel, wordLibraryMode]);
+  const wordLibraryGroups = useMemo(
+    () => groupWordsByKanaRow(wordLibraryWords),
+    [wordLibraryWords],
+  );
   const selectedLevelIndex = jlptLevels.indexOf(selectedLevel) + 1;
   const currentQuestion = questions[questionIndex];
   const activeTheme = getTheme(theme);
@@ -201,10 +482,34 @@ function App() {
     void preloadStageAudio(selectedStage.words, selectedStage.level, voice);
   }, [selectedStage, voice, view]);
 
+  useEffect(() => {
+    saveWordIdSet(learnedStorageKey, learnedWordIds);
+  }, [learnedWordIds]);
+
+  useEffect(() => {
+    saveWordIdSet(favoriteStorageKey, favoriteWordIds);
+  }, [favoriteWordIds]);
+
+  useEffect(() => {
+    saveStageProgress(stageProgressById);
+  }, [stageProgressById]);
+
   const spellingTiles = useMemo(() => {
     if (!currentQuestion || currentQuestion.type !== "spelling") return [];
     return getSpellingTiles(currentQuestion.word, currentQuestion.id);
   }, [currentQuestion]);
+
+  useEffect(() => {
+    if (!currentQuestion || !selectedStage || view !== "game") return;
+    if (currentQuestion.type === "zh-to-ja") return;
+
+    void playWordAudio(
+      currentQuestion.word,
+      selectedStage.level,
+      voice,
+      voiceVolume,
+    );
+  }, [currentQuestion?.id, selectedStage?.level, view, voice]);
 
   const openLevel = (level: JlptLevel) => {
     setSelectedLevel(level);
@@ -217,14 +522,51 @@ function App() {
     setView("preview");
   };
 
+  const openWordLibrary = (mode: WordLibraryMode) => {
+    setWordLibraryMode(mode);
+    setWordLibraryLevel(selectedLevel);
+    setView("wordLevelSelect");
+  };
+
+  const openWordLibraryLevel = (level: JlptLevel) => {
+    setWordLibraryLevel(level);
+    setView("wordList");
+  };
+
+  const toggleFavoriteWord = (wordId: string) => {
+    setFavoriteWordIds((ids) => {
+      const nextIds = new Set(ids);
+      if (nextIds.has(wordId)) {
+        nextIds.delete(wordId);
+      } else {
+        nextIds.add(wordId);
+      }
+      return nextIds;
+    });
+  };
+
+  const playLibraryWord = (word: VocabularySummary, level: JlptLevel) => {
+    void playWordAudio(word, level, voice, voiceVolume);
+  };
+
   const goBack = () => {
     if (view === "game") {
-      setView("preview");
+      setView("map");
       return;
     }
 
     if (view === "preview") {
       setView("map");
+      return;
+    }
+
+    if (view === "wordList") {
+      setView("wordLevelSelect");
+      return;
+    }
+
+    if (view === "wordLevelSelect") {
+      setView("home");
       return;
     }
 
@@ -275,6 +617,20 @@ function App() {
 
   const goNextQuestion = () => {
     if (questionIndex >= questions.length - 1) {
+      if (selectedStage) {
+        setLearnedWordIds((ids) => {
+          const nextIds = new Set(ids);
+          selectedStage.words.forEach((word) => nextIds.add(word.id));
+          return nextIds;
+        });
+        setStageProgressById((progressById) => ({
+          ...progressById,
+          [selectedStage.id]: getNextStageProgress(
+            selectedStage,
+            progressById[selectedStage.id] ?? getDemoStageProgress(selectedStage),
+          ),
+        }));
+      }
       setView("preview");
       setSelectedAnswer("");
       setSelectedSpellingTiles([]);
@@ -317,8 +673,12 @@ function App() {
           </div>
 
           <div className="home-actions">
-            <button type="button">學過單字</button>
-            <button type="button">最愛單字</button>
+            <button onClick={() => openWordLibrary("learned")} type="button">
+              學過單字
+            </button>
+            <button onClick={() => openWordLibrary("favorites")} type="button">
+              最愛單字
+            </button>
           </div>
 
           <button
@@ -328,6 +688,97 @@ function App() {
           >
             設定
           </button>
+        </section>
+      )}
+
+      {view === "wordLevelSelect" && (
+        <section className="library-screen" aria-labelledby="library-title">
+          <div className="settings-header">
+            <button
+              aria-label="返回"
+              className="back-button dark"
+              onClick={goBack}
+              type="button"
+            >
+              ‹
+            </button>
+            <h2 id="library-title">
+              {wordLibraryMode === "learned" ? "學過單字" : "最愛單字"}
+            </h2>
+            <span />
+          </div>
+
+          <div className="library-levels">
+            {jlptLevels.map((level) => {
+              const activeIds =
+                wordLibraryMode === "learned" ? learnedWordIds : favoriteWordIds;
+              const count = getLevelWords(level).filter((word) =>
+                activeIds.has(word.id),
+              ).length;
+
+              return (
+                <button
+                  className={`level-card level-${level.toLowerCase()}`}
+                  key={level}
+                  onClick={() => openWordLibraryLevel(level)}
+                  type="button"
+                >
+                  <span className="level-title">JLPT {level}</span>
+                  <span className="level-detail">{count.toLocaleString()} 詞</span>
+                </button>
+              );
+            })}
+          </div>
+        </section>
+      )}
+
+      {view === "wordList" && (
+        <section className="library-screen" aria-labelledby="library-list-title">
+          <div className={`map-header level-${wordLibraryLevel.toLowerCase()}-theme`}>
+            <button
+              aria-label="返回"
+              className="back-button"
+              onClick={goBack}
+              type="button"
+            >
+              ‹
+            </button>
+            <div>
+              <p className="eyebrow">JLPT {wordLibraryLevel}</p>
+              <h2 id="library-list-title">
+                {wordLibraryMode === "learned" ? "學過單字" : "最愛單字"}
+              </h2>
+            </div>
+            <span>{wordLibraryWords.length} 詞</span>
+          </div>
+
+          <div className="library-list">
+            {wordLibraryGroups.length > 0 ? (
+              wordLibraryGroups.map((group) => (
+                <section className="word-group" key={group.key}>
+                  <h3>{group.label}</h3>
+                  <ul>
+                    {group.words.map((word) => (
+                      <WordRow
+                        isFavorite={favoriteWordIds.has(word.id)}
+                        key={word.id}
+                        level={wordLibraryLevel}
+                        onFavoriteToggle={toggleFavoriteWord}
+                        onPlay={playLibraryWord}
+                        word={word}
+                      />
+                    ))}
+                  </ul>
+                </section>
+              ))
+            ) : (
+              <div className="empty-library">
+                {wordLibraryMode === "learned"
+                  ? "完成關卡後，單字會出現在這裡。"
+                  : "按下單字旁的愛心後，單字會出現在這裡。"}
+              </div>
+            )}
+          </div>
         </section>
       )}
 
@@ -351,14 +802,28 @@ function App() {
 
           <div className="stage-map" aria-label={`${selectedLevel} stage map`}>
             {stages.map((stage) => (
-              <button
-                className="stage-dot"
-                key={stage.id}
-                onClick={() => openStage(stage)}
-                type="button"
-              >
-                <span>{stage.number}</span>
-              </button>
+              (() => {
+                const status = getStageStatus(stage, stageProgressById);
+                return (
+                  <button
+                    aria-label={`第 ${stage.number} 關 ${
+                      status === "unplayed"
+                        ? "未玩過"
+                        : status === "review-due"
+                          ? "需要複習"
+                          : status === "review-waiting"
+                            ? "不需要複習"
+                            : "已經記熟"
+                    }`}
+                    className={`stage-dot stage-${status}`}
+                    key={stage.id}
+                    onClick={() => openStage(stage)}
+                    type="button"
+                  >
+                    <span>{stage.number}</span>
+                  </button>
+                );
+              })()
             ))}
           </div>
         </section>
@@ -395,6 +860,11 @@ function App() {
             <ul className="word-preview">
               {selectedStage.words.map((word) => (
                 <li key={word.id}>
+                  <FavoriteButton
+                    isFavorite={favoriteWordIds.has(word.id)}
+                    onToggle={toggleFavoriteWord}
+                    word={word}
+                  />
                   <span>
                     <strong>{getPrimaryJapanese(word)}</strong>
                     {hasSeparateKana(word) && <small>{word.kana}</small>}
@@ -439,6 +909,11 @@ function App() {
 
           <div className="game-content">
             <div className="question-card">
+              <FavoriteButton
+                isFavorite={favoriteWordIds.has(currentQuestion.word.id)}
+                onToggle={toggleFavoriteWord}
+                word={currentQuestion.word}
+              />
               <p className="eyebrow">
                 {currentQuestion.type === "zh-to-ja" && "看中文選日文"}
                 {currentQuestion.type === "ja-to-zh" && "看日文選中文"}
@@ -446,15 +921,11 @@ function App() {
               </p>
 
               {currentQuestion.type === "zh-to-ja" && (
-                <h2>{currentQuestion.word.meanings_zh.slice(0, 2).join("、")}</h2>
-              )}
-
-              {currentQuestion.type === "ja-to-zh" && (
-                <>
-                  <JapanesePrompt word={currentQuestion.word} />
-                  <button
-                    className="speak-button"
-                    onClick={() =>
+                <div className="prompt-with-audio">
+                  <h2>{currentQuestion.word.meanings_zh.slice(0, 2).join("、")}</h2>
+                  <SpeakIconButton
+                    label={`播放 ${currentQuestion.word.kana || getPrimaryJapanese(currentQuestion.word)}`}
+                    onPlay={() =>
                       void playWordAudio(
                         currentQuestion.word,
                         selectedStage.level,
@@ -462,30 +933,45 @@ function App() {
                         voiceVolume,
                       )
                     }
-                    type="button"
-                  >
-                    播放語音
-                  </button>
-                </>
+                  />
+                </div>
+              )}
+
+              {currentQuestion.type === "ja-to-zh" && (
+                <div className="prompt-with-audio">
+                  <JapanesePrompt word={currentQuestion.word} />
+                  <SpeakIconButton
+                    label={`重播 ${currentQuestion.word.kana || getPrimaryJapanese(currentQuestion.word)}`}
+                    onPlay={() =>
+                      void playWordAudio(
+                        currentQuestion.word,
+                        selectedStage.level,
+                        voice,
+                        voiceVolume,
+                      )
+                    }
+                  />
+                </div>
               )}
 
               {currentQuestion.type === "spelling" && (
                 <>
-                  <button
-                    className="speak-button"
-                    onClick={() =>
-                      void playWordAudio(
-                        currentQuestion.word,
-                        selectedStage.level,
-                        voice,
-                        voiceVolume,
-                      )
-                    }
-                    type="button"
-                  >
-                    播放語音
-                  </button>
-                  <strong>{currentQuestion.word.meanings_zh.slice(0, 2).join("、")}</strong>
+                  <div className="prompt-with-audio compact">
+                    <strong>
+                      {currentQuestion.word.meanings_zh.slice(0, 2).join("、")}
+                    </strong>
+                    <SpeakIconButton
+                      label={`重播 ${currentQuestion.word.kana || getPrimaryJapanese(currentQuestion.word)}`}
+                      onPlay={() =>
+                        void playWordAudio(
+                          currentQuestion.word,
+                          selectedStage.level,
+                          voice,
+                          voiceVolume,
+                        )
+                      }
+                    />
+                  </div>
                 </>
               )}
             </div>

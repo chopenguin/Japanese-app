@@ -5,10 +5,8 @@
   "kana": "ほしい",
   "display": "欲しい",
   "meanings_zh": [
-    "梸偟偑傞 [傎偟偑傞] /// 想要",
-    "希望得到手",
-    "貪圖",
-    "貪求"
+    "想要",
+    "希望得到"
   ],
   "meanings_en": [
     "want"
@@ -29,10 +27,10 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "NihongDict"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
-    "zh_meaning_checked": false,
+    "zh_meaning_checked": true,
     "kana_checked": true
   }
 }

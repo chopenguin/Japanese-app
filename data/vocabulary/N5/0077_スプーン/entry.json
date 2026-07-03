@@ -6,10 +6,7 @@
   "display": "スプーン",
   "meanings_zh": [
     "湯匙",
-    "匙",
-    "調僗僾儔僢僔儏 [僗僾儔僢僔儏] /// 濺起(水花",
-    "泥點)",
-    "飛濺(浪花)"
+    "匙"
   ],
   "meanings_en": [
     "spoon"
@@ -30,10 +27,10 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "NihongDict"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
-    "zh_meaning_checked": false,
+    "zh_meaning_checked": true,
     "kana_checked": true
   }
 }

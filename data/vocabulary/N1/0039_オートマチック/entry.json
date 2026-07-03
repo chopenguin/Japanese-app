@@ -5,9 +5,8 @@
   "kana": "オートマチック",
   "display": "オートマチック",
   "meanings_zh": [
-    "自動裝置",
-    "僆乕僩儅僠僢僋僆儁儗乕僔儑儞僔僗僥儉 [僆乕僩儅僠僢僋僆儁儗乕僔儑儞僔僗僥儉] /// 自動運算系統",
-    "自動操作系統"
+    "自動",
+    "自動式"
   ],
   "meanings_en": [
     "automatic"
@@ -19,10 +18,10 @@
   "examples": [],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "NihongDict"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
-    "zh_meaning_checked": false,
+    "zh_meaning_checked": true,
     "kana_checked": true
   }
 }

@@ -6,12 +6,7 @@
   "display": "そのまま",
   "meanings_zh": [
     "就那樣",
-    "就照原樣",
-    "就那樣地",
-    "一模一偦偺傓偐偟 [偦偺傓偐偟] /// 從前",
-    "很久以前",
-    "古時候",
-    "昔日"
+    "照原樣"
   ],
   "meanings_en": [
     "without change",
@@ -33,10 +28,10 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "NihongDict"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
-    "zh_meaning_checked": false,
+    "zh_meaning_checked": true,
     "kana_checked": true
   }
 }

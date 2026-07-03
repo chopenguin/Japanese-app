@@ -7,10 +7,7 @@
   "meanings_zh": [
     "得救",
     "脫險",
-    "彆偗 [偨偡偗] /// 幫助",
-    "援助",
-    "救助",
-    "救濟"
+    "有幫助"
   ],
   "meanings_en": [
     "to be saved",
@@ -34,10 +31,10 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "NihongDict"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
-    "zh_meaning_checked": false,
+    "zh_meaning_checked": true,
     "kana_checked": true
   }
 }

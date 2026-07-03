@@ -6,8 +6,8 @@
   "display": "違いない",
   "meanings_zh": [
     "一定",
-    "堘偄扞 [偪偑偄偩側] /// 多寶格式櫥架",
-    "交錯擱板櫥架"
+    "肯定",
+    "毫無疑問"
   ],
   "meanings_en": [
     "(phrase) sure",
@@ -30,10 +30,10 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "NihongDict"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
-    "zh_meaning_checked": false,
+    "zh_meaning_checked": true,
     "kana_checked": true
   }
 }

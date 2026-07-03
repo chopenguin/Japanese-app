@@ -24,6 +24,7 @@ const translationOverridesPath = path.join(
 const translationOverrides = fs.existsSync(translationOverridesPath)
   ? readJson(translationOverridesPath)
   : {};
+const mojibakePattern = /[偐偑偄偙偔偡偆偼偟偪偩偲偮偖偰偭偒偨偺偹傆傎傓傞傫傚僆僀僋僔僗僩僠僢僪僳僺僾儁儃儅儔儗儞乕夛奜崙悞攓堘柟梡帠慏曽摉拞彲揙揑琵嘇]/u;
 
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
@@ -87,8 +88,23 @@ function splitChineseMeanings(value) {
   return toTraditional(value)
     .split(/[，,；;、]/)
     .map((item) => item.trim())
+    .map(cleanChineseMeaning)
     .filter(Boolean)
     .filter((item, index, arr) => arr.indexOf(item) === index);
+}
+
+function cleanChineseMeaning(value) {
+  if (isCorruptChineseMeaning(value)) return "";
+
+  return value
+    .replace(new RegExp(`\\[[^\\]]*${mojibakePattern.source}[^\\]]*\\]`, "gu"), "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function isCorruptChineseMeaning(value) {
+  if (value.includes("///")) return true;
+  return mojibakePattern.test(value);
 }
 
 function findChineseMeanings(index, word, reading) {
@@ -133,9 +149,10 @@ function normalizeEntry(raw, level, index, chineseIndex) {
   const kana = raw.reading || raw.word;
   const kanji = hasKanji(raw.word) ? raw.word : "";
   let chineseMeanings = findChineseMeanings(chineseIndex, raw.word, kana);
-  const hasDictionaryChinese = chineseMeanings.length > 0;
-  if (!hasDictionaryChinese) {
+  let hasDictionaryChinese = chineseMeanings.length > 0;
+  if (!chineseMeanings.length) {
     chineseMeanings = findFallbackMeanings(raw);
+    hasDictionaryChinese = false;
   }
 
   return {
