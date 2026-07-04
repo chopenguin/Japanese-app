@@ -2,14 +2,17 @@
   "id": "n2-0123",
   "jlpt": "N2",
   "kanji": "",
-  "kana": "（する）",
+  "kana": "しいんと",
   "display": "しいんと",
   "meanings_zh": [
-    "無聲[無聲]"
+    "鴉雀無聲",
+    "寂靜",
+    "靜悄悄"
   ],
   "meanings_en": [
-    "silent (as the grave)",
-    "(deathly) quiet"
+    "silent",
+    "quiet",
+    "still"
   ],
   "audio": {
     "status": "pending",

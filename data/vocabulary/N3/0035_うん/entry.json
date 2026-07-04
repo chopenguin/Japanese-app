@@ -2,17 +2,18 @@
   "id": "n3-0035",
   "jlpt": "N3",
   "kanji": "",
-  "kana": "（感）",
+  "kana": "うん",
   "display": "うん",
   "meanings_zh": [
     "嗯",
-    "哦",
-    "喔",
-    "哼"
+    "是",
+    "對",
+    "好"
   ],
   "meanings_en": [
-    "fortune",
-    "luck"
+    "yeah",
+    "uh-huh",
+    "yes"
   ],
   "audio": {
     "status": "pending",
@@ -30,7 +31,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "NihongDict"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

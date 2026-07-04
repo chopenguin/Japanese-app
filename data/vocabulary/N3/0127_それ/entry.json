@@ -2,13 +2,12 @@
   "id": "n3-0127",
   "jlpt": "N3",
   "kanji": "",
-  "kana": "（接。感）",
+  "kana": "それ",
   "display": "それ",
   "meanings_zh": [
-    "喂",
-    "哎呀",
-    "嘿",
-    "看"
+    "那個",
+    "那件事",
+    "它"
   ],
   "meanings_en": [
     "it",
@@ -30,7 +29,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "NihongDict"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

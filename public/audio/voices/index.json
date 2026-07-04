@@ -6,6 +6,12 @@
       "name": "標準女聲",
       "type": "audio-pack",
       "manifest": "/audio/voices/voicevox-female/manifest.json"
+    },
+    {
+      "id": "voicevox-male",
+      "name": "標準男聲",
+      "type": "audio-pack",
+      "manifest": "/audio/voices/voicevox-male/manifest.json"
     }
   ]
 }

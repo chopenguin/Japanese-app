@@ -25,6 +25,83 @@ const translationOverrides = fs.existsSync(translationOverridesPath)
   ? readJson(translationOverridesPath)
   : {};
 const mojibakePattern = /[偐偑偄偙偔偡偆偼偟偪偩偲偮偖偰偭偒偨偺偹傆傎傓傞傫傚僆僀僋僔僗僩僠僢僪僳僺僾儁儃儅儔儗儞乕夛奜崙悞攓堘柟梡帠慏曽摉拞彲揙揑琵嘇]/u;
+const entryCorrections = {
+  "N2:1793": {
+    kanji: "対立",
+    display: "対立",
+  },
+  "N2:123": {
+    kana: "しいんと",
+    meanings_zh: ["鴉雀無聲", "寂靜", "靜悄悄"],
+    meanings_en: ["silent", "quiet", "still"],
+  },
+  "N2:135": {
+    kana: "じゅうたん",
+  },
+  "N2:168": {
+    kana: "だいいち",
+  },
+  "N2:266": {
+    kana: "ミリ",
+  },
+  "N3:35": {
+    kana: "うん",
+    meanings_zh: ["嗯", "是", "對", "好"],
+    meanings_en: ["yeah", "uh-huh", "yes"],
+  },
+  "N3:95": {
+    kana: "しまい",
+    meanings_zh: ["結束", "終了", "完了"],
+    meanings_en: ["end", "close", "finish"],
+  },
+  "N3:96": {
+    kana: "しまう",
+  },
+  "N3:97": {
+    kana: "しまった",
+  },
+  "N3:113": {
+    kana: "すみません",
+  },
+  "N3:127": {
+    kana: "それ",
+    meanings_zh: ["那個", "那件事", "它"],
+    meanings_en: ["it", "that"],
+  },
+  "N3:151": {
+    kana: "できる",
+  },
+  "N3:157": {
+    kana: "どう",
+    meanings_zh: ["如何", "怎麼樣", "以什麼方式"],
+    meanings_en: ["how", "in what way"],
+  },
+  "N3:171": {
+    kana: "とん",
+  },
+  "N3:181": {
+    kana: "ね",
+    meanings_zh: ["吧", "啊", "呀", "對吧"],
+    meanings_en: ["right?", "isn't it?", "sentence-ending particle for confirmation"],
+  },
+  "N3:185": {
+    kana: "はい",
+    meanings_zh: ["是", "好的", "到"],
+    meanings_en: ["yes", "okay", "present"],
+  },
+  "N3:203": {
+    kana: "ふと",
+  },
+  "N3:241": {
+    kana: "よろしく",
+  },
+  "N3:812": {
+    kana: "さんせい",
+  },
+  "N4:535": {
+    meanings_zh: ["他們", "他們那些人"],
+  },
+};
 
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
@@ -155,7 +232,7 @@ function normalizeEntry(raw, level, index, chineseIndex) {
     hasDictionaryChinese = false;
   }
 
-  return {
+  const entry = {
     id: `${level.toLowerCase()}-${String(index + 1).padStart(4, "0")}`,
     jlpt: level,
     kanji,
@@ -181,6 +258,17 @@ function normalizeEntry(raw, level, index, chineseIndex) {
       kana_checked: true,
     },
   };
+  const correction = entryCorrections[`${level}:${index + 1}`];
+  if (!correction) return entry;
+
+  const correctedEntry = { ...entry, ...correction };
+  if (correction.meanings_zh) {
+    correctedEntry.source = {
+      ...correctedEntry.source,
+      chinese_meaning: "translation-overrides.zh-TW",
+    };
+  }
+  return correctedEntry;
 }
 
 function writeJson(filePath, value) {
@@ -220,7 +308,7 @@ for (const level of levels) {
     const entry = normalizeEntry(raw, level, index, chineseIndex);
     if (entry.meanings_zh.length) matchedChinese += 1;
 
-    const folder = safeFolderName(index, raw.word, entry.kana);
+    const folder = safeFolderName(index, entry.display, entry.kana);
     const entryDir = path.join(levelDir, folder);
     fs.mkdirSync(entryDir, { recursive: true });
     writeJson(path.join(entryDir, "entry.json"), entry);

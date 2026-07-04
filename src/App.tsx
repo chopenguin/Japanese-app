@@ -1,7 +1,15 @@
 import { useEffect, useMemo, useState } from "react";
 import {
+  type BackgroundTrack,
+  clearDownloadedAudio,
+  downloadAudioPack,
+  getMissingAudioWords,
+  getVoice,
+  loadBackgroundTracks,
+  playAnswerFeedback,
   playWordAudio,
-  preloadStageAudio,
+  setBackgroundMusic,
+  setBackgroundMusicVolume,
   voiceOptions,
   type VoiceId,
 } from "./audio";
@@ -32,6 +40,9 @@ type View =
   | "preview"
   | "game"
   | "settings"
+  | "backgroundMusic"
+  | "help"
+  | "audioDownload"
   | "wordLevelSelect"
   | "wordList";
 
@@ -73,6 +84,21 @@ type StageProgress = {
   nextReviewAt: number | null;
 };
 
+type AudioDownloadProgress = {
+  title: string;
+  completed: number;
+  total: number;
+};
+
+type AudioDownloadRequest = {
+  level: JlptLevel;
+  returnView: View;
+  title: string;
+  voiceId: VoiceId;
+  voiceName: string;
+  words: VocabularySummary[];
+};
+
 const hiraganaPool = Array.from(
   "あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽゃゅょっー",
 );
@@ -83,6 +109,10 @@ const katakanaPool = Array.from(
 
 const learnedStorageKey = "japanese-app.learned-word-ids";
 const favoriteStorageKey = "japanese-app.favorite-word-ids";
+const voiceVolumeStorageKey = "japanese-app.voice-volume";
+const effectVolumeStorageKey = "japanese-app.effect-volume";
+const backgroundMusicStorageKey = "japanese-app.background-music";
+const backgroundVolumeStorageKey = "japanese-app.background-volume";
 const stageProgressStorageKey = "japanese-app.stage-progress";
 const reviewIntervalsInDays = [1, 2, 4, 7, 15] as const;
 
@@ -167,6 +197,12 @@ function loadStageProgress() {
 
 function saveStageProgress(progress: Record<string, StageProgress>) {
   window.localStorage.setItem(stageProgressStorageKey, JSON.stringify(progress));
+}
+
+function loadVolume(storageKey: string, fallback: number) {
+  const stored = Number(window.localStorage.getItem(storageKey));
+  if (!Number.isFinite(stored)) return fallback;
+  return Math.max(0, Math.min(100, stored));
 }
 
 function toHiragana(value: string) {
@@ -436,9 +472,20 @@ function App() {
   const [selectedSpellingTiles, setSelectedSpellingTiles] = useState<SpellingTile[]>([]);
   const [correctCount, setCorrectCount] = useState(0);
   const [isAnswered, setIsAnswered] = useState(false);
-  const [voiceVolume, setVoiceVolume] = useState(80);
-  const [effectVolume, setEffectVolume] = useState(60);
-  const [voice, setVoice] = useState<VoiceId>("browser");
+  const [voiceVolume, setVoiceVolume] = useState(() =>
+    loadVolume(voiceVolumeStorageKey, 80),
+  );
+  const [effectVolume, setEffectVolume] = useState(() =>
+    loadVolume(effectVolumeStorageKey, 85),
+  );
+  const [backgroundVolume, setBackgroundVolume] = useState(() =>
+    loadVolume(backgroundVolumeStorageKey, 60),
+  );
+  const [voice, setVoice] = useState<VoiceId>("voicevox-female");
+  const [backgroundMusicId, setBackgroundMusicId] = useState(
+    () => localStorage.getItem(backgroundMusicStorageKey) ?? "off",
+  );
+  const [backgroundTracks, setBackgroundTracks] = useState<BackgroundTrack[]>([]);
   const [theme, setTheme] = useState<ThemeId>("default");
   const [wordLibraryMode, setWordLibraryMode] = useState<WordLibraryMode>("learned");
   const [wordLibraryLevel, setWordLibraryLevel] = useState<JlptLevel>("N5");
@@ -451,6 +498,11 @@ function App() {
   const [stageProgressById, setStageProgressById] = useState<
     Record<string, StageProgress>
   >(() => loadStageProgress());
+  const [audioDownloadProgress, setAudioDownloadProgress] =
+    useState<AudioDownloadProgress | null>(null);
+  const [audioDownloadRequest, setAudioDownloadRequest] =
+    useState<AudioDownloadRequest | null>(null);
+  const [audioCacheMessage, setAudioCacheMessage] = useState("");
 
   const stages = useMemo(() => getStages(selectedLevel), [selectedLevel]);
   const levelWords = useMemo(() => getLevelWords(selectedLevel), [selectedLevel]);
@@ -466,6 +518,12 @@ function App() {
   const selectedLevelIndex = jlptLevels.indexOf(selectedLevel) + 1;
   const currentQuestion = questions[questionIndex];
   const activeTheme = getTheme(theme);
+  const activeBackgroundTrack = useMemo(
+    () =>
+      backgroundTracks.find((track) => track.id === backgroundMusicId) ?? null,
+    [backgroundMusicId, backgroundTracks],
+  );
+  const backgroundMusicLabel = activeBackgroundTrack?.name ?? "關閉";
 
   useEffect(() => {
     const themeClassNames = themes.map((themeOption) => themeOption.className);
@@ -478,11 +536,6 @@ function App() {
   }, [activeTheme.className]);
 
   useEffect(() => {
-    if (!selectedStage || view !== "preview") return;
-    void preloadStageAudio(selectedStage.words, selectedStage.level, voice);
-  }, [selectedStage, voice, view]);
-
-  useEffect(() => {
     saveWordIdSet(learnedStorageKey, learnedWordIds);
   }, [learnedWordIds]);
 
@@ -493,6 +546,28 @@ function App() {
   useEffect(() => {
     saveStageProgress(stageProgressById);
   }, [stageProgressById]);
+
+  useEffect(() => {
+    void loadBackgroundTracks().then(setBackgroundTracks);
+  }, []);
+
+  useEffect(() => {
+    localStorage.setItem(backgroundMusicStorageKey, backgroundMusicId);
+    setBackgroundMusic(activeBackgroundTrack, backgroundVolume);
+  }, [activeBackgroundTrack, backgroundMusicId, backgroundVolume]);
+
+  useEffect(() => {
+    localStorage.setItem(voiceVolumeStorageKey, String(voiceVolume));
+  }, [voiceVolume]);
+
+  useEffect(() => {
+    localStorage.setItem(effectVolumeStorageKey, String(effectVolume));
+  }, [effectVolume]);
+
+  useEffect(() => {
+    localStorage.setItem(backgroundVolumeStorageKey, String(backgroundVolume));
+    setBackgroundMusicVolume(backgroundVolume);
+  }, [backgroundVolume]);
 
   const spellingTiles = useMemo(() => {
     if (!currentQuestion || currentQuestion.type !== "spelling") return [];
@@ -511,15 +586,84 @@ function App() {
     );
   }, [currentQuestion?.id, selectedStage?.level, view, voice]);
 
+  const ensureAudioDownloaded = async (
+    words: VocabularySummary[],
+    level: JlptLevel,
+    title: string,
+    returnView: View,
+  ) => {
+    if (audioDownloadRequest || audioDownloadProgress) return;
+
+    const selectedVoice = getVoice(voice);
+    if (selectedVoice.type !== "audio-pack") return;
+
+    const missingWords = await getMissingAudioWords(words, level, voice);
+    if (missingWords.length === 0) return;
+
+    setAudioDownloadRequest({
+      level,
+      returnView,
+      title,
+      voiceId: voice,
+      voiceName: selectedVoice.name,
+      words: missingWords,
+    });
+    setView("audioDownload");
+  };
+
+  const downloadRequestedAudio = async () => {
+    if (!audioDownloadRequest) return;
+    const { level, returnView, title, voiceId, words } = audioDownloadRequest;
+
+    setAudioDownloadProgress({
+      title,
+      completed: 0,
+      total: words.length,
+    });
+
+    try {
+      await downloadAudioPack(words, level, voiceId, (completed, total) => {
+        setAudioDownloadProgress({ title, completed, total });
+      });
+    } finally {
+      setAudioDownloadProgress(null);
+      setAudioDownloadRequest(null);
+      setView(returnView);
+    }
+  };
+
+  const skipAudioDownload = () => {
+    if (!audioDownloadRequest) return;
+    const { returnView } = audioDownloadRequest;
+    setAudioDownloadRequest(null);
+    setView(returnView);
+  };
+
+  const clearAudioDownloads = () => {
+    setAudioCacheMessage("刪除中...");
+    void clearDownloadedAudio().then((deleted) => {
+      setAudioCacheMessage(
+        deleted ? "已刪除下載音檔。" : "目前沒有可刪除的下載音檔。",
+      );
+    });
+  };
+
   const openLevel = (level: JlptLevel) => {
     setSelectedLevel(level);
     setSelectedStage(null);
     setView("map");
+    void ensureAudioDownloaded(getLevelWords(level), level, `JLPT ${level}`, "map");
   };
 
   const openStage = (stage: Stage) => {
     setSelectedStage(stage);
     setView("preview");
+    void ensureAudioDownloaded(
+      stage.words,
+      stage.level,
+      `JLPT ${stage.level} 第 ${stage.number} 關`,
+      "preview",
+    );
   };
 
   const openWordLibrary = (mode: WordLibraryMode) => {
@@ -549,6 +693,11 @@ function App() {
     void playWordAudio(word, level, voice, voiceVolume);
   };
 
+  const selectBackgroundMusic = (track: BackgroundTrack | null) => {
+    setBackgroundMusicId(track?.id ?? "off");
+    setBackgroundMusic(track, backgroundVolume);
+  };
+
   const goBack = () => {
     if (view === "game") {
       setView("map");
@@ -567,6 +716,16 @@ function App() {
 
     if (view === "wordLevelSelect") {
       setView("home");
+      return;
+    }
+
+    if (view === "backgroundMusic") {
+      setView("settings");
+      return;
+    }
+
+    if (view === "help") {
+      setView("settings");
       return;
     }
 
@@ -602,6 +761,7 @@ function App() {
 
     setSelectedAnswer(normalizedAnswer);
     setIsAnswered(true);
+    playAnswerFeedback(isCorrect ? "correct" : "wrong", effectVolume);
     if (isCorrect) setCorrectCount((count) => count + 1);
   };
 
@@ -631,7 +791,7 @@ function App() {
           ),
         }));
       }
-      setView("preview");
+      setView("map");
       setSelectedAnswer("");
       setSelectedSpellingTiles([]);
       setIsAnswered(false);
@@ -1137,6 +1297,47 @@ function App() {
                 />
                 <strong>{effectVolume}</strong>
               </label>
+              <label className="range-row">
+                <span>背景</span>
+                <input
+                  max="100"
+                  min="0"
+                  onChange={(event) => setBackgroundVolume(Number(event.target.value))}
+                  type="range"
+                  value={backgroundVolume}
+                />
+                <strong>{backgroundVolume}</strong>
+              </label>
+            </section>
+
+            <section className="settings-card">
+              <h3>背景音樂</h3>
+              <button
+                className="settings-nav-button"
+                onClick={() => setView("backgroundMusic")}
+                type="button"
+              >
+                <span>
+                  <strong>{backgroundMusicLabel}</strong>
+                  <small>點擊選擇背景音樂</small>
+                </span>
+                <em>›</em>
+              </button>
+            </section>
+
+            <section className="settings-card">
+              <h3>幫助</h3>
+              <button
+                className="settings-nav-button"
+                onClick={() => setView("help")}
+                type="button"
+              >
+                <span>
+                  <strong>新手教學</strong>
+                  <small>了解關卡、複習、音檔與客製化</small>
+                </span>
+                <em>›</em>
+              </button>
             </section>
 
             <section className="settings-card">
@@ -1153,6 +1354,16 @@ function App() {
                   </button>
                 ))}
               </div>
+              <button
+                className="settings-action danger"
+                onClick={clearAudioDownloads}
+                type="button"
+              >
+                刪除已下載音檔
+              </button>
+              {audioCacheMessage && (
+                <p className="settings-note">{audioCacheMessage}</p>
+              )}
             </section>
 
             <section className="settings-card">
@@ -1170,6 +1381,202 @@ function App() {
                 ))}
               </div>
             </section>
+          </div>
+        </section>
+      )}
+
+      {view === "help" && (
+        <section className="settings-screen">
+          <div className="settings-header">
+            <button
+              aria-label="返回"
+              className="back-button dark"
+              onClick={goBack}
+              type="button"
+            >
+              ‹
+            </button>
+            <h2>幫助</h2>
+            <span />
+          </div>
+
+          <div className="settings-content help-content">
+            <section className="settings-card help-card">
+              <h3>第一次使用</h3>
+              <ol>
+                <li>在首頁選擇 JLPT N5 到 N1。</li>
+                <li>進入等級後，點選任一關卡查看 10 個單字預覽。</li>
+                <li>按下開始後會進入 30 題練習。</li>
+                <li>完成後會回到該等級的關卡選擇頁。</li>
+              </ol>
+            </section>
+
+            <section className="settings-card help-card">
+              <h3>題型</h3>
+              <ul>
+                <li>看中文選日文：根據中文意思選正確日文。</li>
+                <li>看日文選中文：題目會顯示日文與振假名。</li>
+                <li>拼字：點下方假名方塊組成答案，再按檢查。</li>
+              </ul>
+            </section>
+
+            <section className="settings-card help-card">
+              <h3>語音與音檔</h3>
+              <ul>
+                <li>拼字題與看日文選中文會自動播放單字語音。</li>
+                <li>每個單字旁的小喇叭可手動重播。</li>
+                <li>進入等級或關卡時，如果目前配音有未下載音檔，系統會詢問是否下載到本機快取。</li>
+                <li>設定頁可切換配音、調整語音音量，也可刪除已下載音檔。</li>
+              </ul>
+            </section>
+
+            <section className="settings-card help-card">
+              <h3>複習狀態</h3>
+              <ul>
+                <li>白色：未玩過。</li>
+                <li>黃色：需要複習。</li>
+                <li>綠色：已完成，暫時不需要複習。</li>
+                <li>藍色：已完成 5 次複習，視為記熟。</li>
+              </ul>
+            </section>
+
+            <section className="settings-card help-card">
+              <h3>單字收藏</h3>
+              <ul>
+                <li>在單字預覽、關卡題目、學過單字與最愛單字列表中，都可以按愛心收藏。</li>
+                <li>學過單字會在完成關卡後自動加入。</li>
+                <li>學過單字與最愛單字會依 N5 到 N1 分頁，再依假名行分組。</li>
+              </ul>
+            </section>
+
+            <section className="settings-card help-card">
+              <h3>主題與背景音樂</h3>
+              <ul>
+                <li>設定頁可切換預設、抹茶、黑白、深海、漫畫、南極等主題。</li>
+                <li>背景音樂頁可選擇音樂或關閉播放。</li>
+                <li>開發者可 fork 專案後新增主題、背景動畫、按鈕形狀與自己的音樂。</li>
+              </ul>
+            </section>
+          </div>
+        </section>
+      )}
+
+      {view === "backgroundMusic" && (
+        <section className="settings-screen">
+          <div className="settings-header">
+            <button
+              aria-label="返回"
+              className="back-button dark"
+              onClick={goBack}
+              type="button"
+            >
+              ‹
+            </button>
+            <h2>背景音樂</h2>
+            <span />
+          </div>
+
+          <div className="settings-content">
+            <section className="settings-card background-music-card">
+              <div>
+                <p className="eyebrow">正在播放</p>
+                <h3>{backgroundMusicLabel}</h3>
+              </div>
+              <div
+                aria-hidden="true"
+                className={`record-player ${
+                  activeBackgroundTrack ? "is-playing" : ""
+                }`}
+              >
+                <div className="record-disc">
+                  <span />
+                </div>
+              </div>
+            </section>
+
+            <section className="music-list" role="list">
+              <button
+                className={backgroundMusicId === "off" ? "active" : ""}
+                onClick={() => selectBackgroundMusic(null)}
+                type="button"
+              >
+                <span>關閉</span>
+                <small>不播放背景音樂</small>
+              </button>
+              {backgroundTracks.map((track) => (
+                <button
+                  className={backgroundMusicId === track.id ? "active" : ""}
+                  key={track.id}
+                  onClick={() => selectBackgroundMusic(track)}
+                  type="button"
+                >
+                  <span>{track.name}</span>
+                  <small>{track.mood ?? track.license ?? "背景循環"}</small>
+                </button>
+              ))}
+            </section>
+          </div>
+        </section>
+      )}
+
+      {view === "audioDownload" && audioDownloadRequest && (
+        <section className="download-screen">
+          <div className={`map-header level-${audioDownloadRequest.level.toLowerCase()}-theme`}>
+            <button
+              aria-label="稍後再下載"
+              className="back-button"
+              disabled={Boolean(audioDownloadProgress)}
+              onClick={skipAudioDownload}
+              type="button"
+            >
+              ‹
+            </button>
+            <div>
+              <p className="eyebrow">Audio</p>
+              <h2>音檔下載</h2>
+            </div>
+            <span>{audioDownloadRequest.level}</span>
+          </div>
+
+          <div className="download-page-panel">
+            <p className="eyebrow">{audioDownloadRequest.voiceName}</p>
+            <h2>{audioDownloadRequest.title}</h2>
+            <p>
+              還有 {audioDownloadRequest.words.length.toLocaleString()} 個音檔未下載到本機快取。
+            </p>
+
+            {audioDownloadProgress ? (
+              <>
+                <div className="download-bar" aria-hidden="true">
+                  <span
+                    style={{
+                      width: `${Math.round(
+                        audioDownloadProgress.total > 0
+                          ? (audioDownloadProgress.completed / audioDownloadProgress.total) * 100
+                          : 0,
+                      )}%`,
+                    }}
+                  />
+                </div>
+                <em>
+                  {audioDownloadProgress.completed.toLocaleString()} /{" "}
+                  {audioDownloadProgress.total.toLocaleString()}
+                </em>
+              </>
+            ) : (
+              <div className="download-actions">
+                <button
+                  className="secondary"
+                  onClick={skipAudioDownload}
+                  type="button"
+                >
+                  稍後
+                </button>
+                <button onClick={downloadRequestedAudio} type="button">
+                  下載
+                </button>
+              </div>
+            )}
           </div>
         </section>
       )}

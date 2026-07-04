@@ -2,17 +2,17 @@
   "id": "n3-0185",
   "jlpt": "N3",
   "kanji": "",
-  "kana": "（感）",
+  "kana": "はい",
   "display": "はい",
   "meanings_zh": [
-    "唉",
-    "有",
-    "到",
-    "是"
+    "是",
+    "好的",
+    "到"
   ],
   "meanings_en": [
-    "wear",
-    "put on (sword)"
+    "yes",
+    "okay",
+    "present"
   ],
   "audio": {
     "status": "pending",
@@ -30,7 +30,7 @@
   ],
   "source": {
     "jlpt_and_reading": "OpenJLPT",
-    "chinese_meaning": "NihongDict"
+    "chinese_meaning": "translation-overrides.zh-TW"
   },
   "review": {
     "zh_meaning_checked": false,

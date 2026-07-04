@@ -8,6 +8,8 @@
   --text-strong: #302820;
   --text-soft: #3d342b;
   --text-inverted: #fffaf1;
+  --home-title: #302820;
+  --home-title-shadow: 0 2px 0 rgba(255, 250, 241, 0.55);
   --header-muted: rgba(255, 250, 241, 0.78);
   --header-control: rgba(255, 255, 255, 0.2);
   --header-chip: rgba(255, 255, 255, 0.18);
@@ -66,6 +68,8 @@
   --text-strong: #0f1d0e;
   --text-soft: #283d20;
   --text-inverted: #fffbe6;
+  --home-title: #fffbe6;
+  --home-title-shadow: 0 3px 10px rgba(15, 29, 14, 0.48);
   --header-muted: rgba(255, 251, 230, 0.82);
   --header-control: rgba(255, 251, 230, 0.2);
   --header-chip: rgba(255, 251, 230, 0.18);
@@ -123,6 +127,8 @@
   --text-strong: #000000;
   --text-soft: #151515;
   --text-inverted: #ffffff;
+  --home-title: #ffffff;
+  --home-title-shadow: 3px 3px 0 #050505;
   --header-muted: #ffffff;
   --header-control: #ffffff;
   --header-chip: #ffffff;
@@ -182,6 +188,8 @@
   --text-strong: #031522;
   --text-soft: #0d3f52;
   --text-inverted: #e9fbff;
+  --home-title: #f3fdff;
+  --home-title-shadow: 0 3px 14px rgba(1, 9, 19, 0.78);
   --header-muted: rgba(233, 251, 255, 0.76);
   --header-control: rgba(147, 215, 230, 0.22);
   --header-chip: rgba(147, 215, 230, 0.18);
@@ -241,6 +249,8 @@
   --text-strong: #201d1a;
   --text-soft: #4b433b;
   --text-inverted: #fffaf0;
+  --home-title: #2a2520;
+  --home-title-shadow: 2px 2px 0 rgba(255, 250, 240, 0.86);
   --header-muted: rgba(255, 250, 240, 0.78);
   --header-control: rgba(255, 250, 240, 0.22);
   --header-chip: rgba(255, 250, 240, 0.18);
@@ -300,6 +310,8 @@
   --text-strong: #0b2535;
   --text-soft: #21475a;
   --text-inverted: #fbfeff;
+  --home-title: #0e3850;
+  --home-title-shadow: 0 2px 0 rgba(251, 254, 255, 0.84);
   --header-muted: rgba(251, 254, 255, 0.82);
   --header-control: rgba(251, 254, 255, 0.25);
   --header-chip: rgba(251, 254, 255, 0.22);

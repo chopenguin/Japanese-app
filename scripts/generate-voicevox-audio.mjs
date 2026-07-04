@@ -48,6 +48,12 @@ function getWordsForLevel(vocabularyManifest, level) {
   return vocabularyManifest.levels[level].items;
 }
 
+function getWordById(vocabularyManifest, level, wordId) {
+  const word = vocabularyManifest.levels[level].items.find((item) => item.id === wordId);
+  if (!word) throw new Error(`Word not found in manifest: ${wordId}`);
+  return word;
+}
+
 function getSynthesisText(word, textSource) {
   if (textSource === "kana") {
     return word.kana || word.kanji || word.display;
@@ -93,6 +99,7 @@ async function main() {
   const level = normalizeLevel(getArg("level", "N5"));
   const stageArg = getArg("stage", "1");
   const stageNumber = Number(stageArg);
+  const wordId = getArg("word-id", "");
   const limit = Number(getArg("limit", "0"));
   const overwrite = hasArg("overwrite");
   const generateAll = hasArg("all") || stageArg === "all";
@@ -112,7 +119,9 @@ async function main() {
   const voiceManifest = await readJson(manifestPath);
 
   const words = (
-    generateAll
+    wordId
+      ? [getWordById(vocabularyManifest, level, wordId)]
+      : generateAll
       ? getWordsForLevel(vocabularyManifest, level)
       : getWordsForStage(stageData, vocabularyManifest, level, stageNumber)
   ).slice(0, limit > 0 ? limit : undefined);
