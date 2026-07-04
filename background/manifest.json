@@ -1,0 +1,28 @@
+{
+  "tracks": [
+    {
+      "id": "morning-kevin-macleod",
+      "name": "Morning",
+      "file": "morning-kevin-macleod.mp3",
+      "mood": "Bright, Calm, Relaxed",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Morning.mp3",
+      "license": "CC BY 4.0 - Kevin MacLeod"
+    },
+    {
+      "id": "evening-kevin-macleod",
+      "name": "Evening",
+      "file": "evening-kevin-macleod.mp3",
+      "mood": "Bright, Calm, Relaxed",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Evening.mp3",
+      "license": "CC BY 4.0 - Kevin MacLeod"
+    },
+    {
+      "id": "late-night-radio-kevin-macleod",
+      "name": "Late Night Radio",
+      "file": "late-night-radio-kevin-macleod.mp3",
+      "mood": "Calm, Calming, Relaxed",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Late%20Night%20Radio.mp3",
+      "license": "CC BY 4.0 - Kevin MacLeod"
+    }
+  ]
+}
