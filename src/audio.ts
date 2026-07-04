@@ -265,6 +265,21 @@ export async function clearDownloadedAudio() {
   return caches.delete(audioCacheName);
 }
 
+export async function clearAllAppCaches() {
+  backgroundAudio?.pause();
+  backgroundAudio = null;
+  backgroundAudioUrl = "";
+
+  if (!("caches" in window)) return 0;
+
+  const cacheNames = await caches.keys();
+  const appCacheNames = cacheNames.filter((cacheName) =>
+    cacheName.startsWith("japanese-app"),
+  );
+  await Promise.all(appCacheNames.map((cacheName) => caches.delete(cacheName)));
+  return appCacheNames.length;
+}
+
 export async function playWordAudio(
   word: VocabularySummary,
   level: JlptLevel,

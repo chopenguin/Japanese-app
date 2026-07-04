@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import {
   type BackgroundTrack,
+  clearAllAppCaches,
   clearDownloadedAudio,
   downloadAudioPack,
   getMissingAudioWords,
@@ -645,6 +646,36 @@ function App() {
       setAudioCacheMessage(
         deleted ? "已刪除下載音檔。" : "目前沒有可刪除的下載音檔。",
       );
+    });
+  };
+
+  const clearAllCache = () => {
+    setAudioCacheMessage("清除全部快取中...");
+    void clearAllAppCaches().then(() => {
+      [
+        learnedStorageKey,
+        favoriteStorageKey,
+        voiceVolumeStorageKey,
+        effectVolumeStorageKey,
+        backgroundMusicStorageKey,
+        backgroundVolumeStorageKey,
+        stageProgressStorageKey,
+      ].forEach((key) => window.localStorage.removeItem(key));
+
+      setLearnedWordIds(new Set());
+      setFavoriteWordIds(new Set());
+      setStageProgressById({});
+      setVoiceVolume(80);
+      setEffectVolume(85);
+      setBackgroundVolume(60);
+      setBackgroundMusicId("off");
+      setTheme("default");
+      setAudioDownloadProgress(null);
+      setAudioDownloadRequest(null);
+      setSelectedAnswer("");
+      setSelectedSpellingTiles([]);
+      setIsAnswered(false);
+      setAudioCacheMessage("已清除全部快取與本機學習資料。");
     });
   };
 
@@ -1360,6 +1391,13 @@ function App() {
                 type="button"
               >
                 刪除已下載音檔
+              </button>
+              <button
+                className="settings-action danger strong-danger"
+                onClick={clearAllCache}
+                type="button"
+              >
+                清除全部快取
               </button>
               {audioCacheMessage && (
                 <p className="settings-note">{audioCacheMessage}</p>
