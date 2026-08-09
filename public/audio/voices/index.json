@@ -1,5 +1,11 @@
 {
   "schema_version": 1,
+  "delivery": {
+    "mode": "remote-on-pages-local-in-development",
+    "environment_variable": "VITE_VOICE_PACK_BASE_URL",
+    "object_prefix": "voices",
+    "path_pattern": "{voice_id}/{level}/{word_id}.wav"
+  },
   "voices": [
     {
       "id": "voicevox-female",
@@ -12,6 +18,12 @@
       "name": "標準男聲",
       "type": "audio-pack",
       "manifest": "/audio/voices/voicevox-male/manifest.json"
+    },
+    {
+      "id": "gpt-sovits-custom",
+      "name": "GPT-SoVITS 自訂音色",
+      "type": "audio-pack",
+      "manifest": "/audio/voices/gpt-sovits-custom/manifest.json"
     }
   ]
 }

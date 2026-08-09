@@ -1,0 +1,27 @@
+{
+	admin off
+	auto_https off
+}
+
+:8080 {
+	root * /srv
+
+	@preflight method OPTIONS
+	header {
+		Access-Control-Allow-Origin "*"
+		Access-Control-Allow-Methods "GET, HEAD, OPTIONS"
+		Access-Control-Allow-Headers "Range, If-None-Match"
+		Access-Control-Expose-Headers "Accept-Ranges, Content-Length, Content-Range, ETag"
+		X-Content-Type-Options "nosniff"
+		-Server
+	}
+
+	@voiceWav path_regexp \.wav$
+	header @voiceWav Cache-Control "public, max-age=31536000, immutable"
+
+	@metadata path_regexp \.json$
+	header @metadata Cache-Control "public, max-age=300, must-revalidate"
+	respond @preflight 204
+
+	file_server
+}

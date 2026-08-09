@@ -4,7 +4,7 @@ import {
   type VocabularySummary,
 } from "./vocabulary";
 
-export type VoiceId = "browser" | "voicevox-female" | "voicevox-male";
+export type VoiceId = "browser" | "voicevox-female" | "voicevox-male" | "gpt-sovits-custom";
 
 export type VoiceOption = {
   id: VoiceId;
@@ -42,9 +42,20 @@ export const voiceOptions: VoiceOption[] = [
     type: "audio-pack",
     format: "wav",
   },
+  {
+    id: "gpt-sovits-custom",
+    name: "GPT-SoVITS 自訂音色",
+    type: "audio-pack",
+    format: "wav",
+  },
 ];
 
 const audioCacheName = "japanese-app-audio-v1";
+const remoteVoicePackBaseUrl = (
+  import.meta.env.VITE_VOICE_PACK_BASE_URL as string | undefined
+)
+  ?.trim()
+  .replace(/\/+$/, "");
 let backgroundAudio: HTMLAudioElement | null = null;
 let backgroundAudioUrl = "";
 
@@ -102,6 +113,9 @@ export function setBackgroundMusicVolume(volume: number) {
 }
 
 function getWordAudioUrl(voiceId: VoiceId, level: JlptLevel, word: VocabularySummary) {
+  if (remoteVoicePackBaseUrl && isPackVoice(voiceId)) {
+    return `${remoteVoicePackBaseUrl}/${voiceId}/${level}/${word.id}.wav`;
+  }
   return getAssetUrl(`audio/voices/${voiceId}/${level}/${word.id}.wav`);
 }
 
