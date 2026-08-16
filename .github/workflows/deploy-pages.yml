@@ -37,7 +37,6 @@ jobs:
         run: npm run build
         env:
           GITHUB_PAGES: "true"
-          VITE_VOICE_PACK_BASE_URL: ${{ vars.VOICE_PACK_BASE_URL }}
 
       - name: Setup Pages
         uses: actions/configure-pages@v6

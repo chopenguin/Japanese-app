@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "replace-with-voice-id",
+  "name": "Replace with display name",
+  "language": "ja-JP",
+  "format": "wav",
+  "license_note": "Record the model, reference-audio, and redistribution rights here.",
+  "coverage": {
+    "N5": [],
+    "N4": [],
+    "N3": [],
+    "N2": [],
+    "N1": []
+  }
+}

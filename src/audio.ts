@@ -4,13 +4,21 @@ import {
   type VocabularySummary,
 } from "./vocabulary";
 
-export type VoiceId = "browser" | "voicevox-female" | "voicevox-male" | "gpt-sovits-custom";
+export type VoiceId = string;
 
 export type VoiceOption = {
   id: VoiceId;
   name: string;
   type: "browser" | "audio-pack";
   format?: "wav";
+  audioBaseUrl?: string;
+};
+
+type VoiceCatalogEntry = {
+  id?: unknown;
+  name?: unknown;
+  type?: unknown;
+  audio_base_url?: unknown;
 };
 
 export type AnswerFeedback = "correct" | "wrong";
@@ -24,12 +32,13 @@ export type BackgroundTrack = {
   license?: string;
 };
 
-export const voiceOptions: VoiceOption[] = [
-  {
-    id: "browser",
-    name: "系統語音",
-    type: "browser",
-  },
+const browserVoice: VoiceOption = {
+  id: "browser",
+  name: "系統語音",
+  type: "browser",
+};
+
+const fallbackPackVoices: VoiceOption[] = [
   {
     id: "voicevox-female",
     name: "標準女聲",
@@ -42,30 +51,80 @@ export const voiceOptions: VoiceOption[] = [
     type: "audio-pack",
     format: "wav",
   },
-  {
-    id: "gpt-sovits-custom",
-    name: "GPT-SoVITS 自訂音色",
-    type: "audio-pack",
-    format: "wav",
-  },
 ];
 
 const audioCacheName = "japanese-app-audio-v1";
-const remoteVoicePackBaseUrl = (
-  import.meta.env.VITE_VOICE_PACK_BASE_URL as string | undefined
-)
-  ?.trim()
-  .replace(/\/+$/, "");
+let registeredVoiceOptions: VoiceOption[] = [browserVoice, ...fallbackPackVoices];
 let backgroundAudio: HTMLAudioElement | null = null;
 let backgroundAudioUrl = "";
 
+export function getVoiceOptions() {
+  return [...registeredVoiceOptions];
+}
+
 export function getVoice(voiceId: VoiceId) {
-  return voiceOptions.find((voice) => voice.id === voiceId) ?? voiceOptions[0];
+  return (
+    registeredVoiceOptions.find((voice) => voice.id === voiceId) ?? browserVoice
+  );
 }
 
 function getAssetUrl(path: string) {
   const basePath = import.meta.env.BASE_URL || "/";
   return `${basePath.replace(/\/?$/, "/")}${path.replace(/^\//, "")}`;
+}
+
+function parseVoiceCatalogEntry(entry: VoiceCatalogEntry): VoiceOption | null {
+  if (
+    typeof entry.id !== "string" ||
+    !/^[a-z0-9][a-z0-9-]*$/.test(entry.id) ||
+    typeof entry.name !== "string" ||
+    entry.name.trim() === "" ||
+    entry.type !== "audio-pack"
+  ) {
+    return null;
+  }
+
+  let audioBaseUrl: string | undefined;
+  if (typeof entry.audio_base_url === "string" && entry.audio_base_url.trim()) {
+    try {
+      const parsedUrl = new URL(entry.audio_base_url);
+      if (parsedUrl.protocol !== "https:") return null;
+      audioBaseUrl = parsedUrl.toString().replace(/\/+$/, "");
+    } catch {
+      return null;
+    }
+  }
+
+  return {
+    id: entry.id,
+    name: entry.name.trim(),
+    type: "audio-pack",
+    format: "wav",
+    audioBaseUrl,
+  };
+}
+
+export async function loadVoiceOptions() {
+  try {
+    const response = await fetch(getAssetUrl("audio/voices/index.json"), {
+      cache: "no-cache",
+    });
+    if (!response.ok) return getVoiceOptions();
+
+    const catalog = (await response.json()) as { voices?: VoiceCatalogEntry[] };
+    if (!Array.isArray(catalog.voices)) return getVoiceOptions();
+
+    const packs = catalog.voices
+      .map(parseVoiceCatalogEntry)
+      .filter((voice): voice is VoiceOption => voice !== null);
+    if (packs.length > 0) {
+      registeredVoiceOptions = [browserVoice, ...packs];
+    }
+  } catch {
+    // Keep the two built-in GitHub Pages packs when the catalog is unavailable.
+  }
+
+  return getVoiceOptions();
 }
 
 export async function loadBackgroundTracks() {
@@ -113,8 +172,9 @@ export function setBackgroundMusicVolume(volume: number) {
 }
 
 function getWordAudioUrl(voiceId: VoiceId, level: JlptLevel, word: VocabularySummary) {
-  if (remoteVoicePackBaseUrl && isPackVoice(voiceId)) {
-    return `${remoteVoicePackBaseUrl}/${voiceId}/${level}/${word.id}.wav`;
+  const voice = getVoice(voiceId);
+  if (voice.type === "audio-pack" && voice.audioBaseUrl) {
+    return `${voice.audioBaseUrl}/${level}/${word.id}.wav`;
   }
   return getAssetUrl(`audio/voices/${voiceId}/${level}/${word.id}.wav`);
 }

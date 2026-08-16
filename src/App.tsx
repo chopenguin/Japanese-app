@@ -6,12 +6,13 @@ import {
   downloadAudioPack,
   getMissingAudioWords,
   getVoice,
+  getVoiceOptions,
   loadBackgroundTracks,
+  loadVoiceOptions,
   playAnswerFeedback,
   playWordAudio,
   setBackgroundMusic,
   setBackgroundMusicVolume,
-  voiceOptions,
   type VoiceId,
 } from "./audio";
 import {
@@ -483,6 +484,9 @@ function App() {
     loadVolume(backgroundVolumeStorageKey, 60),
   );
   const [voice, setVoice] = useState<VoiceId>("voicevox-female");
+  const [availableVoiceOptions, setAvailableVoiceOptions] = useState(() =>
+    getVoiceOptions(),
+  );
   const [backgroundMusicId, setBackgroundMusicId] = useState(
     () => localStorage.getItem(backgroundMusicStorageKey) ?? "off",
   );
@@ -550,6 +554,17 @@ function App() {
 
   useEffect(() => {
     void loadBackgroundTracks().then(setBackgroundTracks);
+  }, []);
+
+  useEffect(() => {
+    void loadVoiceOptions().then((nextVoiceOptions) => {
+      setAvailableVoiceOptions(nextVoiceOptions);
+      setVoice((currentVoice) =>
+        nextVoiceOptions.some((voiceOption) => voiceOption.id === currentVoice)
+          ? currentVoice
+          : "voicevox-female",
+      );
+    });
   }, []);
 
   useEffect(() => {
@@ -1374,7 +1389,7 @@ function App() {
             <section className="settings-card">
               <h3>配音</h3>
               <div className="choice-grid">
-                {voiceOptions.map((voiceOption) => (
+                {availableVoiceOptions.map((voiceOption) => (
                   <button
                     className={voice === voiceOption.id ? "active" : ""}
                     key={voiceOption.id}

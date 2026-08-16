@@ -4,8 +4,11 @@ tmp/
 .env
 .env.local
 .env.*.local
-!.env.example
+# Keep the two built-in GitHub Pages packs in Git. Other locally generated
+# packs stay out of the main repository and should use one repository per pack.
 /public/audio/voices/**/*.wav
+!/public/audio/voices/voicevox-female/**/*.wav
+!/public/audio/voices/voicevox-male/**/*.wav
 /tools/rclone/
 /gpt-sovits-custom-complete-voice-pack.zip
 /gpt-sovits-custom-complete-voice-pack/
