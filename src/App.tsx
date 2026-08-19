@@ -247,47 +247,11 @@ function getReviewStatus(progress: StageProgress | undefined, now = Date.now()):
   return "review-waiting";
 }
 
-function getDemoStageProgress(stage: Stage): StageProgress | undefined {
-  if (stage.level !== "N5") return undefined;
-
-  const now = Date.now();
-  const baseProgress = {
-    stageId: stage.id,
-    completedAt: now - 1000 * 60 * 60 * 24 * 2,
-  };
-
-  if (stage.number === 2) {
-    return {
-      ...baseProgress,
-      reviewCount: 1,
-      nextReviewAt: now - 1000 * 60 * 60,
-    };
-  }
-
-  if (stage.number === 3) {
-    return {
-      ...baseProgress,
-      reviewCount: 2,
-      nextReviewAt: now + 1000 * 60 * 60 * 24 * 3,
-    };
-  }
-
-  if (stage.number === 4) {
-    return {
-      ...baseProgress,
-      reviewCount: reviewIntervalsInDays.length,
-      nextReviewAt: null,
-    };
-  }
-
-  return undefined;
-}
-
 function getStageStatus(
   stage: Stage,
   progressByStageId: Record<string, StageProgress>,
 ) {
-  return getReviewStatus(progressByStageId[stage.id] ?? getDemoStageProgress(stage));
+  return getReviewStatus(progressByStageId[stage.id]);
 }
 
 function getNextStageProgress(stage: Stage, currentProgress: StageProgress | undefined) {
@@ -833,7 +797,7 @@ function App() {
           ...progressById,
           [selectedStage.id]: getNextStageProgress(
             selectedStage,
-            progressById[selectedStage.id] ?? getDemoStageProgress(selectedStage),
+            progressById[selectedStage.id],
           ),
         }));
       }
@@ -856,7 +820,16 @@ function App() {
       {view === "home" && (
         <section className="home-screen" aria-labelledby="app-title">
           <div className="home-header">
-            <h1 id="app-title">日文單字</h1>
+            <p className="home-kicker">ことばを、少しずつ。</p>
+            <div className="home-wordmark">
+              <span className="home-monogram" aria-hidden="true">
+                あ
+              </span>
+              <div>
+                <h1 id="app-title">日文單字</h1>
+                <p className="home-subtitle">選擇級別，開始今天的練習</p>
+              </div>
+            </div>
           </div>
 
           <div className="level-stack" aria-label="JLPT levels">
@@ -879,11 +852,27 @@ function App() {
           </div>
 
           <div className="home-actions">
-            <button onClick={() => openWordLibrary("learned")} type="button">
-              學過單字
+            <button
+              className="library-shortcut learned-shortcut"
+              onClick={() => openWordLibrary("learned")}
+              type="button"
+            >
+              <span className="shortcut-icon" aria-hidden="true">✓</span>
+              <span>
+                <strong>學過單字</strong>
+                <small>{learnedWordIds.size.toLocaleString()} 個單字</small>
+              </span>
             </button>
-            <button onClick={() => openWordLibrary("favorites")} type="button">
-              最愛單字
+            <button
+              className="library-shortcut favorite-shortcut"
+              onClick={() => openWordLibrary("favorites")}
+              type="button"
+            >
+              <span className="shortcut-icon" aria-hidden="true">♥</span>
+              <span>
+                <strong>最愛單字</strong>
+                <small>{favoriteWordIds.size.toLocaleString()} 個收藏</small>
+              </span>
             </button>
           </div>
 
@@ -892,7 +881,11 @@ function App() {
             onClick={() => setView("settings")}
             type="button"
           >
-            設定
+            <span>
+              <strong>設定</strong>
+              <small>聲音、音樂與畫面主題</small>
+            </span>
+            <em aria-hidden="true">›</em>
           </button>
         </section>
       )}
@@ -1421,15 +1414,21 @@ function App() {
 
             <section className="settings-card">
               <h3>主題</h3>
-              <div className="choice-grid">
+              <p className="settings-section-copy">選一種適合專注的學習氛圍</p>
+              <div className="choice-grid theme-choice-grid">
                 {themes.map((themeOption) => (
                   <button
-                    className={theme === themeOption.id ? "active" : ""}
+                    aria-pressed={theme === themeOption.id}
+                    className={`theme-option ${
+                      theme === themeOption.id ? "active" : ""
+                    }`}
+                    data-theme-id={themeOption.id}
                     key={themeOption.id}
                     onClick={() => setTheme(themeOption.id)}
                     type="button"
                   >
-                    {themeOption.name}
+                    <span className="theme-option-swatch" aria-hidden="true" />
+                    <span>{themeOption.name}</span>
                   </button>
                 ))}
               </div>
